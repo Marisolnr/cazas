@@ -36,6 +36,11 @@ los nichos que emergen.
 | Nodo | Padre | Mercados | Estado | Cobertura | Próxima acción |
 |---|---|---|---|---|---|
 | neurokids | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| hogar/planner-limpieza | hogar | EN | superficial | 1 kw EN (printable planner) + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Honey Home 15/25 US); perforar por formato (sistema / por habitación / rutinas) |
+| educacion-profesional/contabilidad-workbooks | educacion-profesional | EN | superficial | 1 kw GB (£27 pdf) + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Practical Accounting Kit 21/31 GB); perforar por avatar (estudiante / pyme / liquidación de sueldos) |
+| ciberseguridad/plantillas-nist | ciberseguridad | EN | virgen | — | apareció por huella el 2026-11-09 (Dragon Fire Method 30/≥50 GB); mirar si es marca personal |
+| examenes-ilustrados | educacion-profesional | EN | virgen | — | apareció por huella el 2026-11-09 (Visual Guide Lab, In pictures books, Illustrated Manuals: volumen sin cohorte); re-medir desde 2026-11-16 |
+| planners-imprimibles-2027 | hogar | EN | virgen | — | apareció por huella el 2026-11-09 (Bindwell, Guías Vitales); estacional, ventana hasta enero |
 
 ---
 
@@ -61,6 +66,9 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | landing de operador 🇧🇷 | geo-redirige por idioma | el precio del mercado cazado se mira desde el checkout |
 | página que devuelve **0 con `ALL`** | no está pausada: ya no existe | anotarla como desaparecida |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
+| barrido por keyword en EN (`printable`, `instant download`) | la API los ordena del más nuevo: casi todo tiene < 2 d y la cohorte no se ve | usar la huella para leer nombres de página y contar cada una con `page_ids` + `countries` |
+| `protocol` / `blueprint` (EN) | suplementos, advertoriales con persona, granjas de juegos y dramas | entregable + tema |
+| `printable` solo (GB) | quiz-funnels de dieta (Eat Smart, High.diet) | `printable planner`, `printable pages` |
 
 ## Operadores a seguir (modo C)
 
@@ -69,6 +77,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
+| Visual Guide Lab | 1467890346400480 | US | libros ilustrados para exámenes, mucho volumen sin cohorte (2026-11-09); mismo molde que In pictures books 1354208894450767, Illustrated Manuals 1459350803924436 y Avenlo 1434008009790850 (en español) |
+| Honey Home | 1334135786448993 | US · GB | tarjeta del 2026-11-09: ver si la cohorte sigue creciendo |
 | | | | |
 
 ## Rotación vigente
@@ -92,5 +102,5 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-09 | EN | A huella | — (huella, US GB) | — | en curso | — |
+| 2026-11-09 | EN | A huella | — (huella, US GB) | 13 huellas × US/GB + 2 controles AR/ES (24 keywords) | 2 tarjetas (Honey Home, Practical Accounting Kit), 4 señales | 5 nodos nuevos |
 | | | | | | | |
