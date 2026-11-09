@@ -70,7 +70,15 @@ los nichos que emergen.
 | psicologia/materiais-psicanalise | psicologia | BR | virgen | — | apareció por huella el 2026-11-09 (Estante da Psicologia 11/19) |
 | mapas-visuais-r10 | educacao | BR | virgen | — | apareció por huella el 2026-11-09: red «Clube dos X» a R$10 (Mapas 8/25, Cálculo, Devops), Leg Educação, Universo Laboratorial, Bovino Ilustrado 6/16 |
 | salud-mental/sistemas-de-sesiones | salud-mental | ES | superficial | 1 operador contado (Sector Digital 25/≥50) + 8 huellas ES · 2026-11-09 | apareció por huella el 2026-11-09 (`kit digital`); perforar por profesión (psicología deportiva / adicciones / nutrición / entrenadores) |
-| manualidades/patrones-pdf | manualidades | ES | virgen | — | apareció por huella el 2026-11-09 (emprender con manualidades 5/≥50, Digital Shop, Club creativo, EducaTlon): re-medir desde 2026-11-16 |
+| manualidades/patrones-pdf | manualidades | ES | profundo | 8 subnichos × 4-5 kw (37) + ALL en 2 + ~30 páginas contadas · 2026-11-09 | perforado el 2026-11-09 (tarde): 2 tarjetas (Crea y Emprende, Cursos Online); modo C sobre los hijos |
+| manualidades/patrones-pdf/crochet-amigurumi | manualidades/patrones-pdf | ES | superficial | 6 kw · 2026-11-09 | Crea y Emprende 19/30 (AR 17/20), tarjeta; la ola navideña de amigurumi tiene < 7 d: re-medir 2026-11-16 |
+| manualidades/patrones-pdf/tejido-dos-agujas | manualidades/patrones-pdf | ES | superficial | 4 kw + ALL tricot · 2026-11-09 | La Biblioteca Definitiva De Tejido 23/23 pero sin ads nuevos en ~49 d (posible zombi) |
+| manualidades/patrones-pdf/bordado | manualidades/patrones-pdf | ES | superficial | 4 kw + ALL bordado mexicano · 2026-11-09 | todo < 7 d; bordado mexicano = cementerio |
+| manualidades/patrones-pdf/costura-moldes | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Educa Online 9/43 ($4), Emprendedores 6/6; re-medir 2026-11-16 |
+| manualidades/patrones-pdf/macrame-bisuteria | manualidades/patrones-pdf | ES | superficial | 4 kw · 2026-11-09 | solo emprender con manualidades (≥6/≥50, piso); bisutería = cursos presenciales |
+| manualidades/patrones-pdf/goma-eva-fieltro | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Recursos creativos 8/≥50 (piso); Hecho por vos 0/48 de esta semana |
+| manualidades/patrones-pdf/navideno-pesebre | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | ola de lanzamientos (Digital Shop, Santos En Punto, Puntada Maestra 4/23 ES); re-medir 2026-11-16 |
+| manualidades/patrones-pdf/papercraft-fiesta | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Cursos Online 11/24 MX, tarjeta; Activa Academy kit de fiesta 4 en cohorte |
 | oficios-digitales/guias-cricut | oficios-digitales | ES | virgen | — | apareció por huella el 2026-11-09 (Biblioteca Creativa 8/26, ad de 31 d); re-medir el 2026-11-16 |
 
 ---
@@ -107,6 +115,9 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `passo a passo pdf` (BR) | 375 mil resultados de ruido (clínicas, solar, B2B) | `atividades imprimir`, `planner digital` |
 | `acesso vitalício` (BR) | eventos en vivo y marcas personales | `mapas mentais`, `kit digital` |
 | `te lo envío` / `paso a paso PDF` (ES) | físicos con pago contra entrega, cremas, clínicas (220-470 mil resultados) | `plantillas editables`, `kit digital`, `descarga inmediata` |
+| `diseños bordado` / `kit imprimible` / `plantillas cajas` / `bisutería PDF` (ES) | ropa bordada y DTF / kits de lectoescritura / plantillas de cerámica y Canva / cursos presenciales de resina | `patrones bordado`, `papercraft plantillas`, `toppers imprimibles`, `macramé patrones` |
+| `agujas` (ES, tejido) | estética facial («sin agujas») | `patrones palillos`, `patrones ganchillo` |
+| `patrones crochet` / `patrones navideños` (ES) | una página de WA (Sofía Ramírez, ~180 ads) se come el top 50 | `amigurumis venden`, `belén ganchillo`, pares de tema |
 | página con un solo título ×50 y 100-300 estimados (ES: Talleres Listos, Atril Estudio) | el tope de 50 devuelve solo los nuevos: cohorte 0 que no es real | anotar como «cohorte oculta» y re-medir; nunca dar por muerta |
 | `prayer planner` / `teacher planner` (EN) | short-dramas («2000 readers are reading now») | `christian planner`, `lesson planner pdf`, `digital planner goodnotes` |
 | `planos de aula prontos` / `projeto datas comemorativas` (BR) | ruido de ShortMax y genérico | `plano de aula BNCC`, `sequência didática pdf` |
@@ -135,6 +146,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Digital Academy | 858372700683858 | MX · AR · BO | multipack con WA, 15/41 y ads de 88 d; ver qué SKU se queda con la cohorte |
 | Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; cohorte oculta detrás del tope |
 | Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26; re-medir 2026-11-16 |
+| Crea y Emprende | 1056023200924288 | AR · ES | tarjeta ES del 2026-11-09 tarde (Navidad Tejida / Florería Tejida, AR 17/20); ver qué tema sigue después de Navidad |
+| Cursos Online | 512123288644096 | MX | tarjeta ES del 2026-11-09 tarde (papercraft / pueblito navideño, 11/24); ver si «120 casitas» entra en cohorte |
+| La Biblioteca Definitiva De Tejido | 1151253608079340 | hispano | 23/23 sin ads nuevos en ~49 d: ¿zombi o escala vieja? |
 | This & That Planners | 1007996855726476 | US · GB | tarjeta EN del 2026-11-09 (tarde): planner digital perpetuo 10/50; ver si la tanda de 22 del 09-11 sobrevive |
 | Planner Lovers | 128972030308501 | US · GB · AR · ES · MX | tarjeta EN del 2026-11-09 (tarde): planner digital 2027 28/28 US; operador hispano, le toca seguirlo también a ES |
 | The EaseUp Planners | 1194131877121706 | US | 140 est. con cohorte oculta (relanzó todo el 06/07-11); re-medir 2026-11-16 |
@@ -161,7 +175,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-09 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf | en curso | en curso | en curso |
+| 2026-11-09 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf | 8 subnichos, 37 kw nativas + ALL en 2 ceros flojos, ~30 páginas contadas | 2 tarjetas (Crea y Emprende, Cursos Online), 6 señales | profundo, con 8 hijos superficial |
 | 2026-11-09 18:37 | EN | B perforar (tarde) | planners-imprimibles-2027 | 5 subnichos × 7 kw US/GB + 1 control AR/ES; 15 páginas contadas | 2 tarjetas (This & That Planners, Planner Lovers), 4 señales | profundo, con 5 hijos superficiales |
 | 2026-11-09 18:35 | BR | B perforar (tarde) | educacao/atividades-prontas-professores | 6 subnichos × 5 kw BR + 2 controles AR/ES/MX; ~35 páginas contadas | 1 tarjeta (Prof. Mariana Oliveira), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-09 06:40 | ES | C operadores (no hay operadores ES ni agenda → testers hispanos anotados por EN + complemento A huella ES) | — (operadores + huella, hispano) | 3 operadores EN-hispanos + 3 kw de control + 8 huellas ES + 31 páginas contadas | 1 tarjeta (Sector Digital), 7 señales | 3 nodos nuevos; 4 operadores ES a seguir |

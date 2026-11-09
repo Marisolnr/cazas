@@ -142,6 +142,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Navidad Tejida · +100 patrones» (+ «Florería Tejida · 50 patrones») — Crea y Emprende AR·ES · `manualidades/patrones-pdf/crochet-amigurumi` · 2026-11-09 (tarde) · sesión ES
+- **Qué es:** biblioteca digital de patrones de crochet por tema: más de 100 adornos y regalos navideños, y una segunda oferta de 50 flores tejidas. No se ve el precio en los ads (cobra en USD).
+- **Por qué es ganador:** cohorte 7+/activos **17/20 en AR** (19/30 en todo el hispano y 5/13 en ES) · Navidad Tejida pone sola 14 de la cohorte · tandas de 7 a 20,5 días · 14 fechas de creación, del 20-10 al 06-11 (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el molde, no la misma oferta, porque ya corre en AR y en ES. La idea es una «biblioteca temática de patrones tejidos» por ocasión (Navidad ahora, después Día de la Madre, bebé, flores) · destino sugerido **ES**, donde su cohorte es chica · ángulo: «tejé tus regalos de Navidad». Es estacional: la ventana se cierra a fines de diciembre.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1056023200924288&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1056023200924288&search_type=page&media_type=all) · creativo más viejo de Navidad: [ad](https://www.facebook.com/ads/library/?id=1397980735440944)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y confirmar que es PDF).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Mega Pack Papercraft / «Crea tu Pueblito Navideño» — Cursos Online MX · `manualidades/patrones-pdf/papercraft-fiesta` · 2026-11-09 (tarde) · sesión ES
+- **Qué es:** plantillas para imprimir y armar casitas y miniaturas de papel: un pueblito navideño y, desde esta semana, «120 patrones de casitas navideñas». Cobra en MXN y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **11/24** (20 activos en MX) · 4 ads de papercraft de hasta 17,3 días y 5 de pueblito que recién pasaron los 7 días · 6 fechas de creación, la última del 07-11 · un solo operador.
+- **Qué hacer:** modelar tal cual en PDF («armá tu pueblito navideño de papel») · destino sugerido **AR**, después ES: no corre en ninguno de los dos. ⚠️ Es justo en la vara: la mitad de la cohorte tiene 7 días, la página se llama «Cursos Online» y vende varios productos (también mostacillas 3D).
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=512123288644096&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1823877388628931)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Hay 2 ads «Chatea con nosotros» (WA) y falta confirmar que sea PDF y no curso.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales ES, corrida de la tarde (2026-11-09)**
+- La Biblioteca Definitiva De Tejido (1151253608079340): «+5200 patrones», 23/23 en cohorte con ads de hasta 57 días, pero no crea un ad nuevo hace ~49 días. Es un posible zombi: abrir el snapshot.
+- Ola navideña de esta semana en patrones y moldes: Digital Shop (belén, 0/17), Hecho por vos (150 moldes de Papá Noel, 0/48), Premium Master Academy (1.500 moldes, 0/19), Santos En Punto, Forgium. Todo tiene menos de 7 días: re-medir el 16-11.
+- Educa Online (880717081793459): mega pack de moldes de ropa y bebé a **$4**, 9/43. Le falta uno para la vara.
+- Recursos creativos (708050409060790): moldes de foami, 8/≥50 (piso). Puede tener más cohorte detrás del tope.
+- Puntada Maestra (1314855495043139): belén de 30 figuras a crochet en PDF, en España (EUR), 4/23 con 9 tandas.
+- Sofía Ramírez (1386276927902506): patrones de crochet por WhatsApp, unos 180 ads. Los 50 que se ven son de hoy, así que la cohorte queda oculta.
+
 ### 🎯 Sistema de sesiones listo para usar para psicólogos deportivos — Sector Digital AR·ES·MX · `salud-mental/sistemas-de-sesiones` · 2026-11-09 · sesión ES
 - **Qué es:** kit digital con «7 módulos y recursos prácticos de psicología deportiva» para planificar las sesiones de toda la temporada (en español y en inglés). Desde el 08-11 suma una segunda línea: «Sistema completo para adicciones en 8 etapas». No se ve el precio ni si es PDF o mini-curso grabado.
 - **Por qué es ganador:** cohorte 7+/activos **25/≥50** (piso, 62 estimados) · el ad que vende más viejo tiene 28,6 días · 12 fechas de creación, la última del 08-11 (operador vivo) · página fantasma · un solo operador.
