@@ -26,6 +26,15 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study guide pdf, printable pages, digital planner, canva templates, checklist pdf, mini course, ebook download, $37 guide, $9 pdf, £9.99 pdf, £19 guide, template bundle, exercises answers (US y GB).
+
+**Señales del día EN (mañana, 2026-11-09)**
+- Linda Harrison (778821148649074): «Wife stopped wanting you?» / «Miss the man you married?», 44/≥50 en cohorte en US con ads de hasta 104 días y tandas nuevas hoy; cobra en EUR. No va como tarjeta porque la página tiene nombre de persona y no se ve si vende guía o coaching: verificar en la PC, es lo más fuerte del día.
+- Tonic Site Shop (302255036552164): plantillas web para Showit, 29/35 en US con ads de hasta 237 días, pero cuestan USD 1.495: no es bajo ticket.
+- Fallback Book (GB, 1388539597681148): plan de emergencia «para tu dirección», 12/18 en cohorte; puede ser personalizado o libro impreso.
+- Hearth & Order (1471930582665074): clon nuevo del planner de limpieza de Honey Home (139 y 36 páginas), ads de hoy: la ventana del nicho se está llenando.
+- Teoría musical y costura en PDF (Acordes en Claro, Music Solved, Sewing Lovers, All Knittings): cientos de ads activos pero la API solo muestra los 50 de hoy; volver a mirar desde el 16-11.
+
 ### 🎯 Megapaquete de plantillas NIST / ciberseguridad — Dragon Fire Method GB·US · `ciberseguridad/plantillas-nist` · 2026-11-09 (2ª corrida) · sesión EN
 - **Qué es:** paquetes digitales de plantillas de seguridad de la información («125 NIST templates + 500 more», toolkit de evaluación de riesgos NIST 800-30, 30 plantillas de respuesta a incidentes); cobra en EUR y el precio no se ve en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **30/≥50 en GB** (piso) y ≥9/≥50 en US con los 50 más nuevos · tandas de 8 a 60 días · 16 fechas de creación y una tanda nueva de ayer · un solo operador que domina NIST/ISO/IR en las dos plazas.
