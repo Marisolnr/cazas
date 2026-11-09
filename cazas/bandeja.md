@@ -100,6 +100,22 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 - Red de mapas visuales a R$10 («Clube dos Mapas» 8/25, Clube do Cálculo, Club do Devops, Leg Educação): mismo molde en varias páginas, ninguna llega a 10.
 - Atividades infantil (265589206630616): 170 activos, pero los 50 más nuevos son de ≤ 3 días y la cohorte no se ve; re-medir.
 
+### 🎯 «Atividades Investigativas» para Fundamental 1 y 2 — Prof. Mariana Oliveira BR · `educacao/atividades-prontas-professores` · 2026-11-09 (tarde) · sesión BR
+- **Qué es:** pack digital de actividades listas para docentes («Atividades Investigativas Fundamental 1 e 2»), vendido con prueba social «⭐⭐⭐⭐⭐ (4,9)» en casi todos los títulos; precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **19/48 en BR** (vistos todos) · tandas a 8·10·14·18·27·29 días · ~13 fechas de creación, tanda nueva hoy · un solo operador, que paga en USD.
+- **Qué hacer:** modelar el molde en español («actividades investigativas listas para primaria y secundaria») · destino sugerido **AR**, después ES · ángulo: «tu clase de ciencias lista en 5 minutos». Ojo: operadores brasileños ya corren lo mismo en español (Laura Martínez con «⭐4,5», Actividades de Ciencias Naturales con «+1.250 actividades»): el hueco está parcialmente tomado.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1080842931788422&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1661224902264569)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y el contenido). ⚠️ La página tiene nombre de persona y el 03-11 pasó de «Dra.» a «Prof.»: parece una fachada, pero hay que confirmar que no venda una cara.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, sin cuerpo ni URL en la respuesta).
+
+**Señales BR, 2ª corrida (2026-11-09)**
+- Criativizando e Educando (430307330169512): 14/32 en cohorte con un ad de 84 días y 8 fechas de creación, pero cierra por WhatsApp sin oferta visible en los títulos; ver en la PC qué vende.
+- Prof. Luana Rodrigues (812621601932503): apostilas de alfabetización y producción de texto, 38/50 en cohorte, pero tiene nombre de persona y el combo cuesta R$197.
+- Prof Jaque Mendes + Loja das Profs (105209655117919 / 1002633749601439): mismo operador, ≥13 + 7 en cohorte y 187 activos estimados; la cohorte real queda detrás del tope de 50.
+- Prof Juliana (836987269503104): 50/54, pero todos los ads son del mismo día (19-10) y cierra por WhatsApp; no pasa el filtro de fechas distintas.
+- Pequenos Leitores (1196621566868514): cayó de 12/35 a 8/17 en el día; la reactivación se está apagando.
+
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
 ### 🎯 Sistema de sesiones listo para usar para psicólogos deportivos — Sector Digital AR·ES·MX · `salud-mental/sistemas-de-sesiones` · 2026-11-09 · sesión ES
