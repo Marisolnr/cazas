@@ -26,6 +26,20 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Megapaquete de plantillas NIST / ciberseguridad — Dragon Fire Method GB·US · `ciberseguridad/plantillas-nist` · 2026-11-09 (2ª corrida) · sesión EN
+- **Qué es:** paquetes digitales de plantillas de seguridad de la información («125 NIST templates + 500 more», toolkit de evaluación de riesgos NIST 800-30, 30 plantillas de respuesta a incidentes); cobra en EUR y el precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **30/≥50 en GB** (piso) y ≥9/≥50 en US con los 50 más nuevos · tandas de 8 a 60 días · 16 fechas de creación y una tanda nueva de ayer · un solo operador que domina NIST/ISO/IR en las dos plazas.
+- **Qué hacer:** modelar tal cual en español (ENS + ISO 27001 + NIST CSF para pymes y consultores) · destino sugerido **ES**, después AR · ángulo: «500 plantillas listas para tu auditoría». En AR/ES el único par es Quality4U (planilla de ciberseguridad en Excel).
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=163589696835008&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=163589696835008&search_type=page&media_type=all) · creativo: [ad](https://www.facebook.com/ads/library/?id=1150905517887550)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. ⚠️ Dos ads dicen «Buy direct from me»: hay que confirmar que los creativos no dependen de una cara (marca personal).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales EN, 2ª corrida (2026-11-09)**
+- Your Consulting Management Guide (1097413493462052): 47/50 en US y 43/46 en GB, con ads de hasta 141 días y «Instant PDF Download» en el título, pero no dice qué vende; verificar en la PC.
+- ISO 27001: dos vendedores de kits (ISO 27001 PRO LLC y Stratovik, «$99») solo tienen ads inactivos; es un cementerio.
+- LawMother (101019127920427): kit de planificación sucesoria al 60 % OFF, 25/45 en US; puede ser un estudio de abogados.
+
 ### 🎯 Cleaning Planner System (printable) — Honey Home US·GB · `hogar/planner-limpieza` · 2026-11-09 · sesión EN
 - **Qué es:** planner de limpieza imprimible, «sistema» de 139 páginas + versión «room by room» de 36 páginas; precio no visible en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **15/25 en US** y **13/23 en GB** · tandas a 11-12 d y 32-33 d · 4 fechas de creación, la última del 08-11 (operador vivo) · página fantasma · un solo operador.

@@ -4,3 +4,4 @@
 ## [2026-11-08] caza-auto | EN — sin conector de Meta, no corrió
 ## [2026-11-08] caza-auto | EN — sin conector de Meta, no corrió (corrida de prueba manual)
 ## [2026-11-09] caza-auto | EN A huella anglo → 2 candidatos a bandeja
+## [2026-11-09] caza-auto | EN B ciberseguridad/plantillas-nist (2ª corrida, prueba manual) → 1 candidatos a bandeja
