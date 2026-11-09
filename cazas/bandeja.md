@@ -102,6 +102,24 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Sistema de sesiones listo para usar para psicólogos deportivos — Sector Digital AR·ES·MX · `salud-mental/sistemas-de-sesiones` · 2026-11-09 · sesión ES
+- **Qué es:** kit digital con «7 módulos y recursos prácticos de psicología deportiva» para planificar las sesiones de toda la temporada (en español y en inglés). Desde el 08-11 suma una segunda línea: «Sistema completo para adicciones en 8 etapas». No se ve el precio ni si es PDF o mini-curso grabado.
+- **Por qué es ganador:** cohorte 7+/activos **25/≥50** (piso, 62 estimados) · el ad que vende más viejo tiene 28,6 días · 12 fechas de creación, la última del 08-11 (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el molde, no copiar la especialidad: el mismo «sistema de sesiones» para otra profesión (nutricionistas, entrenadores, coaches de salud) · destino sugerido **ES**, después AR · ángulo: «Dejá de armar cada sesión desde cero». Ojo: ya corre en AR (58) y en ES (55), así que para psicología deportiva no hay hueco.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1122535934265327&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1122535934265327&search_type=page&media_type=all) · creativo: [ad](https://www.facebook.com/ads/library/?id=1424759336524519)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta confirmar que no sea un curso en vivo y que no haya una cara que venda.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-09)**
+- Digital Academy (858372700683858): 15/41 en cohorte, con un ad de 88 días, pero es una tienda de muchos packs (AutoCAD, sublimación, mecánica, Montessori) que cierra por WhatsApp; ninguna oferta sola llega a 10.
+- Biblioteca Creativa (1244762302063129): «+100 guías visuales de Cricut» y fichas de Silhouette, 8/26 con un ad de 31 días; volver a mirar el 16-11.
+- emprender con manualidades (116221641477307): patrones navideños en PDF y biblioteca de macramé, 5/≥50 vistos de 79; puede haber más cohorte detrás del tope.
+- Talleres Listos (1423115024221032): «+150 dinámicas grupales listas», 304 ads estimados con un solo título; los 50 que se ven son nuevos y la cohorte puede estar oculta.
+- Planner de limpieza en hispano: Casa en Orden 5 activos (hasta 34 días) y Casa en Calma 2 de hoy; nadie con volumen, el hueco para el molde de Honey Home sigue abierto.
+- Contabilidad hispana: muchos testers (Ediciones Vertice, Aprende Ya, Aldinio Digital, Ebookify, Contabilidad Argentina Paso a Paso) y ninguno con cohorte.
+- Avenlo (1434008009790850): libro ilustrado en PDF + 2 de regalo, 20 activos y ninguno de 7 días; el molde de libros ilustrados de EN ya corre en español.
+
 ---
 
 ## Revisiones

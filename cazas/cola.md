@@ -58,6 +58,9 @@ los nichos que emergen.
 | concursos/material-estudo | concursos | BR | virgen | — | apareció por huella el 2026-11-09 (Lacuna Concursos ≥15/≥50, Bússola da Aprovação 8/18); ver si es pago o lead magnet |
 | psicologia/materiais-psicanalise | psicologia | BR | virgen | — | apareció por huella el 2026-11-09 (Estante da Psicologia 11/19) |
 | mapas-visuais-r10 | educacao | BR | virgen | — | apareció por huella el 2026-11-09: red «Clube dos X» a R$10 (Mapas 8/25, Cálculo, Devops), Leg Educação, Universo Laboratorial, Bovino Ilustrado 6/16 |
+| salud-mental/sistemas-de-sesiones | salud-mental | ES | superficial | 1 operador contado (Sector Digital 25/≥50) + 8 huellas ES · 2026-11-09 | apareció por huella el 2026-11-09 (`kit digital`); perforar por profesión (psicología deportiva / adicciones / nutrición / entrenadores) |
+| manualidades/patrones-pdf | manualidades | ES | virgen | — | apareció por huella el 2026-11-09 (emprender con manualidades 5/≥50, Digital Shop, Club creativo, EducaTlon): re-medir desde 2026-11-16 |
+| oficios-digitales/guias-cricut | oficios-digitales | ES | virgen | — | apareció por huella el 2026-11-09 (Biblioteca Creativa 8/26, ad de 31 d); re-medir el 2026-11-16 |
 
 ---
 
@@ -92,6 +95,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `guia completo` (BR) | short-dramas y novelas en USD | `guia prático pdf`, entregable + tema |
 | `passo a passo pdf` (BR) | 375 mil resultados de ruido (clínicas, solar, B2B) | `atividades imprimir`, `planner digital` |
 | `acesso vitalício` (BR) | eventos en vivo y marcas personales | `mapas mentais`, `kit digital` |
+| `te lo envío` / `paso a paso PDF` (ES) | físicos con pago contra entrega, cremas, clínicas (220-470 mil resultados) | `plantillas editables`, `kit digital`, `descarga inmediata` |
+| página con un solo título ×50 y 100-300 estimados (ES: Talleres Listos, Atril Estudio) | el tope de 50 devuelve solo los nuevos: cohorte 0 que no es real | anotar como «cohorte oculta» y re-medir; nunca dar por muerta |
 
 ## Operadores a seguir (modo C)
 
@@ -108,6 +113,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Creartool | 325627053956826 | BR | tarjeta del 2026-11-09 (manual de estructuras narrativas, 23/48); testea versión «30 estruturas» |
 | Daily Routine Club | 671948206009244 | BR | tarjeta del 2026-11-09 (planner de rutina/estudios, 14/22) |
 | Pequenos Leitores | 1196621566868514 | BR | 12/35 el 2026-11-09 con hueco de 2 meses; ver si la tanda del 09-11 sobrevive |
+| Sector Digital | 1122535934265327 | AR · ES · MX | tarjeta ES del 2026-11-09 (sistema de sesiones para psicólogos deportivos, 25/≥50); abrió línea «adicciones» el 08-11 |
+| Digital Academy | 858372700683858 | MX · AR · BO | multipack con WA, 15/41 y ads de 88 d; ver qué SKU se queda con la cohorte |
+| Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; cohorte oculta detrás del tope |
+| Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26; re-medir 2026-11-16 |
 | | | | |
 
 ## Rotación vigente
@@ -131,7 +140,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-09 06:40 | ES | C operadores (no hay operadores ES ni agenda → se siguen los testers hispanos anotados por EN + complemento A huella ES) | — (operadores + huella, hispano) | en curso | en curso | en curso |
+| 2026-11-09 06:40 | ES | C operadores (no hay operadores ES ni agenda → testers hispanos anotados por EN + complemento A huella ES) | — (operadores + huella, hispano) | 3 operadores EN-hispanos + 3 kw de control + 8 huellas ES + 31 páginas contadas | 1 tarjeta (Sector Digital), 7 señales | 3 nodos nuevos; 4 operadores ES a seguir |
 | 2026-11-09 | BR | A huella (lunes toca B, pero no hay nodo BR en la cola → A) | — (huella, BR) | 16 huellas BR + 2 controles en español; ~45 páginas contadas con `page_ids` | 2 tarjetas (Creartool, Daily Routine Club), 5 señales | 6 nodos nuevos BR |
 | 2026-11-09 06:30 | EN | A huella (corrida programada de la mañana) | — (huella, US GB, huellas distintas de las de 00:05) | 13 huellas US + 13 GB (26), ~50 páginas contadas | 0 tarjetas, 5 señales (Linda Harrison 44/≥50 con gate abierto) | 5 nodos nuevos virgen |
 | 2026-11-09 | EN | B perforar (2ª corrida, prueba manual) | ciberseguridad/plantillas-nist | 6 subnichos × 4 kw × US/GB (ALL en los ceros) + 2 controles AR/ES | 1 tarjeta (Dragon Fire Method), 3 señales | profundo, con 6 hijos |
