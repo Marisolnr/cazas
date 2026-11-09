@@ -66,6 +66,31 @@ histórico.
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Manual «Estruturas Narrativas para fugir da Jornada do Herói» — Creartool BR · `escrita-criativa/estruturas-narrativas` · 2026-11-09 · sesión BR
+- **Qué es:** manual digital para escritores y guionistas con 10 estructuras narrativas alternativas a la Jornada del Héroe (desde hoy prueba una versión de 30); precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **23/48 en BR** (vistos todos) · tandas a 21-24·49·56-63·105-124·160 días · 13 fechas de creación, tanda nueva hoy · página fantasma (marca «Creartool») · un solo operador.
+- **Qué hacer:** modelar tal cual en español («10 estructuras para escapar del Viaje del Héroe») · destino sugerido **ES**, después AR · ángulo: anti-cliché para el que escribe. En español solo hay cursos de guion y una app (Narralab), ningún manual.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=325627053956826&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2207165410123850)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+### 🎯 Planner de rutina y estudios — Daily Routine Club BR · `produtividade/planner-rotina-estudos` · 2026-11-09 · sesión BR
+- **Qué es:** planner digital de rutina y de estudios («Sua rotina tá uma bagunça?», «Chega de bagunça nos estudos»); precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **14/22 en BR** (vistos todos) · tandas a 23·33-34·46 días · 6 fechas de creación, la última hoy · página fantasma · un solo operador · el mismo título 11 veces en la cohorte.
+- **Qué hacer:** modelar tal cual en español («tu rutina es un caos?») · destino sugerido **AR**, después ES · ángulo: orden para estudiar, para estudiante y opositor. En AR/ES no hay ningún planner de estudios con ads (control `planner estudios`).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=671948206009244&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1033189223026405)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y el formato exacto).
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-09)**
+- Pequenos Leitores (ex Leitura Descomplicada, 1196621566868514): actividades de gramática y lectura crítica listas para docentes, 12/35 con ads de hasta 94 días, pero con un hueco de 2 meses sin ads nuevos: parece reactivación.
+- Lacuna Concursos (1173569735845788): material para concursos «Baixe Agora», ≥15/≥50; no se ve si es pago o lead magnet.
+- Estante da Psicologia (1032687959933493): «+150 materiais de psicanálise», 11/19 con ads de hasta 33 días; sin re-verificar.
+- Red de mapas visuales a R$10 («Clube dos Mapas» 8/25, Clube do Cálculo, Club do Devops, Leg Educação): mismo molde en varias páginas, ninguna llega a 10.
+- Atividades infantil (265589206630616): 170 activos, pero los 50 más nuevos son de ≤ 3 días y la cohorte no se ve; re-medir.
+
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
 ---
