@@ -26,6 +26,30 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planner digital perpetuo «una descarga, todos los años» — This & That Planners US · `planners-imprimibles-2027/digital-tablet` · 2026-11-09 (tarde) · sesión EN
+- **Qué es:** planner digital que se abre en una app de notas gratis en tablet, teléfono o PC («One Download. Every Year», «Pay Once. 2027 Already Inside», «Works On Android Too»); precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **10/50 en US** (piso, 66 estimados) · ad más viejo de 11 días en US y de 38 días en GB · 3 fechas de creación, tanda de 22 ads nuevos hoy (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el ángulo «el último planner que vas a comprar» (perpetuo, no vence en diciembre, sirve sin iPad) · destino sugerido **ES**, después AR · hook: «10 planners de papel o 1 digital». En AR/ES ya venden planners digitales (Planner Lovers, NorthPlanner, Papelia), pero ninguno con el ángulo perpetuo.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1007996855726476&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1007996855726476&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1092920840246723)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y confirmar que es descarga y no suscripción).
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Planner Digital 2027 con 45 portadas + 4 regalos — Planner Lovers US·GB (+AR·ES·MX) · `planners-imprimibles-2027/digital-tablet` · 2026-11-09 (tarde) · sesión EN
+- **Qué es:** planner digital 2027 para tablet, «45 portadas, un solo planner», «cada área de tu vida, una pestaña», con 4 regalos; cobra en USD; precio no visible.
+- **Por qué es ganador:** cohorte 7+/activos **28/28 en US** (vistos todos) y 9/9 en GB · «Plan Your Whole Year in One Tap» ×10 en la cohorte · 3 fechas de creación, la última de hace 8 días · página fantasma · un solo operador.
+- **Qué hacer:** ojo: es un operador **hispano** que ya corre en AR/ES/MX (20 activos, mismas fechas): no hay hueco, es el competidor a vencer y el molde. Si se entra, a **ES** con diferencial (perpetuo, por profesión o para estudiantes, «De la universidad a la vida personal»). Sirve más como operador a seguir por la sesión ES.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=128972030308501&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=128972030308501&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=128972030308501&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1851011136055769)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales EN, tarde (2026-11-09)**
+- The EaseUp Planners (1194131877121706): planner digital, 140 ads estimados en US, pero relanzó todo el 06/07-11 y los 50 visibles tienen menos de 7 días; re-medir desde el 16-11.
+- My Digital Prayers (1256866034188045): planner de oración digital, 8/8 en US con ads de 24 días, pero todos creados el mismo día (posible zombi).
+- Commit30 (497100157108794): 10/14 en US con un ad de 484 días, pero vende planners de metas físicos.
+- Presupuesto y Navidad en PDF (Winter Wren $3.99, Litepaper Publisher, Simplify Her Life, Family Fun Printables $12.95): muchos testers y ninguno llega a 7 días; mirar de nuevo antes del 30-11.
+
 EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study guide pdf, printable pages, digital planner, canva templates, checklist pdf, mini course, ebook download, $37 guide, $9 pdf, £9.99 pdf, £19 guide, template bundle, exercises answers (US y GB).
 
 **Señales del día EN (mañana, 2026-11-09)**

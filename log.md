@@ -9,3 +9,4 @@
 ## [2026-11-09] caza-auto | EN A huella (mañana) → 0 candidatos a bandeja
 ## [2026-11-09] caza-auto | ES C operadores hispano (+ A huella) → 1 candidatos a bandeja
 ## [2026-11-09] caza-auto | BR B educacao/atividades-prontas-professores (tarde) → 1 candidatos a bandeja
+## [2026-11-09] caza-auto | EN B planners-imprimibles-2027 (tarde) → 2 candidatos a bandeja
