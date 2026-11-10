@@ -196,6 +196,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | en curso | en curso | en curso |
 | 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | en curso | en curso | en curso |
 | 2026-11-10 18:36 | BR | B perforar (tarde) | concursos/material-estudo | en curso | en curso | en curso |
 | 2026-11-10 06:44 | ES | A huella (mañana) | — (huella, hispano) | 13 huellas ES + ~45 páginas contadas (por país en las de 50) | 2 tarjetas (Planner Hoy Solo 3, Biblioteca maestra arcilla), 6 señales | 4 nodos nuevos; 3 operadores a seguir |
