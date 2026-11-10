@@ -59,7 +59,14 @@ los nichos que emergen.
 | pareja/reconquista-matrimonio/ruptura-ex | pareja/reconquista-matrimonio | EN | superficial | 4 kw + ALL · 2026-11-10 | con ALL es spam; lo real es INR (Calm sphere 16/16 de agosto, posible zombi) |
 | pareja/reconquista-matrimonio/workbooks-conexion | pareja/reconquista-matrimonio | EN | superficial | 6 kw · 2026-11-10 | fábricas «90% off» que rotan cada semana (Printable WITH Lisa 0/31, Heal & Focus 0/46); Donna Whitfield 553 est. con cohorte oculta: re-medir 2026-11-17 |
 | musica/teoria-workbooks | musica | EN | virgen | 2 kw US/GB · 2026-11-09 | apareció por huella el 2026-11-09 (Acordes en Claro est. 586, Music Solved, Daniel Brooks): volumen sin cohorte visible por API; re-medir desde 2026-11-16 |
-| manualidades/patrones-costura-pdf | manualidades | EN | virgen | 1 kw US/GB · 2026-11-09 | apareció por huella el 2026-11-09 (Sewing Lovers 4/37 GB, All Knittings est. 649 GB) |
+| manualidades/patrones-costura-pdf | manualidades | EN | profundo | 25 kw US/GB (7 subnichos) + ~20 páginas contadas; sin control AR/ES · 2026-11-10 tarde | perforado el 2026-11-10 (tarde): 2 tarjetas (Knitting Art Studio, The Crochet Nook); modo C sobre los operadores |
+| manualidades/patrones-costura-pdf/mascotas | manualidades/patrones-costura-pdf | EN | superficial | 2 kw · 2026-11-10 | Knitting Art Studio 40/50 US (10 en la oferta de $27), tarjeta; Wag & Stitch 0/15 ($21, cruza 7 d el 11-11), PawPattern nuevo; `dog clothes pattern` = short-drama |
+| manualidades/patrones-costura-pdf/tejido-crochet | manualidades/patrones-costura-pdf | EN | superficial | 4 kw · 2026-11-10 | Crochet Nook 44/50 GB (tarjeta); Knitting Memories 23/27 (92 d, SKU sueltos); Sarah Mitchell 14/44 GB; Patterns Zone 12; All Knittings y Knitter's Treasure Chest con cohorte oculta: re-medir 2026-11-17 |
+| manualidades/patrones-costura-pdf/ropa-mujer | manualidades/patrones-costura-pdf | EN | superficial | 5 kw · 2026-11-10 | todo < 2 d por keyword; Stitch Well 409 est. (cohorte oculta, 21 ads de 7+ d por keyword) y su espejo Elsie Brooks; marcas (Style Arc, McClure, Love Notions) |
+| manualidades/patrones-costura-pdf/infantil-munecas | manualidades/patrones-costura-pdf | EN | superficial | 4 kw · 2026-11-10 | Stitch Well «doll wardrobe» 15/15 (69 d); Vive Digital 15/23 multinicho (costura 5); Emma Clarke / Online Skills = persona |
+| manualidades/patrones-costura-pdf/bolsos | manualidades/patrones-costura-pdf | EN | superficial | 3 kw · 2026-11-10 | Sewing Lovers 20/50 US ($9,99); Motif Studio sin cohorte; `tote bag pattern` = físicos |
+| manualidades/patrones-costura-pdf/fieltro-peluches | manualidades/patrones-costura-pdf | EN | superficial | 3 kw · 2026-11-10 | Mariana Williams (fieltro católico) todo < 7 d: re-medir 2026-11-17; Sweet Pea, SewBloom chicos |
+| manualidades/patrones-costura-pdf/quilting | manualidades/patrones-costura-pdf | EN | superficial | 2 kw · 2026-11-10 | Wildbloom Quilts 5/10 ($27/$47, RON); el resto, kits físicos |
 | religion/biblia-visual | religion | EN | virgen | 1 kw US/GB · 2026-11-09 | apareció por huella el 2026-11-09 (Revelation Unsealed 3D 8/30, 13 fechas, ads de hasta 34 d) |
 | hogar/preparacion-emergencias | hogar | EN | virgen | 1 kw GB · 2026-11-09 | apareció por huella el 2026-11-09 (Fallback Book GB 12/18, ¿personalizado o físico?; Lights Out) |
 | escrita-criativa/estruturas-narrativas | escrita-criativa | BR | superficial | 1 huella BR + 1 control ES/AR/MX/CO (ALL) · 2026-11-09 | apareció por huella el 2026-11-09 (Creartool 23/48 BR, tarjeta); perforar por avatar (novelista / guionista / fanfic) y formato (manual / plantillas de escaleta) |
@@ -140,6 +147,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `wife stopped` / `husband distant` / `get ex back` / `after affair` / `no contact` / `dead bedroom` / `save marriage guide` (EN) | short-drama («He cast aside the wife…») incluso con ALL | `couples workbook`, `marriage workbook pdf`, `rebuilding trust workbook`, `save marriage ebook` |
 | `date night printable` (EN) | regalos físicos (mantas, cajas) | `couples workbook`, `relationship workbook pdf` |
 | embudo WA con título vacío (BR, nube) | la API solo devuelve el título del link: sin oferta visible, el test del copy no se puede hacer desde la nube | señal + verificar en la PC |
+| `dog clothes pattern` / `learn to sew` / `sewing for beginners` / `tote bag pattern` / `quilting patterns` / `stuffed animal pattern` (EN) | short-dramas, gimnasios, dropshipping de bolsos, kits físicos de quilt, advertoriales | `dog sewing patterns`, `sewing pattern bundle`, `purse pattern pdf`, `quilt pattern pdf`, `crochet pattern pdf` + conteo por página |
 | `pago único` / `guía práctica` / `pack digital` (ES) | cosmética, marcas personales, novelas y short-dramas en inglés | `planner imprimible`, `fichas imprimibles`, `plantillas imprimibles` |
 | consulta de 9 países con `page_ids` en una página grande (ES) | devuelve los 50 más nuevos y esconde la cohorte (Talleres Listos 0/50 en el bloque, 20-24 por país) | página con 50 devueltos → contar siempre por país |
 | página-persona que cambia de nombre («Dra.» → «Prof.») | fachada, no marca de autoridad; igual hay que ver si hay cara en los creativos | juzgar por los creativos en la PC |
@@ -184,6 +192,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mapa Concursos | 113788658419021 | BR | tarjeta BR del 2026-11-10 tarde (+120 mapas mentais de enfermagem, 39/50); ver si «Receba Agora» es otro pack |
 | 123passei | 109322741722198 | BR | tarjeta BR del 2026-11-10 tarde («Protocolo» por concurso R$27,90, 18/34, 162 d) |
 | Trilha do Estudo | 641390105728644 | BR | ≥40/50 el 2026-11-10; apostila + app de preguntas: ¿PDF o suscripción? |
+| Knitting Art Studio | 852298534641160 | US | tarjeta EN del 2026-11-10 (tarde): 100+ patrones de costura para mascotas a $27 + lead magnet, 40/50 |
+| The Crochet Nook | 534358449768435 | GB · US | tarjeta EN del 2026-11-10 (tarde): megapacks de crochet, 44/50 GB; US 189 est. con cohorte oculta |
+| Sewing Lovers | 1341379315722832 | US · GB | patrones PDF de bolsos a $9,99, 20/50 US (2026-11-10) |
+| Stitch Well / Elsie Brooks | 684792994717005 · 269275822943681 | US · GB | 409 y 269 est. con cohorte oculta (mismos creativos); re-medir 2026-11-17 |
 | | | | |
 
 ## Rotación vigente
@@ -208,7 +220,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | en curso | en curso | en curso |
-| 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | en curso | en curso | en curso |
+| 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | 7 subnichos, 25 kw US/GB (sin ceros, sin control AR/ES); ~20 páginas contadas | 2 tarjetas (Knitting Art Studio, The Crochet Nook), 6 señales | profundo, con 7 hijos superficial |
 | 2026-11-10 18:36 | BR | B perforar (tarde) | concursos/material-estudo | 6 subnichos × 5 kw BR + 1 huella + 7 controles ES/AR; ~35 páginas contadas | 2 tarjetas (Mapa Concursos, 123passei), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-10 06:44 | ES | A huella (mañana) | — (huella, hispano) | 13 huellas ES + ~45 páginas contadas (por país en las de 50) | 2 tarjetas (Planner Hoy Solo 3, Biblioteca maestra arcilla), 6 señales | 4 nodos nuevos; 3 operadores a seguir |
 | 2026-11-10 06:42 | EN | B perforar (mañana) | pareja/reconquista-matrimonio | 5 subnichos, 22 kw US/GB + ALL en 9 + control AR/ES; 15 páginas contadas | 1 tarjeta (Heroic Husband + Linda Harrison), 5 señales | profundo, con 5 hijos superficial |

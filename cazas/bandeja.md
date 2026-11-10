@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Bundle de patrones de costura para mascotas «100+ Pet Sewing Patterns» — Knitting Art Studio US · `manualidades/patrones-costura-pdf` · 2026-11-10 (tarde) · sesión EN
+- **Qué es:** pack digital de más de 100 patrones de costura para mascotas (ropa, accesorios para perro: «Turn Your Fabric Into Something Your Pet Can Actually Use») a **USD 27**, con una guía de costura gratis como lead magnet («FREE Sewing Guide», «Sewing Made Simple — FREE», «1,000+ Sewing Projects — FREE»).
+- **Por qué es ganador:** cohorte 7+/activos **40/50 en US** (piso, 142 estimados), de los cuales **10 son de la oferta paga de $27** y unos 30 del lead magnet · 12 fechas de creación entre el 28-09 y el 06-11 · ad más viejo de 43 días · tanda nueva el 06-11 (operador vivo) · página fantasma (nombre de estudio) · un solo operador; Wag & Stitch ($21, 15 ads de 6,9 días) y PawPattern están copiando el mismo ángulo.
+- **Qué hacer:** modelar un pack «+100 moldes para coser ropa y accesorios para tu perro» en PDF con tabla de talles («tu perro en 3 medidas»), más una guía de costura gratis para captar leads · destino sugerido **ES**, después AR · hook: «Con la tela que tenés en casa». En esta corrida no apareció nada así en español, pero el control AR/ES no se corrió.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=852298534641160&search_type=page&media_type=all) · creativo más viejo de la oferta paga: [ad](https://www.facebook.com/ads/library/?id=1058376573863736) · lead magnet más viejo: [ad](https://www.facebook.com/ads/library/?id=1812099636496745)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir si la guía gratis lleva al bundle de $27 y si los patrones son PDF.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Bundles de crochet «800+ Granny Squares» / «800 Flower Patterns» — The Crochet Nook GB (+US) · `manualidades/patrones-costura-pdf` · 2026-11-10 (tarde) · sesión EN
+- **Qué es:** packs PDF de patrones de crochet: 800+ granny squares (+20 de regalo), 800 flores («Turn Yarn into Bouquets»), 135 llaveros amigurumi, 350 amigurumis y una manta de flores 6 en 1 («Instant PDF»). Cobra en USD y EUR; el precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **44/50 en GB** (75 estimados) · unas 7 fechas de creación · ad más viejo de 44 días · en US tiene 189 estimados con los 50 visibles de hoy (cohorte oculta, operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el formato de megapack temático («800 flores», «800 cuadrados») traducido y ordenado por técnica · destino sugerido **AR**, después ES · ángulo: «un año de proyectos en un solo PDF». Ojo: el crochet ya tiene oferta hispana (Crea y Emprende, Sofía Ramírez), así que el diferencial es el megapack de flores y granny squares, no el amigurumi.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=534358449768435&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=534358449768435&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2245105816269921)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API; el conteo de GB lo hizo un subagente).
+
+**Señales del día EN (tarde, 2026-11-10)**
+- Knitting Memories (111213628297241): 23/27 en US y GB con un ad de 92 días, pero vende patrones de tejido infantil sueltos con «90% Off», tipo tienda de Etsy (la red «X Memories» incluye Sewing Memories).
+- Sewing Lovers (1341379315722832): 20/50 en US (piso) y 8/37 en GB; patrones PDF de bolsos y neceseres a USD 9,99. Es un operador a seguir.
+- Sarah Mitchell (244418568758034): 14/44 en GB con «+500 crochet patterns organized in one place»; la página tiene nombre de persona, verificar si hay cara.
+- Patterns Zone (101105212312996): 12/34 en US y 12/29 en GB con un solo título, «Only $3 (Was $13)»; no se sabe qué producto es.
+- Cohortes ocultas, re-medir desde el 2026-11-17: Stitch Well (409 estimados, ads de hasta 69 días por keyword), All Knittings (≈520) y The Knitter's Treasure Chest (5.200 patrones, unos 45 ads cumplen 7 días el 11-11).
+- Emma Clarke 24/32 y Online Skills 10/31: bolsos en plastic canvas contados en primera persona, probable marca personal.
+
 ### 🎯 «Salvá tu matrimonio» para el marido rechazado — Heroic Husband + Linda Harrison US·GB · `pareja/reconquista-matrimonio` · 2026-11-10 · sesión EN
 - **Qué es:** guía/libro para el hombre cuya esposa se enfrió o pide el divorcio («How Successful Men Save Their Marriage For Good», «$8 Book | Successful Men Stop Divorce Today», «Wife stopped wanting you?», «Miss the Woman you married?»); Heroic Husband lo vende a **USD 8** y agrega una «7 Day Trial»; el precio de Linda (cobra en EUR) no se ve.
 - **Por qué es ganador:** cohorte 7+/activos **Heroic Husband 47/53 en US (piso) y 45/45 en GB**, **Linda Harrison 43/55 en US (piso) y 17/20 en GB** · ads vivos de 71 días (Heroic) y de 105 días (Linda) · 8 y más de 10 fechas de creación, con tandas de esta semana (operadores vivos) · dos operadores con el mismo dolor · Heroic es página de marca.
