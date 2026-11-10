@@ -115,6 +115,33 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «+ de 120 Mapas Mentais de Enfermagem» — Mapa Concursos BR · `concursos/material-estudo/resumos-mapas-mentais` · 2026-11-10 (tarde) · sesión BR
+- **Qué es:** pack digital de más de 120 mapas mentales de enfermería, para estudiar el concurso o la carrera («+ de 120 Mapas Mentais de Enfermagem», «Receba Agora Mesmo», «Aperte AQUI! E Receba Agora Mesmo»). El precio no se ve en los ads y el operador paga con dos cuentas, una en BRL y otra en USD.
+- **Por qué es ganador:** cohorte 7+/activos **39/50 en BR** (es un piso: hay 68 activos estimados). Hay tandas que siguen vivas a los 19, 22, 25, 28, 31, 36, 45, 48 y 51 días, de 14 fechas de creación distintas, y 30 ads creados en los últimos 30 días, así que el operador sigue activo. Es una página fantasma (marca «Mapa Concursos») y un solo operador.
+- **Qué hacer:** modelarlo en español como «+120 mapas mentales de enfermería», PDF para estudiantes y para el examen de residencia o de oposición, por USD 7-10. Destino sugerido: **AR** primero (estudiantes de enfermería) y después ES (oposición de enfermería del SAS / EIR). Ojo: en AR y ES ya venden material de enfermería con esquemas (Aula de Enfermería, Enfermería Digital, y Simone Longo, que paga sus ads en BRL), todos con ads de esta semana. La ventana se está cerrando, y el diferencial tendría que ser el formato de mapa mental.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=113788658419021&search_type=page&media_type=all) · creativos más viejos: [51 d](https://www.facebook.com/ads/library/?id=2168533343878194) · [48 d](https://www.facebook.com/ads/library/?id=1740592963830079)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio y si los ads «Receba Agora Mesmo» venden el mismo pack u otros mapas para concursos.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Protocolo» de simulados + cronograma por concurso a R$ 27,90 — 123passei BR · `concursos/material-estudo/questoes-simulados` · 2026-11-10 (tarde) · sesión BR
+- **Qué es:** kit de último tramo para un concurso puntual: simulados de la banca, más un cronograma de 40 o 60 días, más un «Desafio Final». Ejemplos: «Protocolo TRT — R$ 27,90», «Protocolo TJ-SP — R$27,90», «Desafio Final PC-BA por R$27,90», «Do Zero ao TRT 4: cronograma de 60 dias», «5 simulados FCC para o Banestes». Precio único de **R$ 27,90**.
+- **Por qué es ganador:** cohorte 7+/activos **18/34 en BR** (se vieron todos). Hay tandas vivas a los 162, 124, 77, 61, 60, 20 y 12 días; el «Protocolo TRT» lleva 162 días corriendo y tiene 7 ads en la cohorte. Son 13 fechas de creación distintas, con ads nuevos hoy. Es una página fantasma (marca «123passei») y un solo operador. Vende por sitio, no por WhatsApp.
+- **Qué hacer:** modelar el molde, no el contenido: «Protocolo final <oposición>», con simulacros tipo test de la convocatoria, un plan de 40 o 60 días y un reto final, en PDF a 9-12 €. Destino sugerido **ES**, que tiene un mercado de oposiciones enorme: `simulacros oposiciones` da 648 ads y `temario oposiciones` 867, pero casi todo son academias y cursos online (MasterD, Benempol, Informe Español), no un PDF de bajo ticket por convocatoria. En AR los concursos casi no tienen ads (`concurso docente` da 2). Cada SKU vence con su convocatoria.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=109322741722198&search_type=page&media_type=all) · creativos más viejos: [162 d](https://www.facebook.com/ads/library/?id=1754908135878377) · [124 d](https://www.facebook.com/ads/library/?id=1808707840294748)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC qué trae el «Protocolo» (¿PDF o acceso a una plataforma?) y si tiene upsell.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-10, tarde)**
+- Aprovaconcursobb (1067637653109051): vende una apostila por edital a R$ 29,90-37,90, ≥21/50 (piso, 255 estimados). También pasa la vara, pero queda en tercer lugar porque cada SKU está atado a una sola convocatoria.
+- Trilha do Estudo (641390105728644): ≥40/50 (67 estimados), con ads de hasta 39 días. Vende apostila más una app de preguntas: ver en la PC si es un PDF o una suscripción.
+- ConcursoPM (125472794229668): apostila de la PM-SP, 26/33, con un ad de 285 días, pero solo 7 ads nuevos en 30 días: escala vieja que se va apagando.
+- Gabaritei (870903229450408): plan «Estude em 30 dias» por concurso, 14/37, con ads de 50 días. Mismo molde que 123passei.
+- MeuPreparatório (109109610803813): 49/50 con ads de hasta 333 días, pero solo 1 ad nuevo en 30 días (casi congelada).
+- Felipe Resumão (759042973953984): «Resumão» por cargo a R$ 19,90, ≥15/50 (391 estimados). El nombre de la página es de una persona: ver en la PC si hay una cara.
+- Isaque Concursos (106498559158243, 16/36) y Enfermagem Resumida (101093207914538, ≥14): tienen volumen, pero una es persona con «Imersão» y la otra usa una aula gratis como carnada de un curso (Filtro C).
+
 BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR de la cola (Creartool, Daily Routine Club, Prof. Mariana Oliveira, Criativizando e Educando, Loja das Profs, Prof Jaque Mendes, Pequenos Leitores) más Atividades infantil, Lacuna Concursos y Estante da Psicologia.
 
 **Señales del día BR (2026-11-10, mañana)**

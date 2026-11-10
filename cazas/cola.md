@@ -71,7 +71,13 @@ los nichos que emergen.
 | educacao/atividades-prontas-professores/matematica | educacao/atividades-prontas-professores | BR | superficial | 5 kw · 2026-11-09 | Regina Alves 19/19 sin ads nuevos en 30 d (posible zombi); nadie vivo con 10+ |
 | educacao/atividades-prontas-professores/planos-de-aula | educacao/atividades-prontas-professores | BR | superficial | 5 kw · 2026-11-09 | Prof. Luana Rodrigues 38/50 pero persona y R$197; Patrícia Oliveira 0/9 |
 | educacao/atividades-prontas-professores/datas-e-escola-dominical | educacao/atividades-prontas-professores | BR | superficial | 5 kw · 2026-11-09 | oferta joven y repartida (Fé de Pertinho, Biblibrinca, EducaKids); Roberta Perez ≥11/121 es persona y apunta a padres |
-| concursos/material-estudo | concursos | BR | virgen | — | apareció por huella el 2026-11-09 (Lacuna Concursos ≥15/≥50, Bússola da Aprovação 8/18); ver si es pago o lead magnet |
+| concursos/material-estudo | concursos | BR | profundo | 30 kw nativas BR (6 subnichos × 5) + 1 huella + 7 controles ES/AR · 2026-11-10 tarde | perforado el 2026-11-10 (tarde): 2 tarjetas (Mapa Concursos, 123passei); modo C sobre los operadores |
+| concursos/material-estudo/apostilas-por-cargo | concursos/material-estudo | BR | superficial | 5 kw + huella · 2026-11-10 | saturado (7+ anunciantes): Aprovaconcursobb ≥21/50, ConcursoPM 26/33 (se apaga), Felipe Resumão ≥15/50; cada SKU vence con su edital |
+| concursos/material-estudo/resumos-mapas-mentais | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | Mapa Concursos 39/50 (mapas de enfermagem, tarjeta); en AR/ES ya hay 3 testers de enfermería |
+| concursos/material-estudo/questoes-simulados | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | 123passei 18/34 («Protocolo» R$27,90, 162 d, tarjeta); Gabaritei 14/37 mismo molde |
+| concursos/material-estudo/planejamento-cronograma | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | `planner concurso` = 26 ads: el cronograma vive dentro del kit, no solo |
+| concursos/material-estudo/legislacao-lei-seca | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | nadie con 10+ (Rota TJ 6/18); ruido de ley de tránsito |
+| concursos/material-estudo/por-avatar-professor-saude | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | Trilha do Estudo ≥40/50 (¿app?), Concurseiros da Educação ≥13 (aulões), Enfermagem Resumida ≥14 (webinar) |
 | psicologia/materiais-psicanalise | psicologia | BR | virgen | — | apareció por huella el 2026-11-09 (Estante da Psicologia 11/19) |
 | mapas-visuais-r10 | educacao | BR | virgen | — | apareció por huella el 2026-11-09: red «Clube dos X» a R$10 (Mapas 8/25, Cálculo, Devops), Leg Educação, Universo Laboratorial, Bovino Ilustrado 6/16 |
 | salud-mental/sistemas-de-sesiones | salud-mental | ES | superficial | 1 operador contado (Sector Digital 25/≥50) + 8 huellas ES · 2026-11-09 | apareció por huella el 2026-11-09 (`kit digital`); perforar por profesión (psicología deportiva / adicciones / nutrición / entrenadores) |
@@ -137,6 +143,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `pago único` / `guía práctica` / `pack digital` (ES) | cosmética, marcas personales, novelas y short-dramas en inglés | `planner imprimible`, `fichas imprimibles`, `plantillas imprimibles` |
 | consulta de 9 países con `page_ids` en una página grande (ES) | devuelve los 50 más nuevos y esconde la cohorte (Talleres Listos 0/50 en el bloque, 20-24 por país) | página con 50 devueltos → contar siempre por país |
 | página-persona que cambia de nombre («Dra.» → «Prof.») | fachada, no marca de autoridad; igual hay que ver si hay cara en los creativos | juzgar por los creativos en la PC |
+| `kit aprovação` / `método aprovação` / `ciclo estudos` / `banco questões` (BR) | autos, solar, crédito, tarot, short-dramas, residencia médica | `caderno questões`, `questões banca`, `mapas mentais concurso` |
+| `lei seca` / `legislação grifada` / `questões comentadas` (BR) | ley de tránsito / una mentoría / marcas personales | `lei seca pdf`, `legislação esquematizada` |
 
 ## Operadores a seguir (modo C)
 
@@ -173,6 +181,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Planner Hoy Solo 3 | 1280820831792286 | ES · MX | tarjeta ES del 2026-11-10 (planner para vaciar la cabeza, 21/35 ES); ver si entra a AR |
 | Biblioteca maestra: Planos de arcilla | 1435630566293933 | AR | tarjeta ES del 2026-11-10 (246-248 plantillas de cerámica, ≥16/≥50); seguir con su clon Planos de Barro 1463269926874211 (USD, de hoy) |
 | Red Aprendia | 1380966491766673 · 1372902832576549 · 1288181344388955 | MX · PE · hispano | fichas visuales de estudio, 342-659 est. por página con cohorte oculta; contar por país |
+| Mapa Concursos | 113788658419021 | BR | tarjeta BR del 2026-11-10 tarde (+120 mapas mentais de enfermagem, 39/50); ver si «Receba Agora» es otro pack |
+| 123passei | 109322741722198 | BR | tarjeta BR del 2026-11-10 tarde («Protocolo» por concurso R$27,90, 18/34, 162 d) |
+| Trilha do Estudo | 641390105728644 | BR | ≥40/50 el 2026-11-10; apostila + app de preguntas: ¿PDF o suscripción? |
 | | | | |
 
 ## Rotación vigente
@@ -198,7 +209,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | en curso | en curso | en curso |
 | 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | en curso | en curso | en curso |
-| 2026-11-10 18:36 | BR | B perforar (tarde) | concursos/material-estudo | en curso | en curso | en curso |
+| 2026-11-10 18:36 | BR | B perforar (tarde) | concursos/material-estudo | 6 subnichos × 5 kw BR + 1 huella + 7 controles ES/AR; ~35 páginas contadas | 2 tarjetas (Mapa Concursos, 123passei), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-10 06:44 | ES | A huella (mañana) | — (huella, hispano) | 13 huellas ES + ~45 páginas contadas (por país en las de 50) | 2 tarjetas (Planner Hoy Solo 3, Biblioteca maestra arcilla), 6 señales | 4 nodos nuevos; 3 operadores a seguir |
 | 2026-11-10 06:42 | EN | B perforar (mañana) | pareja/reconquista-matrimonio | 5 subnichos, 22 kw US/GB + ALL en 9 + control AR/ES; 15 páginas contadas | 1 tarjeta (Heroic Husband + Linda Harrison), 5 señales | profundo, con 5 hijos superficial |
 | 2026-11-10 06:40 | BR | C operadores (mañana) | — (operadores BR) | 7 operadores BR + 3 señales de ayer, 28 consultas con `page_ids` (+ `search_terms` para destapar cohortes) | 0 tarjetas, 8 señales (Atividades infantil ≥27 y Criativizando 16 pasan volumen pero WA sin oferta visible) | sin cambios de estado; 2 operadores nuevos a seguir |
