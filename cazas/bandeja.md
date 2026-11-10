@@ -26,6 +26,22 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Salvá tu matrimonio» para el marido rechazado — Heroic Husband + Linda Harrison US·GB · `pareja/reconquista-matrimonio` · 2026-11-10 · sesión EN
+- **Qué es:** guía/libro para el hombre cuya esposa se enfrió o pide el divorcio («How Successful Men Save Their Marriage For Good», «$8 Book | Successful Men Stop Divorce Today», «Wife stopped wanting you?», «Miss the Woman you married?»); Heroic Husband lo vende a **USD 8** y agrega una «7 Day Trial»; el precio de Linda (cobra en EUR) no se ve.
+- **Por qué es ganador:** cohorte 7+/activos **Heroic Husband 47/53 en US (piso) y 45/45 en GB**, **Linda Harrison 43/55 en US (piso) y 17/20 en GB** · ads vivos de 71 días (Heroic) y de 105 días (Linda) · 8 y más de 10 fechas de creación, con tandas de esta semana (operadores vivos) · dos operadores con el mismo dolor · Heroic es página de marca.
+- **Qué hacer:** modelar una guía PDF corta para el hombre («por qué ella se apagó y qué hacer en los próximos 30 días»), a USD 7-9, con hook «¿Tu mujer ya no te busca?» · destino sugerido **AR** primero y después ES: ninguno de los dos corre ahí, y en AR la oferta que hay (Cerca de Nuevo, de hoy) le habla a ella, no a él.
+- **Ads Library:** Heroic Husband [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=234796816378250&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=234796816378250&search_type=page&media_type=all) · Linda Harrison [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=778821148649074&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=778821148649074&search_type=page&media_type=all) · creativos más viejos: [Heroic](https://www.facebook.com/ads/library/?id=1052153710756130) · [Linda](https://www.facebook.com/ads/library/?id=2327726454633290)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir si el «$8 Book» es ebook o libro físico, qué es la prueba de 7 días, y si la cara de Linda Harrison vende (página con nombre de persona).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-10)**
+- Sarah Couples Therapist (991798834020896): «Normally $99 — $9.97 today», 6/10 en US y GB (los otros 4 cumplen 7 días hoy); página con nombre de terapeuta, verificar la cara.
+- Donna Whitfield (1180278161845468): 553 ads estimados en US con un solo título, los 50 visibles del 06-11: cohorte oculta, re-medir desde el 17-11.
+- Printable WITH Lisa (106064502120864) y Heal & Focus (531767666678981): fábrica de workbooks digitales «90% off» (pareja, Biblia, sistema nervioso), 31 y 46 activos pero ninguno con 7 días: rota todo cada semana.
+- Kinley's Lane (10/10, todos del 20-10) y Calm sphere (16/16 INR, todos de agosto): posibles zombis.
+- Michelle Mays (17/17) y Fierce Marriage (15/15): traición y pareja cristiana tienen demanda, pero son autoras con libros impresos.
+
 ### 🎯 Planner digital perpetuo «una descarga, todos los años» — This & That Planners US · `planners-imprimibles-2027/digital-tablet` · 2026-11-09 (tarde) · sesión EN
 - **Qué es:** planner digital que se abre en una app de notas gratis en tablet, teléfono o PC («One Download. Every Year», «Pay Once. 2027 Already Inside», «Works On Android Too»); precio no visible en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **10/50 en US** (piso, 66 estimados) · ad más viejo de 11 días en US y de 38 días en GB · 3 fechas de creación, tanda de 22 ads nuevos hoy (operador vivo) · página fantasma · un solo operador.

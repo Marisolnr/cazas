@@ -15,3 +15,4 @@
 ## [2026-11-10] caza-auto | BR C operadores-br → 0 candidatos a bandeja
 
 ## [2026-11-10] caza-auto | ES A huella hispano → 2 candidatos a bandeja
+## [2026-11-10] caza-auto | EN B pareja/reconquista-matrimonio → 1 candidatos a bandeja
