@@ -154,6 +154,32 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Planner para vaciar la cabeza» (elegí tus 3 de hoy) — Planner Hoy Solo 3 ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-10 · sesión ES
+- **Qué es:** planner de una hoja para descargar todo lo pendiente y quedarte con 3 prioridades por día («La lista eterna de tu cabeza cabe en una hoja», «Lo abres y ya sabes por dónde empezar»). Cobra en USD y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **21/35 en ES** (contados uno por uno) y unos 20 en MX · el ad que vende más viejo tiene 19,2 días · 10 fechas de creación entre el 21-10 y el 09-11 (operador vivo, rota ángulos) · página fantasma · un solo operador.
+- **Qué hacer:** modelar tal cual en PDF imprimible + versión digital («vaciá la cabeza y elegí tus 3 de hoy») · destino sugerido **AR**, donde no corre (0 activos) · ángulo: «la lista eterna de tu cabeza en una hoja», para gente saturada, no para fans de la papelería.
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1280820831792286&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1280820831792286&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1625984888978251)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y saber si es PDF o planner digital).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «246 plantillas de cerámica a tamaño real» — Biblioteca maestra: Planos de arcilla AR · `manualidades/plantillas-ceramica` · 2026-11-10 · sesión ES
+- **Qué es:** biblioteca de moldes para imprimir, cortar la arcilla y armar piezas de cerámica a mano («Dejá de adivinar. Empezá a armar.»). Desde el 09-11 son 248 plantillas. Cobra en ARS y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **≥16/≥50 en AR** (piso; 61 estimados, contados uno por uno) · dos tandas en cohorte, de 10,3 días (×9) y de 7,2-7,5 días (×7) · 5 fechas de creación, la última del 09-11 · página fantasma · un solo operador. Ojo: es una cohorte joven.
+- **Qué hacer:** modelar tal cual en PDF · destino sugerido **ES**, donde no corre (0 activos) · ángulo: «dejá de adivinar las medidas» + «¿no tenés horno? también sirven» (arcilla polimérica o de secado al aire). La ventana es corta: **Planos de Barro** (1463269926874211) arrancó hoy un clon de 229 plantillas en USD y tuteo, con 10 ads.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1435630566293933&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1128024273319002)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y confirmar que es descarga PDF).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-10)**
+- Talleres Listos (1423115024221032): «+150 dinámicas grupales listas para aplicar». Ayer la cohorte estaba oculta; hoy, contada por país, da **AR 20/≥50, ES 24/≥50 y MX 21/≥50**, con ads de hasta 12 días. Pasa la vara, pero ya corre en los dos destinos: es molde y competidor, no hueco. Quedó fuera por el tope de 2 tarjetas.
+- Red «Aprendia» (Aprende Fácil con Guías, Aprende Ya, Aprende con Guias Profesionales): fichas visuales de estudio para oficios y carreras (tratamiento de agua, oftalmología, CNC), de 342 a 659 ads estimados por página, pero los 50 visibles son de los últimos 3 días: re-medir por país.
+- Bienestar Digital (1319255167927860): material docente en videos y PDF, 7/31 con un ad de 42 días; en horas suma 3 más y queda en ~10.
+- Todo Digital (916814288184704): pack de plantillas Excel a 90 MXN, 4/24, con 7 ads que entran en cohorte en 1-2 días.
+- Matriz Digital (1268089893046373): kit para anfitriones de alquiler temporario, ≥4/≥50 en AR (65 estimados); la cohorte está detrás del tope.
+- Psicologia & Recursos 2025 (469568772899568): kits de formatos para psicólogos y trabajadores sociales por WhatsApp, 6/19 con un ad de 31 días.
+
 ### 🎯 «Navidad Tejida · +100 patrones» (+ «Florería Tejida · 50 patrones») — Crea y Emprende AR·ES · `manualidades/patrones-pdf/crochet-amigurumi` · 2026-11-09 (tarde) · sesión ES
 - **Qué es:** biblioteca digital de patrones de crochet por tema: más de 100 adornos y regalos navideños, y una segunda oferta de 50 flores tejidas. No se ve el precio en los ads (cobra en USD).
 - **Por qué es ganador:** cohorte 7+/activos **17/20 en AR** (19/30 en todo el hispano y 5/13 en ES) · Navidad Tejida pone sola 14 de la cohorte · tandas de 7 a 20,5 días · 14 fechas de creación, del 20-10 al 06-11 (operador vivo) · página fantasma · un solo operador.

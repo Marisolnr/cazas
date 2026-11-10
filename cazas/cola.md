@@ -80,6 +80,10 @@ los nichos que emergen.
 | manualidades/patrones-pdf/navideno-pesebre | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | ola de lanzamientos (Digital Shop, Santos En Punto, Puntada Maestra 4/23 ES); re-medir 2026-11-16 |
 | manualidades/patrones-pdf/papercraft-fiesta | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Cursos Online 11/24 MX, tarjeta; Activa Academy kit de fiesta 4 en cohorte |
 | oficios-digitales/guias-cricut | oficios-digitales | ES | virgen | — | apareció por huella el 2026-11-09 (Biblioteca Creativa 8/26, ad de 31 d); re-medir el 2026-11-16 |
+| productividad/planner-vaciar-cabeza | productividad | ES | superficial | 1 huella ES (`planner imprimible`) + conteo por país ES/MX/AR · 2026-11-10 | apareció por huella el 2026-11-10 (Planner Hoy Solo 3 21/35 ES, tarjeta; AR 0); perforar por formato (PDF / digital) y avatar (madres / estudiantes / emprendedores) |
+| manualidades/plantillas-ceramica | manualidades | ES | superficial | 1 huella ES (`plantillas imprimibles`) + conteo AR/ES · 2026-11-10 | apareció por huella el 2026-11-10 (Biblioteca maestra arcilla ≥16/≥50 AR, tarjeta; ES 0; clon Planos de Barro de hoy) |
+| educacion-profesional/fichas-visuales-estudio | educacion-profesional | ES | virgen | 1 huella ES (`fichas imprimibles`) · 2026-11-10 | apareció por huella el 2026-11-10 (red Aprendia: 3 páginas de 342-659 est., cohorte oculta); contar por país |
+| docentes/dinamicas-grupales | docentes | ES | superficial | Talleres Listos contado por país AR/ES/MX · 2026-11-10 | Talleres Listos pasa la vara (AR 20, ES 24, MX 21) pero ya corre en AR y ES; perforar por público (docentes / catequesis / RR. HH.) |
 
 ---
 
@@ -123,6 +127,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `prayer planner` / `teacher planner` (EN) | short-dramas («2000 readers are reading now») | `christian planner`, `lesson planner pdf`, `digital planner goodnotes` |
 | `planos de aula prontos` / `projeto datas comemorativas` (BR) | ruido de ShortMax y genérico | `plano de aula BNCC`, `sequência didática pdf` |
 | embudo WA con título vacío (BR, nube) | la API solo devuelve el título del link: sin oferta visible, el test del copy no se puede hacer desde la nube | señal + verificar en la PC |
+| `pago único` / `guía práctica` / `pack digital` (ES) | cosmética, marcas personales, novelas y short-dramas en inglés | `planner imprimible`, `fichas imprimibles`, `plantillas imprimibles` |
+| consulta de 9 países con `page_ids` en una página grande (ES) | devuelve los 50 más nuevos y esconde la cohorte (Talleres Listos 0/50 en el bloque, 20-24 por país) | página con 50 devueltos → contar siempre por país |
 | página-persona que cambia de nombre («Dra.» → «Prof.») | fachada, no marca de autoridad; igual hay que ver si hay cara en los creativos | juzgar por los creativos en la PC |
 
 ## Operadores a seguir (modo C)
@@ -147,7 +153,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Lacuna Concursos | 1173569735845788 | BR | material para concursos «Baixe Agora», ≥4/89 el 2026-11-10 (ayer ≥15): ¿pago o lead magnet? |
 | Sector Digital | 1122535934265327 | AR · ES · MX | tarjeta ES del 2026-11-09 (sistema de sesiones para psicólogos deportivos, 25/≥50); abrió línea «adicciones» el 08-11 |
 | Digital Academy | 858372700683858 | MX · AR · BO | multipack con WA, 15/41 y ads de 88 d; ver qué SKU se queda con la cohorte |
-| Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; cohorte oculta detrás del tope |
+| Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; contado por país el 2026-11-10: AR 20, ES 24, MX 21 en cohorte (pasa la vara, ya en los dos destinos) |
 | Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26; re-medir 2026-11-16 |
 | Crea y Emprende | 1056023200924288 | AR · ES | tarjeta ES del 2026-11-09 tarde (Navidad Tejida / Florería Tejida, AR 17/20); ver qué tema sigue después de Navidad |
 | Cursos Online | 512123288644096 | MX | tarjeta ES del 2026-11-09 tarde (papercraft / pueblito navideño, 11/24); ver si «120 casitas» entra en cohorte |
@@ -155,6 +161,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | This & That Planners | 1007996855726476 | US · GB | tarjeta EN del 2026-11-09 (tarde): planner digital perpetuo 10/50; ver si la tanda de 22 del 09-11 sobrevive |
 | Planner Lovers | 128972030308501 | US · GB · AR · ES · MX | tarjeta EN del 2026-11-09 (tarde): planner digital 2027 28/28 US; operador hispano, le toca seguirlo también a ES |
 | The EaseUp Planners | 1194131877121706 | US | 140 est. con cohorte oculta (relanzó todo el 06/07-11); re-medir 2026-11-16 |
+| Planner Hoy Solo 3 | 1280820831792286 | ES · MX | tarjeta ES del 2026-11-10 (planner para vaciar la cabeza, 21/35 ES); ver si entra a AR |
+| Biblioteca maestra: Planos de arcilla | 1435630566293933 | AR | tarjeta ES del 2026-11-10 (246-248 plantillas de cerámica, ≥16/≥50); seguir con su clon Planos de Barro 1463269926874211 (USD, de hoy) |
+| Red Aprendia | 1380966491766673 · 1372902832576549 · 1288181344388955 | MX · PE · hispano | fichas visuales de estudio, 342-659 est. por página con cohorte oculta; contar por país |
 | | | | |
 
 ## Rotación vigente
@@ -178,7 +187,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-10 06:44 | ES | A huella (mañana) | — (huella, hispano) | en curso | en curso | en curso |
+| 2026-11-10 06:44 | ES | A huella (mañana) | — (huella, hispano) | 13 huellas ES + ~45 páginas contadas (por país en las de 50) | 2 tarjetas (Planner Hoy Solo 3, Biblioteca maestra arcilla), 6 señales | 4 nodos nuevos; 3 operadores a seguir |
 | 2026-11-10 06:42 | EN | B perforar (mañana) | pareja/reconquista-matrimonio | en curso | en curso | en curso |
 | 2026-11-10 06:40 | BR | C operadores (mañana) | — (operadores BR) | 7 operadores BR + 3 señales de ayer, 28 consultas con `page_ids` (+ `search_terms` para destapar cohortes) | 0 tarjetas, 8 señales (Atividades infantil ≥27 y Criativizando 16 pasan volumen pero WA sin oferta visible) | sin cambios de estado; 2 operadores nuevos a seguir |
 | 2026-11-09 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf | 8 subnichos, 37 kw nativas + ALL en 2 ceros flojos, ~30 páginas contadas | 2 tarjetas (Crea y Emprende, Cursos Online), 6 señales | profundo, con 8 hijos superficial |

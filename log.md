@@ -13,3 +13,5 @@
 ## [2026-11-09] caza-auto | ES B manualidades/patrones-pdf (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-10] caza-auto | BR C operadores-br → 0 candidatos a bandeja
+
+## [2026-11-10] caza-auto | ES A huella hispano → 2 candidatos a bandeja
