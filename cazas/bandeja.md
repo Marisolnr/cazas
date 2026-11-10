@@ -99,6 +99,18 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR de la cola (Creartool, Daily Routine Club, Prof. Mariana Oliveira, Criativizando e Educando, Loja das Profs, Prof Jaque Mendes, Pequenos Leitores) más Atividades infantil, Lacuna Concursos y Estante da Psicologia.
+
+**Señales del día BR (2026-11-10, mañana)**
+- Creartool (325627053956826), tarjeta del 09-11: la cohorte sigue en 23 y ahora se ve completa (23/79). Desde el 09-11 lanzó 3 productos nuevos sobre el manual: «30 Estruturas» (16 ads), un mazo de arquetipos de personajes (17) y «101 fatos reais para transformar em ficção» (7). Ninguno tiene 7 días todavía, pero muestran que el manual ya tiene una escalera de upsells para modelar.
+- Daily Routine Club (671948206009244), tarjeta del 09-11: estable en 14/24, sin productos nuevos.
+- Prof. Mariana Oliveira (1080842931788422), tarjeta del 09-11: estable en 19/49 y publica una tanda casi todos los días. Todos los ads viejos están firmados «Dra.» y los nuevos «Prof.».
+- Atividades infantil (265589206630616): la cohorte ya se ve y pasa la vara (≥27/233, ad de 42 días, 15 fechas), pero cierra por mensajes («Clique Aqui 👉», «Converse conosco») sin la oferta en el título. Verificar en la PC qué vende y que no sea neurokids.
+- Criativizando e Educando (430307330169512): subió a 16/32, con un ad de 84 días, y pasa el volumen. Sigue cerrando por WhatsApp sin oferta visible: verificar en la PC.
+- Pequenos Leitores, ahora «Leitura Descomplicada» (1196621566868514): se apagó. Le quedan 4 activos, todos del 01-09, y no crea ads hace 70 días (posible zombi).
+- Prof Jaque Mendes + Loja das Profs (105209655117919 / 1002633749601439): lanzaron unos 150 ads de «Black das Profs» desde el 07-11. Por página tienen ≥6 y 7 en cohorte; no se suman.
+- Lacuna Concursos (1173569735845788): bajó a ≥4 visibles (piso, máximo 10 días); sigue sin verse si es pago o lead magnet. Estante da Psicologia (1032687959933493): bajó de 11 a 8/19.
+
 ### 🎯 Manual «Estruturas Narrativas para fugir da Jornada do Herói» — Creartool BR · `escrita-criativa/estruturas-narrativas` · 2026-11-09 · sesión BR
 - **Qué es:** manual digital para escritores y guionistas con 10 estructuras narrativas alternativas a la Jornada del Héroe (desde hoy prueba una versión de 30); precio no visible en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **23/48 en BR** (vistos todos) · tandas a 21-24·49·56-63·105-124·160 días · 13 fechas de creación, tanda nueva hoy · página fantasma (marca «Creartool») · un solo operador.
