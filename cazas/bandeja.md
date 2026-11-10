@@ -223,6 +223,33 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «300 tarjetas pop-up para imprimir» — Neutral Nature CO (+ES·MX) · `oficios-digitales/guias-cricut/tarjetas-popup-papeleria` · 2026-11-10 (tarde) · sesión ES
+- **Qué es:** biblioteca de 300 plantillas de tarjetas pop-up (3D) para imprimir, cortar y armar. Es un solo producto con un solo título. Cobra en USD y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **47/47 en CO**, con ads de hasta 10,9 días y 4 fechas de creación. Está escalando a ES (130 activos estimados) y a MX (128), con tandas diarias del 05-11 al 10-11. Página fantasma, un solo operador. Desde hace 7 días tiene un clon que copia el título palabra por palabra: **Pura Idea**, con 43 ads.
+- **Qué hacer:** modelar tal cual en PDF imprimible, con un ángulo de regalo hecho a mano («tarjetas que se abren en 3D, imprimí y armá») y Navidad en primer plano · destino sugerido **AR**, donde recién entró (10 ads, ninguno de 7+ días). En ES ya escala. La ventana es corta.
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=919376131265589&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=919376131265589&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1544989384137370)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Falta el precio y confirmar que es descarga PDF.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «+100 guías visuales de Cricut Design Space» (+ «80 fichas para Silhouette») — Biblioteca Creativa AR·ES·MX·CO · `oficios-digitales/guias-cricut/cricut-silhouette` · 2026-11-10 (tarde) · sesión ES
+- **Qué es:** guías paso a paso con capturas para aprender a usar la Cricut y la Silhouette (configuración por material, proyectos). Tercer SKU: «200 Modelos de Bordado en Papel». El operador es brasileño: escribe en español y cobra en BRL. No se ve el precio.
+- **Por qué es ganador:** cohorte 7+/activos **10/25 en AR** (los mismos 25 ads corren en ES, MX y CO). El ad más viejo tiene 32,7 días (09-10) · 8 fechas de creación, la última del 09-11 · subió de 8/26 ayer a 10/25 · página fantasma, con un clon en inglés (Creative Library) y una página-persona con la misma oferta. Es una cohorte justa en la vara.
+- **Qué hacer:** hacer un producto propio en castellano rioplatense: guías visuales por máquina y por material («qué cuchilla, presión y velocidad para cada material») más proyectos para vender · destino sugerido **AR**: el competidor traduce del portugués y cobra en reales · ángulo: «tu Cricut está guardada porque no sabés configurarla».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1244762302063129&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1244762302063129&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1692908435779062)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Falta el precio y saber si son PDF o un área de miembros.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-10, tarde)**
+- Deco Mundo (746385791884775): «Kit Fiesta Mágica», plantillas de fiesta editables en Canva. Tiene 11/23 con ads de hasta 17 días: pasa la vara, pero quedó afuera por el tope de 2 tarjetas.
+- Pixelpack (116045223625247): «+500.000 diseños» para DTF y sublimación a US$9,99. Tiene ≥29/62 con ads de hasta 108 días. Es un megapack de reventa, con riesgo de derechos de autor.
+- Smartsubli (659506740579643): 25/25 con ads de hasta 51 días, pero no creó ningún ad en 30 días (posible zombi). Puede que venda una herramienta y no un pack.
+- Pablo Ruiz – Diseños profesionales (1253043424549276): diseños para láser/CNC + «método de venta», 16/28 en AR. La página tiene nombre de persona: verificar si hay cara en los creativos.
+- Neutral Nature en ES (130) y MX (128): la cohorte está detrás del tope de 50. Re-medir el 2026-11-17.
+- The Leather Blueprint (1111361138727626, patrones de cuero, EUR, 92 activos) y Planos & Proyectos (1365754686630257, «+2.000 planos para cajas de sonido», 93 activos): cohorte oculta, re-medir.
+- Vectores Laser (1182186001656075): 9/9 con un ad de 78 días, cierra por Messenger. Queda a uno de la vara.
+
 ### 🎯 «Planner para vaciar la cabeza» (elegí tus 3 de hoy) — Planner Hoy Solo 3 ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-10 · sesión ES
 - **Qué es:** planner de una hoja para descargar todo lo pendiente y quedarte con 3 prioridades por día («La lista eterna de tu cabeza cabe en una hoja», «Lo abres y ya sabes por dónde empezar»). Cobra en USD y no se ve el precio en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **21/35 en ES** (contados uno por uno) y unos 20 en MX · el ad que vende más viejo tiene 19,2 días · 10 fechas de creación entre el 21-10 y el 09-11 (operador vivo, rota ángulos) · página fantasma · un solo operador.

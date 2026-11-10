@@ -97,7 +97,13 @@ los nichos que emergen.
 | manualidades/patrones-pdf/goma-eva-fieltro | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Recursos creativos 8/≥50 (piso); Hecho por vos 0/48 de esta semana |
 | manualidades/patrones-pdf/navideno-pesebre | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | ola de lanzamientos (Digital Shop, Santos En Punto, Puntada Maestra 4/23 ES); re-medir 2026-11-16 |
 | manualidades/patrones-pdf/papercraft-fiesta | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Cursos Online 11/24 MX, tarjeta; Activa Academy kit de fiesta 4 en cohorte |
-| oficios-digitales/guias-cricut | oficios-digitales | ES | virgen | — | apareció por huella el 2026-11-09 (Biblioteca Creativa 8/26, ad de 31 d); re-medir el 2026-11-16 |
+| oficios-digitales/guias-cricut | oficios-digitales | ES | profundo | 6 subnichos × 5 kw (30) + 4 de arranque + ALL en 1 + ~45 páginas contadas · 2026-11-10 tarde | perforado el 2026-11-10 (tarde): 2 tarjetas (Neutral Nature, Biblioteca Creativa); modo C sobre los hijos |
+| oficios-digitales/guias-cricut/cricut-silhouette | oficios-digitales/guias-cricut | ES | superficial | 5 kw · 2026-11-10 | Biblioteca Creativa 10/25 (tarjeta); el resto son vendedores de máquinas |
+| oficios-digitales/guias-cricut/archivos-svg-corte | oficios-digitales/guias-cricut | ES | superficial | 5 kw + ALL topper · 2026-11-10 | Pablo Ruiz 16/28 AR (persona, «método de venta»); Maestra de las Cajas 5/7; topper SVG = cementerio |
+| oficios-digitales/guias-cricut/sublimacion-plantillas | oficios-digitales/guias-cricut | ES | superficial | 6 kw · 2026-11-10 | Pixelpack ≥29/62 (megapack de reventa); Smartsubli 25/25 posible zombi; Nivel Pro subset 12/12 (multiproducto) |
+| oficios-digitales/guias-cricut/laser-cnc-archivos | oficios-digitales/guias-cricut | ES | superficial | 6 kw · 2026-11-10 | Vectores Laser 9/9 (78 d, Messenger); Planos & Proyectos 93 y The Leather Blueprint 92 con cohorte oculta: re-medir |
+| oficios-digitales/guias-cricut/tarjetas-popup-papeleria | oficios-digitales/guias-cricut | ES | superficial | 5 kw · 2026-11-10 | Neutral Nature 47/47 CO (tarjeta), clon Pura Idea 0/43; Deco Mundo 11/23; Cajas Para Imprimir Creativas 6/8 |
+| oficios-digitales/guias-cricut/negocio-con-maquina | oficios-digitales/guias-cricut | ES | superficial | 5 kw · 2026-11-10 | ruido de máquinas, insumos y talleres; nada con cohorte |
 | productividad/planner-vaciar-cabeza | productividad | ES | superficial | 1 huella ES (`planner imprimible`) + conteo por país ES/MX/AR · 2026-11-10 | apareció por huella el 2026-11-10 (Planner Hoy Solo 3 21/35 ES, tarjeta; AR 0); perforar por formato (PDF / digital) y avatar (madres / estudiantes / emprendedores) |
 | manualidades/plantillas-ceramica | manualidades | ES | superficial | 1 huella ES (`plantillas imprimibles`) + conteo AR/ES · 2026-11-10 | apareció por huella el 2026-11-10 (Biblioteca maestra arcilla ≥16/≥50 AR, tarjeta; ES 0; clon Planos de Barro de hoy) |
 | educacion-profesional/fichas-visuales-estudio | educacion-profesional | ES | virgen | 1 huella ES (`fichas imprimibles`) · 2026-11-10 | apareció por huella el 2026-11-10 (red Aprendia: 3 páginas de 342-659 est., cohorte oculta); contar por país |
@@ -125,6 +131,9 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `limit: 50` que devuelve 50 ads de hoy | cohorte truncada | reportar como piso, repetir con `page_ids` + `countries` |
 | snapshot sin espera | `get_page_text` devuelve solo el encabezado | `wait` 4 s antes de leer |
 | landing de operador 🇧🇷 | geo-redirige por idioma | el precio del mercado cazado se mira desde el checkout |
+| `LightBurn` / `diseños tazas` / `diseños mdf` / `productos láser` (ES) | short-dramas (8 mil) / tazas físicas / muebles MDF / estética y tóner | `vectores láser`, `plantillas sublimar`, `mockups sublimación` |
+| `Cricut proyectos` / `Silhouette Cameo` / `negocio Cricut` / `cortadora vinil` (ES) | vendedores de máquinas e insumos | `Cricut Design`, `Cricut principiantes`, `Cricut guía` |
+| `tarjetas imprimir` / `plantillas tarjetas` / `papelería creativa` / `precios sublimación` (ES) | imprimibles genéricos, tiendas físicas, talleres | `tarjetas pop-up`, `plantillas sublimar` |
 | página que devuelve **0 con `ALL`** | no está pausada: ya no existe | anotarla como desaparecida |
 | página con > 50 activos y los 50 visibles nuevos (BR, nube) | la cohorte queda detrás del tope | `page_ids` + `search_terms` con un par de palabras de un título viejo: destapa los ads viejos (Creartool 23/79, Atividades infantil ≥27); `search_terms: "R$"` se ignora |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
@@ -177,7 +186,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Sector Digital | 1122535934265327 | AR · ES · MX | tarjeta ES del 2026-11-09 (sistema de sesiones para psicólogos deportivos, 25/≥50); abrió línea «adicciones» el 08-11 |
 | Digital Academy | 858372700683858 | MX · AR · BO | multipack con WA, 15/41 y ads de 88 d; ver qué SKU se queda con la cohorte |
 | Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; contado por país el 2026-11-10: AR 20, ES 24, MX 21 en cohorte (pasa la vara, ya en los dos destinos) |
-| Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26; re-medir 2026-11-16 |
+| Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26 (09-11) → 10/25 (10-11, tarjeta ES tarde); clon en inglés Creative Library 1362229870302077 |
+| Neutral Nature | 919376131265589 | CO · ES · MX · AR | tarjeta ES del 2026-11-10 (tarde): 300 tarjetas pop-up, 47/47 CO; ES 130 y MX 128 con cohorte oculta: re-medir 2026-11-17; clon Pura Idea 1422137500990129 |
+| Pixelpack | 116045223625247 | hispano | megapack DTF/sublimación US$9,99, ≥29/62 con ad de 108 d (2026-11-10) |
 | Crea y Emprende | 1056023200924288 | AR · ES | tarjeta ES del 2026-11-09 tarde (Navidad Tejida / Florería Tejida, AR 17/20); ver qué tema sigue después de Navidad |
 | Cursos Online | 512123288644096 | MX | tarjeta ES del 2026-11-09 tarde (papercraft / pueblito navideño, 11/24); ver si «120 casitas» entra en cohorte |
 | La Biblioteca Definitiva De Tejido | 1151253608079340 | hispano | 23/23 sin ads nuevos en ~49 d: ¿zombi o escala vieja? |
@@ -219,7 +230,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | en curso | en curso | en curso |
+| 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | 6 subnichos × 5 kw + 4 de arranque (34) + ALL en 1; ~45 páginas contadas | 2 tarjetas (Neutral Nature, Biblioteca Creativa), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | 7 subnichos, 25 kw US/GB (sin ceros, sin control AR/ES); ~20 páginas contadas | 2 tarjetas (Knitting Art Studio, The Crochet Nook), 6 señales | profundo, con 7 hijos superficial |
 | 2026-11-10 18:36 | BR | B perforar (tarde) | concursos/material-estudo | 6 subnichos × 5 kw BR + 1 huella + 7 controles ES/AR; ~35 páginas contadas | 2 tarjetas (Mapa Concursos, 123passei), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-10 06:44 | ES | A huella (mañana) | — (huella, hispano) | 13 huellas ES + ~45 páginas contadas (por país en las de 50) | 2 tarjetas (Planner Hoy Solo 3, Biblioteca maestra arcilla), 6 señales | 4 nodos nuevos; 3 operadores a seguir |

@@ -18,3 +18,4 @@
 ## [2026-11-10] caza-auto | EN B pareja/reconquista-matrimonio → 1 candidatos a bandeja
 ## [2026-11-10] caza-auto | BR B concursos/material-estudo (tarde) → 2 candidatos a bandeja
 ## [2026-11-10] caza-auto | EN B manualidades/patrones-costura-pdf (tarde) → 2 candidatos a bandeja
+## [2026-11-10] caza-auto | ES B perforar (tarde) oficios-digitales/guias-cricut → 2 candidatos a bandeja
