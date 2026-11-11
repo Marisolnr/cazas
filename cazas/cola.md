@@ -110,7 +110,13 @@ los nichos que emergen.
 | oficios-digitales/guias-cricut/negocio-con-maquina | oficios-digitales/guias-cricut | ES | superficial | 5 kw · 2026-11-10 | ruido de máquinas, insumos y talleres; nada con cohorte |
 | productividad/planner-vaciar-cabeza | productividad | ES | superficial | 1 huella ES (`planner imprimible`) + conteo por país ES/MX/AR · 2026-11-10 | apareció por huella el 2026-11-10 (Planner Hoy Solo 3 21/35 ES, tarjeta; AR 0); perforar por formato (PDF / digital) y avatar (madres / estudiantes / emprendedores) |
 | manualidades/plantillas-ceramica | manualidades | ES | superficial | 1 huella ES (`plantillas imprimibles`) + conteo AR/ES · 2026-11-10 | apareció por huella el 2026-11-10 (Biblioteca maestra arcilla ≥16/≥50 AR, tarjeta; ES 0; clon Planos de Barro de hoy) |
-| educacion-profesional/fichas-visuales-estudio | educacion-profesional | ES | virgen | 1 huella ES (`fichas imprimibles`) · 2026-11-10 | apareció por huella el 2026-11-10 (red Aprendia: 3 páginas de 342-659 est., cohorte oculta); contar por país |
+| educacion-profesional/fichas-visuales-estudio | educacion-profesional | ES | profundo | 6 subnichos × 5 kw (30) + ALL en 1 + ~13 páginas contadas · 2026-11-11 | perforado el 2026-11-11: 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas); modo C sobre los hijos |
+| educacion-profesional/fichas-visuales-estudio/salud | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | red Aprendia con cohorte 0; IA Programas 16/22 (producto sin ver); testers BRL |
+| educacion-profesional/fichas-visuales-estudio/oficios-tecnicos | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | casi solo la red Aprendia; Aprendia : Guias profesionales MX 38/50 (tarjeta) |
+| educacion-profesional/fichas-visuales-estudio/mapas-esquemas | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw + ALL mapas conceptuales · 2026-11-11 | Derecho en Mapas CO 10/34 (tarjeta); mapas conceptuales imprimibles = cementerio |
+| educacion-profesional/fichas-visuales-estudio/oposiciones-examenes | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | academias; Mapasyresumenes 4/50 (re-medir 2026-11-18); El Mapa del MIR 9/0 |
+| educacion-profesional/fichas-visuales-estudio/derecho-contabilidad | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | Dra Mariana Legal 8/23; Studio Facile ES 43 nuevos (re-medir 2026-11-18); Virtual Derecho desde 9,90 € |
+| educacion-profesional/fichas-visuales-estudio/formato-aprendia | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | ruido de 5.000+ en `guía visual PDF` y `fichas de estudio`; Bookbay Digital 9/0 |
 | docentes/dinamicas-grupales | docentes | ES | superficial | Talleres Listos contado por país AR/ES/MX · 2026-11-10 | Talleres Listos pasa la vara (AR 20, ES 24, MX 21) pero ya corre en AR y ES; perforar por público (docentes / catequesis / RR. HH.) |
 
 ---
@@ -208,6 +214,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Planner Hoy Solo 3 | 1280820831792286 | ES · MX | tarjeta ES del 2026-11-10 (planner para vaciar la cabeza, 21/35 ES); ver si entra a AR |
 | Biblioteca maestra: Planos de arcilla | 1435630566293933 | AR | tarjeta ES del 2026-11-10 (246-248 plantillas de cerámica, ≥16/≥50); seguir con su clon Planos de Barro 1463269926874211 (USD, de hoy) |
 | Red Aprendia | 1380966491766673 · 1372902832576549 · 1288181344388955 | MX · PE · hispano | fichas visuales de estudio, 342-659 est. por página con cohorte oculta; contar por país |
+| Aprendia : Guias profesionales | 1319574141233447 | MX | tarjeta ES del 2026-11-11: packs de 50 fichas por oficio, MX 38/50 (63 est.), AR/ES 0; la única de la red que deja correr ganadores |
+| Derecho en Mapas | 1356269490904663 | CO | tarjeta ES del 2026-11-11: mapas de Derecho Penal/Administrativo, CO 10/34, operador BR; hermana Mapas del Derecho 1404914672699239 |
+| IA Programas | 809461785581622 | MX | 16/22 el 2026-11-11 con títulos vacíos: ver qué vende |
 | Mapa Concursos | 113788658419021 | BR | tarjeta BR del 2026-11-10 tarde (+120 mapas mentais de enfermagem, 39/50); ver si «Receba Agora» es otro pack |
 | 123passei | 109322741722198 | BR | tarjeta BR del 2026-11-10 tarde («Protocolo» por concurso R$27,90, 18/34, 162 d) |
 | Trilha do Estudo | 641390105728644 | BR | ≥40/50 el 2026-11-10; apostila + app de preguntas: ¿PDF o suscripción? |
@@ -242,7 +251,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | en curso | en curso | en curso |
+| 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | 6 subnichos × 5 kw (30) + ALL en 1; ~13 páginas contadas (por país en Aprendia y Derecho en Mapas) | 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
 | 2026-11-11 06:35 | BR | A huella (mañana) | — (huella, BR) | 16 huellas BR (distintas de las del 09-11) + 3 controles AR/ES; ~42 páginas contadas con `page_ids` | 2 tarjetas (Templates - Pack de artes, Mestre da Madeira), 6 señales | 4 nodos nuevos BR; 4 operadores a seguir |
 | 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | 6 subnichos × 5 kw + 4 de arranque (34) + ALL en 1; ~45 páginas contadas | 2 tarjetas (Neutral Nature, Biblioteca Creativa), 7 señales | profundo, con 6 hijos superficial |

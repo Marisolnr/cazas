@@ -21,3 +21,4 @@
 ## [2026-11-10] caza-auto | ES B perforar (tarde) oficios-digitales/guias-cricut → 2 candidatos a bandeja
 
 ## [2026-11-11] caza-auto | BR A huella → 2 candidatos a bandeja
+## [2026-11-11] caza-auto | ES B educacion-profesional/fichas-visuales-estudio → 2 candidatos a bandeja

@@ -249,6 +249,31 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Packs de «50 fichas ilustradas» por oficio (pintura anticorrosiva, seguridad en altura, puesta a tierra, salud pública) — Aprendia : Guias profesionales MX · `educacion-profesional/fichas-visuales-estudio` · 2026-11-11 · sesión ES
+- **Qué es:** packs PDF de unas 50 fichas visuales con diagramas, cada uno sobre un oficio o una carrera. Los temas van de «pulido, juntas y epóxicos», «granallado y recubrimientos» y «carga y descarga en cisterna» a «quimioterapia explicada en fichas» y crucigramas para el aula. Cobra en MXN. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **38/50 en MX** (piso, 63 estimados). El ad más viejo tiene ~68 días (04-09) y hay ~17 fechas de creación, con una tanda hoy. Página fantasma. Es la única página de la red «Aprendia» (≥17 page_ids con la misma plantilla) que deja correr los ganadores. Las otras rotan cada 2-3 días con cohorte ~0. **No corre en AR ni en ES.**
+- **Qué hacer:** modelar el formato «50 fichas visuales de <oficio>» en PDF, empezando por los temas con ads de 30+ días (recubrimientos y pintura industrial, seguridad en altura, puesta a tierra) · destino sugerido **AR**, después ES (normativa local en cada ficha) · ángulo: «todo el oficio en 50 fichas, con diagramas, para estudiar o llevar a la obra».
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1319574141233447&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1401147972145855) · fichas de granallado: [ad](https://www.facebook.com/ads/library/?id=1071865185849020)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Faltan el precio y confirmar que es descarga PDF.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Mapas mentales de Derecho Penal / Administrativo» — Derecho en Mapas CO · `educacion-profesional/fichas-visuales-estudio` · 2026-11-11 · sesión ES
+- **Qué es:** dos packs de mapas mentales de derecho («Quiero los mapas del Penal», «Quiero los mapas del Administrativo»). Es el molde brasileño de «mapas mentais de direito» traducido al español: el operador es brasileño y cobra en BRL. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **10/34 en CO** (cohorte justa en la vara; los 34 corren solo en CO). El ad más viejo tiene ~23 días (19-10) y hay ~11 fechas de creación, con tandas el 09-11 y el 10-11. Página fantasma, con una hermana (Mapas del Derecho) que no se sumó. **No corre en AR ni en ES.**
+- **Qué hacer:** hacer el producto propio con el ordenamiento de cada país: mapas de Penal y Administrativo argentino para estudiantes de abogacía (**AR**), y para oposiciones en **ES** (temario ya esquematizado) · ángulo: «toda la materia en mapas, para leer en 10 minutos antes del parcial».
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1356269490904663&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1055540124204793)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Faltan el precio y saber si son PDF o un área de miembros.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-11)**
+- IA Programas (809461785581622, MX): 16/22 en cohorte, el ad más viejo del 27-10. Aparece en «resúmenes derecho/medicina PDF» pero todos los títulos están vacíos, así que no se sabe qué vende. Abrir los snapshots en la PC.
+- Mapasyresumenes (234866809700963): guías de admisión «X en 150 páginas» con precio local (S/ 33,90 · COP 31.900 · MXN 179). Está en 4/50: re-medir el 2026-11-18.
+- Studio Facile (1272162682644374): «X ilustrada» (contabilidad, ECG, náutica) con 43 ads en ES, todos del 09 al 11-11. Re-medir el 2026-11-18.
+- Red Aprendia: ≥17 páginas con la misma plantilla y cohorte ~0 por rotación. Contarla por país, nunca página por página en los 9 juntos.
+- `mapas conceptuales imprimibles`: cementerio (0 activos, 43 viejos).
+
 ### 🎯 «300 tarjetas pop-up para imprimir» — Neutral Nature CO (+ES·MX) · `oficios-digitales/guias-cricut/tarjetas-popup-papeleria` · 2026-11-10 (tarde) · sesión ES
 - **Qué es:** biblioteca de 300 plantillas de tarjetas pop-up (3D) para imprimir, cortar y armar. Es un solo producto con un solo título. Cobra en USD y no se ve el precio en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **47/47 en CO**, con ads de hasta 10,9 días y 4 fechas de creación. Está escalando a ES (130 activos estimados) y a MX (128), con tandas diarias del 05-11 al 10-11. Página fantasma, un solo operador. Desde hace 7 días tiene un clon que copia el título palabra por palabra: **Pura Idea**, con 43 ads.
