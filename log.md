@@ -28,3 +28,5 @@
 ## [2026-11-11] caza-auto | BR B psicologia/materiais-psicanalise (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-11] caza-auto | EN B religion/biblia-visual (tarde) → 1 candidatos a bandeja
+
+## [2026-11-11] caza-auto | ES B salud-mental/sistemas-de-sesiones (tarde) → 1 candidatos a bandeja

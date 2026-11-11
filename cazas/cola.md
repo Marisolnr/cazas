@@ -105,7 +105,14 @@ los nichos que emergen.
 | oficios/moldes-marcenaria-pdf | oficios | BR | superficial | 2 huellas BR (`moldes pdf`, `download imediato`) + 2 controles AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Mestre da Madeira 11/50, tarjeta); en AR/ES ya hay testers (Carpinteria que Vende, Tablero Studio); perforar por avatar (juguetes / palet / muebles) |
 | receitas/ebooks-fit | receitas | BR | virgen | 1 huella BR (`receitas fit pdf`) · 2026-11-11 | apareció por huella el 2026-11-11: FitFlow 17/17 y Comida Saudável 15/15 con ads de 61-119 d pero ninguno nuevo en 30 d (posible zombi) |
 | costura/moldes-pdf-br | costura | BR | virgen | 1 huella BR (`moldes pdf`) · 2026-11-11 | apareció por huella el 2026-11-11: Ponto Certo App 9/22 (avental japonês, 111 d); el resto son olas de hoy (Pilar Digital, Keila moldes, Texto de Dentro) |
-| salud-mental/sistemas-de-sesiones | salud-mental | ES | superficial | 1 operador contado (Sector Digital 25/≥50) + 8 huellas ES · 2026-11-09 | apareció por huella el 2026-11-09 (`kit digital`); perforar por profesión (psicología deportiva / adicciones / nutrición / entrenadores) |
+| salud-mental/sistemas-de-sesiones | salud-mental | ES | profundo | 6 subnichos × 4-6 kw (27) sin ceros + ~45 páginas contadas (Sector Digital por país) · 2026-11-11 tarde | perforado el 2026-11-11 (tarde): 1 tarjeta (Biblioteca Digital, eje entrenadores); modo C sobre los hijos |
+| salud-mental/sistemas-de-sesiones/psicologia-clinica | salud-mental/sistemas-de-sesiones | ES | superficial | 7 kw · 2026-11-11 | nadie con 10+: Psico Express 7/21 (77 d), Cer Solutions 7 de psicología (20/28 multi-oficio), Psique y Ciencia mezcla cursos |
+| salud-mental/sistemas-de-sesiones/deportiva | salud-mental/sistemas-de-sesiones | ES | superficial | 2 kw · 2026-11-11 | solo Sector Digital (≥31 únicos, AR/ES/MX, ya en bandeja); el resto universidades y lanzamientos con live |
+| salud-mental/sistemas-de-sesiones/adicciones | salud-mental/sistemas-de-sesiones | ES | superficial | 3 kw · 2026-11-11 | clínicas y red de títulos ⭐; Sector Digital adicciones cohorte 0 (≤2 d): re-medir 2026-11-18 |
+| salud-mental/sistemas-de-sesiones/pareja-sistemica | salud-mental/sistemas-de-sesiones | ES | superficial | 2 kw · 2026-11-11 | ola nueva: Clínica del vínculo 0/12, Kit Graduación Listo 0/36, Psicologia & Recursos 2025 6/16: re-medir 2026-11-18 |
+| salud-mental/sistemas-de-sesiones/nutricionistas | salud-mental/sistemas-de-sesiones | ES | superficial | 5 kw · 2026-11-11 | Consultorio Nutri Listo 6/40 (8 d, re-medir 2026-11-18); Soy Nutri Digital 22/22 posible zombi; Nutrispace 7/7 |
+| salud-mental/sistemas-de-sesiones/coaching-trabajo-social | salud-mental/sistemas-de-sesiones | ES | superficial | 5 kw · 2026-11-11 | certificaciones y coaches-persona; packs de coaching todos < 2 d |
+| deportes/planificacion-entrenadores | deportes | ES | superficial | 1 kw (`plantillas entrenadores`) + Biblioteca Digital por país · 2026-11-11 | apareció al perforar salud-mental el 2026-11-11 (Biblioteca Digital 25/33 AR, tarjeta; ES 0); perforar por deporte (fútbol / vóley / básquet / handball) y avatar (profe de educación física / club) |
 | manualidades/patrones-pdf | manualidades | ES | profundo | 8 subnichos × 4-5 kw (37) + ALL en 2 + ~30 páginas contadas · 2026-11-09 | perforado el 2026-11-09 (tarde): 2 tarjetas (Crea y Emprende, Cursos Online); modo C sobre los hijos |
 | manualidades/patrones-pdf/crochet-amigurumi | manualidades/patrones-pdf | ES | superficial | 6 kw · 2026-11-09 | Crea y Emprende 19/30 (AR 17/20), tarjeta; la ola navideña de amigurumi tiene < 7 d: re-medir 2026-11-16 |
 | manualidades/patrones-pdf/tejido-dos-agujas | manualidades/patrones-pdf | ES | superficial | 4 kw + ALL tricot · 2026-11-09 | La Biblioteca Definitiva De Tejido 23/23 pero sin ads nuevos en ~49 d (posible zombi) |
@@ -194,6 +201,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `exercícios TCC` / `fichas TCC` / `baralho terapêutico` / `cartas terapêuticas` / `relatório psicológico` / `prontuário psicológico` / `workbook ansiedade` (BR) | TCC = tesis universitaria; tarot y constelación; abogados BPC y dramas; SaaS; palabra no nativa | `técnicas TCC prontas`, `caderno terapêutico`, `recursos terapêuticos`, `dinâmicas terapêuticas` |
 | `books of the bible` / `Revelation explained` / `bible timeline` / `visual bible` (EN) | stopwords (849 mil) / short-dramas / chart Adams físico y ~10 clones | `bible study printable`, `scripture cards printable`, `sunday school printable` |
 | `bible verse cards` / `bible memory verses` / `bible study course` / `sunday school curriculum` / `bible activity pages` (EN) | Biblia etíope con páginas-persona falsas, dropshippers generalistas, curricula genéricas, advertoriales de salud | entregable + tema; contar por `page_ids` |
+| `ejercicios terapia` / `terapia adicciones` / `prevención recaídas` / `psicología deportiva` / `herramientas coaching` / `kit coaching` / `rutinas editables` (ES) | fisio y kinesio, clínicas de rehabilitación, universidades, certificaciones, ruido en inglés, y una red de páginas con títulos de solo estrellas (ReDuca, EstDuc, ApreDuc, EduPro, AprenEdu) | `plantillas psicólogos`, `terapia pareja ejercicios`, `plantillas entrenadores`, `planes alimentación editables` |
 
 ## Operadores a seguir (modo C)
 
@@ -215,7 +223,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Pequenos Leitores | 1196621566868514 | BR | 12/35 el 2026-11-09 con hueco de 2 meses; el 2026-11-10 se apagó (4/4, ahora «Leitura Descomplicada», sin ads en 70 d): bajar a mensual |
 | Atividades infantil | 265589206630616 | BR | ≥27/233 el 2026-11-10 (destapada con `search_terms`), ad de 42 d; cierra por mensajes sin oferta visible: verificar en la PC (y que no sea neurokids) |
 | Lacuna Concursos | 1173569735845788 | BR | material para concursos «Baixe Agora», ≥4/89 el 2026-11-10 (ayer ≥15): ¿pago o lead magnet? |
-| Sector Digital | 1122535934265327 | AR · ES · MX | tarjeta ES del 2026-11-09 (sistema de sesiones para psicólogos deportivos, 25/≥50); abrió línea «adicciones» el 08-11 |
+| Sector Digital | 1122535934265327 | AR · ES · MX | tarjeta ES del 2026-11-09 (sistema de sesiones para psicólogos deportivos, 25/≥50); abrió línea «adicciones» el 08-11; 2026-11-11: AR ≥15, ES ≥28, MX ≥14 (≥31 únicos, todo deportiva; adicciones 0) |
 | Digital Academy | 858372700683858 | MX · AR · BO | multipack con WA, 15/41 y ads de 88 d; ver qué SKU se queda con la cohorte |
 | Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; contado por país el 2026-11-10: AR 20, ES 24, MX 21 en cohorte (pasa la vara, ya en los dos destinos) |
 | Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26 (09-11) → 10/25 (10-11, tarjeta ES tarde); clon en inglés Creative Library 1362229870302077 |
@@ -246,6 +254,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mestre da Madeira | 1240001732528839 | BR | tarjeta BR del 2026-11-11 (+100 moldes de madeira PDF R$12,90, 11/50, escalando) |
 | Clube do Devocional | 1333933036463024 | BR | ≥43/50 el 2026-11-11 con 40 ads de un solo día (7 d); WA sin oferta; re-medir 2026-11-18 |
 | Arquivos que encantam | 216603914872916 | BR | 25/33 el 2026-11-11 («Apenas R$10», producto no visible): verificar en la PC |
+| Biblioteca Digital (deportes) | 1270799516117158 | AR | tarjeta ES del 2026-11-11 tarde (planificación anual de vóley/newcom/básquet/handball a $19.990, 25/33 AR, 63,6 d); ver si entra a ES o a otro deporte |
+| Consultorio Nutri Listo | 1431610173366748 | hispano | sistema de consultorio para nutricionistas, 6/40 el 2026-11-11 (página de 8 d); re-medir 2026-11-18 |
 | NeuroKit Clínico | 964287390098744 · 883009701566343 | BR · ES · FR · DE | tarjeta BR del 2026-11-11 tarde (fichas TCC para psicólogos, 34/50); la hermana ya corre en español/francés/alemán: ver si la versión en español entra en cohorte |
 | Terapia Cognitiva Online | 836423469737678 | BR | tarjeta BR del 2026-11-11 tarde («88 técnicas de TCC prontas», 19/33, 45 d) |
 | Nova Era Recursos Terapêuticos | 114755404813290 | BR | tarjeta BR del 2026-11-11 tarde (cadernos de bolso para terapeutas, 25/42, 53 d); lanzó Planner Psi y Metáforas: ver cuál entra en cohorte |
@@ -276,7 +286,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | en curso | en curso | en curso |
+| 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | 6 subnichos, 27 kw nativas (sin ceros); ~45 páginas contadas (Sector Digital y Biblioteca Digital por país) | 1 tarjeta (Biblioteca Digital), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (deportes/planificacion-entrenadores) |
 | 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas (sin ceros, ALL no hizo falta) | 1 tarjeta (RootedinFaith), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (papeleria-cristiana-reventa) |
 | 2026-11-11 18:36 | BR | B perforar (tarde) | psicologia/materiais-psicanalise | 6 subnichos × 5 kw BR (30) + 1 + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas | 2 tarjetas (NeuroKit Clínico + Terapia Cognitiva Online, Nova Era Recursos Terapêuticos), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | 6 subnichos × 5 kw (30) + ALL en 1; ~13 páginas contadas (por país en Aprendia y Derecho en Mapas) | 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas), 5 señales | profundo, con 6 hijos superficial |

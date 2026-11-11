@@ -318,6 +318,23 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Planificación anual de vóley / newcom / básquet / handball + 5 bonos» — Biblioteca Digital AR · `deportes/planificacion-entrenadores` · 2026-11-11 (tarde) · sesión ES
+- **Qué es:** packs de planificación anual para profes y entrenadores de clubes, uno por deporte («6 libros de vóley», «Megapack Handball: 6 libros», «+500 ejercicios y +250 entrenamientos»), a **$19.990 ARS** (antes $35.000; $18.500 por transferencia; cupón NEWCOM10).
+- **Por qué es ganador:** cohorte 7+/activos **25/33 en AR** (todo corre en AR; ES y el resto del bloque, 0) · el ad más viejo tiene **63,6 días** (08-09) · 12 fechas de creación, la última del 10-11 (operador vivo) · página fantasma · un solo operador. Sale al perforar `salud-mental/sistemas-de-sesiones` por el eje entrenadores.
+- **Qué hacer:** modelar el molde para **ES**, donde no corre: «tu temporada armada» por deporte para profes de educación física y entrenadores de base (vóley, baloncesto, balonmano; el newcom no existe allá, así que va fútbol sala o multideporte) · ángulo: «tu clase lista en 5 minutos, toda la temporada planificada». En AR ya tiene dueño.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1270799516117158&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1765783258019900) · vóley $19.990: [ad](https://www.facebook.com/ads/library/?id=27974495148892383)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta confirmar que son PDF descargables y no libros impresos.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-11, tarde)**
+- Sector Digital (1122535934265327, ya en bandeja desde el 09-11): sigue creciendo. Contado por país da AR ≥15/50, ES ≥28/50 y MX ≥14/50, con ≥31 ads únicos en cohorte, todos de psicología deportiva. La línea de adicciones tiene cohorte 0.
+- Consultorio Nutri Listo (1431610173366748): sistema de consultorio para nutricionistas, «Pago único · Acceso inmediato». Tiene 6/40 y la página tiene 8 días: re-medir el 2026-11-18.
+- Soy Nutri Digital (106039621913944, ARS): materiales para nutricionistas, 22/22 con ads de hasta 226 días, pero sin un ad nuevo en 112 días (posible zombi).
+- Psico Express (690918464110425, PEN): «+8000 instrumentos» y Excel automatizado para psicólogos, 7/21 con un ad de 77 días.
+- Psicologia & Recursos 2025 (469568772899568, COP): kits PDF por WhatsApp (pareja, duelo, trabajo social), 6/16 con un ad de 43 días.
+- Terapia de pareja para terapeutas, ola de esta semana: Clínica del vínculo («84 ejercicios», 0/12) y Kit Graduación Listo (24 protocolos + fichas Word, 0/36). Re-medir el 2026-11-18.
+
 ### 🎯 Packs de «50 fichas ilustradas» por oficio (pintura anticorrosiva, seguridad en altura, puesta a tierra, salud pública) — Aprendia : Guias profesionales MX · `educacion-profesional/fichas-visuales-estudio` · 2026-11-11 · sesión ES
 - **Qué es:** packs PDF de unas 50 fichas visuales con diagramas, cada uno sobre un oficio o una carrera. Los temas van de «pulido, juntas y epóxicos», «granallado y recubrimientos» y «carga y descarga en cisterna» a «quimioterapia explicada en fichas» y crucigramas para el aula. Cobra en MXN. El precio no se ve en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **38/50 en MX** (piso, 63 estimados). El ad más viejo tiene ~68 días (04-09) y hay ~17 fechas de creación, con una tanda hoy. Página fantasma. Es la única página de la red «Aprendia» (≥17 page_ids con la misma plantilla) que deja correr los ganadores. Las otras rotan cada 2-3 días con cohorte ~0. **No corre en AR ni en ES.**
