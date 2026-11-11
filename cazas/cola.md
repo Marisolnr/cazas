@@ -87,6 +87,10 @@ los nichos que emergen.
 | concursos/material-estudo/por-avatar-professor-saude | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | Trilha do Estudo ≥40/50 (¿app?), Concurseiros da Educação ≥13 (aulões), Enfermagem Resumida ≥14 (webinar) |
 | psicologia/materiais-psicanalise | psicologia | BR | virgen | — | apareció por huella el 2026-11-09 (Estante da Psicologia 11/19) |
 | mapas-visuais-r10 | educacao | BR | virgen | — | apareció por huella el 2026-11-09: red «Clube dos X» a R$10 (Mapas 8/25, Cálculo, Devops), Leg Educação, Universo Laboratorial, Bovino Ilustrado 6/16 |
+| design-digital/packs-stories-templates | design-digital | BR | superficial | 2 huellas BR (`templates canva`, `pack de artes`) + 1 control AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Templates - Pack de artes: figurinhas 27/27, 217-293 d, tarjeta); perforar por formato (stickers / feeds / mini site / sublimación) y avatar (emprendedora / profesión) |
+| oficios/moldes-marcenaria-pdf | oficios | BR | superficial | 2 huellas BR (`moldes pdf`, `download imediato`) + 2 controles AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Mestre da Madeira 11/50, tarjeta); en AR/ES ya hay testers (Carpinteria que Vende, Tablero Studio); perforar por avatar (juguetes / palet / muebles) |
+| receitas/ebooks-fit | receitas | BR | virgen | 1 huella BR (`receitas fit pdf`) · 2026-11-11 | apareció por huella el 2026-11-11: FitFlow 17/17 y Comida Saudável 15/15 con ads de 61-119 d pero ninguno nuevo en 30 d (posible zombi) |
+| costura/moldes-pdf-br | costura | BR | virgen | 1 huella BR (`moldes pdf`) · 2026-11-11 | apareció por huella el 2026-11-11: Ponto Certo App 9/22 (avental japonês, 111 d); el resto son olas de hoy (Pilar Digital, Keila moldes, Texto de Dentro) |
 | salud-mental/sistemas-de-sesiones | salud-mental | ES | superficial | 1 operador contado (Sector Digital 25/≥50) + 8 huellas ES · 2026-11-09 | apareció por huella el 2026-11-09 (`kit digital`); perforar por profesión (psicología deportiva / adicciones / nutrición / entrenadores) |
 | manualidades/patrones-pdf | manualidades | ES | profundo | 8 subnichos × 4-5 kw (37) + ALL en 2 + ~30 páginas contadas · 2026-11-09 | perforado el 2026-11-09 (tarde): 2 tarjetas (Crea y Emprende, Cursos Online); modo C sobre los hijos |
 | manualidades/patrones-pdf/crochet-amigurumi | manualidades/patrones-pdf | ES | superficial | 6 kw · 2026-11-09 | Crea y Emprende 19/30 (AR 17/20), tarjeta; la ola navideña de amigurumi tiene < 7 d: re-medir 2026-11-16 |
@@ -162,6 +166,10 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | página-persona que cambia de nombre («Dra.» → «Prof.») | fachada, no marca de autoridad; igual hay que ver si hay cara en los creativos | juzgar por los creativos en la PC |
 | `kit aprovação` / `método aprovação` / `ciclo estudos` / `banco questões` (BR) | autos, solar, crédito, tarot, short-dramas, residencia médica | `caderno questões`, `questões banca`, `mapas mentais concurso` |
 | `lei seca` / `legislação grifada` / `questões comentadas` (BR) | ley de tránsito / una mentoría / marcas personales | `lei seca pdf`, `legislação esquematizada` |
+| `guia de bolso` / `cardápio semanal` / `download imediato` (BR) | «cabe no bolso» / marmitarias físicas / una sola página (Mestre da Madeira ×20) se come el top 50 | `templates canva`, `pack de artes`, `receitas fit pdf` (la única que trae ads de 60+ d) |
+| `ebook pdf` / `guia ilustrado` (BR, noviembre) | lanzamientos de Navidad de hoy y ebooks gratis con persona | entregable + tema; contar por `page_ids` |
+| página que lanza 15-40 ads de golpe con «⭐4,8/5 avaliações» (BR) | parece fuerte y tiene cohorte 0 (Ateliê Próspero 0/37, Habilidades dos Avós 0/19) | re-medir a la semana |
+| página-catálogo con varios SKU (BR) | la cohorte de la página mezcla ofertas | `page_ids` + `search_terms` del título del SKU (Templates: figurinhas 27/27) |
 
 ## Operadores a seguir (modo C)
 
@@ -207,6 +215,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | The Crochet Nook | 534358449768435 | GB · US | tarjeta EN del 2026-11-10 (tarde): megapacks de crochet, 44/50 GB; US 189 est. con cohorte oculta |
 | Sewing Lovers | 1341379315722832 | US · GB | patrones PDF de bolsos a $9,99, 20/50 US (2026-11-10) |
 | Stitch Well / Elsie Brooks | 684792994717005 · 269275822943681 | US · GB | 409 y 269 est. con cohorte oculta (mismos creativos); re-medir 2026-11-17 |
+| Templates - Pack de artes | 123045347437517 | BR | tarjeta BR del 2026-11-11 (figurinhas para stories R$3,99, 27/27, 217-293 d); catálogo de packs a R$1,49-3,99: ver qué SKU nuevo entra en cohorte |
+| Mestre da Madeira | 1240001732528839 | BR | tarjeta BR del 2026-11-11 (+100 moldes de madeira PDF R$12,90, 11/50, escalando) |
+| Clube do Devocional | 1333933036463024 | BR | ≥43/50 el 2026-11-11 con 40 ads de un solo día (7 d); WA sin oferta; re-medir 2026-11-18 |
+| Arquivos que encantam | 216603914872916 | BR | 25/33 el 2026-11-11 («Apenas R$10», producto no visible): verificar en la PC |
 | | | | |
 
 ## Rotación vigente
@@ -232,7 +244,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | en curso | en curso | en curso |
 | 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
-| 2026-11-11 06:35 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
+| 2026-11-11 06:35 | BR | A huella (mañana) | — (huella, BR) | 16 huellas BR (distintas de las del 09-11) + 3 controles AR/ES; ~42 páginas contadas con `page_ids` | 2 tarjetas (Templates - Pack de artes, Mestre da Madeira), 6 señales | 4 nodos nuevos BR; 4 operadores a seguir |
 | 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | 6 subnichos × 5 kw + 4 de arranque (34) + ALL en 1; ~45 páginas contadas | 2 tarjetas (Neutral Nature, Biblioteca Creativa), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | 7 subnichos, 25 kw US/GB (sin ceros, sin control AR/ES); ~20 páginas contadas | 2 tarjetas (Knitting Art Studio, The Crochet Nook), 6 señales | profundo, con 7 hijos superficial |
 | 2026-11-10 18:36 | BR | B perforar (tarde) | concursos/material-estudo | 6 subnichos × 5 kw BR + 1 huella + 7 controles ES/AR; ~35 páginas contadas | 2 tarjetas (Mapa Concursos, 123passei), 7 señales | profundo, con 6 hijos superficial |

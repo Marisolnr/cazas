@@ -19,3 +19,5 @@
 ## [2026-11-10] caza-auto | BR B concursos/material-estudo (tarde) → 2 candidatos a bandeja
 ## [2026-11-10] caza-auto | EN B manualidades/patrones-costura-pdf (tarde) → 2 candidatos a bandeja
 ## [2026-11-10] caza-auto | ES B perforar (tarde) oficios-digitales/guias-cricut → 2 candidatos a bandeja
+
+## [2026-11-11] caza-auto | BR A huella → 2 candidatos a bandeja

@@ -141,6 +141,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «+ de 10 mil figurinhas para stories» a R$ 3,99 — Templates - Pack de artes BR · `design-digital/packs-stories-templates` · 2026-11-11 · sesión BR
+- **Qué es:** un pack digital de más de 10.000 stickers para las historias de Instagram, a **R$ 3,99**. Es el producto estrella de una tienda-catálogo que también vende otros packs a R$ 1,49-3,99 (mini site, feed profesional, STL, sublimación de tazas).
+- **Por qué es ganador:** la página tiene ≥37/50 en cohorte (67 estimados, es un piso). Solo esta oferta tiene **27/27 ads en cohorte, con el mismo título repetido 27 veces**. Son 10 tandas, de 217 a 293 días (del 21-01 al 07-04), y siguen vivas. Es una página fantasma, sin persona, y un solo operador. La página sigue creando ads de otros SKU (≥31 en 30 días).
+- **Qué hacer:** modelarlo tal cual en español: «+10.000 stickers para tus historias de Instagram», a USD 2-4 o como order bump de otro pack. Destino sugerido **AR**, después ES. Ángulo: historias que no aburren, para el emprendedor que publica todos los días. En AR/ES no hay oferta fuerte: `stickers historias` da 65 ads, casi todo físico, más un tester brasileño en español (Stickers empreendedoras, BRL, ads de 2-4 días). El hueco está abierto, pero ya lo están probando.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=123045347437517&search_type=page&media_type=all) · creativos más viejos: [293 d](https://www.facebook.com/ads/library/?id=929442639749702) · [282 d](https://www.facebook.com/ads/library/?id=904431729205167)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio en el checkout, si el pack es reventa de material ajeno (licencias) y qué upsell tiene.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+### 🎯 «+100 Moldes em PDF» de carpintería a R$ 12,90 — Mestre da Madeira BR · `oficios/moldes-marcenaria-pdf` · 2026-11-11 · sesión BR
+- **Qué es:** un pack PDF de más de 100 moldes y proyectos de madera para hacer en casa, a **R$ 12,90**. Es la única oferta de la página: los 50 ads tienen el mismo título.
+- **Por qué es ganador:** cohorte 7+/activos **11/50 en BR** (es un piso: hay 51 estimados). Hay tandas vivas a los 8, 23, 25 y 43 días, de 7 fechas de creación distintas, y 48 ads creados en los últimos 30 días, 21 de ellos hoy: está escalando. Es una página fantasma (marca «Mestre da Madeira») y un solo operador.
+- **Qué hacer:** modelarlo en español, pero con un avatar más angosto que el genérico, por ejemplo juguetes de madera, muebles de palet o cajas y organizadores, en PDF a USD 7-10. Destino sugerido **AR**, después ES. Ojo: en AR/ES ya hay testers de esta semana (Carpinteria que Vende, «140 planos con moldes 1:1 en PDF», USD, ads de 1 día; Tablero Studio; y el brasileño Fórmula Projetos Lucrativos corriendo en español). La ventana se está cerrando.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1240001732528839&search_type=page&media_type=all) · creativos más viejos: [43 d](https://www.facebook.com/ads/library/?id=1881010266594511) · [43 d](https://www.facebook.com/ads/library/?id=1099696853049626)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC qué proyectos trae el pack y si los moldes son a tamaño real.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-11, mañana)**
+- Clube do Devocional (1333933036463024): tiene ≥43/50, pero 40 de esos ads se crearon el mismo día (hace 7 días). Cierra por WhatsApp sin la oferta en el título («PEDE AQUI PELO ZAP»). Lo nuevo de hoy es «Cantata de Natal Pronta para Crianças», en USD. Verificar en la PC y volver a medir el 18-11.
+- Arquivos que encantam (216603914872916): 25/33, con tandas a 7, 11, 18, 20 y 26 días, todas con el título «🚨Apenas R$10🚨». No se ve qué vende: verificar en la PC.
+- Ponto Certo App (1037269729466043): «Molde do Avental Japonês Viral em PDF», 9/22, con ads de 39 a 111 días; le falta 1 para la vara. Esta semana lanzó moldes de chinelo de tecido y de un cesto.
+- Amo Resumos (109673104683776): manuales médicos en PDF (reumatología a R$ 39,90, geriatría, menopausia), 12/40. Son varios productos distintos y 9 de esos 12 ads tienen solo 7-8 días.
+- FitFlow (1205760639286319, 17/17, ebook de recetas fit) y Comida Saudável (1211982808660456, 15/15, 29 apostilas de recetas): tienen ads de 61 a 119 días, pero ninguno nuevo en 30 días (posible zombi).
+- Ateliê Próspero (1265947236593095, crochê, 0/37) y Brinca e Aprende (942354795618344, inglés infantil imprimible, 0/30): lanzaron todo esta semana; volver a medir el 18-11.
+
 ### 🎯 «+ de 120 Mapas Mentais de Enfermagem» — Mapa Concursos BR · `concursos/material-estudo/resumos-mapas-mentais` · 2026-11-10 (tarde) · sesión BR
 - **Qué es:** pack digital de más de 120 mapas mentales de enfermería, para estudiar el concurso o la carrera («+ de 120 Mapas Mentais de Enfermagem», «Receba Agora Mesmo», «Aperte AQUI! E Receba Agora Mesmo»). El precio no se ve en los ads y el operador paga con dos cuentas, una en BRL y otra en USD.
 - **Por qué es ganador:** cohorte 7+/activos **39/50 en BR** (es un piso: hay 68 activos estimados). Hay tandas que siguen vivas a los 19, 22, 25, 28, 31, 36, 45, 48 y 51 días, de 14 fechas de creación distintas, y 30 ads creados en los últimos 30 días, así que el operador sigue activo. Es una página fantasma (marca «Mapa Concursos») y un solo operador.
