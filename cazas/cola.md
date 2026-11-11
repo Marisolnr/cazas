@@ -253,6 +253,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | en curso | en curso | en curso |
 | 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | en curso | en curso | en curso |
 | 2026-11-11 18:36 | BR | B perforar (tarde) | psicologia/materiais-psicanalise | en curso | en curso | en curso |
 | 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | 6 subnichos × 5 kw (30) + ALL en 1; ~13 páginas contadas (por país en Aprendia y Derecho en Mapas) | 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas), 5 señales | profundo, con 6 hijos superficial |
