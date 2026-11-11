@@ -68,7 +68,14 @@ los nichos que emergen.
 | manualidades/patrones-costura-pdf/bolsos | manualidades/patrones-costura-pdf | EN | superficial | 3 kw + control AR/ES (`patrones bolsos`) · 2026-11-11 | Sewing Lovers 19/50 US (tarjeta 2026-11-11); Motif Studio sin cohorte; `tote bag pattern` = físicos; en AR/ES ya hay moldes (Dulce Irene, El Arsenal Del Marroquinero) |
 | manualidades/patrones-costura-pdf/fieltro-peluches | manualidades/patrones-costura-pdf | EN | superficial | 3 kw · 2026-11-10 | Mariana Williams (fieltro católico) todo < 7 d: re-medir 2026-11-17; Sweet Pea, SewBloom chicos |
 | manualidades/patrones-costura-pdf/quilting | manualidades/patrones-costura-pdf | EN | superficial | 2 kw · 2026-11-10 | Wildbloom Quilts 5/10 ($27/$47, RON); el resto, kits físicos |
-| religion/biblia-visual | religion | EN | virgen | 1 kw US/GB · 2026-11-09 | apareció por huella el 2026-11-09 (Revelation Unsealed 3D 8/30, 13 fechas, ads de hasta 34 d) |
+| religion/biblia-visual | religion | EN | profundo | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas · 2026-11-11 tarde | perforado el 2026-11-11 (tarde): tarjeta RootedinFaith; modo C sobre los hijos |
+| religion/biblia-visual/visual-ilustrada | religion/biblia-visual | EN | superficial | 6 kw · 2026-11-11 | Revelation Unsealed 3D 8/23 US (re-medir 2026-11-14, ¿PDF o libro?); Stories of the Bible y chart Adams = físicos; Christian Knowledge 275 est. con cohorte oculta |
+| religion/biblia-visual/estudio-biblico-guias | religion/biblia-visual | EN | superficial | 5 kw + control AR/ES (`entender Biblia`) · 2026-11-11 | RootedinFaith 30/45 GB y 28/≥50 US (tarjeta); en español ya corren operadores BR «la Biblia libro por libro» (sin contar) |
+| religion/biblia-visual/devocional-planner | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | nada con 10+; Coffee and Bible Time 0/7 (nuevo); Christian Craft Paper es membresía |
+| religion/biblia-visual/ninos-escuela-dominical | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | Growing in Faith 18/27 US (advertorial, producto no visible, 9 d); Faith Times 7/36 hermana; FaithSprout 2/8 |
+| religion/biblia-visual/tarjetas-cheat-sheets | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | Shining Light Printables 12/12 sin ads nuevos en 30 d (posible zombi); el resto ruido |
+| religion/biblia-visual/historia-apologetica | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | Catholic Roots 25/25 US sin ads en 31 d (posible zombi); Adams & Century físico; ruido de iglesias |
+| religion/papeleria-cristiana-reventa | religion | EN · ES | superficial | 1 kw EN + control AR/ES (`papelería cristiana`) · 2026-11-11 | Valentina Ríos 17/26 US (BRL, español) pero ya corre en AR/ES con Elixir de Vida y Papelería Cristiana: destino ocupado |
 | hogar/preparacion-emergencias | hogar | EN | virgen | 1 kw GB · 2026-11-09 | apareció por huella el 2026-11-09 (Fallback Book GB 12/18, ¿personalizado o físico?; Lights Out) |
 | escrita-criativa/estruturas-narrativas | escrita-criativa | BR | superficial | 1 huella BR + 1 control ES/AR/MX/CO (ALL) · 2026-11-09 | apareció por huella el 2026-11-09 (Creartool 23/48 BR, tarjeta); perforar por avatar (novelista / guionista / fanfic) y formato (manual / plantillas de escaleta) |
 | produtividade/planner-rotina-estudos | produtividade | BR | superficial | 1 huella BR + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Daily Routine Club 14/22 BR, tarjeta); perforar por avatar (vestibular / concurso / universitario) |
@@ -185,6 +192,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | página que lanza 15-40 ads de golpe con «⭐4,8/5 avaliações» (BR) | parece fuerte y tiene cohorte 0 (Ateliê Próspero 0/37, Habilidades dos Avós 0/19) | re-medir a la semana |
 | página-catálogo con varios SKU (BR) | la cohorte de la página mezcla ofertas | `page_ids` + `search_terms` del título del SKU (Templates: figurinhas 27/27) |
 | `exercícios TCC` / `fichas TCC` / `baralho terapêutico` / `cartas terapêuticas` / `relatório psicológico` / `prontuário psicológico` / `workbook ansiedade` (BR) | TCC = tesis universitaria; tarot y constelación; abogados BPC y dramas; SaaS; palabra no nativa | `técnicas TCC prontas`, `caderno terapêutico`, `recursos terapêuticos`, `dinâmicas terapêuticas` |
+| `books of the bible` / `Revelation explained` / `bible timeline` / `visual bible` (EN) | stopwords (849 mil) / short-dramas / chart Adams físico y ~10 clones | `bible study printable`, `scripture cards printable`, `sunday school printable` |
+| `bible verse cards` / `bible memory verses` / `bible study course` / `sunday school curriculum` / `bible activity pages` (EN) | Biblia etíope con páginas-persona falsas, dropshippers generalistas, curricula genéricas, advertoriales de salud | entregable + tema; contar por `page_ids` |
 
 ## Operadores a seguir (modo C)
 
@@ -240,6 +249,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | NeuroKit Clínico | 964287390098744 · 883009701566343 | BR · ES · FR · DE | tarjeta BR del 2026-11-11 tarde (fichas TCC para psicólogos, 34/50); la hermana ya corre en español/francés/alemán: ver si la versión en español entra en cohorte |
 | Terapia Cognitiva Online | 836423469737678 | BR | tarjeta BR del 2026-11-11 tarde («88 técnicas de TCC prontas», 19/33, 45 d) |
 | Nova Era Recursos Terapêuticos | 114755404813290 | BR | tarjeta BR del 2026-11-11 tarde (cadernos de bolso para terapeutas, 25/42, 53 d); lanzó Planner Psi y Metáforas: ver cuál entra en cohorte |
+| RootedinFaith | 1339338722596915 | GB · US | tarjeta EN del 2026-11-11 (tarde): guía para entender la Biblia, 30/45 GB y 28/≥50 US, ad de 33 d; formato sin verificar |
+| Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); re-medir 2026-11-14 |
+| Valentina Ríos | 1280761195116636 | US · AR · ES | papelería cristiana de reventa, 17/26 US (BRL, español); ya en AR/ES; le toca seguirla también a ES |
+| Growing in Faith / Faith Times | 1329678806897080 · 1241869225684857 | US | 18/27 y 7/36 el 2026-11-11, advertorial infantil-cristiano, producto no visible |
 | | | | |
 
 ## Rotación vigente
@@ -264,7 +277,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | en curso | en curso | en curso |
-| 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | en curso | en curso | en curso |
+| 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas (sin ceros, ALL no hizo falta) | 1 tarjeta (RootedinFaith), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (papeleria-cristiana-reventa) |
 | 2026-11-11 18:36 | BR | B perforar (tarde) | psicologia/materiais-psicanalise | 6 subnichos × 5 kw BR (30) + 1 + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas | 2 tarjetas (NeuroKit Clínico + Terapia Cognitiva Online, Nova Era Recursos Terapêuticos), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | 6 subnichos × 5 kw (30) + ALL en 1; ~13 páginas contadas (por país en Aprendia y Derecho en Mapas) | 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | 17 operadores EN + 3 señales de ayer, 27 consultas `page_ids` + país, 7 sondeos `search_terms`, 2 controles AR/ES | 2 tarjetas (Your Consulting Management Guide, Sewing Lovers), 7 señales | 1 nodo nuevo (negocios/guias-management-pdf); bolsos con control AR/ES |

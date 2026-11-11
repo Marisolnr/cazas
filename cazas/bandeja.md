@@ -26,6 +26,23 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guía «Step by Step Guide to Understand the Bible» / «God's Word Made Simple» — RootedinFaith GB·US · `religion/biblia-visual/estudio-biblico-guias` · 2026-11-11 (tarde) · sesión EN
+- **Qué es:** una guía paso a paso para entender la Biblia («God's Word Made Simple», «Discover The True Meaning»), con promo «62% Off This Week Only». La API no muestra el precio ni el formato: no se sabe si es PDF o libro impreso.
+- **Por qué es ganador:** cohorte 7+/activos **30/45 en GB y 28/≥50 en US** (52 estimados) · el ad más viejo tiene **33 días** (desde el 06-10) · 10-11 fechas de creación y una tanda nueva el 10/11-11 (operador vivo) · casi toda la cohorte repite un solo título · página fantasma · un solo operador.
+- **Qué hacer:** modelar una guía PDF para entender la Biblia libro por libro, con resúmenes visuales · destino sugerido **ES**, después AR · ojo: en español este ángulo ya lo corren varios operadores brasileños con páginas de nombre de persona («Descubre la Biblia Libro por Libro», «Por Fin Vas a Entender la Biblia», «66 Libros de la Biblia»), así que el diferencial tiene que estar en el formato (mapas, una página por libro) o en el avatar. Todavía no se contó la cohorte de esos operadores.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1339338722596915&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1339338722596915&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2107206247336170)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC si la guía es digital, cuánto cuesta y qué trae.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-11)**
+- Valentina Ríos (1280761195116636): **17/26 en US** con «Crea y ofrece tu propia papelería cristiana» (kit para revender, copy en español, BRL, ad de 25 días). Pasa la vara, pero ya corre en AR/ES junto con Elixir de Vida y Papelería Cristiana: el destino está ocupado.
+- Revelation Unsealed 3D (1345541285309886): **8/23 en US**, ad de 36 días, «The Visual Guide to Revelation» (168 páginas ilustradas). Hay 4 ads que cumplen 7 días en horas: re-medir el 14-11 y ver si es PDF o libro.
+- Catholic Roots (1246058108601925): 25/25 en US y 19/19 en GB («All 73 books explained, 857 pages», para imprimir), pero no crea ads desde hace 31 días: posible zombi.
+- Shining Light Printables (1007803189074036): 12/12 en US y GB (juegos y guías bíblicas para imprimir, ad de 111 días), sin ads nuevos en 30 días: posible zombi.
+- Growing in Faith (1329678806897080): 18/27 en US con advertorial («If you have a child read this ☝️»), solo 3 fechas y el ad más viejo de 9 días. No se ve el producto: verificar en la PC y que no sea neurokids.
+- Christian Knowledge (538851202636965): 275 estimados con «Revelation, Explained Verse by Verse» en varios idiomas; la cohorte está oculta, re-medir.
+
 ### 🎯 Guías PDF de management y consultoría «Instant PDF Download» — Your Consulting Management Guide US·GB · `negocios/guias-management-pdf` · 2026-11-11 · sesión EN
 - **Qué es:** guías PDF de gestión empresarial y consultoría con descarga inmediata («Instant PDF Download»). Esta semana suma una promo de Black Friday con 40% OFF sobre títulos como «Corporate Governance Explained» y «Solve Any Business Problem». El precio no se ve en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **41/46 en US y 34/38 en GB** · el ad más viejo lleva **144 días** (desde el 20-06) · 14 fechas de creación y un ad nuevo el 10-11 (operador vivo) · el mismo título repetido 40 veces en la cohorte durante 5 meses · página fantasma · un solo operador.
