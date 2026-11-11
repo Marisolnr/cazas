@@ -37,6 +37,7 @@ los nichos que emergen.
 |---|---|---|---|---|---|
 | neurokids | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | hogar/planner-limpieza | hogar | EN | superficial | 1 kw EN (printable planner) + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Honey Home 15/25 US); perforar por formato (sistema / por habitación / rutinas) |
+| negocios/guias-management-pdf | negocios | EN | superficial | 1 operador contado (Your Consulting Management Guide 41/46 US, 34/38 GB) + 1 control AR/ES · 2026-11-11 | apareció por modo C el 2026-11-11 (tarjeta); perforar por tema (gobierno corporativo / resolución de problemas / procesos / RR. HH.) y contar el control hispano con 4-5 kw |
 | educacion-profesional/contabilidad-workbooks | educacion-profesional | EN | superficial | 1 kw GB (£27 pdf) + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Practical Accounting Kit 21/31 GB); perforar por avatar (estudiante / pyme / liquidación de sueldos) |
 | ciberseguridad/plantillas-nist | ciberseguridad | EN | profundo | 24 kw nativas US/GB + ALL en ceros + control AR/ES · 2026-11-09 | modo C: seguir a Dragon Fire Method; perforado el 2026-11-09 |
 | ciberseguridad/plantillas-nist/nist | ciberseguridad/plantillas-nist | EN | profundo | 4 kw · 2026-11-09 | un whale (Dragon Fire Method); tarjeta 2026-11-09 |
@@ -64,7 +65,7 @@ los nichos que emergen.
 | manualidades/patrones-costura-pdf/tejido-crochet | manualidades/patrones-costura-pdf | EN | superficial | 4 kw · 2026-11-10 | Crochet Nook 44/50 GB (tarjeta); Knitting Memories 23/27 (92 d, SKU sueltos); Sarah Mitchell 14/44 GB; Patterns Zone 12; All Knittings y Knitter's Treasure Chest con cohorte oculta: re-medir 2026-11-17 |
 | manualidades/patrones-costura-pdf/ropa-mujer | manualidades/patrones-costura-pdf | EN | superficial | 5 kw · 2026-11-10 | todo < 2 d por keyword; Stitch Well 409 est. (cohorte oculta, 21 ads de 7+ d por keyword) y su espejo Elsie Brooks; marcas (Style Arc, McClure, Love Notions) |
 | manualidades/patrones-costura-pdf/infantil-munecas | manualidades/patrones-costura-pdf | EN | superficial | 4 kw · 2026-11-10 | Stitch Well «doll wardrobe» 15/15 (69 d); Vive Digital 15/23 multinicho (costura 5); Emma Clarke / Online Skills = persona |
-| manualidades/patrones-costura-pdf/bolsos | manualidades/patrones-costura-pdf | EN | superficial | 3 kw · 2026-11-10 | Sewing Lovers 20/50 US ($9,99); Motif Studio sin cohorte; `tote bag pattern` = físicos |
+| manualidades/patrones-costura-pdf/bolsos | manualidades/patrones-costura-pdf | EN | superficial | 3 kw + control AR/ES (`patrones bolsos`) · 2026-11-11 | Sewing Lovers 19/50 US (tarjeta 2026-11-11); Motif Studio sin cohorte; `tote bag pattern` = físicos; en AR/ES ya hay moldes (Dulce Irene, El Arsenal Del Marroquinero) |
 | manualidades/patrones-costura-pdf/fieltro-peluches | manualidades/patrones-costura-pdf | EN | superficial | 3 kw · 2026-11-10 | Mariana Williams (fieltro católico) todo < 7 d: re-medir 2026-11-17; Sweet Pea, SewBloom chicos |
 | manualidades/patrones-costura-pdf/quilting | manualidades/patrones-costura-pdf | EN | superficial | 2 kw · 2026-11-10 | Wildbloom Quilts 5/10 ($27/$47, RON); el resto, kits físicos |
 | religion/biblia-visual | religion | EN | virgen | 1 kw US/GB · 2026-11-09 | apareció por huella el 2026-11-09 (Revelation Unsealed 3D 8/30, 13 fechas, ads de hasta 34 d) |
@@ -146,6 +147,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `tarjetas imprimir` / `plantillas tarjetas` / `papelería creativa` / `precios sublimación` (ES) | imprimibles genéricos, tiendas físicas, talleres | `tarjetas pop-up`, `plantillas sublimar` |
 | página que devuelve **0 con `ALL`** | no está pausada: ya no existe | anotarla como desaparecida |
 | página con > 50 activos y los 50 visibles nuevos (BR, nube) | la cohorte queda detrás del tope | `page_ids` + `search_terms` con un par de palabras de un título viejo: destapa los ads viejos (Creartool 23/79, Atividades infantil ≥27); `search_terms: "R$"` se ignora |
+| `search_terms` para destapar una página que re-crea todo a diario con un solo título (EN: Donna Whitfield, Stitch Well, Visual Guide Lab, In pictures books) | devuelve los mismos 50 nuevos: no hay ads viejos detrás | anotar «rota todo» y re-medir; solo destapa si hay títulos viejos distintos (Crochet Nook `Granny Square` 28/50) |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
 | barrido por keyword en EN (`printable`, `instant download`) | la API los ordena del más nuevo: casi todo tiene < 2 d y la cohorte no se ve | usar la huella para leer nombres de página y contar cada una con `page_ids` + `countries` |
 | `protocol` / `blueprint` (EN) | suplementos, advertoriales con persona, granjas de juegos y dramas | entregable + tema |
@@ -187,7 +189,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Visual Guide Lab | 1467890346400480 | US | libros ilustrados para exámenes, mucho volumen sin cohorte (2026-11-09); mismo molde que In pictures books 1354208894450767, Illustrated Manuals 1459350803924436 y Avenlo 1434008009790850 (en español) |
 | Honey Home | 1334135786448993 | US · GB | tarjeta del 2026-11-09: ver si la cohorte sigue creciendo |
 | Dragon Fire Method | 163589696835008 | GB · US | whale de plantillas NIST/infosec, tarjeta del 2026-11-09 |
-| Your Consulting Management Guide | 1097413493462052 | US · GB | 47/50 en cohorte (2026-11-09), no se sabe qué vende |
+| Your Consulting Management Guide | 1097413493462052 | US · GB | tarjeta EN del 2026-11-11: guías PDF de management «Instant PDF Download», 41/46 US y 34/38 GB, ad de 144 d; Black Friday 40% OFF |
 | Linda Harrison | 778821148649074 | US · GB | 44/≥50 en cohorte (2026-11-09); 43/55 US y 17/20 GB en la tarjeta EN del 2026-11-10 (junto a Heroic Husband); formato y cara sin verificar |
 | Creartool | 325627053956826 | BR | tarjeta del 2026-11-09 (manual de estructuras narrativas, 23/48); testea versión «30 estruturas» |
 | Daily Routine Club | 671948206009244 | BR | tarjeta del 2026-11-09 (planner de rutina/estudios, 14/22) |
@@ -222,8 +224,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Trilha do Estudo | 641390105728644 | BR | ≥40/50 el 2026-11-10; apostila + app de preguntas: ¿PDF o suscripción? |
 | Knitting Art Studio | 852298534641160 | US | tarjeta EN del 2026-11-10 (tarde): 100+ patrones de costura para mascotas a $27 + lead magnet, 40/50 |
 | The Crochet Nook | 534358449768435 | GB · US | tarjeta EN del 2026-11-10 (tarde): megapacks de crochet, 44/50 GB; US 189 est. con cohorte oculta |
-| Sewing Lovers | 1341379315722832 | US · GB | patrones PDF de bolsos a $9,99, 20/50 US (2026-11-10) |
-| Stitch Well / Elsie Brooks | 684792994717005 · 269275822943681 | US · GB | 409 y 269 est. con cohorte oculta (mismos creativos); re-medir 2026-11-17 |
+| Sewing Lovers | 1341379315722832 | US · GB | tarjeta EN del 2026-11-11: patrones PDF de bolsos a $9,99, 19/50 US (piso) y 8/37 GB; joven (ad más viejo 30 d) |
+| Stitch Well / Elsie Brooks | 684792994717005 · 269275822943681 | US · GB | 409 y 269 est. con cohorte oculta (mismos creativos); 2026-11-11: 433/395 y 318 est., 0/50, `search_terms` no destapa; re-medir 2026-11-17 |
 | Templates - Pack de artes | 123045347437517 | BR | tarjeta BR del 2026-11-11 (figurinhas para stories R$3,99, 27/27, 217-293 d); catálogo de packs a R$1,49-3,99: ver qué SKU nuevo entra en cohorte |
 | Mestre da Madeira | 1240001732528839 | BR | tarjeta BR del 2026-11-11 (+100 moldes de madeira PDF R$12,90, 11/50, escalando) |
 | Clube do Devocional | 1333933036463024 | BR | ≥43/50 el 2026-11-11 con 40 ads de un solo día (7 d); WA sin oferta; re-medir 2026-11-18 |
@@ -252,7 +254,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | 6 subnichos × 5 kw (30) + ALL en 1; ~13 páginas contadas (por país en Aprendia y Derecho en Mapas) | 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas), 5 señales | profundo, con 6 hijos superficial |
-| 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
+| 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | 17 operadores EN + 3 señales de ayer, 27 consultas `page_ids` + país, 7 sondeos `search_terms`, 2 controles AR/ES | 2 tarjetas (Your Consulting Management Guide, Sewing Lovers), 7 señales | 1 nodo nuevo (negocios/guias-management-pdf); bolsos con control AR/ES |
 | 2026-11-11 06:35 | BR | A huella (mañana) | — (huella, BR) | 16 huellas BR (distintas de las del 09-11) + 3 controles AR/ES; ~42 páginas contadas con `page_ids` | 2 tarjetas (Templates - Pack de artes, Mestre da Madeira), 6 señales | 4 nodos nuevos BR; 4 operadores a seguir |
 | 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | 6 subnichos × 5 kw + 4 de arranque (34) + ALL en 1; ~45 páginas contadas | 2 tarjetas (Neutral Nature, Biblioteca Creativa), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-10 18:38 | EN | B perforar (tarde) | manualidades/patrones-costura-pdf | 7 subnichos, 25 kw US/GB (sin ceros, sin control AR/ES); ~20 páginas contadas | 2 tarjetas (Knitting Art Studio, The Crochet Nook), 6 señales | profundo, con 7 hijos superficial |

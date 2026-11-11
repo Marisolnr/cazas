@@ -26,6 +26,33 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guías PDF de management y consultoría «Instant PDF Download» — Your Consulting Management Guide US·GB · `negocios/guias-management-pdf` · 2026-11-11 · sesión EN
+- **Qué es:** guías PDF de gestión empresarial y consultoría con descarga inmediata («Instant PDF Download»). Esta semana suma una promo de Black Friday con 40% OFF sobre títulos como «Corporate Governance Explained» y «Solve Any Business Problem». El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **41/46 en US y 34/38 en GB** · el ad más viejo lleva **144 días** (desde el 20-06) · 14 fechas de creación y un ad nuevo el 10-11 (operador vivo) · el mismo título repetido 40 veces en la cohorte durante 5 meses · página fantasma · un solo operador.
+- **Qué hacer:** modelar una colección de guías PDF cortas de gestión para pymes («resolvé cualquier problema de tu negocio», gobierno corporativo, procesos) · destino sugerido **ES**, después AR · ángulo: «la consultora que no podés pagar, en PDF». En AR/ES no apareció nada así: con `consultoría PDF` solo salen consultoras con nombre de persona y Estrategia Clara (2 ads). Es un hueco provisorio, medido con una sola keyword.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1097413493462052&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1097413493462052&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1693173465103660)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC qué PDF es, cuánto cuesta y si es una guía suelta o una biblioteca.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Patrones PDF de bolsos y neceseres a USD 9,99 — Sewing Lovers US (+GB) · `manualidades/patrones-costura-pdf/bolsos` · 2026-11-11 · sesión EN
+- **Qué es:** patrones PDF de costura para bolsos, totes acolchados y neceseres con cierre, en 3 a 5 talles («One Pattern, Three Sizes», «1 Pattern, 5 Sizes», «Quilted Tote PDF Pattern»), a **USD 9,99** («Now $9.99 (Was $19.99)»). Tiene un ángulo para vender lo que cosés: «Make It. Fill It. Sell It.», «One Sale Can Pay for the Pattern».
+- **Por qué es ganador:** cohorte 7+/activos **19/50 en US** (piso, 85 estimados; ayer 20/50) y 8/37 en GB · 7 fechas de creación entre el 01-11 y el 10-11 · el ad más viejo tiene 9 días en US y 30 días en GB · página fantasma · un solo operador. Es joven: pasa la vara por volumen, no por longevidad.
+- **Qué hacer:** modelar un patrón PDF de neceser o tote multitalle a precio bajo, con el ángulo «cosé uno y vendelo» · destino sugerido **AR** · ojo: en español ya hay moldes de bolsos (Dulce Irene, 12 bolsos de crochet; El Arsenal Del Marroquinero, 500 moldes de cuero), así que el diferencial es la costura con tela y el ángulo de reventa.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1341379315722832&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1341379315722832&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2023485678336598)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-11)**
+- This & That Planners (tarjeta del 09-11) creció de 10/50 a **25/41 en US**: entró en la cohorte la tanda del 29-10.
+- The Crochet Nook (tarjeta del 10-11): apareció la cohorte de US, **28/50** buscando «Granny Square», con un ad de 88 días.
+- Knitting Art Studio (tarjeta del 10-11): **44/50 en US** (ayer 40/50); la oferta de $27 tiene 14 ads en la cohorte. En GB nunca corrió (0 con ALL).
+- Heroic Husband sigue con 44/47 en US y 39/39 en GB, pero no crea ads desde el 07-11 en US y desde el 17-10 en GB. Planner Lovers (29/29) tampoco crea ads nuevos desde el 01-11. Vigilar si frenan.
+- Sarah Mitchell (244418568758034): 14/45 en GB, «+500 crochet patterns organized in one place». La página tiene nombre de persona: verificar en la PC si hay cara.
+- Patterns Zone (101105212312996): 12/39 en US, «Only $3 (Was $13)». No se sabe qué producto vende.
+- Cohortes ocultas que siguen sin verse: Donna Whitfield (558 estimados), Stitch Well y Elsie Brooks (433 y 318, con los mismos títulos), The EaseUp Planners (130, «70% Off»), Visual Guide Lab e In pictures books (116 y 395). Todos rehacen sus ads a diario.
+
 ### 🎯 Bundle de patrones de costura para mascotas «100+ Pet Sewing Patterns» — Knitting Art Studio US · `manualidades/patrones-costura-pdf` · 2026-11-10 (tarde) · sesión EN
 - **Qué es:** pack digital de más de 100 patrones de costura para mascotas (ropa, accesorios para perro: «Turn Your Fabric Into Something Your Pet Can Actually Use») a **USD 27**, con una guía de costura gratis como lead magnet («FREE Sewing Guide», «Sewing Made Simple — FREE», «1,000+ Sewing Projects — FREE»).
 - **Por qué es ganador:** cohorte 7+/activos **40/50 en US** (piso, 142 estimados), de los cuales **10 son de la oferta paga de $27** y unos 30 del lead magnet · 12 fechas de creación entre el 28-09 y el 06-11 · ad más viejo de 43 días · tanda nueva el 06-11 (operador vivo) · página fantasma (nombre de estudio) · un solo operador; Wag & Stitch ($21, 15 ads de 6,9 días) y PawPattern están copiando el mismo ángulo.
