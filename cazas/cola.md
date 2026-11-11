@@ -230,6 +230,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | en curso | en curso | en curso |
 | 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
 | 2026-11-11 06:35 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-10 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut | 6 subnichos × 5 kw + 4 de arranque (34) + ALL en 1; ~45 páginas contadas | 2 tarjetas (Neutral Nature, Biblioteca Creativa), 7 señales | profundo, con 6 hijos superficial |
