@@ -86,7 +86,13 @@ los nichos que emergen.
 | concursos/material-estudo/planejamento-cronograma | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | `planner concurso` = 26 ads: el cronograma vive dentro del kit, no solo |
 | concursos/material-estudo/legislacao-lei-seca | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | nadie con 10+ (Rota TJ 6/18); ruido de ley de tránsito |
 | concursos/material-estudo/por-avatar-professor-saude | concursos/material-estudo | BR | superficial | 5 kw · 2026-11-10 | Trilha do Estudo ≥40/50 (¿app?), Concurseiros da Educação ≥13 (aulões), Enfermagem Resumida ≥14 (webinar) |
-| psicologia/materiais-psicanalise | psicologia | BR | virgen | — | apareció por huella el 2026-11-09 (Estante da Psicologia 11/19) |
+| psicologia/materiais-psicanalise | psicologia | BR | profundo | 30 kw nativas BR (6 subnichos × 5) + 1 de arranque + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas · 2026-11-11 tarde | perforado el 2026-11-11 (tarde): 2 tarjetas (NeuroKit Clínico + Terapia Cognitiva Online, Nova Era Recursos Terapêuticos); modo C sobre los operadores |
+| psicologia/materiais-psicanalise/psicanalise | psicologia/materiais-psicanalise | BR | superficial | 6 kw · 2026-11-11 | Estante 6/25 (re-medir 2026-11-18); Mariana Costa 11/14 (USD, persona); Terapia de Verdade mapas R$14,90 todo < 7 d |
+| psicologia/materiais-psicanalise/estudantes-psicologia | psicologia/materiais-psicanalise | BR | superficial | 5 kw · 2026-11-11 | Mundo Conhecimento 7/17 (242 transtornos, USD); Mariana oliveira 4/9 (900 mapas R$12,90); Psicoterapeutas no Poder 0/6 |
+| psicologia/materiais-psicanalise/ferramentas-clinicas-tcc | psicologia/materiais-psicanalise | BR | superficial | 5 kw + control AR/ES (`fichas terapia`) · 2026-11-11 | NeuroKit 34/50 + Terapia Cognitiva Online 19/33 (tarjeta); 5+ anunciantes = subnicho; en AR/ES ya hay testers BR en español < 7 d |
+| psicologia/materiais-psicanalise/documentos-psicologo | psicologia/materiais-psicanalise | BR | superficial | 5 kw · 2026-11-11 | Psiflow.clin ≥18/81, Valesca Romão 17/21 (persona); mucho SaaS |
+| psicologia/materiais-psicanalise/psicoterapia-infantil | psicologia/materiais-psicanalise | BR | superficial | 5 kw + ALL en 1 + control AR/ES (`recursos terapêuticos`) · 2026-11-11 | Nova Era 25/42 (tarjeta); ola de clones «recursos prontos R$9,99» < 7 d; excluido todo lo neurodivergente |
+| psicologia/materiais-psicanalise/autoconhecimento-cadernos | psicologia/materiais-psicanalise | BR | superficial | 5 kw · 2026-11-11 | ebooks de ansiedad con cara; nadie fantasma con cohorte |
 | mapas-visuais-r10 | educacao | BR | virgen | — | apareció por huella el 2026-11-09: red «Clube dos X» a R$10 (Mapas 8/25, Cálculo, Devops), Leg Educação, Universo Laboratorial, Bovino Ilustrado 6/16 |
 | design-digital/packs-stories-templates | design-digital | BR | superficial | 2 huellas BR (`templates canva`, `pack de artes`) + 1 control AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Templates - Pack de artes: figurinhas 27/27, 217-293 d, tarjeta); perforar por formato (stickers / feeds / mini site / sublimación) y avatar (emprendedora / profesión) |
 | oficios/moldes-marcenaria-pdf | oficios | BR | superficial | 2 huellas BR (`moldes pdf`, `download imediato`) + 2 controles AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Mestre da Madeira 11/50, tarjeta); en AR/ES ya hay testers (Carpinteria que Vende, Tablero Studio); perforar por avatar (juguetes / palet / muebles) |
@@ -178,6 +184,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `ebook pdf` / `guia ilustrado` (BR, noviembre) | lanzamientos de Navidad de hoy y ebooks gratis con persona | entregable + tema; contar por `page_ids` |
 | página que lanza 15-40 ads de golpe con «⭐4,8/5 avaliações» (BR) | parece fuerte y tiene cohorte 0 (Ateliê Próspero 0/37, Habilidades dos Avós 0/19) | re-medir a la semana |
 | página-catálogo con varios SKU (BR) | la cohorte de la página mezcla ofertas | `page_ids` + `search_terms` del título del SKU (Templates: figurinhas 27/27) |
+| `exercícios TCC` / `fichas TCC` / `baralho terapêutico` / `cartas terapêuticas` / `relatório psicológico` / `prontuário psicológico` / `workbook ansiedade` (BR) | TCC = tesis universitaria; tarot y constelación; abogados BPC y dramas; SaaS; palabra no nativa | `técnicas TCC prontas`, `caderno terapêutico`, `recursos terapêuticos`, `dinâmicas terapêuticas` |
 
 ## Operadores a seguir (modo C)
 
@@ -230,6 +237,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mestre da Madeira | 1240001732528839 | BR | tarjeta BR del 2026-11-11 (+100 moldes de madeira PDF R$12,90, 11/50, escalando) |
 | Clube do Devocional | 1333933036463024 | BR | ≥43/50 el 2026-11-11 con 40 ads de un solo día (7 d); WA sin oferta; re-medir 2026-11-18 |
 | Arquivos que encantam | 216603914872916 | BR | 25/33 el 2026-11-11 («Apenas R$10», producto no visible): verificar en la PC |
+| NeuroKit Clínico | 964287390098744 · 883009701566343 | BR · ES · FR · DE | tarjeta BR del 2026-11-11 tarde (fichas TCC para psicólogos, 34/50); la hermana ya corre en español/francés/alemán: ver si la versión en español entra en cohorte |
+| Terapia Cognitiva Online | 836423469737678 | BR | tarjeta BR del 2026-11-11 tarde («88 técnicas de TCC prontas», 19/33, 45 d) |
+| Nova Era Recursos Terapêuticos | 114755404813290 | BR | tarjeta BR del 2026-11-11 tarde (cadernos de bolso para terapeutas, 25/42, 53 d); lanzó Planner Psi y Metáforas: ver cuál entra en cohorte |
 | | | | |
 
 ## Rotación vigente
@@ -255,7 +265,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | en curso | en curso | en curso |
 | 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | en curso | en curso | en curso |
-| 2026-11-11 18:36 | BR | B perforar (tarde) | psicologia/materiais-psicanalise | en curso | en curso | en curso |
+| 2026-11-11 18:36 | BR | B perforar (tarde) | psicologia/materiais-psicanalise | 6 subnichos × 5 kw BR (30) + 1 + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas | 2 tarjetas (NeuroKit Clínico + Terapia Cognitiva Online, Nova Era Recursos Terapêuticos), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-11 06:45 | ES | B perforar (mañana) | educacion-profesional/fichas-visuales-estudio | 6 subnichos × 5 kw (30) + ALL en 1; ~13 páginas contadas (por país en Aprendia y Derecho en Mapas) | 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas), 5 señales | profundo, con 6 hijos superficial |
 | 2026-11-11 06:40 | EN | C operadores (mañana) | — (operadores EN) | 17 operadores EN + 3 señales de ayer, 27 consultas `page_ids` + país, 7 sondeos `search_terms`, 2 controles AR/ES | 2 tarjetas (Your Consulting Management Guide, Sewing Lovers), 7 señales | 1 nodo nuevo (negocios/guias-management-pdf); bolsos con control AR/ES |
 | 2026-11-11 06:35 | BR | A huella (mañana) | — (huella, BR) | 16 huellas BR (distintas de las del 09-11) + 3 controles AR/ES; ~42 páginas contadas con `page_ids` | 2 tarjetas (Templates - Pack de artes, Mestre da Madeira), 6 señales | 4 nodos nuevos BR; 4 operadores a seguir |

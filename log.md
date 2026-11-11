@@ -24,3 +24,5 @@
 ## [2026-11-11] caza-auto | ES B educacion-profesional/fichas-visuales-estudio → 2 candidatos a bandeja
 
 ## [2026-11-11] caza-auto | EN C operadores → 2 candidatos a bandeja
+
+## [2026-11-11] caza-auto | BR B psicologia/materiais-psicanalise (tarde) → 2 candidatos a bandeja
