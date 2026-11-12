@@ -309,6 +309,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | en curso | — | — |
 | 2026-11-12 18:40 | EN | B perforar (tarde) | hogar/preparacion-emergencias | en curso | — | — |
 | 2026-11-12 18:36 | BR | B perforar (tarde) | receitas/ebooks-fit | en curso | — | — |
 | 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | 24 operadores (27 page_ids), ~45 consultas `page_ids` + país, 3 sondeos `search_terms` | 2 tarjetas (Talleres Listos, Consultorio Nutri Listo), 8 señales | sin cambios de estado; 1 operador nuevo a seguir (Mapasyresumenes) |
