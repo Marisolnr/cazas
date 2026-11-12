@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kit digital «qué hacer cuando no estés» (sucesión y papeles de la familia) — My Estate Kit GB · `hogar/kit-sucesion-familia` · 2026-11-12 · sesión EN
+- **Qué es:** un kit digital para dejarle a la familia todo ordenado: cuentas, pólizas, contraseñas y los pasos de la sucesión («A will says who inherits. Not what to do.», «The binder that guides your family»). Llega por mail para completar en la compu o imprimir. Precio cerca de **£29** (dato de una reseña). Trustpilot: 4,6 con 264 reseñas.
+- **Por qué es ganador:** cohorte 7+/activos **≥50/50 en GB** (54 estimados: los 50 visibles tienen 12+ días) · el ad más viejo tiene **115 días** (desde el 20-07) · 16 fechas de creación y 41 ads nuevos en los últimos 30 días (operador vivo) · página de producto sin persona · un solo operador; atrás entran Atlas Media «The Kept Folder», Just In Case Papers y LifeTrove.
+- **Qué hacer:** modelar un kit PDF/planilla «lo que tu familia va a necesitar saber» con los trámites del país (declaratoria de herederos, bancos, seguros, contraseñas) · destino sugerido **ES**, después AR · ángulo: «un testamento dice quién hereda, no qué hacer», con historias en primera persona de hijos que encontraron todo en minutos.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1091977304009213&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1823982462257708)
+- **Landing:** myestatekit.co.uk (no abierta). El formato digital sale de Trustpilot: «access is sent by email so you can start straight away». Verificar en la PC el precio y qué trae el kit.
+- Score 3/4 · Decisión: —
+- Evidencia: API; formato verificado por WebFetch (Trustpilot), landing y snapshot no verificados desde la nube (longevidad por API).
+
+### 🎯 Planilla todo-en-uno de vida y finanzas a USD 9 («70+ tabs») — Cosmo Studio US·GB · `productividad/planillas-vida` · 2026-11-12 · sesión EN
+- **Qué es:** una planilla descargable con más de 70 pestañas: ingresos y gastos, deudas, 12 metas, rachas de hábitos y 107 tareas con kanban y gantt. Se paga **USD 9** una sola vez («Was $297», «No App, No Monthly Fee, Just $9», «Trusted By 160,000+ Organizers»).
+- **Por qué es ganador:** cohorte 7+/activos **22/28 en US** y 21/25 en GB · el ad más viejo tiene **72 días** (desde el 31-08), y siguen activos los 16 ads creados ese día · 4 fechas de creación, la última hoy (abrió un SKU nuevo: invitación de casamiento en Canva) · página fantasma · el mismo estilo de títulos aparece en Her Notion Planner y Ultimate Notion Planner (probablemente el mismo operador; no se suman).
+- **Qué hacer:** modelar una planilla de Google Sheets/Excel «reemplazá 5 apps por una planilla», con finanzas personales en pesos o euros, hábitos y metas · destino sugerido **AR**, después ES · ángulo: «olvidarme de pagar me costó $X, esto cuesta $Y», pago único, sin suscripción.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=209343218938190&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=209343218938190&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2379209239494027)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC dónde se compra y qué formato tiene la planilla (Sheets o Excel).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-12)**
+- The Ascent Club (102421131594782): planes de práctica listos para entrenadores de más de 10 deportes y actividades, **≥58 en cohorte en US** (contados con sondeos; 228 estimados, cohorte oculta), ad más viejo de 35 días. Es multi-SKU: contar por deporte. Hermana con el mismo copy: Download Studio.
+- CustodyLogs (959544217247977): **44/49 en US**, 21 fechas, ad de 272 días («Get court-ready», registros para juicios de custodia). Puede ser una app y no un PDF: verificar en la PC.
+- Goodreadsnow (103734905086194): 18/21 en US, workbooks de PTSD complejo y regulación somática (PDF, EUR), ad de 33 días.
+- PLR Printables Store (106571978807489): 30/35 en US y GB, imprimibles con derechos de reventa. Vende un negocio, no un producto final.
+- Ultimate Notion Planner (27/27 US) y Her Notion Planner (18/18 GB): planners de Notion a USD 9, pero cada uno con ads de solo 2 fechas.
+- Excelbychris (316333711567922): 0/38, «300 Excel Templates 95% OFF». 26 ads cumplen 7 días el 13-11: re-medir.
+
 ### 🎯 Guía «Step by Step Guide to Understand the Bible» / «God's Word Made Simple» — RootedinFaith GB·US · `religion/biblia-visual/estudio-biblico-guias` · 2026-11-11 (tarde) · sesión EN
 - **Qué es:** una guía paso a paso para entender la Biblia («God's Word Made Simple», «Discover The True Meaning»), con promo «62% Off This Week Only». La API no muestra el precio ni el formato: no se sabe si es PDF o libro impreso.
 - **Por qué es ganador:** cohorte 7+/activos **30/45 en GB y 28/≥50 en US** (52 estimados) · el ad más viejo tiene **33 días** (desde el 06-10) · 10-11 fechas de creación y una tanda nueva el 10/11-11 (operador vivo) · casi toda la cohorte repite un solo título · página fantasma · un solo operador.

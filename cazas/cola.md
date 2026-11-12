@@ -145,6 +145,10 @@ los nichos que emergen.
 | educacion-profesional/fichas-visuales-estudio/derecho-contabilidad | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | Dra Mariana Legal 8/23; Studio Facile ES 43 nuevos (re-medir 2026-11-18); Virtual Derecho desde 9,90 € |
 | educacion-profesional/fichas-visuales-estudio/formato-aprendia | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | ruido de 5.000+ en `guía visual PDF` y `fichas de estudio`; Bookbay Digital 9/0 |
 | docentes/dinamicas-grupales | docentes | ES | superficial | Talleres Listos contado por país AR/ES/MX · 2026-11-10 | Talleres Listos pasa la vara (AR 20, ES 24, MX 21) pero ya corre en AR y ES; perforar por público (docentes / catequesis / RR. HH.) |
+| hogar/kit-sucesion-familia | hogar | EN | superficial | 1 huella US/GB (`printable binder`) + My Estate Kit contado en GB · 2026-11-12 | apareció por huella el 2026-11-12 (My Estate Kit ≥50/50 GB, 115 d, tarjeta); hay cluster (Atlas Media «The Kept Folder», Just In Case Papers, LifeTrove, Afterpath, The Just in Case Binder): perforar por avatar (hijos / viuda / albacea) y por país (US, GB) |
+| productividad/planillas-vida | productividad | EN | superficial | 2 huellas US/GB (`notion template`, `excel template`) · 2026-11-12 | apareció por huella el 2026-11-12 (Cosmo Studio 22/28 US, tarjeta; Notion planners de 2 fechas); perforar por formato (Sheets / Excel / Notion) y por tema (finanzas / hábitos / negocio) |
+| deportes/planes-practica-entrenadores-en | deportes | EN | virgen | 1 huella (`toolkit pdf`) + sondeos de The Ascent Club · 2026-11-12 | apareció por huella el 2026-11-12: The Ascent Club ≥58 en cohorte US (multi-SKU, cohorte oculta) y Download Studio con el mismo copy; contar por deporte |
+| pareja/custodia-registros | pareja | EN | virgen | 1 huella (`printable binder`) · 2026-11-12 | apareció por huella el 2026-11-12: CustodyLogs 44/49 US (272 d), Custody Keeper, Shielded Co-Parenting; ¿app o PDF? |
 
 ---
 
@@ -208,6 +212,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `books of the bible` / `Revelation explained` / `bible timeline` / `visual bible` (EN) | stopwords (849 mil) / short-dramas / chart Adams físico y ~10 clones | `bible study printable`, `scripture cards printable`, `sunday school printable` |
 | `bible verse cards` / `bible memory verses` / `bible study course` / `sunday school curriculum` / `bible activity pages` (EN) | Biblia etíope con páginas-persona falsas, dropshippers generalistas, curricula genéricas, advertoriales de salud | entregable + tema; contar por `page_ids` |
 | `ejercicios terapia` / `terapia adicciones` / `prevención recaídas` / `psicología deportiva` / `herramientas coaching` / `kit coaching` / `rutinas editables` (ES) | fisio y kinesio, clínicas de rehabilitación, universidades, certificaciones, ruido en inglés, y una red de páginas con títulos de solo estrellas (ReDuca, EstDuc, ApreDuc, EduPro, AprenEdu) | `plantillas psicólogos`, `terapia pareja ejercicios`, `plantillas entrenadores`, `planes alimentación editables` |
+| `lifetime access` / `swipe file` / `video lessons` / `$9.99 guide` (EN) | short-dramas (16-36 mil), coaches con cara, ruido | `printable binder`, `notion template`, `excel template`, `toolkit pdf` |
 | `mapas` solo / `mapas visuais` / `mapas anatomia` / `mapas história` / `resumos visuais` (BR) | astrología y numerología, lash mapping y mapas capilares, estética, Biblia infantil y juegos, cábala en USD | `mapas` + materia de carrera (`mapas farmacologia`, `mapas cinesiologia`, `mapas devops`) y contar por `page_ids` |
 | `mapas OAB` / `mapas engenharia` / `mapas de revisão` / `Leg Educação` (BR) | suscripciones y apps / concursos (Transpetro) / concursos / no es legislación (audio, mega hair) | `mapas direito constitucional`, `direito esquematizado` |
 
@@ -271,6 +276,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); re-medir 2026-11-14 |
 | Valentina Ríos | 1280761195116636 | US · AR · ES | papelería cristiana de reventa, 17/26 US (BRL, español); ya en AR/ES; le toca seguirla también a ES |
 | Growing in Faith / Faith Times | 1329678806897080 · 1241869225684857 | US | 18/27 y 7/36 el 2026-11-11, advertorial infantil-cristiano, producto no visible |
+| My Estate Kit | 1091977304009213 | GB | tarjeta EN del 2026-11-12: kit digital de sucesión (~£29), ≥50/50 GB, 115 d; contar US y seguir al cluster (Atlas Media Group 1254679187727827, Afterpath 1016389298235387) |
+| Cosmo Studio | 209343218938190 | US · GB | tarjeta EN del 2026-11-12: planilla de vida a $9, 22/28 US y 21/25 GB, 72 d; abrió SKU de invitaciones en Canva el 12-11; hermanas probables Her Notion Planner 1282088321645043 y Ultimate Notion Planner 425210960671076 |
+| The Ascent Club | 102421131594782 | US · GB | ≥58 en cohorte US por sondeos (228 est., multi-SKU de planes de práctica para entrenadores); hermana Download Studio 1344017652136102 |
+| CustodyLogs | 959544217247977 | US | 44/49 el 2026-11-12, ad de 272 d; ¿app o PDF? verificar en la PC |
 | TI em Mapas | 1171375182736345 | BR · hispano | tarjeta BR del 2026-11-12 (+300 mapas mentales de TI, 41/49, 77,7 d); lanzó versión en español el 10-11: contarla por país AR/ES/MX |
 | Farmácia Mapeada | 105693778467803 | BR | tarjeta BR del 2026-11-12 (farmacología ilustrada 15/20, página ≥32/≥50, 78 d); ¿PDF o impreso? |
 | Marcelomapas | 100945228762390 | BR | direito ilustrado R$17 / OAB R$97, ≥22/143 est. (79,5 d) el 2026-11-12; verificar si hay cara |
@@ -299,7 +308,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | en curso | en curso | en curso |
-| 2026-11-12 06:40 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
+| 2026-11-12 06:40 | EN | A huella (mañana) | — (huella, US GB) | 15 huellas × US/GB (30, distintas de las del 09-11); ~40 páginas contadas con `page_ids` + país | 2 tarjetas (My Estate Kit, Cosmo Studio), 6 señales | 4 nodos nuevos (2 superficial, 2 virgen); 4 operadores a seguir |
 | 2026-11-12 06:36 | BR | B perforar (mañana) | mapas-visuais-r10 | 6 subnichos × 5-6 kw BR (32) + 1 de arranque + 2 controles AR/ES/MX/CO (sin ceros, ALL no hizo falta); ~45 páginas contadas | 2 tarjetas (TI em Mapas, Farmácia Mapeada), 5 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
 | 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | 6 subnichos, 27 kw nativas (sin ceros); ~45 páginas contadas (Sector Digital y Biblioteca Digital por país) | 1 tarjeta (Biblioteca Digital), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (deportes/planificacion-entrenadores) |
 | 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas (sin ceros, ALL no hizo falta) | 1 tarjeta (RootedinFaith), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (papeleria-cristiana-reventa) |

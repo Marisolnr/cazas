@@ -32,3 +32,4 @@
 ## [2026-11-11] caza-auto | ES B salud-mental/sistemas-de-sesiones (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-12] caza-auto | BR B mapas-visuais-r10 → 2 candidatos a bandeja
+## [2026-11-12] caza-auto | EN A huella (US GB) → 2 candidatos a bandeja
