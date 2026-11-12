@@ -100,7 +100,13 @@ los nichos que emergen.
 | psicologia/materiais-psicanalise/documentos-psicologo | psicologia/materiais-psicanalise | BR | superficial | 5 kw · 2026-11-11 | Psiflow.clin ≥18/81, Valesca Romão 17/21 (persona); mucho SaaS |
 | psicologia/materiais-psicanalise/psicoterapia-infantil | psicologia/materiais-psicanalise | BR | superficial | 5 kw + ALL en 1 + control AR/ES (`recursos terapêuticos`) · 2026-11-11 | Nova Era 25/42 (tarjeta); ola de clones «recursos prontos R$9,99» < 7 d; excluido todo lo neurodivergente |
 | psicologia/materiais-psicanalise/autoconhecimento-cadernos | psicologia/materiais-psicanalise | BR | superficial | 5 kw · 2026-11-11 | ebooks de ansiedad con cara; nadie fantasma con cohorte |
-| mapas-visuais-r10 | educacao | BR | virgen | — | apareció por huella el 2026-11-09: red «Clube dos X» a R$10 (Mapas 8/25, Cálculo, Devops), Leg Educação, Universo Laboratorial, Bovino Ilustrado 6/16 |
+| mapas-visuais-r10 | educacao | BR | profundo | 6 subnichos × 5-6 kw BR (32) + 1 de arranque + 2 controles AR/ES/MX/CO; ~45 páginas contadas · 2026-11-12 | perforado el 2026-11-12: 2 tarjetas (TI em Mapas, Farmácia Mapeada); modo C sobre los hijos |
+| mapas-visuais-r10/saude | mapas-visuais-r10 | BR | superficial | 5 kw + control AR/ES (`farmacología mapas`) · 2026-11-12 | Farmácia Mapeada ≥32/≥50 (farmacología 15/20, 78 d, tarjeta); Edufisicavisual 21/29 joven (re-medir 2026-11-19); muchas páginas-persona (Mariana Oliveira, Daniela Santos) |
+| mapas-visuais-r10/lab-vet-agro | mapas-visuais-r10 | BR | superficial | 6 kw · 2026-11-12 | oferta chica a R$10: Bovino Ilustrado 6/16, Universo Laboratorial 4/10, Suelem Dias 9/9 sin ads nuevos; parasitologia y agronomia = huecos finos |
+| mapas-visuais-r10/tecnologia-exatas | mapas-visuais-r10 | BR | superficial | 6 kw + control AR/ES (`mapas mentales informática`) · 2026-11-12 | TI em Mapas 41/49 (77,7 d, tarjeta; ya en español desde el 10-11); red «Clube do X» rota a diario sin cohorte; Bellion 5/31 |
+| mapas-visuais-r10/direito | mapas-visuais-r10 | BR | superficial | 6 kw · 2026-11-12 | Marcelomapas ≥22/143 est. (79,5 d, ¿persona?); Direito do Trabalho 10X 7/≥50; OAB = suscripciones y apps |
+| mapas-visuais-r10/escola-enem | mapas-visuais-r10 | BR | superficial | 5 kw · 2026-11-12 | nadie con 10+; O Pai do ENEM 0/22 estacional; Português Primata 4/5 (WA) |
+| mapas-visuais-r10/formato-ilustrado | mapas-visuais-r10 | BR | superficial | 5 kw · 2026-11-12 | Mapas Visuais & ilustrados ≥22/50 (producto no visible); Luana Ferreira 0/9 (persona, USD) |
 | design-digital/packs-stories-templates | design-digital | BR | superficial | 2 huellas BR (`templates canva`, `pack de artes`) + 1 control AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Templates - Pack de artes: figurinhas 27/27, 217-293 d, tarjeta); perforar por formato (stickers / feeds / mini site / sublimación) y avatar (emprendedora / profesión) |
 | oficios/moldes-marcenaria-pdf | oficios | BR | superficial | 2 huellas BR (`moldes pdf`, `download imediato`) + 2 controles AR/ES · 2026-11-11 | apareció por huella el 2026-11-11 (Mestre da Madeira 11/50, tarjeta); en AR/ES ya hay testers (Carpinteria que Vende, Tablero Studio); perforar por avatar (juguetes / palet / muebles) |
 | receitas/ebooks-fit | receitas | BR | virgen | 1 huella BR (`receitas fit pdf`) · 2026-11-11 | apareció por huella el 2026-11-11: FitFlow 17/17 y Comida Saudável 15/15 con ads de 61-119 d pero ninguno nuevo en 30 d (posible zombi) |
@@ -202,6 +208,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `books of the bible` / `Revelation explained` / `bible timeline` / `visual bible` (EN) | stopwords (849 mil) / short-dramas / chart Adams físico y ~10 clones | `bible study printable`, `scripture cards printable`, `sunday school printable` |
 | `bible verse cards` / `bible memory verses` / `bible study course` / `sunday school curriculum` / `bible activity pages` (EN) | Biblia etíope con páginas-persona falsas, dropshippers generalistas, curricula genéricas, advertoriales de salud | entregable + tema; contar por `page_ids` |
 | `ejercicios terapia` / `terapia adicciones` / `prevención recaídas` / `psicología deportiva` / `herramientas coaching` / `kit coaching` / `rutinas editables` (ES) | fisio y kinesio, clínicas de rehabilitación, universidades, certificaciones, ruido en inglés, y una red de páginas con títulos de solo estrellas (ReDuca, EstDuc, ApreDuc, EduPro, AprenEdu) | `plantillas psicólogos`, `terapia pareja ejercicios`, `plantillas entrenadores`, `planes alimentación editables` |
+| `mapas` solo / `mapas visuais` / `mapas anatomia` / `mapas história` / `resumos visuais` (BR) | astrología y numerología, lash mapping y mapas capilares, estética, Biblia infantil y juegos, cábala en USD | `mapas` + materia de carrera (`mapas farmacologia`, `mapas cinesiologia`, `mapas devops`) y contar por `page_ids` |
+| `mapas OAB` / `mapas engenharia` / `mapas de revisão` / `Leg Educação` (BR) | suscripciones y apps / concursos (Transpetro) / concursos / no es legislación (audio, mega hair) | `mapas direito constitucional`, `direito esquematizado` |
 
 ## Operadores a seguir (modo C)
 
@@ -263,6 +271,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); re-medir 2026-11-14 |
 | Valentina Ríos | 1280761195116636 | US · AR · ES | papelería cristiana de reventa, 17/26 US (BRL, español); ya en AR/ES; le toca seguirla también a ES |
 | Growing in Faith / Faith Times | 1329678806897080 · 1241869225684857 | US | 18/27 y 7/36 el 2026-11-11, advertorial infantil-cristiano, producto no visible |
+| TI em Mapas | 1171375182736345 | BR · hispano | tarjeta BR del 2026-11-12 (+300 mapas mentales de TI, 41/49, 77,7 d); lanzó versión en español el 10-11: contarla por país AR/ES/MX |
+| Farmácia Mapeada | 105693778467803 | BR | tarjeta BR del 2026-11-12 (farmacología ilustrada 15/20, página ≥32/≥50, 78 d); ¿PDF o impreso? |
+| Marcelomapas | 100945228762390 | BR | direito ilustrado R$17 / OAB R$97, ≥22/143 est. (79,5 d) el 2026-11-12; verificar si hay cara |
+| Mapas Visuais & ilustrados | 1316538911539485 | BR | ≥22/50 (117 est.) con títulos de solo estrellas el 2026-11-12: ver qué vende |
 | | | | |
 
 ## Rotación vigente
@@ -288,7 +300,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | en curso | en curso | en curso |
 | 2026-11-12 06:40 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
-| 2026-11-12 06:36 | BR | B perforar (mañana) | mapas-visuais-r10 | en curso | en curso | en curso |
+| 2026-11-12 06:36 | BR | B perforar (mañana) | mapas-visuais-r10 | 6 subnichos × 5-6 kw BR (32) + 1 de arranque + 2 controles AR/ES/MX/CO (sin ceros, ALL no hizo falta); ~45 páginas contadas | 2 tarjetas (TI em Mapas, Farmácia Mapeada), 5 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
 | 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | 6 subnichos, 27 kw nativas (sin ceros); ~45 páginas contadas (Sector Digital y Biblioteca Digital por país) | 1 tarjeta (Biblioteca Digital), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (deportes/planificacion-entrenadores) |
 | 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas (sin ceros, ALL no hizo falta) | 1 tarjeta (RootedinFaith), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (papeleria-cristiana-reventa) |
 | 2026-11-11 18:36 | BR | B perforar (tarde) | psicologia/materiais-psicanalise | 6 subnichos × 5 kw BR (30) + 1 + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas | 2 tarjetas (NeuroKit Clínico + Terapia Cognitiva Online, Nova Era Recursos Terapêuticos), 5 señales | profundo, con 6 hijos superficial |
