@@ -141,7 +141,15 @@ los nichos que emergen.
 | oficios-digitales/guias-cricut/laser-cnc-archivos | oficios-digitales/guias-cricut | ES | superficial | 6 kw · 2026-11-10 | Vectores Laser 9/9 (78 d, Messenger); Planos & Proyectos 93 y The Leather Blueprint 92 con cohorte oculta: re-medir |
 | oficios-digitales/guias-cricut/tarjetas-popup-papeleria | oficios-digitales/guias-cricut | ES | superficial | 5 kw · 2026-11-10 | Neutral Nature 47/47 CO (tarjeta), clon Pura Idea 0/43; Deco Mundo 11/23; Cajas Para Imprimir Creativas 6/8 |
 | oficios-digitales/guias-cricut/negocio-con-maquina | oficios-digitales/guias-cricut | ES | superficial | 5 kw · 2026-11-10 | ruido de máquinas, insumos y talleres; nada con cohorte |
-| productividad/planner-vaciar-cabeza | productividad | ES | superficial | 1 huella ES (`planner imprimible`) + conteo por país ES/MX/AR · 2026-11-10 | apareció por huella el 2026-11-10 (Planner Hoy Solo 3 21/35 ES, tarjeta; AR 0); perforar por formato (PDF / digital) y avatar (madres / estudiantes / emprendedores) |
+| productividad/planner-vaciar-cabeza | productividad | ES | profundo | 7 subnichos, 35 kw nativas + ALL en 2 ceros; ~25 páginas contadas · 2026-11-12 tarde | molde «cabeza que va a mil» con 2 operadores con cohorte (Planner Hoy Solo 3 30/41, Mente Inquieta 18/43, tarjeta) y ninguno en AR; Mente Ordenada 0/40 re-medir 2026-11-19 |
+| productividad/planner-vaciar-cabeza/digital-formato | productividad/planner-vaciar-cabeza | ES | superficial | 5 kw + ALL · 2026-11-12 | ruido de short-drama/VND; `plantilla Notion` dio Claridad y Acción (tarjeta, nodo aparte) |
+| productividad/planner-vaciar-cabeza/finanzas-plantillas | productividad/planner-vaciar-cabeza | ES | superficial | 5 kw · 2026-11-12 | Edwindigital 41/41 posible zombi; Mis Finanzas Pro 7/12; retos de ahorro nuevos (Ositos de Entrecasa 0/10): re-medir 2026-11-19 |
+| productividad/planner-vaciar-cabeza/hogar-menu | productividad/planner-vaciar-cabeza | ES | superficial | 5 kw · 2026-11-12 | recetarios y viandas; menú semanal todo < 2 d |
+| productividad/planner-vaciar-cabeza/estudiantes | productividad/planner-vaciar-cabeza | ES | superficial | 5 kw + ALL oposiciones · 2026-11-12 | cementerio para planners (academias, apuntes) |
+| productividad/planner-vaciar-cabeza/emprendedoras-contenido | productividad/planner-vaciar-cabeza | ES | superficial | 5 kw · 2026-11-12 | SaaS, agencias, marca personal; Pack Digital Emprendor 18/18 AR sin producto visible |
+| productividad/planner-vaciar-cabeza/agenda-2027 | productividad/planner-vaciar-cabeza | ES | superficial | 4 kw · 2026-11-12 | físico (imprentas) y PLR (Conocimiento y Salud 6/33, Eonline 50 del 11-11) |
+| productividad/planner-vaciar-cabeza/habitos-mente | productividad/planner-vaciar-cabeza | ES | superficial | 6 kw · 2026-11-12 | Mente Inquieta (tarjeta), Mente Ordenada, Agenda sin Caos, Bajá el ruido, Descongestiona tu mente: el molde se está llenando |
+| productividad/plantillas-notion-oficios | productividad | ES | superficial | 1 kw (`plantilla Notion`) + Claridad y Acción por país · 2026-11-12 | apareció al perforar planner-vaciar-cabeza (Claridad y Acción 30/40, 3 SKUs por oficio, tarjeta); perforar por oficio (salud / docentes / creativos) y formato (Notion / Excel) |
 | manualidades/plantillas-ceramica | manualidades | ES | superficial | 1 huella ES (`plantillas imprimibles`) + conteo AR/ES · 2026-11-10 | apareció por huella el 2026-11-10 (Biblioteca maestra arcilla ≥16/≥50 AR, tarjeta; ES 0; clon Planos de Barro de hoy) |
 | educacion-profesional/fichas-visuales-estudio | educacion-profesional | ES | profundo | 6 subnichos × 5 kw (30) + ALL en 1 + ~13 páginas contadas · 2026-11-11 | perforado el 2026-11-11: 2 tarjetas (Aprendia : Guias profesionales, Derecho en Mapas); modo C sobre los hijos |
 | educacion-profesional/fichas-visuales-estudio/salud | educacion-profesional/fichas-visuales-estudio | ES | superficial | 5 kw · 2026-11-11 | red Aprendia con cohorte 0; IA Programas 16/22 (producto sin ver); testers BRL |
@@ -224,6 +232,9 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `mapas OAB` / `mapas engenharia` / `mapas de revisão` / `Leg Educação` (BR) | suscripciones y apps / concursos (Transpetro) / concursos / no es legislación (audio, mega hair) | `mapas direito constitucional`, `direito esquematizado` |
 | `first aid guide` / `medical emergency guide` / `food storage guide` / `long term food storage` / `survival manual` / `off grid guide` / `family emergency plan` / `bug out bag checklist` (EN) | short-dramas («Survival Live», «The Last Shelter»), suplementos, decenas de miles de ruido | `first aid printable`, `survival skills pdf`, `emergency plan printable`, `blackout binder`, `hurricane preparedness guide` |
 | advertoriales «If you're a parent or grandparent, read this» (EN, prepper) | familia de páginas (American Ready, Prepared American, Homefront Ready, David Miller) que vende un kit físico: pasa el volumen sin ser infoproducto | ver el producto antes de contar |
+| `agenda 2027` / `agenda digital` / `agenda emprendedora` / `agenda universitaria` (ES) | el verbo «agenda tu cita» (concesionarias, clínicas, inmobiliarias) y universidades | `vaciar mente`, `planner hábitos`, `planner autocuidado` |
+| `planner hogar` / `planner negocio` / `planner redes` / `planner 2027` / `organizar hogar` (ES) | wedding/event planners, SaaS, constructoras, muebles | `plantilla Notion` + oficio, `planner` + par de dolor |
+| `calendario 2027` / `brain dump` / `diario gratitud` / `control gastos` / `reto ahorro` (ES) | imprentas físicas / short-drama en inglés / novelas / short-drama doblado | `vaciar mente`, `finanzas personales plantilla` |
 
 ## Operadores a seguir (modo C)
 
@@ -297,6 +308,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Farmácia Mapeada | 105693778467803 | BR | tarjeta BR del 2026-11-12 (farmacología ilustrada 15/20, página ≥32/≥50, 78 d); ¿PDF o impreso? |
 | Marcelomapas | 100945228762390 | BR | direito ilustrado R$17 / OAB R$97, ≥22/143 est. (79,5 d) el 2026-11-12; verificar si hay cara |
 | Mapas Visuais & ilustrados | 1316538911539485 | BR | ≥22/50 (117 est.) con títulos de solo estrellas el 2026-11-12: ver qué vende |
+| Claridad y Acción | 771123896085843 | AR · ES · MX | plantillas Notion por oficio, 30/40 y un SKU nuevo cada 1-2 semanas (2026-11-12): muestra el próximo oficio |
+| Mente Ordenada | 1084424138077543 | hispano | 0/40 en 6 días con el molde «vaciá tu cabeza» (2026-11-12): re-medir 2026-11-19 |
+| Pack Digital Emprendor | 104462436003652 | AR | 18/18, 108 d, producto no visible por API (2026-11-12) |
 | | | | |
 
 ## Rotación vigente
@@ -320,7 +334,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | en curso | — | — |
+| 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | 7 subnichos, 35 kw nativas + ALL en 2 ceros; ~25 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Claridad y Acción, Mente Inquieta), 7 señales | profundo, con 7 hijos superficial + 1 nodo nuevo (productividad/plantillas-notion-oficios); 3 operadores a seguir |
 | 2026-11-12 18:40 | EN | B perforar (tarde) | hogar/preparacion-emergencias | 6 subnichos × 4-5 kw US/GB (25) + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas (2 subagentes de lectura) | 2 tarjetas (The Lost Skills of Independence, Fallback Book), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
 | 2026-11-12 18:36 | BR | B perforar (tarde) | receitas/ebooks-fit | en curso | — | — |
 | 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | 24 operadores (27 page_ids), ~45 consultas `page_ids` + país, 3 sondeos `search_terms` | 2 tarjetas (Talleres Listos, Consultorio Nutri Listo), 8 señales | sin cambios de estado; 1 operador nuevo a seguir (Mapasyresumenes) |

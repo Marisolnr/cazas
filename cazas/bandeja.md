@@ -395,6 +395,33 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Plantillas Notion por oficio (freelancer · estudio de obras · abogados) — Claridad y Acción AR·ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-12 (tarde) · sesión ES
+- **Qué es:** plantillas de Notion para gestionar el trabajo de un oficio: clientes, presupuestos, proyectos, tareas y cobros en un solo panel, con «instructivo paso a paso incluido». Hay tres SKUs: freelancer, estudio de arquitectura/obras y abogados/casos. Cobra en USD. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **30/40** en los 9 países (AR 30/40, ES 20/30, MX 30/40), con 10 en cohorte por cada SKU. El ad más viejo tiene **37,6 días**. Hay 6 fechas de creación y la última es del 10-11, con 10 ads nuevos de freelancer: está escalando. Página fantasma, un solo operador. Salió del eje formato (`plantilla Notion`).
+- **Qué hacer:** ya corre en AR y en ES, así que conviene modelar el molde y no la oferta: «tu negocio en una sola plantilla» para un oficio que no toca (psicólogos, nutricionistas, profes particulares, fotógrafos) · destino sugerido **ES** · ángulo: «del WhatsApp y el Excel a un solo panel».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=771123896085843&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=771123896085843&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1779100009908413) · obras: [ad](https://www.facebook.com/ads/library/?id=3736736096474074)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. El cierre es «Comenta FREELANCER» (DM por comentario). Falta el precio.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «La agenda para cabezas que van a mil» — Mente Inquieta ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-12 (tarde) · sesión ES
+- **Qué es:** una agenda/planner para adultos que se dispersan («hecha para tu cerebro», «la agenda que no te juzga si la dejas», «un plan también para los días malos»). Cobra en EUR. El precio y el formato (PDF o impresa) no se ven en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **18/40 en ES** y 18/40 en MX. Es joven: el ad más viejo tiene 14,3 días. Hay 5 fechas de creación y la última es del 11-11, con un lote de 22 ads en curso. Página fantasma, un solo operador. Es el mismo molde que Planner Hoy Solo 3 (30/41, ya en bandeja): dos operadores con cohorte, y ninguno pauta en AR.
+- **Qué hacer:** llevar el molde a **AR**, que está libre: planner PDF «para cabezas que van a mil», con hoja de vaciado, 3 prioridades del día y plan B para los días malos · ángulo: «sin culpa si lo dejás». Si resulta ser una agenda impresa, se modela igual en PDF, porque el dolor se resuelve con el método y no con el objeto.
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1335956396276935&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1335956396276935&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2269026110674995) · «cabezas que van a mil»: [ad](https://www.facebook.com/ads/library/?id=4479179522300537)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta confirmar si es PDF o física y el precio.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: la cohorte tiene dos semanas; re-medir el 2026-11-19.
+
+**Señales del día ES (2026-11-12, tarde)**
+- Planner Hoy Solo 3 (1280820831792286, ya en bandeja): 30/41, ES 29/40 y MX 29/40; sigue sin pautar en AR.
+- Mente Ordenada (1084424138077543): 0/40 pero con 40 ads de 4-5 fechas en 6 días («Planner + 5 bonos · Descarga inmediata», «Vaciá tu cabeza en 10 minutos»). Es el tercer operador del molde; re-medir el 2026-11-19.
+- Pack Digital Emprendor (104462436003652, AR): 18/18, 108 días y 11 fechas, pero los títulos son «50%off» o vacíos: no se sabe qué vende. Hay que ver el snapshot en la PC.
+- Edwindigital (630965730107298): plantillas Excel de finanzas a US$6, 41/41 (AR 13, MX 13), pero sin ads nuevos en 35 días: posible zombi. Habitos exitosos (13/13 AR, 233 días, sin ads nuevos): también posible zombi.
+- Planner Lovers (ya en bandeja EN 09-11): AR 19/19 y MX 20/20, solo 2 fechas de creación y sin ads nuevos desde el 01-11.
+- Retos de ahorro imprimibles (Ositos de Entrecasa 0/10 de ayer, Guias e Manuais 3/14 desde cuenta BR): ola nueva; re-medir el 2026-11-19.
+- Cementerios: agendas 2027 en hispano (imprentas y PLR), `planner estudiante` y `planner oposiciones`.
+
 ### 🎯 «+150 dinámicas grupales listas para aplicar» — Talleres Listos ES·MX·AR · `operadores ES` · 2026-11-12 · sesión ES
 - **Qué es:** un pack de más de 150 dinámicas grupales listas para usar en talleres, clases o grupos. Es un solo SKU con un solo título en los tres países y cobra en USD. El precio y el formato exacto no se ven en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **≥26/50 en ES** (115 estimados), **≥22/50 en MX** (122) y **≥12/50 en AR** (194; en AR los lotes nuevos tapan a los viejos). Las tres son pisos. El ad más viejo tiene 12 días, hay 8 fechas de creación y la última es del 11-11: está escalando con lotes cada 1-3 días. Página fantasma, un solo operador. El 10-11 ya pasaba la vara y quedó afuera solo por el tope de 2 tarjetas; hoy sigue creciendo.
