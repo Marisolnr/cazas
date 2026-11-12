@@ -7,3 +7,4 @@
 - 2026-11-10 EN (mañana): WebFetch de heroichusband.com quedó sin permiso (nadie respondió la solicitud); embudo no verificado. El clon arrancó en HEAD desacoplado: `git push origin main` empujaba el main viejo; se arregló con `git branch -f main HEAD && git checkout main`.
 - 2026-11-12 BR (mañana): el clon arrancó otra vez en HEAD desacoplado (main local en e622a61); el primer push fue rechazado 3 veces. Se arregló con `git checkout main && git merge --ff-only <HEAD>`.
 - 2026-11-12 EN (tarde): HEAD desacoplado otra vez al arrancar; el push «en curso» fue rechazado 3 veces. Se arregló con `git checkout -B main HEAD && git branch -u origin/main`.
+- 2026-11-12 18:36 BR: WebFetch de la landing de Cozinhanoprato no se pudo correr (pedido de permiso sin respuesta en sesión desatendida).

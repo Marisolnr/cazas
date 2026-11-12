@@ -237,6 +237,31 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Ebook de recetas fit para airfryer — Hadassa Fit BR · `receitas/ebooks-fit/airfryer-fit` · 2026-11-12 (tarde) · sesión BR
+- **Qué es:** un ebook digital de recetas para airfryer en clave fit; algunos creativos también hablan de bolos fit. Es la única oferta de la página. Los títulos son solo estrellas («⭐⭐⭐⭐⭐ 4.9/5.0») y el precio no se ve en los ads; el tema sale de que 23 de los 26 ads activos mencionan «receitas airfryer» en el texto.
+- **Por qué es ganador:** cohorte 7+/activos **14/26 en BR** (vistos todos); 12 de esos 14 son de la oferta airfryer. El ad más viejo tiene **103,6 días** (tanda del 01-08). Lanza tandas cada 2-4 semanas (01-08, 30-09, 01-11, 05-11 y 11-11) y en los últimos 30 días creó 16 ads: el operador está vivo y no apaga lo viejo. Es una página fantasma (marca) y un solo operador. Alrededor hay subnicho: Chef Mari ≥18, Chef Pierre 17/24, Fernanda Rocha ≥15 (todas personas-chef de fantasía) y Cozinhanoprato 14.
+- **Qué hacer:** modelar «recetas fit para airfryer» en PDF a USD 5-9, con el ángulo «comé liviano sin ensuciar ollas». Destino sugerido **AR**, después ES. Ojo: el destino ya está caliente. En AR/ES `recetas airfryer` da 177 ads, todos de menos de 2 días, de unos 12 testers (Cocina Argentina en AirFryer, Pasos que crean bienestar, Renata Sampaio en BRL, This Short Life - Digital, Cena Resuelta en EUR). Nadie tiene cohorte todavía, pero el ángulo «cocina argentina» ya está tomado: entrar por «fit / liviano».
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=769240466269366&search_type=page&media_type=all) · creativos más viejos: [104 d](https://www.facebook.com/ads/library/?id=27777610458561601) · [104 d](https://www.facebook.com/ads/library/?id=1518590072785529)
+- **Landing:** embudo no verificado desde la nube (sin URL en los ads). Antes de decidir hay que verificar en la PC el precio, cuántas recetas trae y que no haya cara en los creativos.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, tema por `page_ids` + `search_terms`).
+
+### 🎯 «4 E-books, Infinitos Momentos» (colección de ebooks de recetas) — Cozinhanoprato BR · `receitas/ebooks-fit/colecoes-packs` · 2026-11-12 (tarde) · sesión BR
+- **Qué es:** una colección de 4 ebooks de recetas, que se vende desde `cozinhanoprato.com.br/colecao`. Aparece al buscar «receitas airfryer fit». El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **14/14 en BR**: todo lo que corre sigue vivo. El ad más viejo tiene **31,7 días**, hay 3 fechas de creación y 13 ads nuevos en 30 días. Es una página fantasma (marca) con dominio propio y un solo operador. Es la única «colección» con cohorte en el nicho: el resto de las keywords de colección trae renda extra y personas.
+- **Qué hacer:** modelar un «pack de 4 recetarios» (por ejemplo airfryer, viandas, dulces fit y panes) en PDF a USD 7-12, con el ángulo de regalo y «momentos» (familia, fin de año). Destino sugerido **AR**, después ES. En AR ya hay mega-packs de recetas con bonos (This Short Life - Digital, Recetas de la abu, Vida Saludable «120 Recetas + 5 Bonos»), todos de menos de 2 días. Es más joven que Hadassa: conviene volver a medirlo el 19-11 antes de producir.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1143346648872228&search_type=page&media_type=all) · creativos más viejos: [32 d](https://www.facebook.com/ads/library/?id=1047784384900326) · [32 d](https://www.facebook.com/ads/library/?id=1646586723916844)
+- **Landing:** `cozinhanoprato.com.br/colecao`, no verificada: WebFetch no se pudo correr en esta sesión desatendida. Antes de decidir hay que ver en la PC el precio, el checkout y de qué tratan los 4 ebooks.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-12, tarde)**
+- Receitas Emagrecedoras (1036943289509621): ≥42/≥50 (76 estimados), ad de ≥55 días, 41 nuevos en 30 días, pero es embudo WhatsApp «RECEBA NO WHATSAPP» sin la oferta en el título: verificar en la PC.
+- Saúde em Forma (788979120968843): ≥29/≥50 (80 estimados), el mismo molde WhatsApp de recetas para desinchar; la cohorte queda detrás del tope.
+- Chef Mari (1124610190743998, ≥18/≥50), Chef Pierre (901522396387905, 17/24, USD) y Fernanda Rocha (1138521512675924, ≥15/≥50, USD): pasan el volumen con recetas de airfryer, pero son personas-chef con «Pegue as Receitas»: verificar en la PC si hay cara.
+- FitFlow (1205760639286319, 17/17, 121 días) y Comida Saudável (1211982808660456, 15/15, 108 días): siguen sin ningún ad nuevo en 30 días (posible zombi, igual que el 11-11).
+- «200 Sobremesas Zero Açúcar» corre en 5 páginas a la vez (BG Digital, Vórtex y otras) con 0-1 en cohorte, y Luana Oliveira rota unos 750 ads de marmitas congeladas sin cohorte visible: olas, no ganadores.
+
 ### 🎯 «TI em Mapas: +300 Mapas Mentais de TI para Concursos» — TI em Mapas BR · `mapas-visuais-r10/tecnologia-exatas` · 2026-11-12 · sesión BR
 - **Qué es:** un pack digital de más de 300 mapas mentales de informática para concursos públicos: modelos de desarrollo de software, niveles de prueba, bases de datos y BI, APIs REST, fundamentos de DevOps. Es la única oferta de la página. El precio no se ve en los ads y la cuenta paga en USD.
 - **Por qué es ganador:** cohorte 7+/activos **41/49 en BR** (vistos todos). El ad más viejo tiene **77,7 días** y hay 11 fechas de creación, del 26-08 al 10-11, todas con el mismo título. Hubo 12 ads nuevos en los últimos 30 días, así que el operador está vivo. Es una página fantasma (marca, sin persona) y un solo operador. Las páginas «Clube do X» que venden mapas de TI a R$ 10 no llegan a 10 en ninguna página.
