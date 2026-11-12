@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Enciclopedia «200 habilidades perdidas» (autosuficiencia, en un solo libro) — The Lost Skills of Independence US·GB · `hogar/preparacion-emergencias/habilidades-perdidas` · 2026-11-12 (tarde) · sesión EN
+- **Qué es:** un libro de 200 guías ilustradas de oficios y habilidades que «ya no se enseñan»: conservar comida, remedios caseros, huerta, prepararse para emergencias. Cada guía trae los materiales y las herramientas. Es **FÍSICO**: tapa dura espiralada de 262 páginas a **USD 39**, con promo «76% Off» en los ads. El autor es Claude Davis («The Lost Ways»).
+- **Por qué es ganador:** cohorte 7+/activos **≥50/604 en US y ≥50/233 en GB** (pisos: los 50 visibles ya tienen 7+ días) · ad más viejo visto de **31 días** (desde el 12-10) · operador vivo, con ads nuevos esta semana · página de producto sin cara · el mismo título repetido en toda la cohorte.
+- **Qué hacer:** pasarlo a PDF: fichas ilustradas por oficio, organizadas por tema (cocina y conservas, casa, huerta, remedios, cortes de luz) · destino sugerido **AR**, después ES · ángulo: «lo que sabían hacer tus abuelos, en un solo manual». ⚠️ Esta semana arrancó en AR/ES una ola de clones en español: Maestro del Oficio («234 habilidades de los abuelos · Hoy 7x1», ARS), Mauricio Rios, Jime Bauer y Lucas Rossi. Todos con ads de 0-2 días, así que todavía no tienen cohorte y la ventana se está cerrando.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=984264748113661&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=984264748113661&search_type=page&media_type=all)
+- **Landing:** el producto está verificado en la tienda del distribuidor (store.motherearthnews.com/products/the-lost-skills-of-independence: físico, USD 39, 262 páginas). La landing del ad no se abrió: verificar en la PC si hay versión digital u order bumps.
+- Score 2/4 · Decisión: —
+- Evidencia: API; producto verificado por WebFetch (tienda del distribuidor), snapshot y landing del ad no verificados desde la nube (longevidad por API).
+
+### 🎯 Plan de emergencia hecho para tu dirección, para imprimir — Fallback Book GB · `hogar/preparacion-emergencias/plan-familiar-personalizado` · 2026-11-12 (tarde) · sesión EN
+- **Qué es:** un plan de emergencia del hogar armado para tu dirección: qué hacer en los primeros 10 minutos, dónde se encuentra la familia, cómo llegar a pie a lo de tus padres, agua segura sin canilla, checklists de una página y la fuente de cada dato. Llega por mail en un día y se usa en papel («works with no battery»). No se sabe si es un PDF personalizado o un libro impreso, ni el precio.
+- **Por qué es ganador:** cohorte 7+/activos **18/18 en GB** · el ad más viejo tiene **12 días** (desde el 31-10) · 3 fechas de creación, sin ads nuevos desde el 02-11 · página de producto sin persona · un solo operador. Atrás viene una ola de planes de apagón de 72 h en US, todos de esta semana: The Smart Library, Handled Simply, Grid Down Plan y Gridfall Survival con su «$9 Blackout Binder».
+- **Qué hacer:** modelar un plan de emergencia familiar en PDF personalizado por ciudad o barrio (punto de encuentro, rutas a pie, agua, checklist de 72 h, contactos) · destino sugerido **ES** (el apagón del 28-04-2025 y la recomendación de la UE de tener un kit de 72 h), después AR · ángulo: «linterna, radio y agua ya tenés: ahora falta el plan». En ES solo hay testers de 1-2 días (Apagón Total, Charlotte Whitmore) y nadie personaliza el plan.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1388539597681148&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2059902624712166)
+- **Landing:** embudo no verificado desde la nube (no se encontró el dominio): verificar en la PC el formato, el precio y cómo personaliza.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-12)**
+- Ola de planes de apagón y de 72 h en US, todos creados el 10-12/11 y con cohorte 0: The Smart Library 0/12 («blackout plan in 3 books»), Handled Simply 0/7, Grid Down Plan, Gridfall Survival y READY Household Crisis Manual (GB). Re-medir el 2026-11-19.
+- 50 Blackout Hacks (1436057402930089): imprimible facturado en **ARS**. Es un operador argentino testeando en US (0/2).
+- Prepared American 14/20 y Homefront Ready 14/26 en US pasan el volumen, pero son advertoriales de la familia American Ready, que vende un kit sanitario físico. No es infoproducto.
+- Food Storage Tips (724248187440810): ≥17/273 en US (piso) y 8/8 en GB con ads de 394 días. Es un advertorial «#1 Food Storage Hack» y el producto no se ve: verificar en la PC.
+- Bug in Guide (319949591203932): ≥18/635 en US (piso), «A Navy Seal's Bug-In Guide». ¿Libro físico o PDF? Verificar en la PC.
+- The Amish Ways (385207881346032): 250 estimados con cohorte oculta. Mezcla preppers con tinturas y «parasite flush» (suplementos).
+
 ### 🎯 Kit digital «qué hacer cuando no estés» (sucesión y papeles de la familia) — My Estate Kit GB · `hogar/kit-sucesion-familia` · 2026-11-12 · sesión EN
 - **Qué es:** un kit digital para dejarle a la familia todo ordenado: cuentas, pólizas, contraseñas y los pasos de la sucesión («A will says who inherits. Not what to do.», «The binder that guides your family»). Llega por mail para completar en la compu o imprimir. Precio cerca de **£29** (dato de una reseña). Trustpilot: 4,6 con 264 reseñas.
 - **Por qué es ganador:** cohorte 7+/activos **≥50/50 en GB** (54 estimados: los 50 visibles tienen 12+ días) · el ad más viejo tiene **115 días** (desde el 20-07) · 16 fechas de creación y 41 ads nuevos en los últimos 30 días (operador vivo) · página de producto sin persona · un solo operador; atrás entran Atlas Media «The Kept Folder», Just In Case Papers y LifeTrove.

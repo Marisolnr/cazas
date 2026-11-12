@@ -35,3 +35,4 @@
 ## [2026-11-12] caza-auto | EN A huella (US GB) → 2 candidatos a bandeja
 
 ## [2026-11-12] caza-auto | ES C operadores → 2 candidatos a bandeja
+## [2026-11-12] caza-auto | EN B perforar hogar/preparacion-emergencias → 2 candidatos a bandeja

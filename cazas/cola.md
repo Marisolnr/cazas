@@ -76,7 +76,13 @@ los nichos que emergen.
 | religion/biblia-visual/tarjetas-cheat-sheets | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | Shining Light Printables 12/12 sin ads nuevos en 30 d (posible zombi); el resto ruido |
 | religion/biblia-visual/historia-apologetica | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | Catholic Roots 25/25 US sin ads en 31 d (posible zombi); Adams & Century físico; ruido de iglesias |
 | religion/papeleria-cristiana-reventa | religion | EN · ES | superficial | 1 kw EN + control AR/ES (`papelería cristiana`) · 2026-11-11 | Valentina Ríos 17/26 US (BRL, español) pero ya corre en AR/ES con Elixir de Vida y Papelería Cristiana: destino ocupado |
-| hogar/preparacion-emergencias | hogar | EN | virgen | 1 kw GB · 2026-11-09 | apareció por huella el 2026-11-09 (Fallback Book GB 12/18, ¿personalizado o físico?; Lights Out) |
+| hogar/preparacion-emergencias | hogar | EN | profundo | 6 subnichos × 4-5 kw US/GB (25) + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas · 2026-11-12 tarde | perforado el 2026-11-12 (tarde): 2 tarjetas (The Lost Skills of Independence, Fallback Book); modo C sobre los hijos |
+| hogar/preparacion-emergencias/planes-apagon-72h | hogar/preparacion-emergencias | EN | superficial | 3 kw (`emergency plan printable`, `blackout binder`, `prepper pdf`) · 2026-11-12 | ola de esta semana con cohorte 0 (Smart Library 0/12, Handled Simply 0/7, Grid Down Plan, Gridfall «$9 Blackout Binder», READY GB): re-medir 2026-11-19 |
+| hogar/preparacion-emergencias/plan-familiar-personalizado | hogar/preparacion-emergencias | EN | superficial | 2 kw + Fallback Book contado · 2026-11-12 | Fallback Book 18/18 GB (tarjeta); `family emergency plan` = ruido; control ES `kit 72 horas`: Apagón Total y Charlotte Whitmore de 1-2 d |
+| hogar/preparacion-emergencias/habilidades-perdidas | hogar/preparacion-emergencias | EN · ES | superficial | 2 kw + control AR/ES (`habilidades perdidas`) · 2026-11-12 | Lost Skills of Independence ≥50/604 US (físico USD 39, tarjeta); ola hispana de clones de 0-2 d (Maestro del Oficio, Mauricio Rios, Jime Bauer, Lucas Rossi): re-medir 2026-11-19 |
+| hogar/preparacion-emergencias/despensa-almacenamiento | hogar/preparacion-emergencias | EN | superficial | 5 kw + ALL en 1 · 2026-11-12 | Food Storage Tips ≥17/273 US (advertorial, producto no visto) y 8/8 GB (394 d); canning = cementerio |
+| hogar/preparacion-emergencias/primeros-auxilios-remedios | hogar/preparacion-emergencias | EN | superficial | 5 kw · 2026-11-12 | `first aid printable` es la única limpia (todo < 7 d); Forgotten Home Apothecary ≥8/170 (libro, cohorte oculta) |
+| hogar/preparacion-emergencias/checklists-mochila | hogar/preparacion-emergencias | EN | superficial | 5 kw · 2026-11-12 | familia American Ready / Prepared American / Homefront Ready = físico; Bug in Guide ≥18/635 (¿libro?); Survival Starter 2/2 (PDF 97 p) |
 | escrita-criativa/estruturas-narrativas | escrita-criativa | BR | superficial | 1 huella BR + 1 control ES/AR/MX/CO (ALL) · 2026-11-09 | apareció por huella el 2026-11-09 (Creartool 23/48 BR, tarjeta); perforar por avatar (novelista / guionista / fanfic) y formato (manual / plantillas de escaleta) |
 | produtividade/planner-rotina-estudos | produtividade | BR | superficial | 1 huella BR + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Daily Routine Club 14/22 BR, tarjeta); perforar por avatar (vestibular / concurso / universitario) |
 | educacao/atividades-prontas-professores | educacao | BR | profundo | 30 kw nativas BR (6 subnichos × 5) + 2 controles AR/ES/MX · 2026-11-09 tarde | perforado el 2026-11-09 (tarde): tarjeta Prof. Mariana Oliveira 19/48; modo C sobre los operadores |
@@ -216,6 +222,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `lifetime access` / `swipe file` / `video lessons` / `$9.99 guide` (EN) | short-dramas (16-36 mil), coaches con cara, ruido | `printable binder`, `notion template`, `excel template`, `toolkit pdf` |
 | `mapas` solo / `mapas visuais` / `mapas anatomia` / `mapas história` / `resumos visuais` (BR) | astrología y numerología, lash mapping y mapas capilares, estética, Biblia infantil y juegos, cábala en USD | `mapas` + materia de carrera (`mapas farmacologia`, `mapas cinesiologia`, `mapas devops`) y contar por `page_ids` |
 | `mapas OAB` / `mapas engenharia` / `mapas de revisão` / `Leg Educação` (BR) | suscripciones y apps / concursos (Transpetro) / concursos / no es legislación (audio, mega hair) | `mapas direito constitucional`, `direito esquematizado` |
+| `first aid guide` / `medical emergency guide` / `food storage guide` / `long term food storage` / `survival manual` / `off grid guide` / `family emergency plan` / `bug out bag checklist` (EN) | short-dramas («Survival Live», «The Last Shelter»), suplementos, decenas de miles de ruido | `first aid printable`, `survival skills pdf`, `emergency plan printable`, `blackout binder`, `hurricane preparedness guide` |
+| advertoriales «If you're a parent or grandparent, read this» (EN, prepper) | familia de páginas (American Ready, Prepared American, Homefront Ready, David Miller) que vende un kit físico: pasa el volumen sin ser infoproducto | ver el producto antes de contar |
 
 ## Operadores a seguir (modo C)
 
@@ -225,6 +233,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
 | Visual Guide Lab | 1467890346400480 | US | libros ilustrados para exámenes, mucho volumen sin cohorte (2026-11-09); mismo molde que In pictures books 1354208894450767, Illustrated Manuals 1459350803924436 y Avenlo 1434008009790850 (en español) |
+| The Lost Skills of Independence | 984264748113661 | US · GB | libro físico de 200 habilidades, ≥50 en cohorte (2026-11-12); molde de la ola hispana de «habilidades de los abuelos» |
+| Fallback Book | 1388539597681148 | GB | plan de emergencia personalizado por dirección, 18/18 (2026-11-12); ver si escala o abre US |
+| Food Storage Tips | 724248187440810 | US · GB | advertorial de despensa con ads de 394 d en GB; producto sin ver |
 | Honey Home | 1334135786448993 | US · GB | tarjeta del 2026-11-09: ver si la cohorte sigue creciendo |
 | Dragon Fire Method | 163589696835008 | GB · US | whale de plantillas NIST/infosec, tarjeta del 2026-11-09 |
 | Your Consulting Management Guide | 1097413493462052 | US · GB | tarjeta EN del 2026-11-11: guías PDF de management «Instant PDF Download», 41/46 US y 34/38 GB, ad de 144 d; Black Friday 40% OFF |
@@ -310,7 +321,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | en curso | — | — |
-| 2026-11-12 18:40 | EN | B perforar (tarde) | hogar/preparacion-emergencias | en curso | — | — |
+| 2026-11-12 18:40 | EN | B perforar (tarde) | hogar/preparacion-emergencias | 6 subnichos × 4-5 kw US/GB (25) + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas (2 subagentes de lectura) | 2 tarjetas (The Lost Skills of Independence, Fallback Book), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
 | 2026-11-12 18:36 | BR | B perforar (tarde) | receitas/ebooks-fit | en curso | — | — |
 | 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | 24 operadores (27 page_ids), ~45 consultas `page_ids` + país, 3 sondeos `search_terms` | 2 tarjetas (Talleres Listos, Consultorio Nutri Listo), 8 señales | sin cambios de estado; 1 operador nuevo a seguir (Mapasyresumenes) |
 | 2026-11-12 06:40 | EN | A huella (mañana) | — (huella, US GB) | 15 huellas × US/GB (30, distintas de las del 09-11); ~40 páginas contadas con `page_ids` + país | 2 tarjetas (My Estate Kit, Cosmo Studio), 6 señales | 4 nodos nuevos (2 superficial, 2 virgen); 4 operadores a seguir |
