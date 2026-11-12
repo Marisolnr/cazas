@@ -369,6 +369,34 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «+150 dinámicas grupales listas para aplicar» — Talleres Listos ES·MX·AR · `operadores ES` · 2026-11-12 · sesión ES
+- **Qué es:** un pack de más de 150 dinámicas grupales listas para usar en talleres, clases o grupos. Es un solo SKU con un solo título en los tres países y cobra en USD. El precio y el formato exacto no se ven en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **≥26/50 en ES** (115 estimados), **≥22/50 en MX** (122) y **≥12/50 en AR** (194; en AR los lotes nuevos tapan a los viejos). Las tres son pisos. El ad más viejo tiene 12 días, hay 8 fechas de creación y la última es del 11-11: está escalando con lotes cada 1-3 días. Página fantasma, un solo operador. El 10-11 ya pasaba la vara y quedó afuera solo por el tope de 2 tarjetas; hoy sigue creciendo.
+- **Qué hacer:** ya corre en AR y en ES, así que conviene modelar el molde y no la oferta: un «banco de dinámicas listas» para un avatar concreto (docentes de secundaria, RR. HH. y onboarding, catequesis o grupos de jóvenes), con fichas de objetivo, tiempo y materiales · destino sugerido **ES**, que es donde más cohorte junta · ángulo: «tu próximo taller armado en 5 minutos».
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1423115024221032&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1423115024221032&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2000317804259636)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Faltan el precio y confirmar que es una descarga (PDF) y no un curso en vivo.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Sistema de consultorio para nutricionistas «Pago único · Acceso inmediato» — Consultorio Nutri Listo AR · `operadores ES` · 2026-11-12 · sesión ES
+- **Qué es:** materiales listos para el consultorio de nutricionistas («+1.500 materiales · 7 módulos»), con pago único y acceso inmediato. Cobra en USD. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **13/42 en AR** (completo; ayer estaba en 6/40). Corre solo en AR: MX, ES, CO, PE, EC y CL dan 0. Es joven: el ad más viejo tiene 8 días y la página ~9. Hay 4 fechas de creación, con una tanda hoy («4.7/5 +3400 Nutricionistas», 18 ads). Página fantasma, un solo operador.
+- **Qué hacer:** llevarlo a **ES**, donde no corre nadie con esta oferta: el sistema de consulta del dietista-nutricionista (fichas de primera consulta, planes, seguimiento y educación al paciente) · ángulo: «tu consulta organizada desde el primer paciente, sin armar nada desde cero». Para AR conviene esperar: ya tiene dueño y la cohorte todavía es joven.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1431610173366748&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1740005817558070) · «Pago único»: [ad](https://www.facebook.com/ads/library/?id=1833848121092150)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Faltan el precio y ver si es PDF/plantillas o un área de miembros.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: la cohorte tiene un día; re-medir el 2026-11-18.
+
+**Señales del día ES (2026-11-12)**
+- Pixelpack (116045223625247, MX): creció de ≥29 a **≥42/50**, con un ad de 103 días («+500.000 diseños» DTF/sublimación a US$9,99). Pasa la vara, pero es un megapack de reventa con diseños de terceros (anime, entre otros): riesgo de derechos de autor.
+- Red Aprendia 1 «Aprende con Guías Profesionales» (1380966491766673): ≥44/50 MX, ≥26/50 PE y 27/34 BO (país nuevo, con temas bolivianos). Pasa volumen, pero es catálogo de guías sueltas, casi todas sin título; mismo molde que Aprendia, que ya está en bandeja.
+- Valentina Ríos (1280761195116636): papelería cristiana para revender, **19/19 en AR** y 20 ads nuevos en ES (del 05-11, entran en cohorte ~13-11). Página con nombre de persona y cobro en BRL.
+- Mapasyresumenes (234866809700963): SKU nuevo para ES lanzado hoy, oposiciones «2027 en 150 páginas» a 12,90 € (Guardia Civil, Policía Nacional, Justicia, Abogacía), 20 ads. Re-medir el 2026-11-19.
+- Todo Digital (916814288184704, MX): 10/24 pero repartido entre SKUs; el nuevo son guías de topografía a $125 MXN (6 en cohorte).
+- Crea y Emprende (AR 14/22): abrió hoy el tema siguiente a Navidad, «Tejé la colección del Verano 2027» + «cuánto cobrar tus tejidos» (6 ads).
+- Neutral Nature: CO bajó a 42/42 sin creativos nuevos desde 03-11; entró a AR con un test de 8 ads (09-11). Planner Hoy Solo 3 creció a 28/40 en ES y MX; Planos de arcilla a ≥26/50 en AR. Derecho en Mapas bajó a 5/41 (debajo de la vara).
+- Posibles zombis: La Biblioteca Definitiva De Tejido (23/23, sin ads nuevos en 53 d), Planner Lovers (sin ads desde 01-11, no corre en ES) e IA Programas (16/22 → 11/11).
+
 ### 🎯 «Planificación anual de vóley / newcom / básquet / handball + 5 bonos» — Biblioteca Digital AR · `deportes/planificacion-entrenadores` · 2026-11-11 (tarde) · sesión ES
 - **Qué es:** packs de planificación anual para profes y entrenadores de clubes, uno por deporte («6 libros de vóley», «Megapack Handball: 6 libros», «+500 ejercicios y +250 entrenamientos»), a **$19.990 ARS** (antes $35.000; $18.500 por transferencia; cupón NEWCOM10).
 - **Por qué es ganador:** cohorte 7+/activos **25/33 en AR** (todo corre en AR; ES y el resto del bloque, 0) · el ad más viejo tiene **63,6 días** (08-09) · 12 fechas de creación, la última del 10-11 (operador vivo) · página fantasma · un solo operador. Sale al perforar `salud-mental/sistemas-de-sesiones` por el eje entrenadores.

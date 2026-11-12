@@ -211,6 +211,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `exercícios TCC` / `fichas TCC` / `baralho terapêutico` / `cartas terapêuticas` / `relatório psicológico` / `prontuário psicológico` / `workbook ansiedade` (BR) | TCC = tesis universitaria; tarot y constelación; abogados BPC y dramas; SaaS; palabra no nativa | `técnicas TCC prontas`, `caderno terapêutico`, `recursos terapêuticos`, `dinâmicas terapêuticas` |
 | `books of the bible` / `Revelation explained` / `bible timeline` / `visual bible` (EN) | stopwords (849 mil) / short-dramas / chart Adams físico y ~10 clones | `bible study printable`, `scripture cards printable`, `sunday school printable` |
 | `bible verse cards` / `bible memory verses` / `bible study course` / `sunday school curriculum` / `bible activity pages` (EN) | Biblia etíope con páginas-persona falsas, dropshippers generalistas, curricula genéricas, advertoriales de salud | entregable + tema; contar por `page_ids` |
+| API con `search_terms` en páginas de >50 ads/semana (ES) | la API devuelve igual los 50 más nuevos: la cohorte no se destapa (Aprendia 2/3, Studio Facile, Neutral Nature ES/MX) | medir por país con menos ruido o re-medir cuando frene la página |
 | `ejercicios terapia` / `terapia adicciones` / `prevención recaídas` / `psicología deportiva` / `herramientas coaching` / `kit coaching` / `rutinas editables` (ES) | fisio y kinesio, clínicas de rehabilitación, universidades, certificaciones, ruido en inglés, y una red de páginas con títulos de solo estrellas (ReDuca, EstDuc, ApreDuc, EduPro, AprenEdu) | `plantillas psicólogos`, `terapia pareja ejercicios`, `plantillas entrenadores`, `planes alimentación editables` |
 | `lifetime access` / `swipe file` / `video lessons` / `$9.99 guide` (EN) | short-dramas (16-36 mil), coaches con cara, ruido | `printable binder`, `notion template`, `excel template`, `toolkit pdf` |
 | `mapas` solo / `mapas visuais` / `mapas anatomia` / `mapas história` / `resumos visuais` (BR) | astrología y numerología, lash mapping y mapas capilares, estética, Biblia infantil y juegos, cábala en USD | `mapas` + materia de carrera (`mapas farmacologia`, `mapas cinesiologia`, `mapas devops`) y contar por `page_ids` |
@@ -238,7 +239,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Lacuna Concursos | 1173569735845788 | BR | material para concursos «Baixe Agora», ≥4/89 el 2026-11-10 (ayer ≥15): ¿pago o lead magnet? |
 | Sector Digital | 1122535934265327 | AR · ES · MX | tarjeta ES del 2026-11-09 (sistema de sesiones para psicólogos deportivos, 25/≥50); abrió línea «adicciones» el 08-11; 2026-11-11: AR ≥15, ES ≥28, MX ≥14 (≥31 únicos, todo deportiva; adicciones 0) |
 | Digital Academy | 858372700683858 | MX · AR · BO | multipack con WA, 15/41 y ads de 88 d; ver qué SKU se queda con la cohorte |
-| Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; contado por país el 2026-11-10: AR 20, ES 24, MX 21 en cohorte (pasa la vara, ya en los dos destinos) |
+| Talleres Listos | 1423115024221032 | hispano | 304 est. con un solo título; contado por país el 2026-11-10: AR 20, ES 24, MX 21 en cohorte (pasa la vara, ya en los dos destinos); tarjeta ES del 2026-11-12: ES ≥26/50, MX ≥22/50, AR ≥12/50, sigue escalando |
 | Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26 (09-11) → 10/25 (10-11, tarjeta ES tarde); clon en inglés Creative Library 1362229870302077 |
 | Neutral Nature | 919376131265589 | CO · ES · MX · AR | tarjeta ES del 2026-11-10 (tarde): 300 tarjetas pop-up, 47/47 CO; ES 130 y MX 128 con cohorte oculta: re-medir 2026-11-17; clon Pura Idea 1422137500990129 |
 | Pixelpack | 116045223625247 | hispano | megapack DTF/sublimación US$9,99, ≥29/62 con ad de 108 d (2026-11-10) |
@@ -268,13 +269,14 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Clube do Devocional | 1333933036463024 | BR | ≥43/50 el 2026-11-11 con 40 ads de un solo día (7 d); WA sin oferta; re-medir 2026-11-18 |
 | Arquivos que encantam | 216603914872916 | BR | 25/33 el 2026-11-11 («Apenas R$10», producto no visible): verificar en la PC |
 | Biblioteca Digital (deportes) | 1270799516117158 | AR | tarjeta ES del 2026-11-11 tarde (planificación anual de vóley/newcom/básquet/handball a $19.990, 25/33 AR, 63,6 d); ver si entra a ES o a otro deporte |
-| Consultorio Nutri Listo | 1431610173366748 | hispano | sistema de consultorio para nutricionistas, 6/40 el 2026-11-11 (página de 8 d); re-medir 2026-11-18 |
+| Consultorio Nutri Listo | 1431610173366748 | AR | sistema de consultorio para nutricionistas, 6/40 el 2026-11-11 (página de 8 d); tarjeta ES del 2026-11-12: AR 13/42, solo AR; re-medir 2026-11-18 |
 | NeuroKit Clínico | 964287390098744 · 883009701566343 | BR · ES · FR · DE | tarjeta BR del 2026-11-11 tarde (fichas TCC para psicólogos, 34/50); la hermana ya corre en español/francés/alemán: ver si la versión en español entra en cohorte |
 | Terapia Cognitiva Online | 836423469737678 | BR | tarjeta BR del 2026-11-11 tarde («88 técnicas de TCC prontas», 19/33, 45 d) |
 | Nova Era Recursos Terapêuticos | 114755404813290 | BR | tarjeta BR del 2026-11-11 tarde (cadernos de bolso para terapeutas, 25/42, 53 d); lanzó Planner Psi y Metáforas: ver cuál entra en cohorte |
 | RootedinFaith | 1339338722596915 | GB · US | tarjeta EN del 2026-11-11 (tarde): guía para entender la Biblia, 30/45 GB y 28/≥50 US, ad de 33 d; formato sin verificar |
 | Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); re-medir 2026-11-14 |
 | Valentina Ríos | 1280761195116636 | US · AR · ES | papelería cristiana de reventa, 17/26 US (BRL, español); ya en AR/ES; le toca seguirla también a ES |
+| Mapasyresumenes | 234866809700963 | ES · CO | guías «2027 en 150 páginas»: el 2026-11-12 lanzó oposiciones españolas a 12,90 € (20 ads en ES); re-medir 2026-11-19 |
 | Growing in Faith / Faith Times | 1329678806897080 · 1241869225684857 | US | 18/27 y 7/36 el 2026-11-11, advertorial infantil-cristiano, producto no visible |
 | My Estate Kit | 1091977304009213 | GB | tarjeta EN del 2026-11-12: kit digital de sucesión (~£29), ≥50/50 GB, 115 d; contar US y seguir al cluster (Atlas Media Group 1254679187727827, Afterpath 1016389298235387) |
 | Cosmo Studio | 209343218938190 | US · GB | tarjeta EN del 2026-11-12: planilla de vida a $9, 22/28 US y 21/25 GB, 72 d; abrió SKU de invitaciones en Canva el 12-11; hermanas probables Her Notion Planner 1282088321645043 y Ultimate Notion Planner 425210960671076 |
@@ -307,7 +309,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | en curso | en curso | en curso |
+| 2026-11-12 06:41 | ES | C operadores (mañana) | — (operadores ES) | 24 operadores (27 page_ids), ~45 consultas `page_ids` + país, 3 sondeos `search_terms` | 2 tarjetas (Talleres Listos, Consultorio Nutri Listo), 8 señales | sin cambios de estado; 1 operador nuevo a seguir (Mapasyresumenes) |
 | 2026-11-12 06:40 | EN | A huella (mañana) | — (huella, US GB) | 15 huellas × US/GB (30, distintas de las del 09-11); ~40 páginas contadas con `page_ids` + país | 2 tarjetas (My Estate Kit, Cosmo Studio), 6 señales | 4 nodos nuevos (2 superficial, 2 virgen); 4 operadores a seguir |
 | 2026-11-12 06:36 | BR | B perforar (mañana) | mapas-visuais-r10 | 6 subnichos × 5-6 kw BR (32) + 1 de arranque + 2 controles AR/ES/MX/CO (sin ceros, ALL no hizo falta); ~45 páginas contadas | 2 tarjetas (TI em Mapas, Farmácia Mapeada), 5 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
 | 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | 6 subnichos, 27 kw nativas (sin ceros); ~45 páginas contadas (Sector Digital y Biblioteca Digital por país) | 1 tarjeta (Biblioteca Digital), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (deportes/planificacion-entrenadores) |
