@@ -286,6 +286,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-12 06:40 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
 | 2026-11-12 06:36 | BR | B perforar (mañana) | mapas-visuais-r10 | en curso | en curso | en curso |
 | 2026-11-11 18:42 | ES | B perforar (tarde) | salud-mental/sistemas-de-sesiones | 6 subnichos, 27 kw nativas (sin ceros); ~45 páginas contadas (Sector Digital y Biblioteca Digital por país) | 1 tarjeta (Biblioteca Digital), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (deportes/planificacion-entrenadores) |
 | 2026-11-11 18:38 | EN | B perforar (tarde) | religion/biblia-visual | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas (sin ceros, ALL no hizo falta) | 1 tarjeta (RootedinFaith), 6 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (papeleria-cristiana-reventa) |
