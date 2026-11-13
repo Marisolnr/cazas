@@ -26,6 +26,23 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Pack de prácticas de básquet «Today only: $14.90» — Basketball Coach Pro US · `deportes/planes-practica-entrenadores-en/basquet` · 2026-11-13 · sesión EN
+- **Qué es:** un pack digital de entrenamiento para entrenadores de básquet a **USD 14,90** con «oferta solo por hoy». El mismo operador corre la plantilla en fútbol (Soccer Training Pro, USD 9,90-14,90). Contenido exacto y formato sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **27/27 en US** · ad más viejo de **39 días** (desde el 05-10) · 5 tandas escalonadas (04, 09, 13, 24 y 26-10), la última hace 17 días · el mismo título en los 27 ads · página de producto sin persona. La hermana Soccer Training Pro tiene 22/22 en US y GB con ads de 87 días, pero sin ads nuevos en 45 días (posible zombi). Probable operador brasileño.
+- **Qué hacer:** modelar un pack de prácticas armadas por deporte («la práctica de mañana, ya planeada»: sesiones por edad, ejercicios con diagrama, plan de temporada) con precio de oferta del día y una fanpage por deporte · destino sugerido **ES** (en AR ya vende Biblioteca Digital, la tarjeta ES del 11-11) · ángulo: «el entrenador voluntario que no sabe qué hacer en la práctica de hoy». ⚠️ En ES ya prueban Manuales Listos («189 sesiones», ads de menos de 7 días) y Miguel Torres (BRL).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1373186709203115&search_type=page&media_type=all) · hermana [Soccer Training Pro US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1234094106455284&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1643780760776504)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC qué trae el pack, el formato y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-13)**
+- Digital Academy (1340771395780798) «150 PE games + 3 bonuses» para docentes de educación física: 12/24 en US y 11/20 en GB, pero el ad más viejo tiene 11 días. En español ya corren Orbis Atlas (ES), EFácil, YTeducativo e Ideasjugadas (ARS). Re-medir el 2026-11-20.
+- Orbis Atlas (1386049191263743) «Whole PE Year, Planned»: 10/31 en US, todo de una sola tanda. Ya vende en español en ES.
+- HeroeDigitals (1258628903995580), planes de práctica de varios deportes: ≥19 en US (84 estimados, 21 días). Un título habla de una «app»: verificar en la PC.
+- The Ascent Club: ningún SKU llega a 10 en cohorte (el máximo es 8: lucha, atletismo, lacrosse, patinaje). Es una fábrica de «N prácticas ya planeadas» para cualquier actividad.
+- EBasketballCoach (20/20, 633 días) y American Coaching Academy (41/41): catálogos con lead magnet gratis. EBasketballCoach no tiene ads nuevos en 30 días (posible zombi).
+- Cementerios en GB: `basketball drills pdf` (75 ads, todos inactivos), `rugby coaching drills` y `volleyball drills pdf`.
+
 ### 🎯 Enciclopedia «200 habilidades perdidas» (autosuficiencia, en un solo libro) — The Lost Skills of Independence US·GB · `hogar/preparacion-emergencias/habilidades-perdidas` · 2026-11-12 (tarde) · sesión EN
 - **Qué es:** un libro de 200 guías ilustradas de oficios y habilidades que «ya no se enseñan»: conservar comida, remedios caseros, huerta, prepararse para emergencias. Cada guía trae los materiales y las herramientas. Es **FÍSICO**: tapa dura espiralada de 262 páginas a **USD 39**, con promo «76% Off» en los ads. El autor es Claude Davis («The Lost Ways»).
 - **Por qué es ganador:** cohorte 7+/activos **≥50/604 en US y ≥50/233 en GB** (pisos: los 50 visibles ya tienen 7+ días) · ad más viejo visto de **31 días** (desde el 12-10) · operador vivo, con ads nuevos esta semana · página de producto sin cara · el mismo título repetido en toda la cohorte.

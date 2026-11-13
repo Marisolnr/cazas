@@ -9,3 +9,4 @@
 - 2026-11-12 EN (tarde): HEAD desacoplado otra vez al arrancar; el push «en curso» fue rechazado 3 veces. Se arregló con `git checkout -B main HEAD && git branch -u origin/main`.
 - 2026-11-12 18:36 BR: WebFetch de la landing de Cozinhanoprato no se pudo correr (pedido de permiso sin respuesta en sesión desatendida).
 - 2026-11-13 BR (mañana): HEAD desacoplado al arrancar; el push «en curso» fue rechazado 3 veces. Se arregló con `git checkout -B main HEAD && git branch -u origin/main`.
+- 2026-11-13 EN (mañana): HEAD desacoplado otra vez al arrancar (main local en e622a61); el push «en curso» fue rechazado 3 veces. Se arregló con `git checkout -B main HEAD && git branch -u origin/main`.

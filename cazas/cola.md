@@ -167,7 +167,13 @@ los nichos que emergen.
 | docentes/dinamicas-grupales | docentes | ES | superficial | Talleres Listos contado por país AR/ES/MX · 2026-11-10 | Talleres Listos pasa la vara (AR 20, ES 24, MX 21) pero ya corre en AR y ES; perforar por público (docentes / catequesis / RR. HH.) |
 | hogar/kit-sucesion-familia | hogar | EN | superficial | 1 huella US/GB (`printable binder`) + My Estate Kit contado en GB · 2026-11-12 | apareció por huella el 2026-11-12 (My Estate Kit ≥50/50 GB, 115 d, tarjeta); hay cluster (Atlas Media «The Kept Folder», Just In Case Papers, LifeTrove, Afterpath, The Just in Case Binder): perforar por avatar (hijos / viuda / albacea) y por país (US, GB) |
 | productividad/planillas-vida | productividad | EN | superficial | 2 huellas US/GB (`notion template`, `excel template`) · 2026-11-12 | apareció por huella el 2026-11-12 (Cosmo Studio 22/28 US, tarjeta; Notion planners de 2 fechas); perforar por formato (Sheets / Excel / Notion) y por tema (finanzas / hábitos / negocio) |
-| deportes/planes-practica-entrenadores-en | deportes | EN | virgen | 1 huella (`toolkit pdf`) + sondeos de The Ascent Club · 2026-11-12 | apareció por huella el 2026-11-12: The Ascent Club ≥58 en cohorte US (multi-SKU, cohorte oculta) y Download Studio con el mismo copy; contar por deporte |
+| deportes/planes-practica-entrenadores-en | deportes | EN | profundo | 6 subnichos, ~45 kw US/GB + ALL en 3 ceros + 2 controles AR/ES + 20 sondeos por SKU de The Ascent Club; ~30 páginas contadas · 2026-11-13 | perforado el 2026-11-13: tarjeta Basketball Coach Pro; modo C sobre los hijos |
+| deportes/planes-practica-entrenadores-en/futbol-soccer | deportes/planes-practica-entrenadores-en | EN | superficial | 12 kw (5 US + 7 GB) · 2026-11-13 | Soccer Training Pro 22/22 US·GB (87 d, sin ads nuevos en 45 d: posible zombi), hermana de Basketball Coach Pro; The Coaching Playbook 1/5 (BRL) |
+| deportes/planes-practica-entrenadores-en/basquet | deportes/planes-practica-entrenadores-en | EN | superficial | 10 kw + ALL en 1 + control AR/ES (`ejercicios baloncesto`) · 2026-11-13 | Basketball Coach Pro 27/27 US (39 d, tarjeta); EBasketballCoach 20/20 posible zombi; GB = cementerio; ES con testers < 7 d (Manuales Listos) |
+| deportes/planes-practica-entrenadores-en/beisbol-softbol-cricket | deportes/planes-practica-entrenadores-en | EN | superficial | 9 kw · 2026-11-13 | nadie con 10+ en 3 fechas: Home Coach Cricket 21/21 GB en 2 fechas (padres); Softballpassion 5/5 (EUR) |
+| deportes/planes-practica-entrenadores-en/voley-flag-hockey-rugby | deportes/planes-practica-entrenadores-en | EN | superficial | 11 kw + ALL en 2 · 2026-11-13 | HeroeDigitals ≥19 US (¿app?); American Football Academy 7/15; rugby y vóley en GB = cementerio |
+| deportes/planes-practica-entrenadores-en/educacion-fisica-docentes | deportes/planes-practica-entrenadores-en | EN | superficial | 2 kw US/GB (`PE lesson plans`, `gymnastics lesson plans`) + control AR/ES (`juegos educación física`) · 2026-11-13 | Digital Academy PE 12/24 US y 11/20 GB (11 d): re-medir 2026-11-20; Orbis Atlas 10/31 ya en español; destino ocupado (EFácil, YTeducativo, Ideasjugadas) |
+| deportes/planes-practica-entrenadores-en/fabricas-multisku | deportes/planes-practica-entrenadores-en | EN | superficial | 20 sondeos por SKU + `wrestling practice plans`, `PE lesson plans` · 2026-11-13 | The Ascent Club máx 8 por SKU; Download Studio cheer 7/8; Allsetvault/Zonaebook/DigitalCenter ≤ 8 |
 | pareja/custodia-registros | pareja | EN | virgen | 1 huella (`printable binder`) · 2026-11-12 | apareció por huella el 2026-11-12: CustodyLogs 44/49 US (272 d), Custody Keeper, Shielded Co-Parenting; ¿app o PDF? |
 
 ---
@@ -244,6 +250,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `agenda 2027` / `agenda digital` / `agenda emprendedora` / `agenda universitaria` (ES) | el verbo «agenda tu cita» (concesionarias, clínicas, inmobiliarias) y universidades | `vaciar mente`, `planner hábitos`, `planner autocuidado` |
 | `planner hogar` / `planner negocio` / `planner redes` / `planner 2027` / `organizar hogar` (ES) | wedding/event planners, SaaS, constructoras, muebles | `plantilla Notion` + oficio, `planner` + par de dolor |
 | `calendario 2027` / `brain dump` / `diario gratitud` / `control gastos` / `reto ahorro` (ES) | imprentas físicas / short-drama en inglés / novelas / short-drama doblado | `vaciar mente`, `finanzas personales plantilla` |
+| `tee ball practice` / `hockey practice plans` / `practice plans` / `drill cards` / `season plan coach` / `basketball playbook` (EN) | golf / novelas románticas («Hockey Rival») / ruido amplio / cartas coleccionables | `basketball coaching plans`, `PE lesson plans`, `wrestling practice plans`; en GB `football` en vez de `soccer` |
+| sondear a The Ascent Club por deporte (EN) | escribe el deporte con emoji (🏓 🏐 ⚽): el nombre del deporte da 0 | sustantivos de actividad (`troop`, `ice`, `wall`, `deck`, `mat`) + `page_ids` + país |
 
 ## Operadores a seguir (modo C)
 
@@ -325,6 +333,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Pack Digital Emprendor | 104462436003652 | AR | 18/18, 108 d, producto no visible por API (2026-11-12) |
 | Edufisicavisual | 1293268003864355 | BR | tarjeta BR del 2026-11-13 (mapas de cinesiología para educación física, 26/29, 12,7 d); re-medir 2026-11-20; ¿Lucia Ortiz 760125220506555 es su versión en español? |
 | Brinca e Aprende | 942354795618344 | BR | inglés infantil imprimible, 10/37 el 2026-11-13 (los 10 de un solo día) + 3 SKU nuevos; re-medir 2026-11-18 |
+| Basketball Coach Pro | 1373186709203115 | US | tarjeta EN del 2026-11-13: pack de básquet «Today only: $14.90», 27/27, 39 d; hermanas Soccer Training Pro 1234094106455284 (22/22 US·GB, sin ads nuevos en 45 d) y 1543066612216569, Jonathan Ross 429439973597227 (BRL) |
+| Digital Academy (EF) | 1340771395780798 | US · GB | «150 PE games», 12/24 US y 11/20 GB con 11 d (2026-11-13); re-medir 2026-11-20 |
+| HeroeDigitals | 1258628903995580 | US | planes de práctica multi-deporte, ≥19/50 (84 est.), 21 d (2026-11-13); ¿app o PDF? |
 | | | | |
 
 ## Rotación vigente
@@ -349,7 +360,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | en curso | en curso | en curso |
-| 2026-11-13 06:40 | EN | B perforar (mañana) | deportes/planes-practica-entrenadores-en | en curso | en curso | en curso |
+| 2026-11-13 06:40 | EN | B perforar (mañana) | deportes/planes-practica-entrenadores-en | 6 subnichos, ~45 kw US/GB + ALL en 3 + 2 controles AR/ES + 20 sondeos por SKU; ~30 páginas contadas (3 subagentes de lectura) | 1 tarjeta (Basketball Coach Pro), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
 | 2026-11-13 06:36 | BR | C operadores (mañana) | — (operadores BR) | 32 page_ids (36 consultas `page_ids` + país, BR y AR/ES/MX), 13 sondas `search_terms` sobre página, 3 controles hispanos; 3 subagentes de lectura | 1 tarjeta (Edufisicavisual), 10 señales | sin cambios de estado; 2 operadores nuevos a seguir (Edufisicavisual, Brinca e Aprende) |
 | 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | 7 subnichos, 35 kw nativas + ALL en 2 ceros; ~25 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Claridad y Acción, Mente Inquieta), 7 señales | profundo, con 7 hijos superficial + 1 nodo nuevo (productividad/plantillas-notion-oficios); 3 operadores a seguir |
 | 2026-11-12 18:40 | EN | B perforar (tarde) | hogar/preparacion-emergencias | 6 subnichos × 4-5 kw US/GB (25) + ALL en 1 + 2 controles AR/ES; ~25 páginas contadas (2 subagentes de lectura) | 2 tarjetas (The Lost Skills of Independence, Fallback Book), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |

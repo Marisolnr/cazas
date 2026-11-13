@@ -40,3 +40,5 @@
 ## [2026-11-12] caza-auto | ES B productividad/planner-vaciar-cabeza (tarde) → 2 candidatos a bandeja
 ## [2026-11-12] caza-auto | BR B perforar receitas/ebooks-fit (tarde) → 2 candidatos a bandeja
 ## [2026-11-13] caza-auto | BR C operadores → 1 candidatos a bandeja
+
+## [2026-11-13] caza-auto | EN B deportes/planes-practica-entrenadores-en → 1 candidatos a bandeja
