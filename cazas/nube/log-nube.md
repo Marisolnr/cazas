@@ -11,3 +11,4 @@
 - 2026-11-13 BR (mañana): HEAD desacoplado al arrancar; el push «en curso» fue rechazado 3 veces. Se arregló con `git checkout -B main HEAD && git branch -u origin/main`.
 - 2026-11-13 EN (mañana): HEAD desacoplado otra vez al arrancar (main local en e622a61); el push «en curso» fue rechazado 3 veces. Se arregló con `git checkout -B main HEAD && git branch -u origin/main`.
 - 2026-11-13 BR (tarde): conflicto de rebase en la bitácora de `cazas/cola.md` con la línea «en curso» de EN; se resolvió conservando las dos líneas.
+- 2026-11-13 ES (tarde): HEAD desacoplado al arrancar (tercera vez hoy); el push «en curso» fue rechazado 3 veces y se arregló con `git checkout -B main HEAD && git branch -u origin/main`. La API de Meta devolvió solo títulos (sin cuerpo del copy ni URL): toda la oferta salió de `ad_creative_link_title`.

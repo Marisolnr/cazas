@@ -484,6 +484,34 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Kit de marca y gestión por oficio «Tu marca de coach, prolija y en orden» (+ abogados) — Mind Digital Studio AR · `plantillas-canva/kits-por-oficio/profesionales-servicios` · 2026-11-13 (tarde) · sesión ES
+- **Qué es:** kit digital de identidad de marca + gestión para un oficio concreto: un SKU para coaches (el que escala) y otro «Kit de identidad y gestión para abogados». Cobra en USD. El precio y el formato exacto (plantillas Canva o marca hecha a medida) no se ven: la API de esta corrida solo trajo títulos.
+- **Por qué es ganador:** cohorte 7+/activos **18/50 en AR (piso; ~60 estimados)**, 17 de ellos del SKU coach. Escalonado en 5 tandas (14,7 · 12,9 · 11 · 9 · 7,2 d) y sigue sumando tandas el 08, 10 y 12-11. Estudio fantasma, sin nombre de persona, un solo operador. Pauta solo en AR: en MX, ES y CO no tiene ads.
+- **Qué hacer:** llevar el molde a **ES**, que está libre: «tu marca de <oficio>, prolija y en orden», un kit editable de identidad (logo, paleta, posts) + gestión (presupuestos, fichas de cliente) por oficio. Empezar por coach y sumar oficios que no toca (psicólogos, nutricionistas, abogados en ES) · ángulo: «dejá de improvisar tu imagen».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=100484571813019&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=4510640945866740) · coach: [ad](https://www.facebook.com/ads/library/?id=1424817626493336) · abogados: [ad](https://www.facebook.com/ads/library/?id=1154543433778819)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, y confirmar que es plantilla (producto) y no diseño a medida (servicio).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: cohorte de dos semanas; re-medir el 2026-11-20.
+
+### 🎯 Pack de plantillas para Instagram («Plantillas Black Friday» · «Haz crecer tu Instagram») — Pack Insta de Impacto AR·MX (+ES) · `plantillas-canva/kits-por-oficio/formato-packs-genericos` · 2026-11-13 (tarde) · sesión ES
+- **Qué es:** pack de plantillas editables para Instagram, hoy con edición Black Friday. Operador que cobra en BRL con creativos en español (brasileño pautando en el hispano). Títulos de clickbait («¡No te pierdas este trucazo!»): precio y cantidad de plantillas no se ven por API.
+- **Por qué es ganador:** cohorte 7+/activos **19/44 en AR** y 21/47 en MX. El ad más viejo lleva **65,5 días** y hay escalonamiento (65 · 24 · 22 · 15 · 10 · 7 d), con tandas nuevas el 09, 11, 12 y 13-11: el más longevo del nodo. Página sin marca personal visible, un solo operador.
+- **Qué hacer:** ya corre en AR, MX y ES, así que conviene modelar el molde y no la oferta genérica: pack de plantillas IG **por oficio** (estética, uñas, psicología, nutrición), que es justo donde la ola hispana todavía no tiene cohorte · destino sugerido **ES** · ángulo: «tu Instagram profesional listo para el Black Friday en una tarde».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=802396849634003&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=802396849634003&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=28762542953337453) · Black Friday: [ad](https://www.facebook.com/ads/library/?id=2496842867391771)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta precio, contenido del pack y si hay cara.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Hay una página homónima (1194180837101878) sin contar.
+
+**Señales del día ES (2026-11-13, tarde)**
+- Taller Creativo (1156743057524645): 15/23, 36,7 d, pero los 23 ads dicen «Haz clic en "Más información"» y nada más: oferta invisible, verificar en la PC.
+- LaOfi (101087078492489): ES 12/50 piso (10,2 d), MX 4, CO 5, AR 0/50; kit para diseñadores («Sistema para cobrar branding premium»); cohorte detrás del tope, re-medir 2026-11-20.
+- Med Spa Documents Kit (1318045718067882) MX 0/48 por entrega pero 10 creados el 06-11: cruza la vara mañana si siguen vivos (documentos para estética, USD); re-medir 2026-11-16.
+- Odonto en Orden (1355504520987314) AR 0/26 (9 del 07-11) y Lash/Nail Pro Catálogo MX 0/14 · 0/13 (tanda del 12-11): ola joven por oficio, re-medir 2026-11-19.
+- Cer Solutions (106139672439939) MX 11/18 (145 d) pero multi-oficio (psicólogos 4 en cohorte); Neri Designer (303587820364240) MX 8/50 piso, «500+ artes editables» a USD 4-6,90.
+- Revelarte (1268335106370092) AR 14/50 piso (8,5 d): láminas de bienestar, no Canva.
+- Cocina en Regla (1458517994007884) pausada: 0 activos (39 con ALL), «Manual + 4 bonus · 19 €».
+- Cementerio: `Canva fisioterapeutas` (0 ACTIVE / 151 ALL). Casi huecos: `Canva restaurantes` (8), `Canva educadoras` (2), kits para inmobiliarias y contadores (0).
+
 ### 🎯 Pack de actividades emocionales imprimibles (autoestima · rechazo · emociones) para chicos y adolescentes — Laura Educa ES · `educacion-emocional/actividades-imprimibles` · 2026-11-13 · sesión ES
 - **Qué es:** colección de actividades emocionales en PDF para imprimir, para que padres/psicólogos acompañen a chicos y adolescentes (autoestima, rechazo, manejo de emociones, «emociones adolescentes»). «+100 actividades listas para usar», «Ya lo utilizan en psicoterapia». Oferta navideña: 50% OFF + 5 bonos + «Manual de Acompañamiento» de regalo. Cobra en EUR; el precio exacto no se ve en los ads (solo el % OFF), pero es low-ticket digital.
 - **Por qué es ganador:** cohorte 7+/activos **14/28 en ES** (los 28 ads corren solo en ES). El ad más viejo lleva **144,4 días** y hay 11+ fechas de creación distintas, con tanda nueva del 12-11 (edición navideña): escala sostenida de casi 5 meses, no una ráfaga. Página fantasma de un solo producto, un solo operador.

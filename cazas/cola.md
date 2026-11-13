@@ -182,7 +182,13 @@ los nichos que emergen.
 | deportes/planes-practica-entrenadores-en/fabricas-multisku | deportes/planes-practica-entrenadores-en | EN | superficial | 20 sondeos por SKU + `wrestling practice plans`, `PE lesson plans` · 2026-11-13 | The Ascent Club máx 8 por SKU; Download Studio cheer 7/8; Allsetvault/Zonaebook/DigitalCenter ≤ 8 |
 | pareja/custodia-registros | pareja | EN | virgen | 1 huella (`printable binder`) · 2026-11-12 | apareció por huella el 2026-11-12: CustodyLogs 44/49 US (272 d), Custody Keeper, Shielded Co-Parenting; ¿app o PDF? |
 | educacion-emocional/actividades-imprimibles | educacion-emocional | ES | superficial | 2 huellas (`cuadernillo PDF`, `libro digital`) + Laura Educa contada por país · 2026-11-13 | apareció por huella el 2026-11-13 (Laura Educa 14/28 ES, 144 d, tarjeta; solo pauta en ES → destino AR); perforar por avatar (padres / docentes / psicólogos) y materia (autoestima / rechazo / navidad); OJO verificar que no roce neurokids |
-| plantillas-canva/kits-por-oficio | plantillas-canva | ES | virgen | 1 huella (`plantillas Canva`) · 2026-11-13 | ola grande el 2026-11-13: Taller Creativo 15/22 AR y 15/23 MX (36 d, título único invisible), LaOfi ES ≥12/50, Mind Digital Studio AR ≥17/50, Revelarte AR ≥19/50, Odonto en Orden, Lash Pro; perforar por oficio y verificar en la PC si es plantilla o mini-curso |
+| plantillas-canva/kits-por-oficio | plantillas-canva | ES | profundo | 6 subnichos, 32 kw + ALL en 1 · 2026-11-13 (tarde) | Mind Digital Studio AR 18/50 piso y Pack Insta de Impacto AR 19/44 (tarjetas); Taller Creativo 15/23 oferta invisible; LaOfi ES 12/50 piso; hijos abajo |
+| plantillas-canva/kits-por-oficio/salud-terapeutas | plantillas-canva/kits-por-oficio | ES | superficial | 6 kw + ALL fisio · 2026-11-13 | Med Spa Documents Kit MX 0/48 por entrega (10 por creación, re-medir 2026-11-16); Odonto en Orden AR 0/26 (re-medir 2026-11-19); Cer Solutions 11/18 multi-oficio; `Canva fisioterapeutas` = cementerio |
+| plantillas-canva/kits-por-oficio/belleza-estetica | plantillas-canva/kits-por-oficio | ES | superficial | 6 kw · 2026-11-13 | Lash Pro / Nail Pro Catálogo MX 0/14 · 0/13 (tanda del 12-11, re-medir 2026-11-19); Laura Martin ES 6/11; packs BRL genéricos |
+| plantillas-canva/kits-por-oficio/profesionales-servicios | plantillas-canva/kits-por-oficio | ES | superficial | 6 kw · 2026-11-13 | Mind Digital Studio AR 18/50 piso (coach 17 + abogados 1, tarjeta; ES/MX/CO = 0); Matriz Digital AR 4/16 (anfitriones); inmobiliarias y contadores sin kits |
+| plantillas-canva/kits-por-oficio/gastronomia-emprendedoras | plantillas-canva/kits-por-oficio | ES | superficial | 5 kw · 2026-11-13 | Universo Repostero MX 3/8; Cocina en Regla pausada (0 activos, 39 ALL); `Canva restaurantes` casi hueco |
+| plantillas-canva/kits-por-oficio/docentes | plantillas-canva/kits-por-oficio | ES | superficial | 4 kw · 2026-11-13 | Material Educativo AR 5/15 (79 d); Mapasyresumenes MX 2/13 (US$7); `Canva educadoras` casi hueco |
+| plantillas-canva/kits-por-oficio/formato-packs-genericos | plantillas-canva/kits-por-oficio | ES | superficial | 5 kw + 4 páginas de la huella · 2026-11-13 | Pack Insta de Impacto AR 19/44 · MX 21/47 (65 d, BRL, tarjeta); Taller Creativo 15/23 oferta invisible; LaOfi ES 12/50 piso; Neri Designer MX 8/50 piso (USD 4-6,90) |
 | fe/material-cristiano-imprimible | fe | ES | virgen | 1 huella (`megapack PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Cristianas con Poder 31/71 bloque (16 CL, «recibe y luego pagas» sin oferta visible), Lumina Biblia, Calendarios de Fe, EducaTlon; perforar por formato (biblia para armar / calendarios / actividades) |
 | esoterismo/grimorio-brujeria | esoterismo | ES | virgen | 1 huella (`libro digital`) · 2026-11-13 | apareció por huella el 2026-11-13: Grimorio Cósmico 6/26 (68 d, «El Gran Grimorio de las Brujas»), Universo Mistico; sin cohorte de 10 todavía, seguir |
 | tecnologia/electronica-programacion-pdf | tecnologia | ES | virgen | 1 huella (`cuadernillo PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Macro Aula 5/20 (ESP32, Arduino, PLC, Scratch); El rincón educativo (ejercicios resueltos ingeniería); sin cohorte de 10, seguir |
@@ -269,6 +275,10 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `cuaderno de trabajo` (ES) | short-dramas y cuadernos físicos | `cuadernillo PDF`, `megapack PDF` |
 | página «plantillas Canva» con título único «Haz clic en Más información» (ES: Taller Creativo, LaOfi, Mind Digital Studio) | la cohorte se mide pero la oferta no se ve por API: puede ser plantilla o mini-curso | contar igual, pero verificar en la PC qué vende antes de dar tarjeta |
 | `megapack` + «OFERTA SOLO POR HOY» con título genérico (ES: Pro Academy, Impulso Creativo, Megapack Online) | producto invisible por API | re-medir y abrir snapshot en la PC |
+| `plantillas uñas` / `plantillas consultorio` / `posts psicología` (ES) | plantillas para calzado, podología y ortopedia / psicólogas promocionando su propio IG | `Canva` + oficio |
+| `Canva coaches` / `Canva Airbnb` / `Canva estética` / `plantillas contadores` / `plantillas inmobiliarias` (ES) | vendedores en inglés, packs BRL en español, cursos y CRM | leer moneda e idioma; `Canva abogados`, `Canva lashista` |
+| nombre de página con «en» como `search_terms` (ES: «Cocina en Regla») | el token «en» trae 2 mil de basura | el nombre pegado (`cocinaenregla`) con ALL, después `page_ids` |
+| `page_ids` + `search_terms` (ES, nube, 2026-11-13) | el término se ignora: devuelve los mismos 50 nuevos (LaOfi) | anotar la cohorte como piso y re-medir |
 
 ## Operadores a seguir (modo C)
 
@@ -277,6 +287,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
+| Mind Digital Studio | 100484571813019 | AR | kits de marca + gestión por oficio (coach 17, abogados 1), 18/50 piso (tarjeta 2026-11-13); ¿SKU u oficio nuevo? ¿salta a ES? re-medir 2026-11-20 |
+| Pack Insta de Impacto | 802396849634003 | AR · MX · ES | pack de plantillas IG en BRL, 19/44 AR a 65 d (tarjeta 2026-11-13); página homónima 1194180837101878 sin contar |
+| Med Spa Documents Kit | 1318045718067882 | MX · CO | documentos para estética, 48 activos con 10 en el borde de la cohorte; re-medir 2026-11-16 |
+| LaOfi | 101087078492489 | ES · MX | kit para diseñadores, ES 12/50 piso con cohorte detrás del tope; re-medir 2026-11-20 |
 | Hadassa Fit | 769240466269366 | BR | recetas fit para airfryer, 14/26, tandas cada 2-4 semanas desde el 01-08 (tarjeta 2026-11-12) |
 | Cozinhanoprato | 1143346648872228 | BR | colección de 4 ebooks de recetas, 14/14 a 32 d (tarjeta 2026-11-12); re-medir 2026-11-19 |
 | Receitas Emagrecedoras | 1036943289509621 | BR | embudo WA de recetas para adelgazar, ≥42/≥50; ver si aparece la oferta |
@@ -383,7 +397,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-13 18:42 | ES | B perforar (tarde) | plantillas-canva/kits-por-oficio | en curso | en curso | en curso |
+| 2026-11-13 18:42 | ES | B perforar (tarde) | plantillas-canva/kits-por-oficio | 6 subnichos, 32 kw nativas + ALL en 1; ~22 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Mind Digital Studio, Pack Insta de Impacto), 8 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
 | 2026-11-13 18:40 | EN | B perforar (tarde) | pareja/custodia-registros | en curso | en curso | en curso |
 | 2026-11-13 18:36 | BR | B perforar (tarde) | costura/moldes-pdf-br | 6 subnichos × 5 kw BR (30) + 3 controles AR/ES/MX/CO (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Ponto Certo App, Mamãe que fez), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
 | 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | 12 huellas ES (3 subagentes de lectura) + ~40 páginas contadas por país | 1 tarjeta (Laura Educa), 7 señales | 5 nodos nuevos ES; 4 operadores a seguir; 5 trampas nuevas |
