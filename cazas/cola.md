@@ -180,7 +180,12 @@ los nichos que emergen.
 | deportes/planes-practica-entrenadores-en/voley-flag-hockey-rugby | deportes/planes-practica-entrenadores-en | EN | superficial | 11 kw + ALL en 2 · 2026-11-13 | HeroeDigitals ≥19 US (¿app?); American Football Academy 7/15; rugby y vóley en GB = cementerio |
 | deportes/planes-practica-entrenadores-en/educacion-fisica-docentes | deportes/planes-practica-entrenadores-en | EN | superficial | 2 kw US/GB (`PE lesson plans`, `gymnastics lesson plans`) + control AR/ES (`juegos educación física`) · 2026-11-13 | Digital Academy PE 12/24 US y 11/20 GB (11 d): re-medir 2026-11-20; Orbis Atlas 10/31 ya en español; destino ocupado (EFácil, YTeducativo, Ideasjugadas) |
 | deportes/planes-practica-entrenadores-en/fabricas-multisku | deportes/planes-practica-entrenadores-en | EN | superficial | 20 sondeos por SKU + `wrestling practice plans`, `PE lesson plans` · 2026-11-13 | The Ascent Club máx 8 por SKU; Download Studio cheer 7/8; Allsetvault/Zonaebook/DigitalCenter ≤ 8 |
-| pareja/custodia-registros | pareja | EN | virgen | 1 huella (`printable binder`) · 2026-11-12 | apareció por huella el 2026-11-12: CustodyLogs 44/49 US (272 d), Custody Keeper, Shielded Co-Parenting; ¿app o PDF? |
+| pareja/custodia-registros | pareja | EN | profundo | 23 kw US/GB + ALL en 2 + 2 controles AR/ES · 2026-11-13 | perforado el 2026-11-13 tarde: 5 hijos superficial; 2 tarjetas (CustodyLogs 47/47 US, Isabella Francis 31/31 US) |
+| pareja/custodia-registros/registro-juicio | pareja/custodia-registros | EN | superficial | 5 kw US/GB + control AR/ES (`custodia registro`) · 2026-11-13 | CustodyLogs 47/47 US (274 d, tarjeta; ¿app o archivo?); clones < 7 d (Custody Keeper, Shielded, AntiAlienate): re-medir 2026-11-20; AR/ES = hueco |
+| pareja/custodia-registros/organizador-divorcio | pareja/custodia-registros | EN | superficial | 5 kw · 2026-11-13 | `divorce` + binder/planner/checklist/organizer = short-dramas; `divorce workbook` = coaches con cara |
+| pareja/custodia-registros/juicio-sin-abogado | pareja/custodia-registros | EN | superficial | 5 kw + ALL en 1 · 2026-11-13 | todo short-dramas; Dads Law School 4/5 (339 d); GB `pro se custody` = cementerio (Plainly Digital $17, Custody Binder) |
+| pareja/custodia-registros/plan-parentalidad | pareja/custodia-registros | EN | superficial | 4 kw · 2026-11-13 | abogados, apps (OurFamilyWizard, TalkingParents) y quizzes de TDAH; nadie vende la plantilla |
+| pareja/custodia-registros/ex-narcisista | pareja/custodia-registros | EN | superficial | 4 kw + ALL en 1 + control AR/ES (`ex narcisista hijos`) · 2026-11-13 | Isabella Francis 31/31 US (91 d, libro impreso, tarjeta; ¿persona?); Anthony Bompiani ≥47/51 = marca personal; AR/ES = hueco |
 | educacion-emocional/actividades-imprimibles | educacion-emocional | ES | superficial | 2 huellas (`cuadernillo PDF`, `libro digital`) + Laura Educa contada por país · 2026-11-13 | apareció por huella el 2026-11-13 (Laura Educa 14/28 ES, 144 d, tarjeta; solo pauta en ES → destino AR); perforar por avatar (padres / docentes / psicólogos) y materia (autoestima / rechazo / navidad); OJO verificar que no roce neurokids |
 | plantillas-canva/kits-por-oficio | plantillas-canva | ES | profundo | 6 subnichos, 32 kw + ALL en 1 · 2026-11-13 (tarde) | Mind Digital Studio AR 18/50 piso y Pack Insta de Impacto AR 19/44 (tarjetas); Taller Creativo 15/23 oferta invisible; LaOfi ES 12/50 piso; hijos abajo |
 | plantillas-canva/kits-por-oficio/salud-terapeutas | plantillas-canva/kits-por-oficio | ES | superficial | 6 kw + ALL fisio · 2026-11-13 | Med Spa Documents Kit MX 0/48 por entrega (10 por creación, re-medir 2026-11-16); Odonto en Orden AR 0/26 (re-medir 2026-11-19); Cer Solutions 11/18 multi-oficio; `Canva fisioterapeutas` = cementerio |
@@ -226,6 +231,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `protocol` / `blueprint` (EN) | suplementos, advertoriales con persona, granjas de juegos y dramas | entregable + tema |
 | `printable` solo (GB) | quiz-funnels de dieta (Eat Smart, High.diet) | `printable planner`, `printable pages` |
 | `Security+` (EN) | el «+» se pierde y trae «security guide» (guardias, ficción) | `CompTIA Security` |
+| `divorce` + binder/planner/checklist/organizer, `custody journal`, `co-parenting log`, `parenting time log` (EN) | novelas «click to read» y short-dramas: cero señal | `custody binder`, `narcissist custody`, `high conflict co-parent`, `parallel parenting` |
+| `custody court` / `family court` / `court ready` / `custody hearing` / `parenting plan` / `custody documentation` (EN) | short-dramas, pickleball, quizzes de TDAH, arbitraje «pro bono lawyers» | ídem arriba + `page_ids` de los clones |
 | `in pictures` (EN) | el token «in» matchea todo (1,3 M en US) | `made visual`, `visual guide` |
 | `mini course` (EN) | short-dramas | `video lessons` + tema |
 | `guia completo` (BR) | short-dramas y novelas en USD | `guia prático pdf`, entregable + tema |
@@ -357,7 +364,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | My Estate Kit | 1091977304009213 | GB | tarjeta EN del 2026-11-12: kit digital de sucesión (~£29), ≥50/50 GB, 115 d; contar US y seguir al cluster (Atlas Media Group 1254679187727827, Afterpath 1016389298235387) |
 | Cosmo Studio | 209343218938190 | US · GB | tarjeta EN del 2026-11-12: planilla de vida a $9, 22/28 US y 21/25 GB, 72 d; abrió SKU de invitaciones en Canva el 12-11; hermanas probables Her Notion Planner 1282088321645043 y Ultimate Notion Planner 425210960671076 |
 | The Ascent Club | 102421131594782 | US · GB | ≥58 en cohorte US por sondeos (228 est., multi-SKU de planes de práctica para entrenadores); hermana Download Studio 1344017652136102 |
-| CustodyLogs | 959544217247977 | US | 44/49 el 2026-11-12, ad de 272 d; ¿app o PDF? verificar en la PC |
+| CustodyLogs | 959544217247977 | US | 44/49 el 2026-11-12; 47/47 el 2026-11-13 tarde (274 d, EUR, tarjeta); ¿app o PDF? verificar en la PC |
+| Isabella Francis | 201865639680760 | US | 31/31 el 2026-11-13 tarde (libro impreso de ex narcisista + Recovery Set, 91 d, tarjeta); ¿persona? |
+| Clones de CustodyLogs: The Custody Keeper · Shielded Co-Parenting · AntiAlienate | 1366011646600864 · 1280648655122547 · 1066259219910194 | US · GB | 0/4, 0/5, 0/5 el 2026-11-13: re-medir 2026-11-20 |
 | TI em Mapas | 1171375182736345 | BR · hispano | tarjeta BR del 2026-11-12 (+300 mapas mentales de TI, 41/49, 77,7 d); lanzó versión en español el 10-11: contarla por país AR/ES/MX |
 | Farmácia Mapeada | 105693778467803 | BR | tarjeta BR del 2026-11-12 (farmacología ilustrada 15/20, página ≥32/≥50, 78 d); ¿PDF o impreso? |
 | Marcelomapas | 100945228762390 | BR | direito ilustrado R$17 / OAB R$97, ≥22/143 est. (79,5 d) el 2026-11-12; verificar si hay cara |
@@ -398,7 +407,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-13 18:42 | ES | B perforar (tarde) | plantillas-canva/kits-por-oficio | 6 subnichos, 32 kw nativas + ALL en 1; ~22 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Mind Digital Studio, Pack Insta de Impacto), 8 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
-| 2026-11-13 18:40 | EN | B perforar (tarde) | pareja/custodia-registros | en curso | en curso | en curso |
+| 2026-11-13 18:40 | EN | B perforar (tarde) | pareja/custodia-registros | 5 subnichos, 23 kw US/GB + ALL en 2 + 2 controles AR/ES; ~15 páginas contadas (2 subagentes de lectura) | 2 tarjetas (CustodyLogs, Isabella Francis), 5 señales | profundo, con 5 hijos superficial; 3 operadores a seguir |
 | 2026-11-13 18:36 | BR | B perforar (tarde) | costura/moldes-pdf-br | 6 subnichos × 5 kw BR (30) + 3 controles AR/ES/MX/CO (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Ponto Certo App, Mamãe que fez), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
 | 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | 12 huellas ES (3 subagentes de lectura) + ~40 páginas contadas por país | 1 tarjeta (Laura Educa), 7 señales | 5 nodos nuevos ES; 4 operadores a seguir; 5 trampas nuevas |
 | 2026-11-13 06:40 | EN | B perforar (mañana) | deportes/planes-practica-entrenadores-en | 6 subnichos, ~45 kw US/GB + ALL en 3 + 2 controles AR/ES + 20 sondeos por SKU; ~30 páginas contadas (3 subagentes de lectura) | 1 tarjeta (Basketball Coach Pro), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |

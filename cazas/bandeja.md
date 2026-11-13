@@ -26,6 +26,31 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Registro privado para el juicio de custodia («Get court-ready») — CustodyLogs US · `pareja/custodia-registros/registro-juicio` · 2026-11-13 (tarde) · sesión EN
+- **Qué es:** una herramienta para que el padre o la madre en un juicio de custodia anote en privado los incumplimientos, los mensajes y los hechos, y llegue al juzgado con todo ordenado («Get court-ready», «The file that helped me win custody», «Start Documenting Privately»). Hay ads de catálogo, así que probablemente es una tienda. No se sabe si es una app, un archivo descargable o una carpeta, ni el precio.
+- **Por qué es ganador:** cohorte 7+/activos **47/47 en US** (conteo completo; 0 en GB) · ad más viejo de **274 días** (desde el 12-02) · unas 20 fechas de creación, la última el 05-11 · página de producto sin persona, operador europeo (EUR). Ya lo copian: The Custody Keeper (mismo título «Get court-ready ->»), Shielded Co-Parenting y AntiAlienate, todos con ads de menos de 7 días. Intentos previos apagados en GB (Plainly Digital «Record Hub $17», Custody Binder, Clear Record Co.).
+- **Qué hacer:** si es app, pasarlo a un kit imprimible y planilla: registro diario de cumplimiento del régimen, línea de tiempo de hechos, plantillas de mensajes neutros y checklist «qué llevarle al abogado» · destino sugerido **ES** (custodia compartida y modificación de medidas), después AR (régimen de comunicación) · ángulo: «lo que no está anotado, para el juzgado no pasó». El control en AR·ES (`custodia registro`) solo trajo short-dramas: hueco. Sin promesas legales en el copy.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=959544217247977&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=676539412214936)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL y custodylogs.com no se pudo abrir): verificar en la PC si es app o archivo, el precio y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Guía de co-parentalidad con un ex narcisista + «Recovery Set» — Isabella Francis US · `pareja/custodia-registros/ex-narcisista` · 2026-11-13 (tarde) · sesión EN
+- **Qué es:** el libro «Co-Parenting After Divorcing a Narcissist» (un título dice Paperback, así que es **impreso**) y un «Recovery Set». Promete cómo criar con un ex manipulador sin pelear y proteger a los hijos. Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **31/31 en US** (conteo completo; 0 en GB) · ad más viejo de **91 días** (desde el 15-08) · 5 tandas (15-08, 22-08, 04-10, 21-10 y 05-11) · unos 20 ángulos distintos («The Divorce Ended. The Parenting Didn't.», «Disarm the Narcissist. Protect Your Peace.», «Healing happens in four phases»). ⚠️ La página tiene nombre de persona (¿seudónimo de autora?). Los títulos no hablan en primera persona, pero la cara no se vio: verificar Filtro A en la PC.
+- **Qué hacer:** pasarlo a una guía PDF + guiones de respuesta para copiar y pegar («qué contestarle cuando…») + un plan de 4 fases · destino sugerido **AR**, después ES · ángulo: «el divorcio terminó, la guerra no: cómo criar con él sin caer en sus juegos». En AR·ES (`ex narcisista hijos`) solo hay 1 ad, de una psicóloga con nombre propio: hueco.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=201865639680760&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=935282975527917)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el formato (¿libro físico o también digital?), el precio y qué trae el Recovery Set.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-13)**
+- Anthony Bompiani (603230363139284): ≥47/51 en US y 6/6 en GB, 120 días, «Beat The Narcissist In Court». Es marca personal («Judge Anthony») con una IA a USD 1: no es modelable.
+- Dads Law School (116224934730171): 4/5 en US, con un ad de 339 días («Get The Book», «Show Up Ready for Court»). No llega a 10.
+- Clones de CustodyLogs que arrancaron esta semana: The Custody Keeper (EUR), Shielded Co-Parenting (AUD) y AntiAlienate, todos 0/4-5. Re-medir el 2026-11-20.
+- Cementerio en GB (`pro se custody`, `narcissist ex guide` solo con ALL): Plainly Digital «Solo Co-Parent Record Hub [$17]», Custody Binder, Clear Record Co., Readwellia.
+- `divorce` + binder/planner/checklist/organizer y `custody court`/`family court`: short-dramas y novelas, sin señal.
+
 ### 🎯 Pack de prácticas de básquet «Today only: $14.90» — Basketball Coach Pro US · `deportes/planes-practica-entrenadores-en/basquet` · 2026-11-13 · sesión EN
 - **Qué es:** un pack digital de entrenamiento para entrenadores de básquet a **USD 14,90** con «oferta solo por hoy». El mismo operador corre la plantilla en fútbol (Soccer Training Pro, USD 9,90-14,90). Contenido exacto y formato sin ver.
 - **Por qué es ganador:** cohorte 7+/activos **27/27 en US** · ad más viejo de **39 días** (desde el 05-10) · 5 tandas escalonadas (04, 09, 13, 24 y 26-10), la última hace 17 días · el mismo título en los 27 ads · página de producto sin persona. La hermana Soccer Training Pro tiene 22/22 en US y GB con ads de 87 días, pero sin ads nuevos en 45 días (posible zombi). Probable operador brasileño.
