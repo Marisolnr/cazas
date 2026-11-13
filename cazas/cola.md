@@ -175,6 +175,11 @@ los nichos que emergen.
 | deportes/planes-practica-entrenadores-en/educacion-fisica-docentes | deportes/planes-practica-entrenadores-en | EN | superficial | 2 kw US/GB (`PE lesson plans`, `gymnastics lesson plans`) + control AR/ES (`juegos educación física`) · 2026-11-13 | Digital Academy PE 12/24 US y 11/20 GB (11 d): re-medir 2026-11-20; Orbis Atlas 10/31 ya en español; destino ocupado (EFácil, YTeducativo, Ideasjugadas) |
 | deportes/planes-practica-entrenadores-en/fabricas-multisku | deportes/planes-practica-entrenadores-en | EN | superficial | 20 sondeos por SKU + `wrestling practice plans`, `PE lesson plans` · 2026-11-13 | The Ascent Club máx 8 por SKU; Download Studio cheer 7/8; Allsetvault/Zonaebook/DigitalCenter ≤ 8 |
 | pareja/custodia-registros | pareja | EN | virgen | 1 huella (`printable binder`) · 2026-11-12 | apareció por huella el 2026-11-12: CustodyLogs 44/49 US (272 d), Custody Keeper, Shielded Co-Parenting; ¿app o PDF? |
+| educacion-emocional/actividades-imprimibles | educacion-emocional | ES | superficial | 2 huellas (`cuadernillo PDF`, `libro digital`) + Laura Educa contada por país · 2026-11-13 | apareció por huella el 2026-11-13 (Laura Educa 14/28 ES, 144 d, tarjeta; solo pauta en ES → destino AR); perforar por avatar (padres / docentes / psicólogos) y materia (autoestima / rechazo / navidad); OJO verificar que no roce neurokids |
+| plantillas-canva/kits-por-oficio | plantillas-canva | ES | virgen | 1 huella (`plantillas Canva`) · 2026-11-13 | ola grande el 2026-11-13: Taller Creativo 15/22 AR y 15/23 MX (36 d, título único invisible), LaOfi ES ≥12/50, Mind Digital Studio AR ≥17/50, Revelarte AR ≥19/50, Odonto en Orden, Lash Pro; perforar por oficio y verificar en la PC si es plantilla o mini-curso |
+| fe/material-cristiano-imprimible | fe | ES | virgen | 1 huella (`megapack PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Cristianas con Poder 31/71 bloque (16 CL, «recibe y luego pagas» sin oferta visible), Lumina Biblia, Calendarios de Fe, EducaTlon; perforar por formato (biblia para armar / calendarios / actividades) |
+| esoterismo/grimorio-brujeria | esoterismo | ES | virgen | 1 huella (`libro digital`) · 2026-11-13 | apareció por huella el 2026-11-13: Grimorio Cósmico 6/26 (68 d, «El Gran Grimorio de las Brujas»), Universo Mistico; sin cohorte de 10 todavía, seguir |
+| tecnologia/electronica-programacion-pdf | tecnologia | ES | virgen | 1 huella (`cuadernillo PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Macro Aula 5/20 (ESP32, Arduino, PLC, Scratch); El rincón educativo (ejercicios resueltos ingeniería); sin cohorte de 10, seguir |
 
 ---
 
@@ -252,6 +257,10 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `calendario 2027` / `brain dump` / `diario gratitud` / `control gastos` / `reto ahorro` (ES) | imprentas físicas / short-drama en inglés / novelas / short-drama doblado | `vaciar mente`, `finanzas personales plantilla` |
 | `tee ball practice` / `hockey practice plans` / `practice plans` / `drill cards` / `season plan coach` / `basketball playbook` (EN) | golf / novelas románticas («Hockey Rival») / ruido amplio / cartas coleccionables | `basketball coaching plans`, `PE lesson plans`, `wrestling practice plans`; en GB `football` en vez de `soccer` |
 | sondear a The Ascent Club por deporte (EN) | escribe el deporte con emoji (🏓 🏐 ⚽): el nombre del deporte da 0 | sustantivos de actividad (`troop`, `ice`, `wall`, `deck`, `mat`) + `page_ids` + país |
+| `envío inmediato` / `S/ 15` y precios en soles sueltos (ES) | short-dramas, físicos contra entrega, cosmética (17 mil); soles sueltos → novelas EN/FR (1 M) | `megapack PDF`, `plantillas Canva`, `láminas imprimibles`, `soles PDF` + tema |
+| `cuaderno de trabajo` (ES) | short-dramas y cuadernos físicos | `cuadernillo PDF`, `megapack PDF` |
+| página «plantillas Canva» con título único «Haz clic en Más información» (ES: Taller Creativo, LaOfi, Mind Digital Studio) | la cohorte se mide pero la oferta no se ve por API: puede ser plantilla o mini-curso | contar igual, pero verificar en la PC qué vende antes de dar tarjeta |
+| `megapack` + «OFERTA SOLO POR HOY» con título genérico (ES: Pro Academy, Impulso Creativo, Megapack Online) | producto invisible por API | re-medir y abrir snapshot en la PC |
 
 ## Operadores a seguir (modo C)
 
@@ -336,6 +345,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Basketball Coach Pro | 1373186709203115 | US | tarjeta EN del 2026-11-13: pack de básquet «Today only: $14.90», 27/27, 39 d; hermanas Soccer Training Pro 1234094106455284 (22/22 US·GB, sin ads nuevos en 45 d) y 1543066612216569, Jonathan Ross 429439973597227 (BRL) |
 | Digital Academy (EF) | 1340771395780798 | US · GB | «150 PE games», 12/24 US y 11/20 GB con 11 d (2026-11-13); re-medir 2026-11-20 |
 | HeroeDigitals | 1258628903995580 | US | planes de práctica multi-deporte, ≥19/50 (84 est.), 21 d (2026-11-13); ¿app o PDF? |
+| Laura Educa | 109425057952071 | ES | tarjeta ES del 2026-11-13: actividades emocionales imprimibles, 14/28 ES, 144 d; solo pauta en ES → ver si abre AR y confirmar que no es marca personal ni neurokids |
+| Taller Creativo | 1156743057524645 | AR · MX | plantillas Canva, 15/22 AR y 15/23 MX (36 d, 12 fechas) con título único «Más información»: oferta invisible por API; verificar en la PC qué vende |
+| Cristianas con Poder | 1306900159163457 | MX · AR · CL | ex «Pequeños Cristianos», 31/71 bloque (16 CL), «recibe y luego pagas» sin oferta visible (2026-11-13); re-medir 2026-11-20 |
+| Axo y Yo | 1358953320636772 | MX | cuadernillos escolares por grado $149 MXN, 10/20 pero cohorte de una sola fecha (05-11); re-medir 2026-11-20 |
 | | | | |
 
 ## Rotación vigente
@@ -359,7 +372,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | en curso | en curso | en curso |
+| 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | 12 huellas ES (3 subagentes de lectura) + ~40 páginas contadas por país | 1 tarjeta (Laura Educa), 7 señales | 5 nodos nuevos ES; 4 operadores a seguir; 5 trampas nuevas |
 | 2026-11-13 06:40 | EN | B perforar (mañana) | deportes/planes-practica-entrenadores-en | 6 subnichos, ~45 kw US/GB + ALL en 3 + 2 controles AR/ES + 20 sondeos por SKU; ~30 páginas contadas (3 subagentes de lectura) | 1 tarjeta (Basketball Coach Pro), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
 | 2026-11-13 06:36 | BR | C operadores (mañana) | — (operadores BR) | 32 page_ids (36 consultas `page_ids` + país, BR y AR/ES/MX), 13 sondas `search_terms` sobre página, 3 controles hispanos; 3 subagentes de lectura | 1 tarjeta (Edufisicavisual), 10 señales | sin cambios de estado; 2 operadores nuevos a seguir (Edufisicavisual, Brinca e Aprende) |
 | 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | 7 subnichos, 35 kw nativas + ALL en 2 ceros; ~25 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Claridad y Acción, Mente Inquieta), 7 señales | profundo, con 7 hijos superficial + 1 nodo nuevo (productividad/plantillas-notion-oficios); 3 operadores a seguir |
