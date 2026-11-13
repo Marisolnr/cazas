@@ -237,6 +237,27 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Mapas visuales de cinesiología para educación física — Edufisicavisual BR · `mapas-visuais-r10/saude` · 2026-11-13 · sesión BR
+- **Qué es:** material visual (mapas) de cinesiología para estudiantes y profes de educación física. Es la única oferta de la página: los 29 ads activos mencionan «cinesiologia» en el texto. Los títulos son solo estrellas («⭐⭐⭐⭐⭐ 4.9/5») y el precio no se ve en los ads; desde el 05-11 la cuenta paga en USD (antes en BRL).
+- **Por qué es ganador:** cohorte 7+/activos **26/29 en BR** (vistos todos). El ad más viejo tiene **12,7 días** y hay 4 fechas de creación (31-10 ×16, 05-11 ×5, 06-11 ×5, 10-11 ×3): de la primera tanda siguen vivos los 16. Es una página fantasma (marca «Edufisicavisual», sin persona) y un solo operador. El 12-11 estaba en 21/29; lo marcamos para re-medir y pasó la vara antes de la fecha.
+- **Qué hacer:** modelar «cinesiología / anatomía del movimiento en mapas» en PDF a USD 7-10, para el profe de educación física y el estudiante del profesorado (no para kinesiólogos: ese ángulo ya está lleno). Destino sugerido **AR**, después ES. Ojo: en el hispano ya hay testers brasileños de esta semana con 0-2 días: Kine de Bolsillo («300 mapas de kinesiología», $12.900 ARS), Sofia Martins y Laura Menezes («+150 mapas de anatomía»), CMDigital, Luna Celeste, Camila González. En educación física hay pocos: Simplifica Educación Física («+60 mapas de periodización», ad de 27 días) y Lucia Ortiz (mismo título de estrellas, en BRL, ¿la versión en español de este operador?).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1293268003864355&search_type=page&media_type=all) · creativos más viejos: [13 d](https://www.facebook.com/ads/library/?id=1160515229823998) · [13 d](https://www.facebook.com/ads/library/?id=1123997510133945)
+- **Landing:** embudo no verificado desde la nube (sin URL en los ads). Antes de decidir hay que ver en la PC el precio, cuántos mapas trae, si hay cara en los creativos y si Lucia Ortiz es el mismo operador.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, tema por `page_ids` + `search_terms: cinesiologia` 29/29). Es joven: conviene re-medirlo el 20-11 antes de producir.
+
+**Señales del día BR (2026-11-13, mañana)**
+- TI em Mapas (1171375182736345), tarjeta del 12-11: la versión en español ya entró en cohorte: **AR 19/19, MX 19/19, ES 18/34** («+300 Mapas Mentales de TI», ad de 14,7 días). La ventana de AR/ES se está cerrando; BR sigue en 33/41.
+- NeuroKit Clínico (964287390098744), tarjeta del 11-11: sube a 45/66 en BR. La hermana (883009701566343) corre en AR/ES con el creativo francés (12-13 en cohorte) y lanzó «90 fichas de TCC listas para la sesión» en español el 08-11: entra en cohorte el 15-11. Nuevo SKU: EMDR.
+- Nova Era (114755404813290), tarjeta del 11-11: sube a 35/42; «Planner Psi» entró en cohorte con 8 ads («pague una vez, recibí todos los años»). «Metáforas terapêuticas» tiene 6 de 4 días.
+- Hadassa Fit (769240466269366) sube de 14/26 a 18/26; Daily Routine Club (671948206009244) sube a 17/32. Cozinhanoprato (1143346648872228) sigue 14/14 sin ads nuevos desde el 20-10.
+- Lacuna Concursos (1173569735845788): pasa la vara con «📥 Baixe Agora» **20/34**, ad de 38 días, 11 fechas; 26 de los 34 dicen «apostila» y ninguno «grátis». No se ve qué concurso ni el precio: verificar en la PC.
+- Arquivos que encantam (216603914872916): 22/28 con «🚨Apenas R$10🚨», ad de 30 días y 6 nuevos hoy. Sigue sin verse qué vende: verificar en la PC.
+- Trilha do Estudo (641390105728644): «Apostila Completa + Aplicativo de Questões» ≥34/50 (41 días, USD). Pasa el volumen, pero falta saber si es PDF o suscripción a la app.
+- Mestre da Madeira (1240001732528839), tarjeta del 11-11: **reinició la página**. Tiene 0/10 y todo es de 1 día; sube el precio a R$ 14,90.
+- Brinca e Aprende (942354795618344): «inglés para niños con monstruitos» llega justo a 10/10 en cohorte, pero los 10 son de un solo día (04-11). Lanzó 3 SKU nuevos; volver a medir el 18-11.
+- Receitas Emagrecedoras (≥32/≥50) y Saúde em Forma (≥23/≥50) siguen en WhatsApp sin la oferta en el título. Clube do Devocional baja de ≥43 a 15/33 (WA). Prof. Mariana Oliveira (1080842931788422) ya no tiene ads activos en BR. Creartool (325627053956826) esconde la cohorte detrás de 136 ads nuevos de Black Friday.
+
 ### 🎯 Ebook de recetas fit para airfryer — Hadassa Fit BR · `receitas/ebooks-fit/airfryer-fit` · 2026-11-12 (tarde) · sesión BR
 - **Qué es:** un ebook digital de recetas para airfryer en clave fit; algunos creativos también hablan de bolos fit. Es la única oferta de la página. Los títulos son solo estrellas («⭐⭐⭐⭐⭐ 4.9/5.0») y el precio no se ve en los ads; el tema sale de que 23 de los 26 ads activos mencionan «receitas airfryer» en el texto.
 - **Por qué es ganador:** cohorte 7+/activos **14/26 en BR** (vistos todos); 12 de esos 14 son de la oferta airfryer. El ad más viejo tiene **103,6 días** (tanda del 01-08). Lanza tandas cada 2-4 semanas (01-08, 30-09, 01-11, 05-11 y 11-11) y en los últimos 30 días creó 16 ads: el operador está vivo y no apaga lo viejo. Es una página fantasma (marca) y un solo operador. Alrededor hay subnicho: Chef Mari ≥18, Chef Pierre 17/24, Fernanda Rocha ≥15 (todas personas-chef de fantasía) y Cozinhanoprato 14.
