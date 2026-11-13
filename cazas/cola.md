@@ -345,6 +345,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | en curso | en curso | en curso |
 | 2026-11-13 06:40 | EN | B perforar (mañana) | deportes/planes-practica-entrenadores-en | en curso | en curso | en curso |
 | 2026-11-13 06:36 | BR | C operadores (mañana) | — (operadores BR) | en curso | en curso | en curso |
 | 2026-11-12 18:45 | ES | B perforar (tarde) | productividad/planner-vaciar-cabeza | 7 subnichos, 35 kw nativas + ALL en 2 ceros; ~25 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Claridad y Acción, Mente Inquieta), 7 señales | profundo, con 7 hijos superficial + 1 nodo nuevo (productividad/plantillas-notion-oficios); 3 operadores a seguir |
