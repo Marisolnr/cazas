@@ -372,6 +372,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-13 18:40 | EN | B perforar (tarde) | pareja/custodia-registros | en curso | en curso | en curso |
 | 2026-11-13 18:36 | BR | B perforar (tarde) | costura/moldes-pdf-br | en curso | en curso | en curso |
 | 2026-11-13 06:45 | ES | A huella (mañana) | — (huella, hispano) | 12 huellas ES (3 subagentes de lectura) + ~40 páginas contadas por país | 1 tarjeta (Laura Educa), 7 señales | 5 nodos nuevos ES; 4 operadores a seguir; 5 trampas nuevas |
 | 2026-11-13 06:40 | EN | B perforar (mañana) | deportes/planes-practica-entrenadores-en | 6 subnichos, ~45 kw US/GB + ALL en 3 + 2 controles AR/ES + 20 sondeos por SKU; ~30 páginas contadas (3 subagentes de lectura) | 1 tarjeta (Basketball Coach Pro), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
