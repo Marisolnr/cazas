@@ -254,6 +254,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Molde do Avental Japonês Viral em PDF» + videoaula — Ponto Certo App BR · `costura/moldes-pdf-br/casa-avental-mesa-posta` · 2026-11-13 (tarde) · sesión BR
+- **Qué es:** el molde en PDF del delantal japonés (el cruzado, sin botones ni lazos), con una videoaula de costura. Los títulos muestran entre 748 y 848 reseñas en estrellas. El precio no se ve en los ads. La página también probó otros moldes sueltos esta semana: Cesto Baleia y Chinelo de Tecido.
+- **Por qué es ganador:** cohorte 7+/activos **10/24 en BR** (vistos todos), y los 10 son del delantal. El ad más viejo tiene **113,6 días**. Las tandas son del 23-07, 25-07, 23-08, 24-09, 03-10 y 06-11, y no apaga lo viejo. Hay 11 fechas de creación y 14 ads nuevos en la última semana, así que el operador está vivo. Es una página de marca, sin persona, y un solo operador.
+- **Qué hacer:** modelar «molde del delantal japonés en PDF + video paso a paso», en talles, a USD 5-7, con el ángulo «cosé tu delantal en una tarde y vendelo». Destino sugerido **AR**, después ES. En el hispano está vacío: `molde delantal` da 8 ads en AR/ES/MX/CO, casi todo ruido. En `moldes costura` solo entran testers brasileños y latinos en USD, todos con menos de 4 días.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1037269729466043&search_type=page&media_type=all) · creativos más viejos: [114 d](https://www.facebook.com/ads/library/?id=1337414954780602) · [111 d](https://www.facebook.com/ads/library/?id=1340572048291672)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC el precio, qué trae la videoaula y si el «App» del nombre es una suscripción en vez de un PDF.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). El 11-11 estaba en 9/22: entró a la vara con el ad del 06-11.
+
+### 🎯 Proyectos de costura (naninha de ursinho, boneco de neve) «Por Apenas R$17,00» — Mamãe que fez BR · `costura/moldes-pdf-br/infantil-bebe-bonecas` · 2026-11-13 (tarde) · sesión BR
+- **Qué es:** proyectos de costura en formato digital para mamás: «Projeto Naninha de Ursinho» (el muñeco de apego del bebé) y ahora «Projeto Boneco de Neve» para Navidad, a **R$ 17** según el título. No se ve si es solo el molde o molde más video.
+- **Por qué es ganador:** cohorte 7+/activos **11/17 en BR** (vistos todos): 7 ads de «Por Apenas R$17,00» (01-11 al 04-11) y 4 de la naninha (05/06-11). El ad más viejo tiene **11,8 días**. Hay 8 fechas de creación y lanza un SKU nuevo por semana. Es una página fantasma y un solo operador.
+- **Qué hacer:** modelar «muñeco de apego / naninha en PDF + paso a paso» a USD 5-7, con un proyecto estacional por mes (Navidad ya). Destino sugerido **ES**, donde el «doudou» es conocido, después AR. No se midió competencia de este proyecto en español.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1104742249386376&search_type=page&media_type=all) · creativos más viejos: [12 d](https://www.facebook.com/ads/library/?id=1067310256353522) · [12 d](https://www.facebook.com/ads/library/?id=1743437906733139)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC qué incluye el proyecto y que no haya una cara en los creativos.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Es joven: conviene re-medirlo el 20-11 antes de producir.
+
+**Señales del día BR (2026-11-13, tarde)**
+- Ana Beatriz (500613633701984): **≥30/≥50** en BR (66 est.), moldes infantiles y de babador + curso («MOLDES+VIDEOAULA», «LUCRE COM MEUS MOLDES»), USD, ad de 47-56 días. Es lo más fuerte del nodo, pero la página es un nombre de persona y el copy va en primera persona: verificar en la PC si hay cara antes de tarjetearla.
+- Silvia Mello (1147193731812287): ≥30/164 en BR con «Clique em saiba mais», 29 días; aparece por mesa posta y ropita, pero el producto no se ve. Verificar en la PC.
+- Boracosturar (631200920077769): 11/24, pero los 11 son un solo creativo («Pague 2 e Leve 3 Moldes»): tienda de moldes sueltos desde R$2,50, 50 días.
+- Raquel Barros (1271130002749095) 10/17 y Carolina Vieira Moldes (1335926382943346) 10/10: los dos justo en el piso, con el producto invisible; Carolina en USD con «Últimas unidades!» (¿físico?).
+- Cerca de la vara: Costura com Jéssica Lais 9/10 (necessaires, persona), Pixelverso 9/10 («4,8/5», ¿pet?), Avila Moldes 8/12 (moldes PDF por pieza, 52 días). Re-medir 2026-11-20.
+- En el hispano los moldes de costura ya tienen testers sin cohorte: Angela Moldes, Isabela Costurera, Patrones en PDF («+120 patrones infantiles»), Thaise Costura (BRL, «recíbelo primero y paga después»).
+
 ### 🎯 Mapas visuales de cinesiología para educación física — Edufisicavisual BR · `mapas-visuais-r10/saude` · 2026-11-13 · sesión BR
 - **Qué es:** material visual (mapas) de cinesiología para estudiantes y profes de educación física. Es la única oferta de la página: los 29 ads activos mencionan «cinesiologia» en el texto. Los títulos son solo estrellas («⭐⭐⭐⭐⭐ 4.9/5») y el precio no se ve en los ads; desde el 05-11 la cuenta paga en USD (antes en BRL).
 - **Por qué es ganador:** cohorte 7+/activos **26/29 en BR** (vistos todos). El ad más viejo tiene **12,7 días** y hay 4 fechas de creación (31-10 ×16, 05-11 ×5, 06-11 ×5, 10-11 ×3): de la primera tanda siguen vivos los 16. Es una página fantasma (marca «Edufisicavisual», sin persona) y un solo operador. El 12-11 estaba en 21/29; lo marcamos para re-medir y pasó la vara antes de la fecha.

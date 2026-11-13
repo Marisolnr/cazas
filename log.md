@@ -44,3 +44,5 @@
 ## [2026-11-13] caza-auto | EN B deportes/planes-practica-entrenadores-en → 1 candidatos a bandeja
 
 ## [2026-11-13] caza-auto | ES A huella (huella, hispano) → 1 candidato a bandeja
+
+## [2026-11-13] caza-auto | BR B costura/moldes-pdf-br (tarde) → 2 candidatos a bandeja
