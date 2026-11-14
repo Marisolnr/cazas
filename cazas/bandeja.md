@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «150 PE Games, Ready to Run»: pack de juegos de educación física — Digital Academy (EF) US·GB · `deportes/planes-practica-entrenadores-en` (operadores) · 2026-11-14 · sesión EN
+- **Qué es:** un pack digital de 150 juegos de educación física listos para usar en clase, de descarga inmediata, con 3 bonos de regalo («Plan a PE Class in 5 Minutes», «instant download»). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **13/25 en US** y **12/21 en GB** (conteo completo, no piso) · ad más viejo de **12 días** · 5 tandas (02, 03, 05, 10 y 13-11), sigue cargando ads · página de producto sin persona.
+- **Qué hacer:** modelar «150 juegos de educación física listos, buscados por material y por edad» en PDF con 3 bonos · destino sugerido **ES** (en ES solo hay guías anuales y «curso listo», ningún pack de juegos con 7+ días). ⚠️ En AR ya lo copió **El Bolso del Profe** («150 juegos, 3 regalos, un PDF», creado el 12-11): si se va a AR, entrar ya y con otro ángulo («juegos sin material», «juegos donde nadie hace fila»).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1340771395780798&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1340771395780798&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2399906830815415) · clon AR: [El Bolso del Profe](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1484471184741332&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el precio, los bonos y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Prácticas ya planeadas por deporte de nicho («96 Youth Practices, Already Planned») — The Ascent Club US·GB · `deportes/planes-practica-entrenadores-en` (operadores) · 2026-11-14 · sesión EN
+- **Qué es:** una fábrica de packs digitales de prácticas armadas, uno por deporte de nicho: lucha, atletismo, remo, lacrosse, escalada («90 Wrestling Practices…», «121 Track Practices…», «120 Rowing Practices…», «Print It. Post It.»). El 13-11 abrió packs para clubes que no son deportes: teatro, robótica, scouts y equitación. Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **23/36 en US** y **20/31 en GB** en los ads de prácticas (254 y 236 activos estimados; los 50 más nuevos tapan la cola, así que es un piso) · ad más viejo de **39 días** · 8-9 fechas de creación, la última el 13-11 · sin persona. Hermana probable: Download Studio (7/35, multinicho).
+- **Qué hacer:** copiar el molde «una fanpage, un pack por deporte chico» donde nadie le arma la práctica al entrenador voluntario: pádel, balonmano, hockey, rugby infantil · destino sugerido **ES** (pádel y balonmano), después AR (hockey y rugby) · ángulo: «la práctica del martes ya está hecha: imprimila y pegala en el vestuario». Es el mismo nodo que la tarjeta de Basketball Coach Pro (13-11), pero este operador muestra el método para escalar: SKU nuevo cada pocos días.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=102421131594782&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=102421131594782&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1610943924056176)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el formato (¿PDF o app?), el precio por pack y si hay bundle.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-14)**
+- Revelation Unsealed 3D (1345541285309886): 9/33 en US (antes 8/23), ad de 39 días, tandas el 12 y el 13-11. Le falta 1 para la vara.
+- Donna Whitfield (1180278161845468): 10/50 en US, pero es una tanda de un solo día al borde, con nombre de persona y producto sin ver (610 activos estimados). Re-medir el 2026-11-17.
+- HeroeDigitals (1258628903995580): 15/26 en US, 22 días. Los títulos («Five taps», «Tap nine. Done.») apuntan a una app: verificar en la PC.
+- Ultimate Notion Planner (425210960671076): 27/27 en US, pero con 2 fechas solas. Abrió un SKU B2B («One Portal Per Client»). Her Notion Planner: 17/17 sin ads nuevos en 30 días (posible zombi).
+- Ya tienen tarjeta y abrieron producto nuevo: Dragon Fire («NIST Incident Response Toolkit», 13-11), The Crochet Nook («1,200+ Granny Squares $8.88», 12-11), Cosmo Studio (invitaciones Canva, todavía fuera de la cohorte). This & That Planners pasó de 10 a 24/40.
+- Apagadas o relanzadas, sin cohorte: Growing in Faith, Faith Times y Sewing Lovers (0 activos); EaseUp, Honey Home, Stitch Well y Elsie Brooks (todo relanzado en ≤4 días); clones de CustodyLogs (1/2, 0/5, 0/1).
+
 ### 🎯 Registro privado para el juicio de custodia («Get court-ready») — CustodyLogs US · `pareja/custodia-registros/registro-juicio` · 2026-11-13 (tarde) · sesión EN
 - **Qué es:** una herramienta para que el padre o la madre en un juicio de custodia anote en privado los incumplimientos, los mensajes y los hechos, y llegue al juzgado con todo ordenado («Get court-ready», «The file that helped me win custody», «Start Documenting Privately»). Hay ads de catálogo, así que probablemente es una tienda. No se sabe si es una app, un archivo descargable o una carpeta, ni el precio.
 - **Por qué es ganador:** cohorte 7+/activos **47/47 en US** (conteo completo; 0 en GB) · ad más viejo de **274 días** (desde el 12-02) · unas 20 fechas de creación, la última el 05-11 · página de producto sin persona, operador europeo (EUR). Ya lo copian: The Custody Keeper (mismo título «Get court-ready ->»), Shielded Co-Parenting y AntiAlienate, todos con ads de menos de 7 días. Intentos previos apagados en GB (Plainly Digital «Record Hub $17», Custody Binder, Clear Record Co.).

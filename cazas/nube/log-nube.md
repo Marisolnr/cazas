@@ -13,3 +13,4 @@
 - 2026-11-13 BR (tarde): conflicto de rebase en la bitácora de `cazas/cola.md` con la línea «en curso» de EN; se resolvió conservando las dos líneas.
 - 2026-11-13 ES (tarde): HEAD desacoplado al arrancar (tercera vez hoy); el push «en curso» fue rechazado 3 veces y se arregló con `git checkout -B main HEAD && git branch -u origin/main`. La API de Meta devolvió solo títulos (sin cuerpo del copy ni URL): toda la oferta salió de `ad_creative_link_title`.
 - 2026-11-13 18:40 EN (tarde): WebFetch de custodylogs.com rechazado (pide aprobación de URL que nadie contesta en corrida desatendida); embudo quedó sin verificar.
+- 2026-11-14 06:40 EN (mañana): HEAD desacoplado al arrancar otra vez; el push «en curso» fue rechazado 3 veces y se arregló con `git checkout -B main HEAD && git branch -u origin/main`. `page_ids` + `search_terms` no destapa la cola vieja en 4 páginas (Lost Skills, Heroic Husband, Visual Guide Lab, Stitch Well).

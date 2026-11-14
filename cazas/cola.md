@@ -286,6 +286,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `Canva coaches` / `Canva Airbnb` / `Canva estética` / `plantillas contadores` / `plantillas inmobiliarias` (ES) | vendedores en inglés, packs BRL en español, cursos y CRM | leer moneda e idioma; `Canva abogados`, `Canva lashista` |
 | nombre de página con «en» como `search_terms` (ES: «Cocina en Regla») | el token «en» trae 2 mil de basura | el nombre pegado (`cocinaenregla`) con ALL, después `page_ids` |
 | `page_ids` + `search_terms` (ES, nube, 2026-11-13) | el término se ignora: devuelve los mismos 50 nuevos (LaOfi) | anotar la cohorte como piso y re-medir |
+| `page_ids` + `search_terms` (EN, nube, 2026-11-14) | a veces filtra (The Ascent Club con `practices`: 0/50 → 23/36) y a veces no (Lost Skills, Heroic Husband, Visual Guide Lab, Stitch Well: mismos 50 de la semana) | probar 1 término del título; si no cambia la lista, la cohorte se mide solo en la web |
 
 ## Operadores a seguir (modo C)
 
@@ -329,7 +330,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | This & That Planners | 1007996855726476 | US · GB | tarjeta EN del 2026-11-09 (tarde): planner digital perpetuo 10/50; ver si la tanda de 22 del 09-11 sobrevive |
 | Planner Lovers | 128972030308501 | US · GB · AR · ES · MX | tarjeta EN del 2026-11-09 (tarde): planner digital 2027 28/28 US; operador hispano, le toca seguirlo también a ES |
 | Heroic Husband | 234796816378250 | US · GB | tarjeta EN del 2026-11-10 («$8 Book», salvar el matrimonio, 47/53 US, 45/45 GB); ver si el libro es digital y qué es la «7 Day Trial» |
-| Donna Whitfield | 1180278161845468 | US | 553 est. con un solo título (cohorte oculta, 2026-11-10); re-medir 2026-11-17 |
+| Donna Whitfield | 1180278161845468 | US | 553 est. con un solo título (cohorte oculta, 2026-11-10); 2026-11-14: 10/50 (610 est.), tanda de 1 día al borde, producto sin ver; re-medir 2026-11-17 |
 | The EaseUp Planners | 1194131877121706 | US | 140 est. con cohorte oculta (relanzó todo el 06/07-11); re-medir 2026-11-16 |
 | Planner Hoy Solo 3 | 1280820831792286 | ES · MX | tarjeta ES del 2026-11-10 (planner para vaciar la cabeza, 21/35 ES); ver si entra a AR |
 | Biblioteca maestra: Planos de arcilla | 1435630566293933 | AR | tarjeta ES del 2026-11-10 (246-248 plantillas de cerámica, ≥16/≥50); seguir con su clon Planos de Barro 1463269926874211 (USD, de hoy) |
@@ -357,13 +358,13 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Terapia Cognitiva Online | 836423469737678 | BR | tarjeta BR del 2026-11-11 tarde («88 técnicas de TCC prontas», 19/33, 45 d) |
 | Nova Era Recursos Terapêuticos | 114755404813290 | BR | tarjeta BR del 2026-11-11 tarde (cadernos de bolso para terapeutas, 25/42, 53 d); lanzó Planner Psi y Metáforas: ver cuál entra en cohorte |
 | RootedinFaith | 1339338722596915 | GB · US | tarjeta EN del 2026-11-11 (tarde): guía para entender la Biblia, 30/45 GB y 28/≥50 US, ad de 33 d; formato sin verificar |
-| Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); re-medir 2026-11-14 |
+| Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); 9/33 el 2026-11-14 (39 d, tandas 12 y 13-11); re-medir 2026-11-21 |
 | Valentina Ríos | 1280761195116636 | US · AR · ES | papelería cristiana de reventa, 17/26 US (BRL, español); ya en AR/ES; le toca seguirla también a ES |
 | Mapasyresumenes | 234866809700963 | ES · CO | guías «2027 en 150 páginas»: el 2026-11-12 lanzó oposiciones españolas a 12,90 € (20 ads en ES); re-medir 2026-11-19 |
 | Growing in Faith / Faith Times | 1329678806897080 · 1241869225684857 | US | 18/27 y 7/36 el 2026-11-11, advertorial infantil-cristiano, producto no visible |
 | My Estate Kit | 1091977304009213 | GB | tarjeta EN del 2026-11-12: kit digital de sucesión (~£29), ≥50/50 GB, 115 d; contar US y seguir al cluster (Atlas Media Group 1254679187727827, Afterpath 1016389298235387) |
 | Cosmo Studio | 209343218938190 | US · GB | tarjeta EN del 2026-11-12: planilla de vida a $9, 22/28 US y 21/25 GB, 72 d; abrió SKU de invitaciones en Canva el 12-11; hermanas probables Her Notion Planner 1282088321645043 y Ultimate Notion Planner 425210960671076 |
-| The Ascent Club | 102421131594782 | US · GB | ≥58 en cohorte US por sondeos (228 est., multi-SKU de planes de práctica para entrenadores); hermana Download Studio 1344017652136102 |
+| The Ascent Club | 102421131594782 | US · GB | ≥58 en cohorte US por sondeos (228 est., multi-SKU de planes de práctica para entrenadores); hermana Download Studio 1344017652136102; tarjeta EN del 2026-11-14 (23/36 US, 20/31 GB con `practices`, 39 d); el 13-11 abrió teatro, robótica, scouts, equitación: ver qué SKU entra en cohorte |
 | CustodyLogs | 959544217247977 | US | 44/49 el 2026-11-12; 47/47 el 2026-11-13 tarde (274 d, EUR, tarjeta); ¿app o PDF? verificar en la PC |
 | Isabella Francis | 201865639680760 | US | 31/31 el 2026-11-13 tarde (libro impreso de ex narcisista + Recovery Set, 91 d, tarjeta); ¿persona? |
 | Clones de CustodyLogs: The Custody Keeper · Shielded Co-Parenting · AntiAlienate | 1366011646600864 · 1280648655122547 · 1066259219910194 | US · GB | 0/4, 0/5, 0/5 el 2026-11-13: re-medir 2026-11-20 |
@@ -377,11 +378,12 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Edufisicavisual | 1293268003864355 | BR | tarjeta BR del 2026-11-13 (mapas de cinesiología para educación física, 26/29, 12,7 d); re-medir 2026-11-20; ¿Lucia Ortiz 760125220506555 es su versión en español? |
 | Brinca e Aprende | 942354795618344 | BR | inglés infantil imprimible, 10/37 el 2026-11-13 (los 10 de un solo día) + 3 SKU nuevos; re-medir 2026-11-18 |
 | Basketball Coach Pro | 1373186709203115 | US | tarjeta EN del 2026-11-13: pack de básquet «Today only: $14.90», 27/27, 39 d; hermanas Soccer Training Pro 1234094106455284 (22/22 US·GB, sin ads nuevos en 45 d) y 1543066612216569, Jonathan Ross 429439973597227 (BRL) |
-| Digital Academy (EF) | 1340771395780798 | US · GB | «150 PE games», 12/24 US y 11/20 GB con 11 d (2026-11-13); re-medir 2026-11-20 |
-| HeroeDigitals | 1258628903995580 | US | planes de práctica multi-deporte, ≥19/50 (84 est.), 21 d (2026-11-13); ¿app o PDF? |
+| Digital Academy (EF) | 1340771395780798 | US · GB | «150 PE games», 12/24 US y 11/20 GB con 11 d (2026-11-13); tarjeta EN del 2026-11-14 (13/25 US, 12/21 GB, 12 d); clon AR El Bolso del Profe 1484471184741332 (12-11): le toca seguirlo a ES |
+| HeroeDigitals | 1258628903995580 | US | planes de práctica multi-deporte, ≥19/50 (84 est.), 21 d (2026-11-13); 15/26 el 2026-11-14, títulos de app («Five taps»): ¿app o PDF? verificar en la PC |
 | Laura Educa | 109425057952071 | ES | tarjeta ES del 2026-11-13: actividades emocionales imprimibles, 14/28 ES, 144 d; solo pauta en ES → ver si abre AR y confirmar que no es marca personal ni neurokids |
 | Taller Creativo | 1156743057524645 | AR · MX | plantillas Canva, 15/22 AR y 15/23 MX (36 d, 12 fechas) con título único «Más información»: oferta invisible por API; verificar en la PC qué vende |
 | Cristianas con Poder | 1306900159163457 | MX · AR · CL | ex «Pequeños Cristianos», 31/71 bloque (16 CL), «recibe y luego pagas» sin oferta visible (2026-11-13); re-medir 2026-11-20 |
+| El Bolso del Profe | 1484471184741332 | AR | clon rioplatense de Digital Academy (EF): «150 juegos, 3 regalos, un PDF», creado el 12-11 (señal EN 2026-11-14); medir cohorte desde el 2026-11-19 |
 | Axo y Yo | 1358953320636772 | MX | cuadernillos escolares por grado $149 MXN, 10/20 pero cohorte de una sola fecha (05-11); re-medir 2026-11-20 |
 | | | | |
 
@@ -407,7 +409,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-14 06:45 | ES | B perforar (mañana) | fe/material-cristiano-imprimible | en curso | en curso | en curso |
-| 2026-11-14 06:40 | EN | C agenda (mañana) | — (operadores EN + agenda) | en curso | en curso | en curso |
+| 2026-11-14 06:40 | EN | C agenda (mañana) | — (operadores EN; agenda del hub vacía) | 40 operadores EN (~58 consultas `page_ids` + país, ~12 sondeos `search_terms`) + 2 controles AR/ES; 3 subagentes de lectura | 2 tarjetas (Digital Academy (EF), The Ascent Club), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (El Bolso del Profe, AR) |
 | 2026-11-14 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-13 18:42 | ES | B perforar (tarde) | plantillas-canva/kits-por-oficio | 6 subnichos, 32 kw nativas + ALL en 1; ~22 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Mind Digital Studio, Pack Insta de Impacto), 8 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
 | 2026-11-13 18:40 | EN | B perforar (tarde) | pareja/custodia-registros | 5 subnichos, 23 kw US/GB + ALL en 2 + 2 controles AR/ES; ~15 páginas contadas (2 subagentes de lectura) | 2 tarjetas (CustodyLogs, Isabella Francis), 5 señales | profundo, con 5 hijos superficial; 3 operadores a seguir |
