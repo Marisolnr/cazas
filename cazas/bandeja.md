@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «NCLEX Review Cheat Sheet, 400 pages»: la chuleta que reemplaza al manual de enfermería — My Nurse Notes US · `examenes-ilustrados/enfermeria-nclex` · 2026-11-14 (tarde) · sesión EN
+- **Qué es:** un resumen de 400 páginas para el examen de matrícula de enfermería de EE. UU. (NCLEX), vendido contra los manuales («Nursing Textbooks are Scam!», «All the Answers Look Right. That's the Trap.»). Ofrece pagar en cuotas sin interés. Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **34/34 en US** (conteo completo) · ad más viejo de **133 días** (03-07) · 5 tandas (03-07, 16-08, 14-10, 17-10 y 05-11) · marca sin persona, USD. En GB el NCLEX es cementerio (2/2 de 8 días).
+- **Qué hacer:** modelar «la chuleta del EIR»: resumen visual por temas + trampas de las preguntas («todas parecen correctas») en PDF a precio bajo · destino sugerido **ES** (en `EIR enfermería` solo hay academias de 300-500 € y un tester BR de 1-2 días, «El Mapa del EIR 2027»), después AR (residencias de enfermería) · ángulo: «el manual tiene 2.000 páginas; el examen pregunta 400». ⚠️ «400 pages» + cuotas puede ser un libro impreso o un ticket alto: confirmarlo antes de decidir.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=107734932379817&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=967067193054353) · tester en ES: [El Mapa del EIR 2027](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1485989934587325&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el formato (PDF o impreso), el precio y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Guía de método para el examen de trabajo social clínico («LCSW Study Guide — The Retaker's Edition») — LCSW Strategy US · `examenes-ilustrados/trabajo-social-salud-mental` · 2026-11-14 (tarde) · sesión EN
+- **Qué es:** una guía de estudio para el examen de licencia LCSW, vendida como «sistema de decisión» y no como más contenido («It's Not What You Know», «Four Decision Systems», «Read the first chapter», «50% Off»). Apunta fuerte a quien ya reprobó («For LCSW Retakers», «It Wasn't You»). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **20/21 en US** (conteo completo) · ad más viejo de **156 días** (11-06) · 13 fechas de creación, la última el 09-11 · marca sin persona, operador europeo (EUR). En GB corrió entre junio y julio y lo apagó: el mercado que funciona es US.
+- **Qué hacer:** modelar «el método para el supuesto práctico» de las oposiciones de **trabajo social en ES**: cómo decidir la respuesta que quiere el tribunal, en PDF corto + edición «para quien ya se presentó» · destino sugerido **ES** (en `oposiciones trabajo social` solo hay academias y másters, ninguna guía barata de método) · ángulo: «no te faltó estudiar: te faltó un método para decidir». En AR no hay examen de licencia equivalente.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1071328126064642&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1013684827720597)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC si es ebook o libro, el precio y si la muestra del primer capítulo es un lead magnet.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-14)**
+- Studio Facile (1272162682644374): en GB ≥20 en cohorte de 129 estimados, pero el ad más viejo tiene ~10 días y es la misma red «X in Pictures + 2 bonus books». Re-medir el 2026-11-21.
+- Medschoolbro (102012419389119): ≥30 en cohorte entre los 50 visibles en US (157 estimados, ≥36 días), guías USMLE/MCAT en CAD. Mezcla Qbank y «Masterclass» y puede tener cara: verificar en la PC.
+- Go CDL Pro (1066314876557111): ≥50/57 en US (92 días), pero el último ad es del 06-10 (posible zombi) y puede ser un mazo físico.
+- Cerca de la vara, re-medir el 2026-11-21: LCSW Study Notes 7/15 (EUR), PassPath 7/8 (una sola fecha), Med Notes Guide 3/15 (guías de una página a $27-47, AED).
+- Fábricas visuales «Illustrated / Visual Explainer + 2 bonus books» (Learning Fast, Fenix Books, Diagram Books, Doitvisual, Visualia, Precise Prep, Illustrated SYP más las 4 conocidas): todas con cohorte 0, abiertas entre el 12 y el 14-11. Ola sin probar.
+- NCLEX y ASWB/LCSW en GB: cementerio (solo ads inactivos).
+
 ### 🎯 «150 PE Games, Ready to Run»: pack de juegos de educación física — Digital Academy (EF) US·GB · `deportes/planes-practica-entrenadores-en` (operadores) · 2026-11-14 · sesión EN
 - **Qué es:** un pack digital de 150 juegos de educación física listos para usar en clase, de descarga inmediata, con 3 bonos de regalo («Plan a PE Class in 5 Minutes», «instant download»). Precio sin ver.
 - **Por qué es ganador:** cohorte 7+/activos **13/25 en US** y **12/21 en GB** (conteo completo, no piso) · ad más viejo de **12 días** · 5 tandas (02, 03, 05, 10 y 13-11), sigue cargando ads · página de producto sin persona.
