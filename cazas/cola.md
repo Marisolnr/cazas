@@ -406,6 +406,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-14 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-13 18:42 | ES | B perforar (tarde) | plantillas-canva/kits-por-oficio | 6 subnichos, 32 kw nativas + ALL en 1; ~22 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Mind Digital Studio, Pack Insta de Impacto), 8 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
 | 2026-11-13 18:40 | EN | B perforar (tarde) | pareja/custodia-registros | 5 subnichos, 23 kw US/GB + ALL en 2 + 2 controles AR/ES; ~15 páginas contadas (2 subagentes de lectura) | 2 tarjetas (CustodyLogs, Isabella Francis), 5 señales | profundo, con 5 hijos superficial; 3 operadores a seguir |
 | 2026-11-13 18:36 | BR | B perforar (tarde) | costura/moldes-pdf-br | 6 subnichos × 5 kw BR (30) + 3 controles AR/ES/MX/CO (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Ponto Certo App, Mamãe que fez), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir |
