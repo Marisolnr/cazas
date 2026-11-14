@@ -50,3 +50,4 @@
 ## [2026-11-13] caza-auto | ES B plantillas-canva/kits-por-oficio (tarde) → 2 candidatos a bandeja
 ## [2026-11-13] caza-auto | EN B perforar pareja/custodia-registros (tarde) → 2 candidatos a bandeja
 ## [2026-11-14] caza-auto | EN C agenda operadores-en → 2 candidatos a bandeja
+## [2026-11-14] caza-auto | BR A huella — (huella, BR) → 1 candidatos a bandeja

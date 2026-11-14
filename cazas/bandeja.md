@@ -305,6 +305,24 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «100 Cartões de Enfermagem para consultar em 3 segundos» — Tia Juliana BR · `saude/cartoes-consulta-enfermagem` · 2026-11-14 · sesión BR
+- **Qué es:** 100 tarjetas de consulta rápida para enfermería (fichas de bolsillo en PDF para el turno: medicación, valores, procedimientos). El título se repite en los 35 ads, así que es una sola oferta. El precio no se ve en los ads (moneda BRL).
+- **Por qué es ganador:** cohorte 7+/activos **11/35 en BR** (vistos todos, sin tope). La primera tanda es del 30-10: **10 ads a 15 días** siguen vivos todos, más 1 del 07-11. Después lanzó 5 el 11-11, 2 el 12-11, 10 el 13-11 y 7 hoy, o sea que está escalando la misma oferta. Hay 7 fechas de inicio y el operador está vivo. La página tiene nombre de apodo («Tia Juliana»), no de autoridad; un solo operador.
+- **Qué hacer:** modelar tal cual: «100 fichas de enfermería para consultar en 3 segundos», PDF imprimible y para el celular, a USD 5-7. Ángulo: «la respuesta en el turno, sin buscar en el libro». Destino sugerido **AR** (escuelas de enfermería y turnos largos), después ES (adaptando nombres de fármacos). En el hispano hay un solo tester: Doctor PDF («100 fichas de consulta rápida», MXN) con 1/6 en AR y ES, el mismo molde todavía sin cohorte. La ventana está abierta pero alguien ya entró.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1332936713226815&search_type=page&media_type=all) · creativos más viejos: [15 d](https://www.facebook.com/ads/library/?id=1670969617766162) · [15 d](https://www.facebook.com/ads/library/?id=1002861112872161) · tester hispano: [Doctor PDF AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=114914206902993&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC el precio, si es PDF o tarjetas impresas y que no haya una cara de enfermera vendiendo en los creativos.
+- Score 2/4 (duplicación por título, hueco hispano) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Joven (15 d): conviene re-medirlo el 21-11.
+
+**Señales del día BR (2026-11-14)**
+- Mariana Fonseca (948970524969940): 12/37 en BR (16 d, 7 fechas), todos «✅BAIXE AGORA» y 33 de 37 mencionan «apostila»; no se ve qué apostila vende y la página lleva nombre de persona: mirar en la PC.
+- Mundo da pedagogia (1039269859262453): 10/25 pero mezclado; la oferta más fuerte es «Consciência Negra sem perder tempo!» con 8 en cohorte (estacional, vence el 20-11).
+- Sinapse Visual (1312003592005982): «Oratória em Mapas» 7/39 (USD) más mapas de Navidad y de Transpetro; misma familia que TI em Mapas: re-medir el 21-11.
+- Mais Você (133188449874410): 7/23 con ads de 99 días, todos «CHAME AGORA NO ZAP!» sin oferta visible; lanzó hoy 16 de «1000 Adesivos».
+- Riscos para Bordar (396283016894466): riscos de bordado, 7/16 con títulos de prueba social («+1000 vendas», «4.9/5»); a 3 de la vara: re-medir el 21-11.
+- Sr. SMS (134265803944064): combo de seguridad del trabajo (PGR, AEP, cartilla), ≥4 en cohorte con 613 activos estimados, en USD; cohorte detrás del tope, no se sabe si es plantilla o software.
+- Ola de esta semana con cohorte 0: Campo Vibracional 0/32 (radiestesia), Ana dias 0/24 (300 simulados SARESP R$10), Alan Projetos 0/16 (100 casas R$10), Lucro Na Mesa 0/10 (R$37), Sabrina Paiva 0/7 (300 planillas de obra R$37): re-medir el 21-11.
+
 ### 🎯 «Molde do Avental Japonês Viral em PDF» + videoaula — Ponto Certo App BR · `costura/moldes-pdf-br/casa-avental-mesa-posta` · 2026-11-13 (tarde) · sesión BR
 - **Qué es:** el molde en PDF del delantal japonés (el cruzado, sin botones ni lazos), con una videoaula de costura. Los títulos muestran entre 748 y 848 reseñas en estrellas. El precio no se ve en los ads. La página también probó otros moldes sueltos esta semana: Cesto Baleia y Chinelo de Tecido.
 - **Por qué es ganador:** cohorte 7+/activos **10/24 en BR** (vistos todos), y los 10 son del delantal. El ad más viejo tiene **113,6 días**. Las tandas son del 23-07, 25-07, 23-08, 24-09, 03-10 y 06-11, y no apaga lo viejo. Hay 11 fechas de creación y 14 ads nuevos en la última semana, así que el operador está vivo. Es una página de marca, sin persona, y un solo operador.
