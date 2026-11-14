@@ -606,6 +606,33 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Rituales y hechizos digitales «paso a paso» («Acceso inmediato» · «Rituales para fin de año») — Tienda de Hechizos MX · `esoterismo/grimorio-brujeria/hechizos-rituales` · 2026-11-14 (tarde) · sesión ES
+- **Qué es:** rituales y hechizos en formato digital, con acceso inmediato. Los títulos dicen «Aprende paso a paso», «Acceso inmediato» y, desde el 13-11, «Rituales para fin de año», «Cierra el año de forma excepcional». Cobra en MXN. La API no trae precio ni formato exacto (PDF, guía o video).
+- **Por qué es ganador:** cohorte 7+/activos **20/50 en MX (piso; 56 estimados)**. Tres tandas: 29-10 (7 ads, 16,6 d, ninguno apagado), 07-11 (17 ads, «Acceso inmediato») y 13-11 (26 ads de fin de año). Sigue lanzando. Tienda fantasma, sin persona, un solo operador. **En AR y ES no tiene ningún ad.**
+- **Qué hacer:** modelar tal cual para **AR** o **ES**, que están libres: un kit «rituales paso a paso» (PDF imprimible + calendario de rituales) y una edición estacional «rituales para cerrar el año / Año Nuevo 2027», que tiene ventana hasta enero · destino sugerido **AR** · ángulo: «cerrá el año en orden y abrí tus caminos, paso a paso».
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=100963788488774&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1665785568216408) · acceso inmediato: [ad](https://www.facebook.com/ads/library/?id=1088097260716494) · fin de año: [ad](https://www.facebook.com/ads/library/?id=1655819066217142)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, el formato y si cierra por WhatsApp.
+- Score 1/4 (cohorte de 2 semanas, volumen detrás del tope, destino libre) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: esoterismo puede chocar con políticas de Meta; mirar cómo lo esquiva el creativo.
+
+### 🎯 «Aprendé a usar tu péndulo en 7 días» — Regarte AR (+MX·ES) · `esoterismo/grimorio-brujeria/pendulo-radiestesia` · 2026-11-14 (tarde) · sesión ES
+- **Qué es:** guía o mini-curso para aprender a usar el péndulo en 7 días. Una sola oferta con versión en vos (AR) y en tú (MX/ES). Cobra en USD. Formato y precio no visibles por API.
+- **Por qué es ganador:** cohorte 7+/activos **≥29/50 en AR (piso; 63 estimados)**. Los 13 que no se ven son todavía más viejos. Escalonado en **13 fechas** (03-11 → 14-11, una tanda casi por día) y no apaga. También corre MX 13/40 y ES 13/40. Página fantasma, una sola oferta, un solo operador.
+- **Qué hacer:** AR y ES ya los pisa este operador, así que no conviene la copia literal. Conviene modelar el formato «aprendé X en 7 días» sobre un ángulo vecino que nadie tiene con cohorte: **péndulo + tablas/mapas imprimibles** (en BR ya corren mapas de péndulo en PDF, nodo `esoterismo/radiestesia-mapas`), o radiestesia para el hogar · destino sugerido **ES** (13 en cohorte, el más flojo) · ángulo: «dejá de dudar: tu péndulo responde claro en una semana».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1342388312284290&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1342388312284290&search_type=page&media_type=all) · creativo más viejo visible: [ad](https://www.facebook.com/ads/library/?id=1788880745561628) · versión tú: [ad](https://www.facebook.com/ads/library/?id=1466907392252954)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, confirmar que es PDF o curso grabado (no en vivo) y que no hay cara.
+- Score 1/4 (cohorte joven pero diaria, volumen detrás del tope, destino ocupado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-14, tarde)**
+- Aprende Astrología (446279405782137) AR 32/39 (57 d) · ES 20/37 (59 d): pasa volumen, pero vende informes personalizados (carta natal infantil, revolución solar, Ikigai astrológico); verificar en la PC si son automáticos (producto) o hechos a mano (servicio).
+- El Poder de la Energía (656646417531034) MX 50+/67 (~414 d): producto invisible y nada nuevo en 30 d, posible zombi.
+- Sanamente.ARG (597119330159000) AR 38/50 página entera: tienda multinicho de PDFs; lo esotérico (hechizos 18 libros $4.800, magia gitana, velomancia) son 7 ads en 4 ofertas.
+- Holística y Energías (100286322915957) AR 10/11, pero repartido en dos ofertas (5+5); Ángeles en tu camino (1084752698054821) MX 9/12: a uno de la vara.
+- Tarot de autoaprendizaje joven y repartido: Karen Bizarro MX 7/37 (persona, Messenger), Mapas del Tarot 6/10 (BRL), Arcano Luz y Mi Tarot Guiado 0/10: re-medir 2026-11-21.
+- Calendario de Brujas 2027 (Livia Montaury, CO 0/14) y Caja del Terapeuta numerología (cohorte oculta, 177 est. AR): re-medir 2026-11-21.
+- Cementerios/ruido: `libro de hechizos` y `libro de las sombras` = short-drama; manifestación y cristales en PDF = cohorte 0.
+
 ### 🎯 «La Biblia explicada versículo por versículo» (4.786 versículos · Cartas de Pablo · Profetas · Apocalipsis) — Saber Cristão MX·ES·AR · `fe/material-cristiano-imprimible/estudio-biblico-ministerial` · 2026-11-14 · sesión ES
 - **Qué es:** línea de guías digitales que explican la Biblia libro por libro: «4.786 Versículos Explicados Uno a Uno» (el producto madre), «Las 13 Cartas de Pablo», «Los 12 Libros Históricos», «Los 12 Profetas Menores», «Daniel y Apocalipsis: 761 Versículos». Operador brasileño que pauta en español (cobra en USD); desde el 11-11 testea la versión en portugués y una línea de escuela dominical. Precio y formato exacto no se ven por API.
 - **Por qué es ganador:** cohorte 7+/activos **≥45/50 en MX** (solo la línea «explicados», 61 estimados), **≥32/50 en ES** (136 est.) y **≥22/50 en AR** (152 est.): pisos, la cola sigue detrás del tope. Escalonado en 6 tandas (19-10 · 22-10 · 26-10 · 27-10 · 04-11 · 06-11) y sigue lanzando a diario. El producto madre está repetido 9 veces dentro de la cohorte. Página fantasma, un solo operador. Es el mismo molde que RootedinFaith en inglés (tarjeta EN del 11-11).

@@ -57,3 +57,4 @@
 ## [2026-11-14] caza-auto | BR B perforar (tarde) seguranca-trabalho/cartilhas-sst → 2 candidatos a bandeja
 
 ## [2026-11-14] caza-auto | EN B examenes-ilustrados (tarde) → 2 candidatos a bandeja
+## [2026-11-14] caza-auto | ES B perforar (tarde) esoterismo/grimorio-brujeria → 2 candidatos a bandeja

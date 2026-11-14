@@ -216,7 +216,13 @@ los nichos que emergen.
 | fe/material-cristiano-imprimible/calendarios-fechas | fe/material-cristiano-imprimible | ES | superficial | 5 kw + ALL en 1 · 2026-11-14 | Cristiano Digital AR 13/15 (calendario 2027, ¿hermana de Tendencias Online?); ola de calendarios católicos 2027 < 7 d (re-medir 2026-11-21); `navidad cristiana imprimible` = hueco |
 | fe/material-cristiano-imprimible/estudio-biblico-ministerial | fe/material-cristiano-imprimible | ES | superficial | 5 kw + 3 conteos por país · 2026-11-14 | Saber Cristão MX ≥45/50 · ES ≥32/50 · AR ≥22/50 y Reino Hub AR/ES 30/30 (tarjetas); Tendencias Online AR 17/17 (producto invisible); PredicaIA = SaaS; SUBNICHO (5+ operadores) |
 | fe/material-cristiano-imprimible/megapacks-cristianos | fe/material-cristiano-imprimible | ES | superficial | 5 kw · 2026-11-14 | `kit/material cristiano` tapadas por la ráfaga de Bendiciones creativas; Detalles con Fe Digital 6/12; `megapack cristiano` casi hueco |
-| esoterismo/grimorio-brujeria | esoterismo | ES | virgen | 1 huella (`libro digital`) · 2026-11-13 | apareció por huella el 2026-11-13: Grimorio Cósmico 6/26 (68 d, «El Gran Grimorio de las Brujas»), Universo Mistico; sin cohorte de 10 todavía, seguir |
+| esoterismo/grimorio-brujeria | esoterismo | ES | profundo | 6 subnichos, 24 kw nativas (sin ceros, ALL no hizo falta) + ~30 páginas contadas · 2026-11-14 (tarde) | perforado el 2026-11-14 (tarde): 2 tarjetas (Tienda de Hechizos MX, Regarte AR); modo C sobre los hijos |
+| esoterismo/grimorio-brujeria/hechizos-rituales | esoterismo/grimorio-brujeria | ES | superficial | 8 kw · 2026-11-14 | Tienda de Hechizos MX 20/50 piso (16,6 d, tarjeta; AR/ES = 0); Sanamente.ARG multinicho 7 esotéricos en 4 ofertas; Sabiduría Oculta 0/9 |
+| esoterismo/grimorio-brujeria/pendulo-radiestesia | esoterismo/grimorio-brujeria | ES | superficial | 1 kw (`chakras PDF`) + Regarte por país · 2026-11-14 | Regarte AR ≥29/50 piso, MX/ES 13/40 (13 fechas, tarjeta); Vitalidad y Plenitud «Enciclopedia del Péndulo» sin contar; cruza con BR `esoterismo/radiestesia-mapas` |
+| esoterismo/grimorio-brujeria/tarot-guias | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | joven y repartido: Karen Bizarro MX 7/37 (persona, Messenger), Mapas del Tarot 6/10 (BRL), Arcano Luz y Mi Tarot Guiado 0/10, Izabel Allencar 0/11: re-medir 2026-11-21 |
+| esoterismo/grimorio-brujeria/astrologia-numerologia | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | Aprende Astrología AR 32/39 · ES 20/37 (informes personalizados: ¿servicio?); Holística y Energías AR 10/11 en 2 ofertas; Caja del Terapeuta numerología cohorte oculta (re-medir 2026-11-21) |
+| esoterismo/grimorio-brujeria/limpieza-cristales | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | cristales en PDF casi no existen; limpieza = terapeutas por WA; Ángeles en tu camino MX 9/12 (17 d); Academia R.V megapack baños 3/20 |
+| esoterismo/grimorio-brujeria/manifestacion | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | cohorte 0 en todo (Mariano Benitez «Método 369» 0/7, persona multinicho); `ley de atracción PDF` = empleo |
 | tecnologia/electronica-programacion-pdf | tecnologia | ES | virgen | 1 huella (`cuadernillo PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Macro Aula 5/20 (ESP32, Arduino, PLC, Scratch); El rincón educativo (ejercicios resueltos ingeniería); sin cohorte de 10, seguir |
 
 ---
@@ -311,6 +317,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `plantillas uñas` / `plantillas consultorio` / `posts psicología` (ES) | plantillas para calzado, podología y ortopedia / psicólogas promocionando su propio IG | `Canva` + oficio |
 | `Canva coaches` / `Canva Airbnb` / `Canva estética` / `plantillas contadores` / `plantillas inmobiliarias` (ES) | vendedores en inglés, packs BRL en español, cursos y CRM | leer moneda e idioma; `Canva abogados`, `Canva lashista` |
 | nombre de página con «en» como `search_terms` (ES: «Cocina en Regla») | el token «en» trae 2 mil de basura | el nombre pegado (`cocinaenregla`) con ALL, después `page_ids` |
+| `libro de hechizos` / `libro de las sombras` / `brujería natural` / `hierbas mágicas` (ES) | short-dramas (10.000+ en la primera), suplementos y herbolaria física | `hechizos PDF`, `rituales PDF` |
+| `guía de tarot` / `rituales de protección` / `magia de velas` / `ley de atracción PDF` (ES) | lecturas y amarres por WhatsApp (servicio), velas físicas, avisos de empleo | `significado cartas tarot`, `chakras PDF`, `cuaderno de manifestación` |
 | `rosario niños` (ES) | trae la ciudad de Rosario, ópticas y colegios | `rosario imprimible`, `catequesis material` |
 | `diario de oración` / `diario bíblico` (ES) | «diario» trae medios, short-dramas y granjas «RECIBE GRATIS HOY» | `devocional imprimible`, `versículos imprimibles` |
 | `pesebre para armar` / `calendario cristiano` (ES) | pesebres físicos, librerías e iglesias con calendario impreso | `calendario 2027 imprimible`, `adviento imprimible` + leer moneda |
@@ -327,6 +335,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
+| Tienda de Hechizos | 100963788488774 | MX | rituales/hechizos digitales MXN, 20/50 piso a 16,6 d (tarjeta 2026-11-14 tarde); ¿salta a AR/ES? ¿sobrevive la tanda de fin de año? re-medir 2026-11-21 |
+| Regarte | 1342388312284290 | AR · MX · ES | «Aprendé a usar tu péndulo en 7 días», ≥29/50 AR con tanda diaria (tarjeta 2026-11-14 tarde); ¿segundo SKU? re-medir 2026-11-21 |
+| Aprende Astrología | 446279405782137 | AR · ES | informes astrológicos 32/39 AR a 57 d; verificar si es informe automático (producto) o servicio |
 | Mind Digital Studio | 100484571813019 | AR | kits de marca + gestión por oficio (coach 17, abogados 1), 18/50 piso (tarjeta 2026-11-13); ¿SKU u oficio nuevo? ¿salta a ES? re-medir 2026-11-20 |
 | Pack Insta de Impacto | 802396849634003 | AR · MX · ES | pack de plantillas IG en BRL, 19/44 AR a 65 d (tarjeta 2026-11-13); página homónima 1194180837101878 sin contar |
 | Med Spa Documents Kit | 1318045718067882 | MX · CO | documentos para estética, 48 activos con 10 en el borde de la cohorte; re-medir 2026-11-16 |
@@ -452,7 +463,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-14 18:41 | ES | B perforar (tarde) | esoterismo/grimorio-brujeria | en curso | en curso | en curso |
+| 2026-11-14 18:41 | ES | B perforar (tarde) | esoterismo/grimorio-brujeria | 6 subnichos, 24 kw nativas (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Tienda de Hechizos, Regarte), 7 señales | profundo, con 6 hijos superficial; 4 trampas nuevas |
 | 2026-11-14 18:38 | EN | B perforar (tarde) | examenes-ilustrados | 6 subnichos, ~44 kw US/GB + ALL en 5 ceros + 2 controles AR/ES; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (My Nurse Notes, LCSW Strategy), 6 señales | profundo, con 6 hijos superficial; 3 trampas nuevas |
 | 2026-11-14 18:36 | BR | B perforar (tarde) | seguranca-trabalho/cartilhas-sst | 6 subnichos × 5 kw BR (30) + 2 controles AR/ES + ALL en 2 páginas (sin ceros); ~30 páginas contadas (3 subagentes de lectura) | 2 tarjetas (ComportaMente, Sr. SMS), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 trampa nueva |
 | 2026-11-14 06:45 | ES | B perforar (mañana) | fe/material-cristiano-imprimible | 6 subnichos, 30 kw nativas + ALL en 2 ceros; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio por país) | 2 tarjetas (Saber Cristão, Reino Hub), 7 señales | profundo, con 6 hijos superficial; 5 operadores a seguir; 5 trampas nuevas |
