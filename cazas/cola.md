@@ -433,6 +433,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-14 18:38 | EN | B perforar (tarde) | examenes-ilustrados | en curso | en curso | en curso |
 | 2026-11-14 18:36 | BR | B perforar (tarde) | seguranca-trabalho/cartilhas-sst | en curso | en curso | en curso |
 | 2026-11-14 06:45 | ES | B perforar (mañana) | fe/material-cristiano-imprimible | 6 subnichos, 30 kw nativas + ALL en 2 ceros; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio por país) | 2 tarjetas (Saber Cristão, Reino Hub), 7 señales | profundo, con 6 hijos superficial; 5 operadores a seguir; 5 trampas nuevas |
 | 2026-11-14 06:40 | EN | C agenda (mañana) | — (operadores EN; agenda del hub vacía) | 40 operadores EN (~58 consultas `page_ids` + país, ~12 sondeos `search_terms`) + 2 controles AR/ES; 3 subagentes de lectura | 2 tarjetas (Digital Academy (EF), The Ascent Club), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (El Bolso del Profe, AR) |
