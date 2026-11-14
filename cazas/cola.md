@@ -130,7 +130,13 @@ los nichos que emergen.
 | costura/moldes-pdf-br/casa-avental-mesa-posta | costura/moldes-pdf-br | BR | superficial | 5 kw · 2026-11-13 | Ponto Certo App 10/24 (avental japonês, 114 d, tarjeta); Silvia Mello ≥30/164 (producto sin ver); hispano `molde delantal` = 8 ads |
 | costura/moldes-pdf-br/apostilas-cursos | costura/moldes-pdf-br | BR | superficial | 5 kw · 2026-11-13 | escuelas, lanzamientos y gratis (Conserto de roupas na Prática); `apostila modelagem` y `moldes prontos` = ruido |
 | saude/cartoes-consulta-enfermagem | saude | BR | superficial | 1 huella BR (`pdf imprimir`) + 1 control AR/ES (`tarjetas enfermería`) · 2026-11-14 | apareció por huella el 2026-11-14 (Tia Juliana 11/35, tarjeta; Doctor PDF 1/6 en AR/ES); perforar por avatar (técnico / estudiante / UTI) y otras carreras de salud (fichas de bolsillo) |
-| seguranca-trabalho/cartilhas-sst | seguranca-trabalho | BR | virgen | 1 huella BR (`cartilha pdf`) · 2026-11-14 | apareció por huella el 2026-11-14 (Sr. SMS ≥4/613 est. en USD, DN Educacional usucapião 5/5): contar con `search_terms` sobre página |
+| seguranca-trabalho/cartilhas-sst | seguranca-trabalho | BR | profundo | 6 subnichos × 5 kw BR (30) + 1 huella + 2 controles AR/ES + ALL en 2 páginas; ~30 páginas contadas · 2026-11-14 tarde | perforado el 2026-11-14 (tarde): 2 tarjetas (ComportaMente, Sr. SMS); modo C sobre los hijos |
+| seguranca-trabalho/cartilhas-sst/dds-prontos | seguranca-trabalho/cartilhas-sst | BR | superficial | 5 kw · 2026-11-14 | Escola da Prevenção 14/18 (pendrive físico + «365 DDS»), Mundo do Aço 8/8 (100 DDS visuais): re-medir 2026-11-21; resto SaaS |
+| seguranca-trabalho/cartilhas-sst/treinamentos-nr-slides | seguranca-trabalho/cartilhas-sst | BR | superficial | 5 kw · 2026-11-14 | PS Serviços 0/30 (slides 38 NRs, ola), Seg.Seguro 6/7 (R$67, 221 d), SSTreta 6/6 posible zombi; `NR 10` = escuelas |
+| seguranca-trabalho/cartilhas-sst/documentos-planilhas | seguranca-trabalho/cartilhas-sst | BR | superficial | 5 kw + control AR/ES (`seguridad higiene plantillas`) · 2026-11-14 | Sr. SMS ≥36 piso / 619 est. (tarjeta, combo USD); Segurança dos Trabalhos 8/8 (Drive SST R$25, 479 d); ola Vibe/Ederson Deda/Camila R; AR/ES = hueco |
+| seguranca-trabalho/cartilhas-sst/nr1-psicossocial | seguranca-trabalho/cartilhas-sst | BR | superficial | 2 kw (`slides NR`, `PGR modelo`) + control AR/ES (`riesgos psicosociales kit`) · 2026-11-14 | SUBNICHO: ComportaMente 15/16 (22 d, tarjeta) + clones < 7 d (Vivendo de Psicologia, Cláudia Russo, Gestão de SST na Prática); ES/AR = hueco (1 tester BR) |
+| seguranca-trabalho/cartilhas-sst/estudante-resumos-nr | seguranca-trabalho/cartilhas-sst | BR | superficial | 5 kw · 2026-11-14 | Fernanda Ribeiro «38 NRs R$11,99» 8/8 (multinicho); Mapeou Tudo 0/1; `técnico segurança apostila` = ruido |
+| seguranca-trabalho/cartilhas-sst/cipa-sipat-brigada | seguranca-trabalho/cartilhas-sst | BR | superficial | 10 kw · 2026-11-14 | cementerio de eventos, brindes y escuelas (Weex, SESI, INBRAEP); SST Online Gold 13/17 producto invisible |
 | esoterismo/radiestesia-mapas | esoterismo | BR | virgen | 1 huella BR (`método pdf`) · 2026-11-14 | apareció por huella el 2026-11-14 (Campo Vibracional 0/32, mapas de péndulo en PDF): re-medir 2026-11-21 |
 | salud-mental/sistemas-de-sesiones | salud-mental | ES | profundo | 6 subnichos × 4-6 kw (27) sin ceros + ~45 páginas contadas (Sector Digital por país) · 2026-11-11 tarde | perforado el 2026-11-11 (tarde): 1 tarjeta (Biblioteca Digital, eje entrenadores); modo C sobre los hijos |
 | salud-mental/sistemas-de-sesiones/psicologia-clinica | salud-mental/sistemas-de-sesiones | ES | superficial | 7 kw · 2026-11-11 | nadie con 10+: Psico Express 7/21 (77 d), Cer Solutions 7 de psicología (20/28 multi-oficio), Psique y Ciencia mezcla cursos |
@@ -303,6 +309,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `Biblia explicada` (ES) | «La Biblia del Punto» (tejido), panaderías, academias | `versículos explicados`, `mapas bíblicos` |
 | `page_ids` + `search_terms` (ES, nube, 2026-11-13) | el término se ignora: devuelve los mismos 50 nuevos (LaOfi) | anotar la cohorte como piso y re-medir |
 | `page_ids` + `search_terms` (EN, nube, 2026-11-14) | a veces filtra (The Ascent Club con `practices`: 0/50 → 23/36) y a veces no (Lost Skills, Heroic Husband, Visual Guide Lab, Stitch Well: mismos 50 de la semana) | probar 1 término del título; si no cambia la lista, la cohorte se mide solo en la web |
+| `mapa de risco` / `material técnico segurança` / `kit técnico segurança` / `cartilha segurança trabalho` / `SIPAT temas` / `kit SIPAT` / `NR 10 treinamento` / `brigada incêndio treinamento` / `planilha SST` (BR) | ruido masivo, minidramas doblados, eventos y brindes, escuelas y cursos en vivo, SaaS | `NR 35 slides`, `slides NR`, `treinamentos prontos NR`, `combo SST`, `mapas mentais NR` |
 
 ## Operadores a seguir (modo C)
 
@@ -410,6 +417,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Tendencias Online / Cristiano Digital | 1225944363928959 · 105939112387960 | AR | 17/17 (46 d) y 13/15 (44 d) con títulos «OFERTA ESPECIAL!» (2026-11-14): verificar en la PC qué venden |
 | Creaciones Maravillosas | 1100378686494541 | MX | devocional imprimible $100 MXN, 10/10 a 49 d (2026-11-14); ver si crece |
 | Bendiciones creativas · Daniela Ramírez J. | 1128535147014509 · 991052380767123 | MX | 98 y 87 est. con cohorte oculta (ráfaga de la semana del 10-11); re-medir 2026-11-21 |
+| ComportaMente | 479332898595798 | BR | tarjeta BR del 2026-11-14 tarde («Kit NR-1 pronto para usar», 15/16, 22 d); re-medir 2026-11-21: ¿crece o se apaga? |
+| Sr. SMS | 134265803944064 | BR | tarjeta BR del 2026-11-14 tarde (combo SST, ≥36 piso, 619 est., USD); medir con sondas `Black Friday`, `Combo Completo`; ¿la «IA NR-01» es suscripción? |
+| SST Online Gold · Escola da Prevenção | 155956234265597 · 663744763723231 | BR | 13/17 producto invisible (comentario→DM) y 14/18 pendrive físico + 365 DDS (2026-11-14): verificar en la PC |
 | | | | |
 
 ## Rotación vigente
@@ -435,7 +445,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-14 18:41 | ES | B perforar (tarde) | esoterismo/grimorio-brujeria | en curso | en curso | en curso |
 | 2026-11-14 18:38 | EN | B perforar (tarde) | examenes-ilustrados | en curso | en curso | en curso |
-| 2026-11-14 18:36 | BR | B perforar (tarde) | seguranca-trabalho/cartilhas-sst | en curso | en curso | en curso |
+| 2026-11-14 18:36 | BR | B perforar (tarde) | seguranca-trabalho/cartilhas-sst | 6 subnichos × 5 kw BR (30) + 2 controles AR/ES + ALL en 2 páginas (sin ceros); ~30 páginas contadas (3 subagentes de lectura) | 2 tarjetas (ComportaMente, Sr. SMS), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 trampa nueva |
 | 2026-11-14 06:45 | ES | B perforar (mañana) | fe/material-cristiano-imprimible | 6 subnichos, 30 kw nativas + ALL en 2 ceros; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio por país) | 2 tarjetas (Saber Cristão, Reino Hub), 7 señales | profundo, con 6 hijos superficial; 5 operadores a seguir; 5 trampas nuevas |
 | 2026-11-14 06:40 | EN | C agenda (mañana) | — (operadores EN; agenda del hub vacía) | 40 operadores EN (~58 consultas `page_ids` + país, ~12 sondeos `search_terms`) + 2 controles AR/ES; 3 subagentes de lectura | 2 tarjetas (Digital Academy (EF), The Ascent Club), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (El Bolso del Profe, AR) |
 | 2026-11-14 06:36 | BR | A huella (mañana) | — (huella, BR) | 17 huellas BR (distintas de las del 09-11 y 11-11) + 1 control AR/ES; ~45 páginas contadas con `page_ids` (3 subagentes de lectura) | 1 tarjeta (Tia Juliana), 7 señales | 3 nodos nuevos BR (1 superficial, 2 virgen); 4 operadores a seguir; 7 trampas nuevas |
