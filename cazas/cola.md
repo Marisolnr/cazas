@@ -197,7 +197,13 @@ los nichos que emergen.
 | plantillas-canva/kits-por-oficio/gastronomia-emprendedoras | plantillas-canva/kits-por-oficio | ES | superficial | 5 kw · 2026-11-13 | Universo Repostero MX 3/8; Cocina en Regla pausada (0 activos, 39 ALL); `Canva restaurantes` casi hueco |
 | plantillas-canva/kits-por-oficio/docentes | plantillas-canva/kits-por-oficio | ES | superficial | 4 kw · 2026-11-13 | Material Educativo AR 5/15 (79 d); Mapasyresumenes MX 2/13 (US$7); `Canva educadoras` casi hueco |
 | plantillas-canva/kits-por-oficio/formato-packs-genericos | plantillas-canva/kits-por-oficio | ES | superficial | 5 kw + 4 páginas de la huella · 2026-11-13 | Pack Insta de Impacto AR 19/44 · MX 21/47 (65 d, BRL, tarjeta); Taller Creativo 15/23 oferta invisible; LaOfi ES 12/50 piso; Neri Designer MX 8/50 piso (USD 4-6,90) |
-| fe/material-cristiano-imprimible | fe | ES | virgen | 1 huella (`megapack PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Cristianas con Poder 31/71 bloque (16 CL, «recibe y luego pagas» sin oferta visible), Lumina Biblia, Calendarios de Fe, EducaTlon; perforar por formato (biblia para armar / calendarios / actividades) |
+| fe/material-cristiano-imprimible | fe | ES | profundo | 6 subnichos, 30 kw nativas + ALL en 2 ceros; ~30 páginas contadas · 2026-11-14 | perforado el 2026-11-14: tarjetas Saber Cristão y Reino Hub (operadores BR en español, ya en AR y ES); modo C sobre los hijos |
+| fe/material-cristiano-imprimible/ninos-escuela-dominical | fe/material-cristiano-imprimible | ES | superficial | 5 kw + ALL en 1 · 2026-11-14 | Cristianas con Poder CL 13/29 (WA sin oferta); Bendiciones creativas 98 est. con cohorte oculta (re-medir 2026-11-21); muchos BRL en español < 7 d; `lapbook bíblico` = hueco; OJO neurokids |
+| fe/material-cristiano-imprimible/catolico-catequesis | fe/material-cristiano-imprimible | ES | superficial | 5 kw · 2026-11-14 | Sonrisas De Fe 7/27, Universo Digital 14/28 bloque («recibes y luego aportas»); Biblia católica 73 libros y apologética = ofertas jóvenes: ángulo libre para modelar Saber Cristão |
+| fe/material-cristiano-imprimible/devocional-planner-mujer | fe/material-cristiano-imprimible | ES | superficial | 5 kw · 2026-11-14 | Creaciones Maravillosas MX 10/10 ($100 MXN, 49 d); Café con Jesús MX 13/13 posible zombi; granjas «RECIBE GRATIS HOY» de esta semana |
+| fe/material-cristiano-imprimible/calendarios-fechas | fe/material-cristiano-imprimible | ES | superficial | 5 kw + ALL en 1 · 2026-11-14 | Cristiano Digital AR 13/15 (calendario 2027, ¿hermana de Tendencias Online?); ola de calendarios católicos 2027 < 7 d (re-medir 2026-11-21); `navidad cristiana imprimible` = hueco |
+| fe/material-cristiano-imprimible/estudio-biblico-ministerial | fe/material-cristiano-imprimible | ES | superficial | 5 kw + 3 conteos por país · 2026-11-14 | Saber Cristão MX ≥45/50 · ES ≥32/50 · AR ≥22/50 y Reino Hub AR/ES 30/30 (tarjetas); Tendencias Online AR 17/17 (producto invisible); PredicaIA = SaaS; SUBNICHO (5+ operadores) |
+| fe/material-cristiano-imprimible/megapacks-cristianos | fe/material-cristiano-imprimible | ES | superficial | 5 kw · 2026-11-14 | `kit/material cristiano` tapadas por la ráfaga de Bendiciones creativas; Detalles con Fe Digital 6/12; `megapack cristiano` casi hueco |
 | esoterismo/grimorio-brujeria | esoterismo | ES | virgen | 1 huella (`libro digital`) · 2026-11-13 | apareció por huella el 2026-11-13: Grimorio Cósmico 6/26 (68 d, «El Gran Grimorio de las Brujas»), Universo Mistico; sin cohorte de 10 todavía, seguir |
 | tecnologia/electronica-programacion-pdf | tecnologia | ES | virgen | 1 huella (`cuadernillo PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Macro Aula 5/20 (ESP32, Arduino, PLC, Scratch); El rincón educativo (ejercicios resueltos ingeniería); sin cohorte de 10, seguir |
 
@@ -290,6 +296,11 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `plantillas uñas` / `plantillas consultorio` / `posts psicología` (ES) | plantillas para calzado, podología y ortopedia / psicólogas promocionando su propio IG | `Canva` + oficio |
 | `Canva coaches` / `Canva Airbnb` / `Canva estética` / `plantillas contadores` / `plantillas inmobiliarias` (ES) | vendedores en inglés, packs BRL en español, cursos y CRM | leer moneda e idioma; `Canva abogados`, `Canva lashista` |
 | nombre de página con «en» como `search_terms` (ES: «Cocina en Regla») | el token «en» trae 2 mil de basura | el nombre pegado (`cocinaenregla`) con ALL, después `page_ids` |
+| `rosario niños` (ES) | trae la ciudad de Rosario, ópticas y colegios | `rosario imprimible`, `catequesis material` |
+| `diario de oración` / `diario bíblico` (ES) | «diario» trae medios, short-dramas y granjas «RECIBE GRATIS HOY» | `devocional imprimible`, `versículos imprimibles` |
+| `pesebre para armar` / `calendario cristiano` (ES) | pesebres físicos, librerías e iglesias con calendario impreso | `calendario 2027 imprimible`, `adviento imprimible` + leer moneda |
+| `kit cristiano` / `material cristiano` (ES, nov-2026) | una ráfaga de Bendiciones creativas (45 ads del 13-11) se come el top 50 | `mapas bíblicos`, `cronología bíblica`, `bosquejos sermones` |
+| `Biblia explicada` (ES) | «La Biblia del Punto» (tejido), panaderías, academias | `versículos explicados`, `mapas bíblicos` |
 | `page_ids` + `search_terms` (ES, nube, 2026-11-13) | el término se ignora: devuelve los mismos 50 nuevos (LaOfi) | anotar la cohorte como piso y re-medir |
 | `page_ids` + `search_terms` (EN, nube, 2026-11-14) | a veces filtra (The Ascent Club con `practices`: 0/50 → 23/36) y a veces no (Lost Skills, Heroic Husband, Visual Guide Lab, Stitch Well: mismos 50 de la semana) | probar 1 término del título; si no cambia la lista, la cohorte se mide solo en la web |
 
@@ -394,6 +405,11 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Cristianas con Poder | 1306900159163457 | MX · AR · CL | ex «Pequeños Cristianos», 31/71 bloque (16 CL), «recibe y luego pagas» sin oferta visible (2026-11-13); re-medir 2026-11-20 |
 | El Bolso del Profe | 1484471184741332 | AR | clon rioplatense de Digital Academy (EF): «150 juegos, 3 regalos, un PDF», creado el 12-11 (señal EN 2026-11-14); medir cohorte desde el 2026-11-19 |
 | Axo y Yo | 1358953320636772 | MX | cuadernillos escolares por grado $149 MXN, 10/20 pero cohorte de una sola fecha (05-11); re-medir 2026-11-20 |
+| Saber Cristão | 409263028944196 | MX · ES · AR · CO | tarjeta ES del 2026-11-14 («X versículos explicados», MX ≥45/50, ES ≥32/50, AR ≥22/50, pisos); testea PT y escuela dominical desde el 11-11: ver qué línea entra en cohorte |
+| Reino Hub | 609309682275141 | AR · ES · MX | tarjeta ES del 2026-11-14 (manuales para líderes de iglesia, 30/30, 17 d, BRL); re-medir 2026-11-21: ¿sobreviven las tandas? |
+| Tendencias Online / Cristiano Digital | 1225944363928959 · 105939112387960 | AR | 17/17 (46 d) y 13/15 (44 d) con títulos «OFERTA ESPECIAL!» (2026-11-14): verificar en la PC qué venden |
+| Creaciones Maravillosas | 1100378686494541 | MX | devocional imprimible $100 MXN, 10/10 a 49 d (2026-11-14); ver si crece |
+| Bendiciones creativas · Daniela Ramírez J. | 1128535147014509 · 991052380767123 | MX | 98 y 87 est. con cohorte oculta (ráfaga de la semana del 10-11); re-medir 2026-11-21 |
 | | | | |
 
 ## Rotación vigente
@@ -417,7 +433,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-14 06:45 | ES | B perforar (mañana) | fe/material-cristiano-imprimible | en curso | en curso | en curso |
+| 2026-11-14 06:45 | ES | B perforar (mañana) | fe/material-cristiano-imprimible | 6 subnichos, 30 kw nativas + ALL en 2 ceros; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio por país) | 2 tarjetas (Saber Cristão, Reino Hub), 7 señales | profundo, con 6 hijos superficial; 5 operadores a seguir; 5 trampas nuevas |
 | 2026-11-14 06:40 | EN | C agenda (mañana) | — (operadores EN; agenda del hub vacía) | 40 operadores EN (~58 consultas `page_ids` + país, ~12 sondeos `search_terms`) + 2 controles AR/ES; 3 subagentes de lectura | 2 tarjetas (Digital Academy (EF), The Ascent Club), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (El Bolso del Profe, AR) |
 | 2026-11-14 06:36 | BR | A huella (mañana) | — (huella, BR) | 17 huellas BR (distintas de las del 09-11 y 11-11) + 1 control AR/ES; ~45 páginas contadas con `page_ids` (3 subagentes de lectura) | 1 tarjeta (Tia Juliana), 7 señales | 3 nodos nuevos BR (1 superficial, 2 virgen); 4 operadores a seguir; 7 trampas nuevas |
 | 2026-11-13 18:42 | ES | B perforar (tarde) | plantillas-canva/kits-por-oficio | 6 subnichos, 32 kw nativas + ALL en 1; ~22 páginas contadas (3 subagentes de lectura) | 2 tarjetas (Mind Digital Studio, Pack Insta de Impacto), 8 señales | profundo, con 6 hijos superficial; 4 operadores a seguir |
