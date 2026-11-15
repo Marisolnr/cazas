@@ -331,6 +331,8 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 19 tarjetas BR pendientes de revisión y 8 operadores que solo se pueden verificar en la PC (lista en `RAW/cazas-auto/2026-11-15-br-lint-cola.md`).
+
 ### 🎯 «Kit NR-1 pronto para usar» (riesgos psicosociales) — ComportaMente BR · `seguranca-trabalho/cartilhas-sst/nr1-psicossocial` · 2026-11-14 (tarde) · sesión BR
 - **Qué es:** un kit listo para cumplir la NR-1 nueva de Brasil, la que desde 2026 obliga a las empresas a evaluar los riesgos psicosociales dentro del PGR. Por el nombre de la página apunta a psicólogos y RR. HH. Los 16 ads tienen un solo título, así que es una sola oferta. El precio no se ve en los ads (moneda BRL).
 - **Por qué es ganador:** cohorte 7+/activos **15/16 en BR** (vistos todos, sin tope). La primera tanda es de 12 ads del 23-10 (**22 días**) y siguen vivos todos; después lanzó 3 el 28-10 y 1 el 11-11. Hay 3 fechas y el operador está vivo. Página de marca, un solo operador. Es regulación nueva, así que la demanda es reciente. En el subnicho asoman clones (Vivendo de Psicologia, Cláudia Russo «Kit NR1», Gestão de SST na Prática), todos de menos de 7 días.
