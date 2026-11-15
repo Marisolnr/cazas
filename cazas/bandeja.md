@@ -26,6 +26,8 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-15 (tarde): nada que pase la vara; domingo de lint, re-chequeo del de la mañana sin cambios (próximo B: `musica/teoria-workbooks`).
+
 EN 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 22 tarjetas EN pendientes de revisión y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-en-lint-cola.md`).
 
 ### 🎯 «NCLEX Review Cheat Sheet, 400 pages»: la chuleta que reemplaza al manual de enfermería — My Nurse Notes US · `examenes-ilustrados/enfermeria-nclex` · 2026-11-14 (tarde) · sesión EN
