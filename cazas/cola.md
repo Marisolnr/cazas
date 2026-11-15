@@ -56,7 +56,7 @@ los nichos que emergen.
 | planners-imprimibles-2027 | hogar | EN | profundo | 7 kw US/GB + 1 control AR/ES, 5 subnichos · 2026-11-09 tarde | perforado el 2026-11-09 (tarde): 2 tarjetas (This & That, Planner Lovers); estacional, ventana hasta enero |
 | planners-imprimibles-2027/digital-tablet | planners-imprimibles-2027 | EN | superficial | 4 kw · 2026-11-09 | This & That 10/50 US y Planner Lovers 28/28 US (tarjetas); EaseUp 140 est. con cohorte oculta: re-medir desde 2026-11-16 |
 | planners-imprimibles-2027/presupuesto | planners-imprimibles-2027 | EN | superficial | 1 kw · 2026-11-09 | Winter Wren, Plan With Sage, Litepaper (GB): todo < 7 d; faltan `budget binder`, `money planner pdf` |
-| planners-imprimibles-2027/navidad | planners-imprimibles-2027 | EN | superficial | 0 kw propias · 2026-11-09 | Simplify Her Life, Family Fun Printables: todo < 7 d; re-medir antes del 2026-11-30 |
+| planners-imprimibles-2027/navidad | planners-imprimibles-2027 | EN | superficial | 0 kw propias · 2026-11-09 | Simplify Her Life, Family Fun Printables: todo < 7 d; re-medir 2026-11-21 (corrida C del sábado; ventana estacional, antes del 2026-11-30) |
 | planners-imprimibles-2027/docente | planners-imprimibles-2027 | EN | superficial | 1 kw (ruido) · 2026-11-09 | Nova for Teachers 5/5 (66 d, EUR); usar `lesson planner pdf`, `teacher binder` |
 | planners-imprimibles-2027/fe-oracion | planners-imprimibles-2027 | EN | superficial | 1 kw (ruido) · 2026-11-09 | My Digital Prayers 8/8 en una sola fecha (posible zombi); usar `christian planner`, `bible study planner` |
 | pareja/reconquista-matrimonio | pareja | EN | profundo | 22 kw US/GB (5 subnichos) + ALL en 9 ceros/spam + control AR/ES · 2026-11-10 | perforado el 2026-11-10: tarjeta Heroic Husband + Linda Harrison (él); modo C sobre los operadores |
@@ -75,7 +75,7 @@ los nichos que emergen.
 | manualidades/patrones-costura-pdf/fieltro-peluches | manualidades/patrones-costura-pdf | EN | superficial | 3 kw · 2026-11-10 | Mariana Williams (fieltro católico) todo < 7 d: re-medir 2026-11-17; Sweet Pea, SewBloom chicos |
 | manualidades/patrones-costura-pdf/quilting | manualidades/patrones-costura-pdf | EN | superficial | 2 kw · 2026-11-10 | Wildbloom Quilts 5/10 ($27/$47, RON); el resto, kits físicos |
 | religion/biblia-visual | religion | EN | profundo | 6 subnichos × 5 kw US/GB (30) + 1 de arranque + 2 controles AR/ES; ~20 páginas contadas · 2026-11-11 tarde | perforado el 2026-11-11 (tarde): tarjeta RootedinFaith; modo C sobre los hijos |
-| religion/biblia-visual/visual-ilustrada | religion/biblia-visual | EN | superficial | 6 kw · 2026-11-11 | Revelation Unsealed 3D 8/23 US (re-medir 2026-11-14, ¿PDF o libro?); Stories of the Bible y chart Adams = físicos; Christian Knowledge 275 est. con cohorte oculta |
+| religion/biblia-visual/visual-ilustrada | religion/biblia-visual | EN | superficial | 6 kw · 2026-11-11 | Revelation Unsealed 3D 8/23 US el 11-11 y 9/33 el 14-11 (¿PDF o libro?; re-medir 2026-11-21, fecha alineada con «Operadores a seguir» en el lint del 15-11); Stories of the Bible y chart Adams = físicos; Christian Knowledge 275 est. con cohorte oculta |
 | religion/biblia-visual/estudio-biblico-guias | religion/biblia-visual | EN | superficial | 5 kw + control AR/ES (`entender Biblia`) · 2026-11-11 | RootedinFaith 30/45 GB y 28/≥50 US (tarjeta); en español ya corren operadores BR «la Biblia libro por libro» (sin contar) |
 | religion/biblia-visual/devocional-planner | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | nada con 10+; Coffee and Bible Time 0/7 (nuevo); Christian Craft Paper es membresía |
 | religion/biblia-visual/ninos-escuela-dominical | religion/biblia-visual | EN | superficial | 5 kw · 2026-11-11 | Growing in Faith 18/27 US (advertorial, producto no visible, 9 d); Faith Times 7/36 hermana; FaithSprout 2/8 |
@@ -463,7 +463,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-15 06:38 | EN | lint de la cola (domingo) | — (nodos EN + operadores EN) | — (sin búsquedas) | en curso | en curso |
+| 2026-11-15 06:38 | EN | lint de la cola (domingo) | — (68 nodos EN + 30 operadores EN) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡; 1 re-medición vencida ya hecha (visual-ilustrada, fecha alineada a 21-11); `navidad` fechada al 21-11; 17 re-mediciones EN vencen 16-21/11 | sin cambios de estado |
 | 2026-11-15 06:36 | BR | lint de la cola (domingo) | — (55 nodos BR + 37 operadores BR) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡, 0 re-mediciones vencidas; 2 re-mediciones sin fecha fechadas; 13 re-mediciones BR vencen 18-21/11 | sin cambios de estado |
 | 2026-11-14 18:41 | ES | B perforar (tarde) | esoterismo/grimorio-brujeria | 6 subnichos, 24 kw nativas (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Tienda de Hechizos, Regarte), 7 señales | profundo, con 6 hijos superficial; 4 trampas nuevas |
 | 2026-11-14 18:38 | EN | B perforar (tarde) | examenes-ilustrados | 6 subnichos, ~44 kw US/GB + ALL en 5 ceros + 2 controles AR/ES; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (My Nurse Notes, LCSW Strategy), 6 señales | profundo, con 6 hijos superficial; 3 trampas nuevas |

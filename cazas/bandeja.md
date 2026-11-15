@@ -26,6 +26,8 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 22 tarjetas EN pendientes de revisión y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-en-lint-cola.md`).
+
 ### 🎯 «NCLEX Review Cheat Sheet, 400 pages»: la chuleta que reemplaza al manual de enfermería — My Nurse Notes US · `examenes-ilustrados/enfermeria-nclex` · 2026-11-14 (tarde) · sesión EN
 - **Qué es:** un resumen de 400 páginas para el examen de matrícula de enfermería de EE. UU. (NCLEX), vendido contra los manuales («Nursing Textbooks are Scam!», «All the Answers Look Right. That's the Trap.»). Ofrece pagar en cuotas sin interés. Precio sin ver.
 - **Por qué es ganador:** cohorte 7+/activos **34/34 en US** (conteo completo) · ad más viejo de **133 días** (03-07) · 5 tandas (03-07, 16-08, 14-10, 17-10 y 05-11) · marca sin persona, USD. En GB el NCLEX es cementerio (2/2 de 8 días).
