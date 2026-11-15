@@ -610,6 +610,8 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 21 tarjetas ES pendientes de revisión, 27 re-mediciones ES que vencen entre el 16 y el 21-11 y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-es-lint-cola.md`).
+
 ### 🎯 Rituales y hechizos digitales «paso a paso» («Acceso inmediato» · «Rituales para fin de año») — Tienda de Hechizos MX · `esoterismo/grimorio-brujeria/hechizos-rituales` · 2026-11-14 (tarde) · sesión ES
 - **Qué es:** rituales y hechizos en formato digital, con acceso inmediato. Los títulos dicen «Aprende paso a paso», «Acceso inmediato» y, desde el 13-11, «Rituales para fin de año», «Cierra el año de forma excepcional». Cobra en MXN. La API no trae precio ni formato exacto (PDF, guía o video).
 - **Por qué es ganador:** cohorte 7+/activos **20/50 en MX (piso; 56 estimados)**. Tres tandas: 29-10 (7 ads, 16,6 d, ninguno apagado), 07-11 (17 ads, «Acceso inmediato») y 13-11 (26 ads de fin de año). Sigue lanzando. Tienda fantasma, sin persona, un solo operador. **En AR y ES no tiene ningún ad.**

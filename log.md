@@ -60,3 +60,4 @@
 ## [2026-11-14] caza-auto | ES B perforar (tarde) esoterismo/grimorio-brujeria → 2 candidatos a bandeja
 ## [2026-11-15] caza-auto | BR lint de la cola (domingo) → 0 candidatos a bandeja
 ## [2026-11-15] caza-auto | EN lint de la cola (domingo) → 0 candidatos a bandeja
+## [2026-11-15] caza-auto | ES lint de la cola (domingo) → 0 candidatos a bandeja
