@@ -463,6 +463,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-15 18:37 | EN | lint de la cola (domingo, tarde) | — (re-chequeo del lint de las 06:38) | — | en curso | — |
 | 2026-11-15 18:35 | BR | lint de la cola (domingo, tarde) | — (re-chequeo del lint de las 06:36) | — (sin búsquedas) | nada cambió en nodos ni operadores BR desde la mañana; 0 vencidos; próximo B: `esoterismo/radiestesia-mapas` | sin cambios de estado |
 | 2026-11-15 06:40 | ES | lint de la cola (domingo) | — (67 nodos ES, 2 compartidos con EN, + ~42 operadores hispanos) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡, 0 re-mediciones vencidas; 1 re-medición sin fecha fechada (laser-cnc → 24-11); Mapasyresumenes alineado al 19-11; 27 re-mediciones ES vencen 16-21/11 | sin cambios de estado |
 | 2026-11-15 06:38 | EN | lint de la cola (domingo) | — (68 nodos EN + 30 operadores EN) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡; 1 re-medición vencida ya hecha (visual-ilustrada, fecha alineada a 21-11); `navidad` fechada al 21-11; 17 re-mediciones EN vencen 16-21/11 | sin cambios de estado |
