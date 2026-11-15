@@ -333,6 +333,8 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-15 (tarde): domingo de lint, nada que pase la vara; no se barrió nada (re-chequeo del lint de la mañana, sin cambios).
+
 BR 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 19 tarjetas BR pendientes de revisión y 8 operadores que solo se pueden verificar en la PC (lista en `RAW/cazas-auto/2026-11-15-br-lint-cola.md`).
 
 ### 🎯 «Kit NR-1 pronto para usar» (riesgos psicosociales) — ComportaMente BR · `seguranca-trabalho/cartilhas-sst/nr1-psicossocial` · 2026-11-14 (tarde) · sesión BR
