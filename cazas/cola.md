@@ -463,6 +463,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-15 06:40 | ES | lint de la cola (domingo) | — (nodos ES + operadores ES) | — (sin búsquedas) | en curso | — |
 | 2026-11-15 06:38 | EN | lint de la cola (domingo) | — (68 nodos EN + 30 operadores EN) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡; 1 re-medición vencida ya hecha (visual-ilustrada, fecha alineada a 21-11); `navidad` fechada al 21-11; 17 re-mediciones EN vencen 16-21/11 | sin cambios de estado |
 | 2026-11-15 06:36 | BR | lint de la cola (domingo) | — (55 nodos BR + 37 operadores BR) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡, 0 re-mediciones vencidas; 2 re-mediciones sin fecha fechadas; 13 re-mediciones BR vencen 18-21/11 | sin cambios de estado |
 | 2026-11-14 18:41 | ES | B perforar (tarde) | esoterismo/grimorio-brujeria | 6 subnichos, 24 kw nativas (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Tienda de Hechizos, Regarte), 7 señales | profundo, con 6 hijos superficial; 4 trampas nuevas |
