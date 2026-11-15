@@ -614,6 +614,8 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-15 (tarde): lint de la cola, sin caza ni tarjetas; nada cambió en ES desde el lint de la mañana.
+
 ES 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 21 tarjetas ES pendientes de revisión, 27 re-mediciones ES que vencen entre el 16 y el 21-11 y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-es-lint-cola.md`).
 
 ### 🎯 Rituales y hechizos digitales «paso a paso» («Acceso inmediato» · «Rituales para fin de año») — Tienda de Hechizos MX · `esoterismo/grimorio-brujeria/hechizos-rituales` · 2026-11-14 (tarde) · sesión ES
