@@ -463,6 +463,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-15 06:36 | BR | lint de la cola (domingo) | — (nodos BR) | — | en curso | — |
 | 2026-11-14 18:41 | ES | B perforar (tarde) | esoterismo/grimorio-brujeria | 6 subnichos, 24 kw nativas (sin ceros, ALL no hizo falta); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Tienda de Hechizos, Regarte), 7 señales | profundo, con 6 hijos superficial; 4 trampas nuevas |
 | 2026-11-14 18:38 | EN | B perforar (tarde) | examenes-ilustrados | 6 subnichos, ~44 kw US/GB + ALL en 5 ceros + 2 controles AR/ES; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (My Nurse Notes, LCSW Strategy), 6 señales | profundo, con 6 hijos superficial; 3 trampas nuevas |
 | 2026-11-14 18:36 | BR | B perforar (tarde) | seguranca-trabalho/cartilhas-sst | 6 subnichos × 5 kw BR (30) + 2 controles AR/ES + ALL en 2 páginas (sin ceros); ~30 páginas contadas (3 subagentes de lectura) | 2 tarjetas (ComportaMente, Sr. SMS), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 trampa nueva |
