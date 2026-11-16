@@ -667,6 +667,28 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Informes astrológicos personalizados (Carta Natal · Revolución Solar · «Ikigai astrológico» vocacional · Carta Natal Infantil · combos) — Aprende Astrología ES·AR · `esoterismo/grimorio-brujeria/astrologia-numerologia` · 2026-11-16 · sesión ES
+- **Qué es:** un catálogo de informes astrológicos que se arman con la fecha de nacimiento: Revolución Solar, Informe Vocacional («Descubre tu Ikigai Astrológico»), Carta Natal Infantil y el combo Carta Natal + Revolución Solar. Los productos tienen nombre fijo y se venden en combos. Ningún título habla de consulta, sesión ni lectura en vivo. Cobra en USD. La API no muestra precio ni formato.
+- **Por qué es ganador:** cohorte 7+/activos **ES 37/38** (61 d) y **AR 32/39** (59 d), sin tope en ninguno de los dos. En AR hay 7 fechas de creación y el ad más nuevo es de hace 1,7 d, así que el operador sigue activo. Crece desde el 14-11 (ES 20/37 → 37/38). Página sin persona y un solo operador.
+- **Qué hacer:** si los informes salen solos (plantilla + datos de nacimiento), se modela como **informe PDF automatizado**. Se arma con un generador de cartas y textos fijos por posición, y la entrega es inmediata. Si los hace una persona, es servicio y no entra. AR y ES ya los pisa este operador: conviene entrar con un solo informe fuerte y no con el catálogo, por ejemplo el **vocacional/Ikigai**, que es el ángulo más original · destino sugerido **ES** · ángulo: «¿sientes que naciste para algo más? tu carta natal lo dice».
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=446279405782137&search_type=page&media_type=all) · [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=446279405782137&search_type=page&media_type=all) · más viejo ES: [ad](https://www.facebook.com/ads/library/?id=1068128852691222) · más viejo AR: [ad](https://www.facebook.com/ads/library/?id=2574862236350381)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio y saber si el informe es automático o lo hace una persona: eso decide si es producto o servicio.
+- Score 2/4 (cohorte ancha y vieja en los dos destinos; formato y embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-16)**
+- Consultorio Nutri Listo (1431610173366748) AR **36/46** (13/42 el 12-11, 12,3 d): sigue creciendo y sigue solo en AR (ES y MX 0). Ya tuvo tarjeta.
+- Neutral Nature (919376131265589): la cohorte ya se ve. ES ≥25/104 y MX ≥25/103 (pisos), CO 27/27 sin ads nuevos en 13 d. El clon Pura Idea está apagado. Ya tuvo tarjeta.
+- Planner Hoy Solo 3 ES 30/39 · MX 31/40 (AR 0) · Claridad y Acción AR 30/40 · MX 30/40 · ES 20/30 (10 en cohorte por cada plantilla: freelance, obras, abogados) · Planos de arcilla AR 21/39 (≥16 el 10-11). Los tres ya tuvieron tarjeta y siguen vivos.
+- Sector Digital ES ≥20/81 (todo deportiva). La línea adicciones sigue en 0 en cohorte, pero sus primeros 6 ads cumplen 7 d hoy a la tarde (AR y MX).
+- Por entrar en cohorte mañana: Psicologia & Recursos 2025 MX 6/16 → 16 (kits de terapia de pareja, duelo y orientación vocacional, WhatsApp, COP) · Odonto en Orden (1355504520987314) AR 9/30 → 15.
+- Med Spa Documents Kit MX 0/68 y CO 0/67 visibles (pisos): saca ~10 ads por día y la cohorte queda detrás del tope (~18 ocultos).
+- Studio Facile ES 0/114 visibles (piso): ebooks ilustrados por profesión o tema («La audiometría ilustrada», «La geopolítica, con dibujos»), escalando.
+- Ola navideña de crochet y belén, todavía joven: Digital Shop (552653941257698) ES 4/19 · Santos En Punto AR 4/7 (15 patrones de pesebre a $12.990) · Flavia da Silva Araujo MX 4/10 · Amigurumi Terapia MX 1/12. Re-medir el 22-11.
+- Crea y Emprende AR 8/14 (17/20 el 09-11) abre SKU «Tejé la colección del Verano 2027» · Talleres Listos AR ≥12/198, mientras ES y MX bajan a 4 (relanzó 22 ads en 2 d).
+- Pixelpack MX/AR ≥34/61: además del megapack, «herramienta de semitonos DTF» con 9 en cohorte y lanzamiento de 15 ads (es software, no infoproducto).
+- Se apagan o están zombis: Cursos Online (0 activos) · Educa Online (11, solo EC, 4 en cohorte) · Puntada Maestra ES 2/6 · Planner Lovers AR/MX 20/20 en 2 fechas · La Biblioteca Definitiva De Tejido MX 23/23 sin ads nuevos en 56 d. Saber Cristão no confirma (ES ≥9/151, MX 0/160 visibles; la línea en portugués tiene < 7 d).
+
 ES 2026-11-15 (tarde): lint de la cola, sin caza ni tarjetas; nada cambió en ES desde el lint de la mañana.
 
 ES 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 21 tarjetas ES pendientes de revisión, 27 re-mediciones ES que vencen entre el 16 y el 21-11 y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-es-lint-cola.md`).

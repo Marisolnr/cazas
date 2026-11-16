@@ -229,7 +229,7 @@ los nichos que emergen.
 | esoterismo/grimorio-brujeria/hechizos-rituales | esoterismo/grimorio-brujeria | ES | superficial | 8 kw · 2026-11-14 | Tienda de Hechizos MX 20/50 piso (16,6 d, tarjeta; AR/ES = 0); Sanamente.ARG multinicho 7 esotéricos en 4 ofertas; Sabiduría Oculta 0/9 |
 | esoterismo/grimorio-brujeria/pendulo-radiestesia | esoterismo/grimorio-brujeria | ES | superficial | 1 kw (`chakras PDF`) + Regarte por país · 2026-11-14 | Regarte AR ≥29/50 piso, MX/ES 13/40 (13 fechas, tarjeta); Vitalidad y Plenitud «Enciclopedia del Péndulo» sin contar; cruza con BR `esoterismo/radiestesia-mapas` |
 | esoterismo/grimorio-brujeria/tarot-guias | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | joven y repartido: Karen Bizarro MX 7/37 (persona, Messenger), Mapas del Tarot 6/10 (BRL), Arcano Luz y Mi Tarot Guiado 0/10, Izabel Allencar 0/11: re-medir 2026-11-21 |
-| esoterismo/grimorio-brujeria/astrologia-numerologia | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | Aprende Astrología AR 32/39 · ES 20/37 (informes personalizados: ¿servicio?); Holística y Energías AR 10/11 en 2 ofertas; Caja del Terapeuta numerología cohorte oculta (re-medir 2026-11-21) |
+| esoterismo/grimorio-brujeria/astrologia-numerologia | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | Aprende Astrología AR 32/39 · ES 20/37 (informes personalizados: ¿servicio?) → 2026-11-16 ES 37/38, AR 32/39 (tarjeta C operadores); Holística y Energías AR 10/11 en 2 ofertas; Caja del Terapeuta numerología cohorte oculta (re-medir 2026-11-21) |
 | esoterismo/grimorio-brujeria/limpieza-cristales | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | cristales en PDF casi no existen; limpieza = terapeutas por WA; Ángeles en tu camino MX 9/12 (17 d); Academia R.V megapack baños 3/20 |
 | esoterismo/grimorio-brujeria/manifestacion | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | cohorte 0 en todo (Mariano Benitez «Método 369» 0/7, persona multinicho); `ley de atracción PDF` = empleo |
 | tecnologia/electronica-programacion-pdf | tecnologia | ES | virgen | 1 huella (`cuadernillo PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Macro Aula 5/20 (ESP32, Arduino, PLC, Scratch); El rincón educativo (ejercicios resueltos ingeniería); sin cohorte de 10, seguir |
@@ -339,6 +339,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `mapa de risco` / `material técnico segurança` / `kit técnico segurança` / `cartilha segurança trabalho` / `SIPAT temas` / `kit SIPAT` / `NR 10 treinamento` / `brigada incêndio treinamento` / `planilha SST` (BR) | ruido masivo, minidramas doblados, eventos y brindes, escuelas y cursos en vivo, SaaS | `NR 35 slides`, `slides NR`, `treinamentos prontos NR`, `combo SST`, `mapas mentais NR` |
 | `cristais apostila` / `defumação apostila` / `livro das sombras` / `aromaterapia apostila` / `óleos essenciais apostila` / `mapa numerológico` / `mapa astral pdf` (BR, esoterismo) | recetas / charcutería / dramas doblados / cursos presenciales / informes personalizados y coaching | `radiestesia pdf`, `gráficos radiônicos`, `grimório pdf`, `rituais pdf`; contar por `page_ids` |
 | `gráficos radiestesia` / `pêndulo radiestesia` / `mesa radiônica` (BR, noviembre) | el top 50 se lo come el lanzamiento «Pendulado Friday» de Radiestesia Terapêutica | `radiestesia pdf`, `gráficos radiônicos` |
+| `terapia pareja ejercicios` / `ejercicios terapia de pareja` (ES, noviembre) | spam de microdramas doblados («Mi Bella Durmiente…») y servicios de terapeutas | contar por `page_ids` (Clínica del vínculo 1353862937812637, Psicologia & Recursos 2025 469568772899568) |
+| `page_ids` + `search_terms` (cualquier sesión) | la API ignora `search_terms` cuando hay `page_ids`: no destapa la cohorte oculta detrás del tope | re-medir cuando la página baje de 50 o sondear sin `page_ids` |
 
 ## Operadores a seguir (modo C)
 
@@ -349,10 +351,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 |---|---|---|---|
 | Tienda de Hechizos | 100963788488774 | MX | rituales/hechizos digitales MXN, 20/50 piso a 16,6 d (tarjeta 2026-11-14 tarde); ¿salta a AR/ES? ¿sobrevive la tanda de fin de año? re-medir 2026-11-21 |
 | Regarte | 1342388312284290 | AR · MX · ES | «Aprendé a usar tu péndulo en 7 días», ≥29/50 AR con tanda diaria (tarjeta 2026-11-14 tarde); ¿segundo SKU? re-medir 2026-11-21 |
-| Aprende Astrología | 446279405782137 | AR · ES | informes astrológicos 32/39 AR a 57 d; verificar si es informe automático (producto) o servicio |
+| Aprende Astrología | 446279405782137 | AR · ES | informes astrológicos 32/39 AR a 57 d; tarjeta ES del 2026-11-16 (ES 37/38, AR 32/39, 61 d); verificar en la PC si el informe es automático (producto) o servicio |
 | Mind Digital Studio | 100484571813019 | AR | kits de marca + gestión por oficio (coach 17, abogados 1), 18/50 piso (tarjeta 2026-11-13); ¿SKU u oficio nuevo? ¿salta a ES? re-medir 2026-11-20 |
 | Pack Insta de Impacto | 802396849634003 | AR · MX · ES | pack de plantillas IG en BRL, 19/44 AR a 65 d (tarjeta 2026-11-13); página homónima 1194180837101878 sin contar |
-| Med Spa Documents Kit | 1318045718067882 | MX · CO | documentos para estética, 48 activos con 10 en el borde de la cohorte; re-medir 2026-11-16 |
+| Med Spa Documents Kit | 1318045718067882 | MX · CO | documentos para estética, 48 activos con 10 en el borde de la cohorte; 2026-11-16: MX 0/68 y CO 0/67 visibles (~10 ads por día, cohorte detrás del tope); re-medir 2026-11-23 |
 | LaOfi | 101087078492489 | ES · MX | kit para diseñadores, ES 12/50 piso con cohorte detrás del tope; re-medir 2026-11-20 |
 | Hadassa Fit | 769240466269366 | BR | recetas fit para airfryer, 14/26, tandas cada 2-4 semanas desde el 01-08 (tarjeta 2026-11-12) |
 | Cozinhanoprato | 1143346648872228 | BR | colección de 4 ebooks de recetas, 14/14 a 32 d (tarjeta 2026-11-12); re-medir 2026-11-19 |
@@ -458,6 +460,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Sama Terapias | 370972230119772 | BR | tarjeta BR del 2026-11-16 (Mesas & Gráficos, 37/≥50 piso, 79,5 d); ver si «inscreva-se» es curso en vivo |
 | Caixa do Terapeuta (+ red Numerologia Automática) | 469875186209972 · 378526395348946 · 702053146325386 · 703760402823862 | BR (+ES) | ≥23/≥50 el 2026-11-16; el «Sistema de Numerologia Automática» escala en 3 páginas nuevas sin cohorte: re-medir 2026-11-23 |
 | SST Online Gold · Escola da Prevenção | 155956234265597 · 663744763723231 | BR | 13/17 producto invisible (comentario→DM) y 14/18 pendrive físico + 365 DDS (2026-11-14): verificar en la PC |
+| Digital Shop · Santos En Punto · Flavia da Silva Araujo · Amigurumi Terapia | 552653941257698 · 1441997498998704 · 238104932713634 · 107566745618163 | ES · AR · MX · MX | ola navideña de belén/pesebre/amigurumi: 4/19 ES, 4/7 AR ($12.990), 4/10 MX, 1/12 MX el 2026-11-16; re-medir 2026-11-22 |
+| Psicologia & Recursos 2025 | 469568772899568 | MX | kits para terapeutas (pareja, duelo, orientación vocacional) por WhatsApp, COP: 6/16 el 2026-11-16, pasa a 16 el 17-11; re-medir 2026-11-19 |
+| Odonto en Orden | 1355504520987314 | AR | sistema de consultorio odontológico, 9/30 el 2026-11-16 (15 el 17-11); re-medir 2026-11-19; vecinos Kit Odontologico APP 1218589731347806, Consultorio en Regla Odontológico CO 1453560014505584 |
 | | | | |
 
 ## Rotación vigente
@@ -481,7 +486,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 16-18/11) | en curso | en curso | en curso |
+| 2026-11-16 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 16-18/11 + operadores con tarjeta) | ~33 páginas × país (~60 consultas `page_ids` + país) + 7 búsquedas `search_terms`; 3 subagentes de lectura | 1 tarjeta (Aprende Astrología), 11 señales | sin cambios de estado; 6 operadores nuevos a seguir; 2 trampas nuevas |
 | 2026-11-16 06:38 | EN | A huella (mañana) | — (huella, US GB) | 15 huellas × US/GB (30, distintas de las del 09-11 y 12-11) + 2 controles AR/ES; ~25 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (The Beauty Crafts, Pattern Quilt Studio), 7 señales | 3 nodos nuevos (1 superficial, 2 virgen); quilting actualizado; 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-16 06:36 | BR | B perforar (mañana) | esoterismo/radiestesia-mapas | 6 subnichos, 32 kw BR (sin ceros, ALL no hizo falta) + 2 controles AR/ES/MX + ALL por página en el hispano; ~35 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Essência viva, Sama Terapias), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 2 trampas nuevas |
 | 2026-11-15 18:40 | ES | lint de la cola (domingo, tarde) | — (re-chequeo del lint de las 06:40) | — (sin búsquedas) | nada cambió en nodos ni operadores ES desde la mañana; 0 vencidos; próximo B: `tecnologia/electronica-programacion-pdf` | sin cambios de estado |
