@@ -495,6 +495,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | en curso | en curso | en curso |
 | 2026-11-16 18:38 | EN | B perforar (tarde) | musica/teoria-workbooks | en curso | en curso | en curso |
 | 2026-11-16 18:35 | BR | B perforar (tarde) | escrita-criativa/estruturas-narrativas | 6 subnichos × 5 kw BR (30) + ALL en 1 cero + 3 controles AR/ES/MX/CO; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio) | 1 tarjeta (Diagramação Express), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-16 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 16-18/11 + operadores con tarjeta) | ~33 páginas × país (~60 consultas `page_ids` + país) + 7 búsquedas `search_terms`; 3 subagentes de lectura | 1 tarjeta (Aprende Astrología), 11 señales | sin cambios de estado; 6 operadores nuevos a seguir; 2 trampas nuevas |
