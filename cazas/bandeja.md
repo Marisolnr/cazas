@@ -362,6 +362,23 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Passo a passo simples» para diagramar tu propio libro — Diagramação Express BR · `escrita-criativa/autopublicacao` · 2026-11-16 (tarde) · sesión BR
+- **Qué es:** por el nombre de la página, un paso a paso para que el autor diagrame solo su libro (para Amazon o imprenta). Puede ser guía, mini-curso grabado o plantillas. El producto y el precio **no se ven por API**: todos los ads llevan el mismo título, «Passo a passo simples» (BRL).
+- **Por qué es ganador:** cohorte 7+/activos **22/44 en BR** (vistos los 44). Son dos tandas de 11 ads (08-11 y 09-11, de 8 a 9 días) que siguen todas vivas, y después tandas nuevas el 10 y el 11-11: 4 fechas y el operador vivo. Página de marca, sin nombre de persona, un solo operador. Es joven: la cohorte más vieja tiene 8 días.
+- **Qué hacer:** si en la PC se confirma que vende el método y no el servicio, modelar «diagramá tu libro para Amazon KDP en una tarde» (guía PDF + plantillas de Word/Canva) a USD 9-12. Destino sugerido **ES**, después AR: en el control hispano (`estructuras narrativas`, `escribir novela`, `crear personajes`) nadie vende autopublicación. Volver a medir el 2026-11-23 para ver si la cohorte aguanta.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1350262598172109&search_type=page&media_type=all) · creativos más viejos: [08-11](https://www.facebook.com/ads/library/?id=1459481796113257) · [08-11 (2)](https://www.facebook.com/ads/library/?id=29175687838782812)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL y la marca no aparece en la web). **Antes de decidir:** abrir el snapshot y ver si es un PDF o curso o un servicio de diagramación hecho por ellos (el servicio no se trae), y el precio.
+- Score 0/4 (cohorte de 8 días, una sola creatividad) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-16, tarde)**
+- Creartool (325627053956826), tarjeta del 09-11: 21/21, todos con «10 Estruturas Narrativas» (el más viejo, del 01-06). Los SKU nuevos («30 Estruturas», arquetipos, «101 fatos») ya no tienen ads activos y el último ad es del 18-10.
+- Livingbooksbr (109699682175872): 12/30 por entrega, en un lanzamiento con cuenta regresiva («Vendas abertas», «É hoje!»). El producto no se ve, probablemente un curso: verificar en la PC.
+- Narralab (1392023417322143) corre «¿Molde equivocado para tu historia?» en el hispano, 2/2 a 15 días (USD): un tester del molde de Creartool en el destino.
+- Casa Folha (38/58 en «escrever») y Escrita Criativa (lanzamiento «2ª aula») son cursos con autora estrella o por lanzamiento: no se traen.
+- Autor.ia (11/15, USD) escribe el libro con IA: es SaaS o servicio, no se trae. Meu Livro Pronto, 8/8 a 76 días por «R$ 97»: probable servicio, verificar.
+- Guion, personajes/mundos, fanfic y plantillas de escritor no tienen cohorte en BR: son escuelas, RPG y spam de webnovel.
+
 ### 🎯 «Kit Radiestesia na Prática · 60 gráficos em PDF» — Essência viva BR · `esoterismo/radiestesia-mapas` · 2026-11-16 · sesión BR
 - **Qué es:** un kit de 60 gráficos de radiestesia en PDF para imprimir y usar con el péndulo en las sesiones, a **R$27**. Hay una versión mayor, «Kit Atendimento Completo», a R$47, y hoy empezó a probar un SKU nuevo («Mesa de Reconexão com Vidas Passadas · método em PDF»). El público es la terapeuta que ya tiene el péndulo y no tiene el material.
 - **Por qué es ganador:** cohorte 7+/activos **13/38 en BR** (vistos los 38, sin tope). Tiene 3 ads de **40,7 días** (06-10) con el título «⭐⭐⭐⭐⭐ 4.83/5», 8 ads de 20 días (27-10) y tandas nuevas todos los días entre el 12 y el 15-11: 8 fechas y el operador vivo. Es una página de marca, sin cara en el nombre, y un solo operador. Los ángulos que sobreviven son «Imprima hoje. Atenda amanhã.» y «Você já tem o pêndulo. Falta o material.».
