@@ -486,6 +486,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-16 18:35 | BR | B perforar (tarde) | escrita-criativa/estruturas-narrativas | en curso | en curso | en curso |
 | 2026-11-16 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 16-18/11 + operadores con tarjeta) | ~33 páginas × país (~60 consultas `page_ids` + país) + 7 búsquedas `search_terms`; 3 subagentes de lectura | 1 tarjeta (Aprende Astrología), 11 señales | sin cambios de estado; 6 operadores nuevos a seguir; 2 trampas nuevas |
 | 2026-11-16 06:38 | EN | A huella (mañana) | — (huella, US GB) | 15 huellas × US/GB (30, distintas de las del 09-11 y 12-11) + 2 controles AR/ES; ~25 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (The Beauty Crafts, Pattern Quilt Studio), 7 señales | 3 nodos nuevos (1 superficial, 2 virgen); quilting actualizado; 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-16 06:36 | BR | B perforar (mañana) | esoterismo/radiestesia-mapas | 6 subnichos, 32 kw BR (sin ceros, ALL no hizo falta) + 2 controles AR/ES/MX + ALL por página en el hispano; ~35 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Essência viva, Sama Terapias), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 2 trampas nuevas |
