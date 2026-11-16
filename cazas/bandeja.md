@@ -26,6 +26,33 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Ebooks de recetas de cosmética natural casera («452 DIY Body Care Recipes», «155 Cleaning Recipes») — The Beauty Crafts GB · `hogar/cosmetica-natural-recetas` · 2026-11-16 · sesión EN
+- **Qué es:** un catálogo de ebooks de recetas para hacer en casa: cremas, mantecas, aceites, mascarillas, cuidado del pelo y limpiadores caseros («Masks, Oils & Serums, Made at Home», «Know Exactly What's in Your Hair Care», «Make Your Own Cleaners for Pennies»). También vende una versión ampliada («Your Recipe Binder, Twice as Thick»). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **≥35/50 visibles en GB** (73 estimados, así que es un piso) · ad más viejo de **85 días** (23-08) · 9 tandas, la última el 10-11 · «Masks, Oils & Serums» duplicado ×10 en la tanda de agosto, todos vivos · marca sin persona, cobra en EUR.
+- **Qué hacer:** modelarlo en español: «+400 recetas de cosmética natural y limpieza casera», PDF con ángulo de ahorro y de saber qué tiene cada frasco · destino sugerido **ES** y después AR · la ventana se está abriendo: en AR/ES aparecieron esta semana clones de 0-2 días que todavía no prueban nada (Valentina Ríos «Más de 450 recetas», La botánica de Angélica, Cosmética Viva).
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=889621137558075&search_type=page&media_type=all) · más duplicado: [Masks, 85 d](https://www.facebook.com/ads/library/?id=3395406710646090) · [452 recetas](https://www.facebook.com/ads/library/?id=1769783510801226) · clon en español: [Valentina Ríos](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1427649773768661&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el precio, si es PDF y si la versión ampliada es un bump.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Patrones PDF de quilt sueltos (jelly roll, retazos, caminos de mesa navideños) — Pattern Quilt Studio US · `manualidades/patrones-costura-pdf/quilting` · 2026-11-16 · sesión EN
+- **Qué es:** una tienda de patrones de quilt en PDF, uno por anuncio: «Jelly Roll Ready. Christmas Confetti Magic», «Your Blue Scraps Are Hiding 16 Stars», caminos de mesa y posavelas navideños, «Sew Her First Quilt». Cada patrón promete aprovechar telas que ya tenés (jelly roll, retazos, cuadrados de 10"). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **32/44 en US** (conteo completo) · ad más viejo de **75 días** (02-09), todavía vivo · ~26 fechas de creación, una tanda nueva cada 2-4 días · tienda sin persona.
+- **Qué hacer:** modelar «patrones de patchwork en PDF con tus retazos»: patrón suelto barato + bundle navideño · destino sugerido **ES** (el patchwork tiene comunidad en España; en AR/ES, `patrones patchwork` no trae ningún vendedor de PDF: hueco), después AR · ángulo: «tus retazos ya son un quilt».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1218499961347502&search_type=page&media_type=all) · más viejo: [Jelly Roll, 75 d](https://www.facebook.com/ads/library/?id=1083476340838961) · [PDF Pattern](https://www.facebook.com/ads/library/?id=1791092502096531)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el precio por patrón y si hay bundle.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (2026-11-16)**
+- Presence College (553429274518110): 37/48 en GB (68 días), pero vende «Certified Christian Counselor» con «Black Friday 80 % off». Parece una certificación o un curso: verificar en la PC el formato y el precio.
+- Nonna Sweets (1519806301205219): postres sin azúcar, 30/47 en GB y ≥24 en US, pero el ad más viejo tiene solo 10 días y la página es una persona de fachada («Nonna»). Re-medir el 2026-11-23.
+- The art of tarot (1395155533680469): guía para leer tarot sin memorizar, ≥28 en cohorte de 96 estimados en GB, con 13 días. Re-medir el 2026-11-23.
+- Click Agency (1338981272625517): «kit de inicio en Mac» a $19,90, 14/15 en GB (32 días, 4 fechas, BRL). Pasa el volumen, pero la oferta es dudosa (puede ser un curso). Verificar en la PC.
+- Laura Puentes (114969284838255): «65 Gourmet Popcorn Recipes That Sell», 19 a 28 en cohorte de 38 en US (23 días). La página tiene nombre de persona.
+- SigmaSmart.en (1240702875795368): 31/47 en US, pero reparte el volumen entre muchos SKU de «sistemas de negocio». No es una sola oferta.
+- La red «Illustrated + 2 free books» sigue sumando páginas (Diagram Books 305 estimados, Learning Fast 142, Visualia Books), todas con cohorte 0.
+
 EN 2026-11-15 (tarde): nada que pase la vara; domingo de lint, re-chequeo del de la mañana sin cambios (próximo B: `musica/teoria-workbooks`).
 
 EN 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 22 tarjetas EN pendientes de revisión y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-en-lint-cola.md`).
