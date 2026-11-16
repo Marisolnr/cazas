@@ -70,3 +70,4 @@
 ## [2026-11-16] caza-auto | BR perforar escrita-criativa/estruturas-narrativas (tarde) → 1 candidatos a bandeja
 ## [2026-11-16] caza-auto | EN perforar musica/teoria-workbooks (tarde) → 2 candidatos a bandeja
 ## [2026-11-16] caza-auto | EU — sin prompts/eu.md, no corrió
+## [2026-11-16] caza-auto | ES perforar tecnologia/electronica-programacion-pdf (tarde) → 1 candidatos a bandeja

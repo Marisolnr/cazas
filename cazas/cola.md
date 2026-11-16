@@ -244,7 +244,13 @@ los nichos que emergen.
 | esoterismo/grimorio-brujeria/astrologia-numerologia | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | Aprende Astrología AR 32/39 · ES 20/37 (informes personalizados: ¿servicio?) → 2026-11-16 ES 37/38, AR 32/39 (tarjeta C operadores); Holística y Energías AR 10/11 en 2 ofertas; Caja del Terapeuta numerología cohorte oculta (re-medir 2026-11-21) |
 | esoterismo/grimorio-brujeria/limpieza-cristales | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | cristales en PDF casi no existen; limpieza = terapeutas por WA; Ángeles en tu camino MX 9/12 (17 d); Academia R.V megapack baños 3/20 |
 | esoterismo/grimorio-brujeria/manifestacion | esoterismo/grimorio-brujeria | ES | superficial | 4 kw · 2026-11-14 | cohorte 0 en todo (Mariano Benitez «Método 369» 0/7, persona multinicho); `ley de atracción PDF` = empleo |
-| tecnologia/electronica-programacion-pdf | tecnologia | ES | virgen | 1 huella (`cuadernillo PDF`) · 2026-11-13 | apareció por huella el 2026-11-13: Macro Aula 5/20 (ESP32, Arduino, PLC, Scratch); El rincón educativo (ejercicios resueltos ingeniería); sin cohorte de 10, seguir |
+| tecnologia/electronica-programacion-pdf | tecnologia | ES | profundo | 6 subnichos × 5 kw (30) + ALL en 1 + ~40 páginas contadas · 2026-11-16 (tarde) | perforado el 2026-11-16 (tarde): 1 tarjeta (Mapaclpladder, PLC/ladder en mapas visuales); hijos abajo |
+| tecnologia/electronica-programacion-pdf/automatizacion-plc-industrial | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | Mapaclpladder ES 25/50 piso (53 est.), 27,8 d, tarjeta; CMDigital, Formula dg, Macro Aula y Aprendia con PLC de < 7 d: re-medir 2026-11-23 |
+| tecnologia/electronica-programacion-pdf/arduino-esp32-maker | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | Macro Aula 9-10/57 (ESP32 + Scratch); Arduino todo posterior al 10-11 (Gabriela Ferreiraa, Profes Tecnomaketers); Eureka Aprende ESP32 2 en cohorte; re-medir 2026-11-19 |
+| tecnologia/electronica-programacion-pdf/electricidad-domiciliaria | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | ola AR/PE de «manual de comandos / tableros» con ≤ 6 d (Método Tablerista 0/18, Manual del Electricista Residencial 0/6, Impulso Digital IA S/ 10); Shopi Store BO 12/12 (4 confirmados); re-medir 2026-11-23 |
+| tecnologia/electronica-programacion-pdf/reparacion-celulares-electronica | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | academias y servicios técnicos; Comunidad Reparando 40/50 es membresía mensual; Clínica de Consolas CO 4/4 a 405 d; Eductronix PE multinicho 7/36 |
+| tecnologia/electronica-programacion-pdf/robotica-programacion-docentes | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw + ALL en 1 · 2026-11-16 | `fichas Scratch` = hueco; Macro Aula Scratch Cuadernillo 6 en cohorte; Formacion digital robótica 1 ad; resto < 1 semana |
+| tecnologia/electronica-programacion-pdf/ejercicios-resueltos-ingenieria | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | solo multinicho (Aprendia, CMDigital); El rincón educativo 1/5; Digital Perú 6/7 producto invisible (abrir snapshot) |
 
 ---
 
@@ -253,6 +259,7 @@ los nichos que emergen.
 Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | Keyword / patrón | Por qué falla | Qué usar |
+| `formulario electrónica` / `diagramas eléctricos` / `esquemas eléctricos` / `electricidad domiciliaria` / `reparación de televisores` / `reparación de placas` / `fichas Scratch` (ES) | ERPs y señales de bolsa / automotriz y scanners / institutos presenciales AR-BO con cupos / servicios técnicos locales / tragamonedas | `manual PLC`, `automatización industrial PDF`, `manual del electricista`, `Arduino PDF` |
 |---|---|---|
 | `circle of fifths` · `read sheet music` · `music lesson plans` · `sight reading workbook` (EN) | no hace AND: novelas, autos y short-dramas; `sight reading` trae fonética infantil (2026-11-16) | `music theory pdf`, `chord chart pdf`, `fingerstyle tab`, `music teacher printable` |
 | `book` `novel` `read` (EN) | short-dramas (cientos de miles de resultados) | entregable + tema |
@@ -414,6 +421,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Aprendia : Guias profesionales | 1319574141233447 | MX | tarjeta ES del 2026-11-11: packs de 50 fichas por oficio, MX 38/50 (63 est.), AR/ES 0; la única de la red que deja correr ganadores |
 | Derecho en Mapas | 1356269490904663 | CO | tarjeta ES del 2026-11-11: mapas de Derecho Penal/Administrativo, CO 10/34, operador BR; hermana Mapas del Derecho 1404914672699239 |
 | IA Programas | 809461785581622 | MX | 16/22 el 2026-11-11 con títulos vacíos: ver qué vende |
+| Mapaclpladder | 1253942927808210 | ES · AR · MX · CO | tarjeta ES del 2026-11-16 (tarde): PLC y Ladder en +200 mapas visuales, ES 25/50 piso, 27,8 d, USD; abre versión en inglés el 15-11; re-medir 2026-11-23 |
+| Macro Aula | 1216430771552642 | MX · hispano | línea de PDF tech (Scratch, ESP32, Arduino, PLC, Wi-Fi), 9-10/57 el 2026-11-16; re-medir 2026-11-19 |
 | Mapa Concursos | 113788658419021 | BR | tarjeta BR del 2026-11-10 tarde (+120 mapas mentais de enfermagem, 39/50); ver si «Receba Agora» es otro pack |
 | 123passei | 109322741722198 | BR | tarjeta BR del 2026-11-10 tarde («Protocolo» por concurso R$27,90, 18/34, 162 d) |
 | Trilha do Estudo | 641390105728644 | BR | ≥40/50 el 2026-11-10; apostila + app de preguntas: ¿PDF o suscripción? |
@@ -505,7 +514,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | en curso | en curso | en curso |
+| 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | 6 subnichos × 5 kw nativas (30) + ALL en 1 cero; ~40 páginas contadas (3 subagentes de lectura + re-conteo propio ES/AR) | 1 tarjeta (Mapaclpladder), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-16 18:38 | EN | B perforar (tarde) | musica/teoria-workbooks | 6 subnichos, 31 kw US/GB + ALL en 1 + 5 controles AR/ES; ~20 páginas contadas (4 subagentes de lectura + re-conteo propio) | 2 tarjetas (Fingerstyleguitarschool, Kubistra Music), 6 señales | profundo, con 6 hijos superficial; 1 fila de trampas |
 | 2026-11-16 18:35 | BR | B perforar (tarde) | escrita-criativa/estruturas-narrativas | 6 subnichos × 5 kw BR (30) + ALL en 1 cero + 3 controles AR/ES/MX/CO; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio) | 1 tarjeta (Diagramação Express), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-16 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 16-18/11 + operadores con tarjeta) | ~33 páginas × país (~60 consultas `page_ids` + país) + 7 búsquedas `search_terms`; 3 subagentes de lectura | 1 tarjeta (Aprende Astrología), 11 señales | sin cambios de estado; 6 operadores nuevos a seguir; 2 trampas nuevas |
