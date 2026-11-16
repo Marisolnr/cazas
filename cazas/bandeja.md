@@ -335,6 +335,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Kit Radiestesia na Prática · 60 gráficos em PDF» — Essência viva BR · `esoterismo/radiestesia-mapas` · 2026-11-16 · sesión BR
+- **Qué es:** un kit de 60 gráficos de radiestesia en PDF para imprimir y usar con el péndulo en las sesiones, a **R$27**. Hay una versión mayor, «Kit Atendimento Completo», a R$47, y hoy empezó a probar un SKU nuevo («Mesa de Reconexão com Vidas Passadas · método em PDF»). El público es la terapeuta que ya tiene el péndulo y no tiene el material.
+- **Por qué es ganador:** cohorte 7+/activos **13/38 en BR** (vistos los 38, sin tope). Tiene 3 ads de **40,7 días** (06-10) con el título «⭐⭐⭐⭐⭐ 4.83/5», 8 ads de 20 días (27-10) y tandas nuevas todos los días entre el 12 y el 15-11: 8 fechas y el operador vivo. Es una página de marca, sin cara en el nombre, y un solo operador. Los ángulos que sobreviven son «Imprima hoje. Atenda amanhã.» y «Você já tem o pêndulo. Falta o material.».
+- **Qué hacer:** modelar «carpeta de gráficos de radiestesia para tus sesiones» en PDF a USD 7-9, con un upsell de «kit de atención completo» (fichas de consultante, informe para la clienta). Destino sugerido **ES**, después AR. Ojo, la ventana se está cerrando: el mismo operador ya corre «Kit Radiestesia en la Práctica» en español (7 ads en el hispano con ALL), y esta semana aparecieron testers de 1-2 días (EnergiaAfla, Código de Luz, FIT Planner). Esto encaja con el ángulo que la tarjeta ES de Regarte (14-11) dejó propuesto: péndulo más tablas imprimibles.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1436395682884516&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ES&view_all_page_id=1436395682884516&search_type=page&media_type=all) · creativos más viejos: [40 d](https://www.facebook.com/ads/library/?id=1382484153619420) · [20 d «Você já tem o pêndulo»](https://www.facebook.com/ads/library/?id=1134012069159171)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC que el checkout cobre R$27 por un PDF y qué trae el kit de R$47.
+- Score 1/4 (duplicación por título; el hueco hispano ya tiene testers) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Mesas & Gráficos 2026» (ebook de mesas radiónicas y gráficos) — Sama Terapias BR · `esoterismo/radiestesia-mapas` · 2026-11-16 · sesión BR
+- **Qué es:** un ebook o pack de mesas radiónicas y gráficos para terapeutas holísticos. Ahora corre la versión de Black Friday («Mesas & Gráficos 2026»). La misma página vende también algo con inscripción («Clique em saiba mais e inscreva-se!»), que puede ser un curso. El precio no se ve (BRL).
+- **Por qué es ganador:** volumen y longevidad: **37 en cohorte de 50 devueltos (piso; 58 estimados) en BR**. Por título, la cohorte se reparte así: «Oferta por tempo limitado» 25 (20 de la tanda del 08-11 y 5 de **79 días**), «garanta seu ebook» 5 (52-77 días) y «inscreva-se» 7 (hasta **79,5 días**). Hay unas 11 fechas y el operador está vivo. Es una página de marca, sin nombre de persona, y un solo operador.
+- **Qué hacer:** si en la PC se confirma que la oferta grande es el ebook, modelar «mesas radiónicas listas para imprimir + manual de activación» en PDF a USD 9-12. Destino sugerido **ES**, después AR. En el hispano Sama no corre (0 con ALL) y en `mesa radiónica` solo hay un operador con algo de cohorte (Ámate Conscientemente, mesa + manual, 9-25 días); el resto son centros y cursos.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=370972230119772&search_type=page&media_type=all) · creativos más viejos: [79 d (oferta)](https://www.facebook.com/ads/library/?id=1060627956611446) · [77 d (ebook)](https://www.facebook.com/ads/library/?id=2076195966316912)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** ver qué vende «Oferta por tempo limitado», el precio, si «inscreva-se» es un curso en vivo (eso no se trae) y que no haya una terapeuta con cara en los creativos.
+- Score 2/4 (longevidad 45+, hueco hispano) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La cohorte es un piso: la API corta en 50.
+
+**Señales del día BR (2026-11-16)**
+- Fe Alves (105784057830847): ≥34 en cohorte con la sonda «Grimório» (79 d, 216 activos est.), pero el nombre es de persona y mezcla el «Grimório Proibido» R$39,90 con amarres y pareja («Doce Obsessão», «Método Anti-Separação»): no va como tarjeta.
+- Caixa do Terapeuta (469875186209972): ≥23/≥50 (82 est.), «+200 Ferramentas Práticas» para terapeutas y «Sistema de Numerologia Automática»; ese sistema corre además en 3 páginas nuevas sin cohorte (Reescrevendo seu Caminho, Coleção Terapêutica Premium, la versión en español): re-medir 2026-11-23.
+- Guia do Tarot (1280118968507279) 17/17 a 114 d y Mapa Astral (689639197570424) 10/10 a 108 d, pero ninguno con ads en 30 días: posibles zombis.
+- Radiestesia Terapêutica (100428381926033): lanzamiento «Pendulado Friday» el 18-11 con 273 activos est., todos nuevos; re-medir 2026-11-25.
+- Mirra Mattos (1264875876874665) 21/27 a 182 d con «Tarot do zero R$49»: marca personal (Tarot Livre®), no se trae.
+- Campo Vibracional sigue sin cohorte (0/≥50, ningún ad de más de 6 días): re-medir 2026-11-21 sigue en pie.
+
 BR 2026-11-15 (tarde): domingo de lint, nada que pase la vara; no se barrió nada (re-chequeo del lint de la mañana, sin cambios).
 
 BR 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 19 tarjetas BR pendientes de revisión y 8 operadores que solo se pueden verificar en la PC (lista en `RAW/cazas-auto/2026-11-15-br-lint-cola.md`).
