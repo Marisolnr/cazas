@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Pack de tablaturas navideñas para guitarra fingerstyle («120 Christmas Guitar Tabs — Just $27») — Fingerstyleguitarschool US/GB · `musica/teoria-workbooks/guitarra` · 2026-11-16 (tarde) · sesión EN
+- **Qué es:** un pack de más de 100 tablaturas navideñas para guitarra con los dedos. Son 34 canciones, cada una en tres versiones (completa, fácil y muy fácil). Se descarga al instante en PDF y en Guitar Pro. Se anuncia a $27 con «95 % off». Al lado corre un «Fingerstyle Guitar Starter Kit», que sirve todo el año.
+- **Por qué es ganador:** cohorte 7+/activos **33/33 en US y en GB** (conteo completo) · ad más viejo de **44 días** (03-10) · 7 tandas, la última el 09-11 · «Christmas Fingerstyle Tabs – 95 % Off» aparece duplicado 19 veces dentro de la cohorte · página-escuela sin persona en los títulos, cobra en GBP.
+- **Qué hacer:** modelarlo en español como «+100 villancicos y clásicos navideños para guitarra, en tres niveles, PDF al instante». Destino sugerido **AR** (con versión de rock nacional para las fiestas) y después ES. Es estacional: hay que lanzarlo antes del 01-12. La ventana se está abriendo: `villancicos guitarra` da 0 activos en AR y en ES, pero Escuela Fingerstyle (AR) lanzó el 14-11 un «kit completo para tocar con los dedos» (2 días).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=109749731564018&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=109749731564018&search_type=page&media_type=all) · más duplicado: [95 % Off, 06-10](https://www.facebook.com/ads/library/?id=1183464130867568) · [oferta completa $27](https://www.facebook.com/ads/library/?id=2104055546893821) · clon en AR: [Escuela Fingerstyle](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1374902015716886&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL). Verificar en la PC el precio real (en el copy dice $27) y si el «95 % off» lleva a un upsell.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Pack de licks de jazz a $37 («Authentic Jazz Licks for $37 Only») — Kubistra Music US · `musica/teoria-workbooks/teoria-armonia` · 2026-11-16 (tarde) · sesión EN
+- **Qué es:** un pack de frases de jazz para sonar «como un profesional» al instante, a $37. No se ve si es un PDF de tablaturas con audio o un video.
+- **Por qué es ganador:** cohorte 7+/activos **24/24 en US** (conteo completo, todo lo activo tiene más de 7 días) · ad más viejo de **75 días** (02-09) · 7 tandas, la última el 07-11 · «Authentic Jazz Licks for $37» aparece duplicado 13 veces · página-marca sin persona, cobra en USD.
+- **Qué hacer:** modelarlo en español como «100 licks de jazz (y bossa) en tablatura con audio», en PDF. Destino sugerido **ES**: el público de jazz en AR es chico. No hay oferta hispana a la vista y la página no corre en AR ni en ES. Es un nicho angosto: sirve como producto secundario de una tienda de música, no como apuesta principal.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=104428361665998&search_type=page&media_type=all) · más duplicado: [$37, 02-09](https://www.facebook.com/ads/library/?id=3978295202476208) · [tanda nueva 07-11](https://www.facebook.com/ads/library/?id=993254947187184)
+- **Landing:** embudo no verificado desde la nube. Verificar en la PC el formato (PDF o video) y que no haya una marca personal detrás.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-16)**
+- Acordes en Claro (1205940002609789): es la ballena del nicho, con unos 80 ads distintos en cohorte en US («226 pages, 92 exercises with answers», teoría musical por instrumento en PDF, desde el 16-10). Pero es un operador hispano que ya corre en AR (44/50) y en ES (50/50, 215 estimados): el destino lo tiene ocupado el mismo dueño.
+- Música Sin Vueltas (1276982315507030): «Piano/Guitar Without Detours», PDF de 206-228 páginas, con 33 a 64 ads en cohorte en US. En AR ya tiene 496 activos estimados: destino ocupado. Comparte un título con Acordes en Claro, así que puede ser el mismo operador.
+- Music Solved (1465563836630767): método «System 365» por instrumento, ≥15/144 en US, pero los 15 salen de una sola tanda (08-11). Re-medir el 2026-11-23.
+- The Keys Coach (1114084528459556): piano por acordes para adultos, 13/18 en US/GB (desde el 27-06). El formato no se ve y la página dice «coach». Verificar en la PC.
+- Guitarra Facil (AR, 1394654520402362): cancionero PDF «100 clásicos del rock nacional», ≥22 en cohorte. Es la prueba de que en AR se venden PDFs de guitarra (le toca a la sesión ES).
+- Violín en PDF es un cementerio en US/GB: nada activo, pero con ALL aparecen ads de hasta junio.
+
 ### 🎯 Ebooks de recetas de cosmética natural casera («452 DIY Body Care Recipes», «155 Cleaning Recipes») — The Beauty Crafts GB · `hogar/cosmetica-natural-recetas` · 2026-11-16 · sesión EN
 - **Qué es:** un catálogo de ebooks de recetas para hacer en casa: cremas, mantecas, aceites, mascarillas, cuidado del pelo y limpiadores caseros («Masks, Oils & Serums, Made at Home», «Know Exactly What's in Your Hair Care», «Make Your Own Cleaners for Pennies»). También vende una versión ampliada («Your Recipe Binder, Twice as Thick»). Precio sin ver.
 - **Por qué es ganador:** cohorte 7+/activos **≥35/50 visibles en GB** (73 estimados, así que es un piso) · ad más viejo de **85 días** (23-08) · 9 tandas, la última el 10-11 · «Masks, Oils & Serums» duplicado ×10 en la tanda de agosto, todos vivos · marca sin persona, cobra en EUR.

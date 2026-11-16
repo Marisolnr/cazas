@@ -65,7 +65,13 @@ los nichos que emergen.
 | pareja/reconquista-matrimonio/infidelidad-confianza | pareja/reconquista-matrimonio | EN | superficial | 4 kw + ALL · 2026-11-10 | Sarah Couples Therapist 6/10 ($9.97, persona); Michelle Mays 17/17 es autora; LanternGo workbook 2/3 |
 | pareja/reconquista-matrimonio/ruptura-ex | pareja/reconquista-matrimonio | EN | superficial | 4 kw + ALL · 2026-11-10 | con ALL es spam; lo real es INR (Calm sphere 16/16 de agosto, posible zombi) |
 | pareja/reconquista-matrimonio/workbooks-conexion | pareja/reconquista-matrimonio | EN | superficial | 6 kw · 2026-11-10 | fábricas «90% off» que rotan cada semana (Printable WITH Lisa 0/31, Heal & Focus 0/46); Donna Whitfield 553 est. con cohorte oculta: re-medir 2026-11-17 |
-| musica/teoria-workbooks | musica | EN | virgen | 2 kw US/GB · 2026-11-09 | apareció por huella el 2026-11-09 (Acordes en Claro est. 586, Music Solved, Daniel Brooks): volumen sin cohorte visible por API; re-medir desde 2026-11-16 |
+| musica/teoria-workbooks | musica | EN | profundo | 31 kw US/GB + ALL en 1 + 5 controles AR/ES · 2026-11-16 | perforado el 2026-11-16 tarde: 6 hijos superficial; 2 tarjetas (Fingerstyleguitarschool 33/33, Kubistra Music 24/24); Acordes en Claro y Música Sin Vueltas = whales hispanos con el destino AR/ES ya ocupado |
+| musica/teoria-workbooks/teoria-armonia | musica/teoria-workbooks | EN | superficial | 6 kw US/GB · 2026-11-16 | Kubistra Music 24/24 US (75 d, jazz licks $37, tarjeta); Acordes en Claro ~80 en cohorte (ya en AR 44/50 y ES 50/50); Do Re Play clon de 3 d; `circle of fifths` = ruido |
+| musica/teoria-workbooks/piano | musica/teoria-workbooks | EN | superficial | 5 kw US/GB · 2026-11-16 | Música Sin Vueltas 33-64 en cohorte (AR est. 496: destino ocupado); The Keys Coach 13/18 (¿coach?, verificar); Fabrice Breuss 50/50 = persona |
+| musica/teoria-workbooks/guitarra | musica/teoria-workbooks | EN | superficial | 5 kw US/GB + 3 controles AR/ES (`tablaturas guitarra`, `villancicos guitarra`, `fingerstyle guitarra`) · 2026-11-16 | Fingerstyleguitarschool 33/33 US·GB (44 d, tabs navideñas $27, tarjeta); musiciangoods = físico; AR: Escuela Fingerstyle clon de 2 d (re-medir 2026-11-21), Guitarra Facil ≥22 |
+| musica/teoria-workbooks/otros-instrumentos-canto | musica/teoria-workbooks | EN | superficial | 5 kw US/GB + ALL en 1 · 2026-11-16 | ukelele y bajo = Acordes en Claro; canto y batería = hueco; violín = cementerio (ALL 13/15) |
+| musica/teoria-workbooks/lectura-partitura | musica/teoria-workbooks | EN | superficial | 5 kw US/GB · 2026-11-16 | Music Solved ≥15/144 de una sola tanda (re-medir 2026-11-23); `sight reading workbook` y `read sheet music` = trampas |
+| musica/teoria-workbooks/docentes-ninos | musica/teoria-workbooks | EN | superficial | 5 kw US/GB · 2026-11-16 | Charles Whitmore 0/250 (fábrica de currículas < 7 d), Jennifer Mitchell PhD (persona); nadie con 10+ |
 | manualidades/patrones-costura-pdf | manualidades | EN | profundo | 25 kw US/GB (7 subnichos) + ~20 páginas contadas; sin control AR/ES · 2026-11-10 tarde | perforado el 2026-11-10 (tarde): 2 tarjetas (Knitting Art Studio, The Crochet Nook); modo C sobre los operadores |
 | manualidades/patrones-costura-pdf/mascotas | manualidades/patrones-costura-pdf | EN | superficial | 2 kw · 2026-11-10 | Knitting Art Studio 40/50 US (10 en la oferta de $27), tarjeta; Wag & Stitch 0/15 ($21, cruza 7 d el 11-11), PawPattern nuevo; `dog clothes pattern` = short-drama |
 | manualidades/patrones-costura-pdf/tejido-crochet | manualidades/patrones-costura-pdf | EN | superficial | 4 kw · 2026-11-10 | Crochet Nook 44/50 GB (tarjeta); Knitting Memories 23/27 (92 d, SKU sueltos); Sarah Mitchell 14/44 GB; Patterns Zone 12; All Knittings y Knitter's Treasure Chest con cohorte oculta: re-medir 2026-11-17 |
@@ -248,6 +254,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | Keyword / patrón | Por qué falla | Qué usar |
 |---|---|---|
+| `circle of fifths` · `read sheet music` · `music lesson plans` · `sight reading workbook` (EN) | no hace AND: novelas, autos y short-dramas; `sight reading` trae fonética infantil (2026-11-16) | `music theory pdf`, `chord chart pdf`, `fingerstyle tab`, `music teacher printable` |
 | `book` `novel` `read` (EN) | short-dramas (cientos de miles de resultados) | entregable + tema |
 | `Google Sheets` / `sheets` | short-dramas | pares: `spreadsheet template`, `planilha controle` |
 | keywords idénticas en ES/IT/PT (`farmacologia`, `peptide`, `dietoterapia`) | el mercado parece 3-8× más grande | la palabra que **no** se comparte; leer el idioma de cada creativo |
@@ -356,6 +363,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
+| Fingerstyleguitarschool | 109749731564018 | US · GB | tabs navideñas fingerstyle $27, 33/33 (tarjeta 2026-11-16 tarde); ¿sigue después de navidad con el starter kit? re-medir 2026-11-23 |
+| Escuela Fingerstyle | 1374902015716886 | AR | clon hispano de 2 d (14-11) del kit fingerstyle; si sobrevive, la ventana AR se cierra: re-medir 2026-11-21 |
+| Acordes en Claro | 1205940002609789 | US · GB · AR · ES | whale hispano de teoría musical en PDF (~80 en cohorte US, 44 AR, 50 ES); mirar SKUs nuevos por instrumento, quincenal |
 | Tienda de Hechizos | 100963788488774 | MX | rituales/hechizos digitales MXN, 20/50 piso a 16,6 d (tarjeta 2026-11-14 tarde); ¿salta a AR/ES? ¿sobrevive la tanda de fin de año? re-medir 2026-11-21 |
 | Regarte | 1342388312284290 | AR · MX · ES | «Aprendé a usar tu péndulo en 7 días», ≥29/50 AR con tanda diaria (tarjeta 2026-11-14 tarde); ¿segundo SKU? re-medir 2026-11-21 |
 | Aprende Astrología | 446279405782137 | AR · ES | informes astrológicos 32/39 AR a 57 d; tarjeta ES del 2026-11-16 (ES 37/38, AR 32/39, 61 d); verificar en la PC si el informe es automático (producto) o servicio |
@@ -496,7 +506,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | en curso | en curso | en curso |
-| 2026-11-16 18:38 | EN | B perforar (tarde) | musica/teoria-workbooks | en curso | en curso | en curso |
+| 2026-11-16 18:38 | EN | B perforar (tarde) | musica/teoria-workbooks | 6 subnichos, 31 kw US/GB + ALL en 1 + 5 controles AR/ES; ~20 páginas contadas (4 subagentes de lectura + re-conteo propio) | 2 tarjetas (Fingerstyleguitarschool, Kubistra Music), 6 señales | profundo, con 6 hijos superficial; 1 fila de trampas |
 | 2026-11-16 18:35 | BR | B perforar (tarde) | escrita-criativa/estruturas-narrativas | 6 subnichos × 5 kw BR (30) + ALL en 1 cero + 3 controles AR/ES/MX/CO; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio) | 1 tarjeta (Diagramação Express), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-16 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 16-18/11 + operadores con tarjeta) | ~33 páginas × país (~60 consultas `page_ids` + país) + 7 búsquedas `search_terms`; 3 subagentes de lectura | 1 tarjeta (Aprende Astrología), 11 señales | sin cambios de estado; 6 operadores nuevos a seguir; 2 trampas nuevas |
 | 2026-11-16 06:38 | EN | A huella (mañana) | — (huella, US GB) | 15 huellas × US/GB (30, distintas de las del 09-11 y 12-11) + 2 controles AR/ES; ~25 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (The Beauty Crafts, Pattern Quilt Studio), 7 señales | 3 nodos nuevos (1 superficial, 2 virgen); quilting actualizado; 3 operadores a seguir; 1 fila de trampas |

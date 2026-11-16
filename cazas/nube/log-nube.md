@@ -17,3 +17,4 @@
 - 2026-11-14 18:38 EN (tarde): HEAD desacoplado otra vez al arrancar (main local viejo, del 10-11); el push «en curso» se rechazó 3 veces y se arregló con `git branch -f main HEAD && git checkout main`.
 - 2026-11-15 18:37 EN (tarde): HEAD desacoplado al arrancar (otra vez); el push «en curso» se rechazó 3 veces y se arregló con `git checkout -B main <commit propio>` + push normal. Patrón recurrente: el clon de la nube arranca en HEAD desprendido.
 - 2026-11-15 18:40 ES (tarde): el clon arrancó con HEAD desprendido tras «forced update» de origin/main; resuelto con `git checkout -B main` antes del primer commit, sin force.
+- 2026-11-16 18:38 EN (tarde): HEAD desacoplado al arrancar (main local viejo, e622a61 del 10-11); el push «en curso» se rechazó 3 veces y se arregló con `git branch -f main HEAD && git checkout main` + push normal. Sigue recurriendo.
