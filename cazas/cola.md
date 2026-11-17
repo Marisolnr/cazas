@@ -534,6 +534,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-17 07:10 | EU | A huella (mañana; toca B pero no hay nodo EU en la cola → A) | — (huella, IT FR DE PT) | en curso | en curso | en curso |
 | 2026-11-17 06:42 | ES | A huella (mañana) | — (huella, hispano) | 20 huellas ES × 9 países (distintas de las del 09, 10 y 13-11); ~35 páginas contadas con `page_ids` + país (5 subagentes de lectura + re-conteo propio) | 0 tarjetas, 6 señales (Colección Digital Plus 11/26 con la oferta invisible) | sin nodos nuevos; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:40 | EN | B perforar (mañana) | recetas/postres-sin-azucar | 6 subnichos, 30 kw US/GB (60 consultas) + ALL en 2 ceros + 2 controles AR/ES; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Elisabeth.says + Nonna Sweets, Relief On Every Plate), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:36 | BR | C operadores (mañana) | — (operadores BR) | 48 page_ids (BR; TI em Mapas y Essência viva también AR/ES/MX) + 5 sondas + 2 controles hispanos; 3 subagentes de lectura | 2 tarjetas (Trilha do Estudo, Caixa do Terapeuta), 10 señales | sin cambios de estado; 1 operador nuevo a seguir (Opo Lumio, ES) |
