@@ -4,7 +4,7 @@ Lista de Marisol (2026-11-16, actualizada el 2026-11-17: entran Alemania y Reino
 lista**: los que tengan hueco (0-3 jugadores débiles, confirmado con `ALL`) y donde la oferta se pueda adaptar.
 Los países cuna donde se caza son **EE.UU., Brasil, Reino Unido, Colombia y España** (sesiones EN, BR y ES; EU pausada).
 
-**Nunca son destino:** Estados Unidos, Brasil, Rusia y España (España es solo fuente, decisión de Marisol 2026-11-14, ratificada el 2026-11-17). Se pueden cazar como fuente, pero el veredicto no los nombra.
+**Nunca son destino:** Estados Unidos, Brasil, Rusia, China (Meta bloqueado; sacada por Marisol el 2026-11-17) y España (España es solo fuente, decisión de Marisol 2026-11-14, ratificada el 2026-11-17). Se pueden cazar como fuente, pero el veredicto no los nombra.
 
 **Validados hoy (preferidos, con checkout probado):** Rumania, Italia, Portugal, Grecia, Hungría, Suiza, Sudáfrica,
 México, Irlanda, Canadá, Australia, Nueva Zelanda, Bulgaria, Turquía, Moldavia, Israel, Ucrania, Francia,
@@ -12,7 +12,7 @@ Eslovaquia, Chequia, Suecia, Noruega, Países Bajos, Bélgica, Croacia, Luxembur
 
 **Lista completa de destinos posibles:**
 
-India · China · Indonesia · Pakistán · Nigeria · Bangladesh · Etiopía · México · Japón · Egipto · Filipinas · RD Congo ·
+India · Indonesia · Pakistán · Nigeria · Bangladesh · Etiopía · México · Japón · Egipto · Filipinas · RD Congo ·
 Vietnam · Irán · Turquía · Alemania · Tanzania · Tailandia · Reino Unido · Francia · Sudáfrica · Italia · Kenia · Myanmar · Colombia ·
 Sudán · Uganda · Corea del Sur · Argelia · Irak · Argentina · Afganistán · Yemen · Canadá · Angola ·
 Ucrania · Marruecos · Polonia · Uzbekistán · Mozambique · Malasia · Ghana · Arabia Saudita · Perú · Madagascar ·
