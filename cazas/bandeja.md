@@ -1116,6 +1116,9 @@ ES 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 21 tarjetas
 - Contabilidad hispana: muchos testers (Ediciones Vertice, Aprende Ya, Aldinio Digital, Ebookify, Contabilidad Argentina Paso a Paso) y ninguno con cohorte.
 - Avenlo (1434008009790850): libro ilustrado en PDF + 2 de regalo, 20 activos y ninguno de 7 días; el molde de libros ilustrados de EN ya corre en español.
 
+
+<!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+
 ---
 
 ## Revisiones

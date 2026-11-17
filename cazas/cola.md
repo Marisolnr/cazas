@@ -36,6 +36,12 @@ los nichos que emergen.
 | Nodo | Padre | Mercados | Estado | Cobertura | Próxima acción |
 |---|---|---|---|---|---|
 | neurokids | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| detectives-misterio | — | todas | 🔴 | — | **EXCLUIDO por el dueño (2026-11-16): no se busca, no se perfora, no se agrega como hijo** |
+| juegos-de-mesa | — | todas | 🔴 | — | **EXCLUIDO por el dueño (2026-11-16): no se busca, no se perfora, no se agrega como hijo** |
+| herreria-soldadura | — | todas | 🔴 | — | **EXCLUIDO por el dueño (2026-11-16): no se busca, no se perfora, no se agrega como hijo** |
+| cerrajeria | — | todas | 🔴 | — | **EXCLUIDO por el dueño (2026-11-16): no se busca, no se perfora, no se agrega como hijo** |
+| reparacion-electrodomesticos | — | todas | 🔴 | — | **EXCLUIDO por el dueño (2026-11-16): no se busca, no se perfora, no se agrega como hijo** |
+| aires-acondicionados-refrigeracion | — | todas | 🔴 | — | **EXCLUIDO por el dueño (2026-11-16): no se busca, no se perfora, no se agrega como hijo** |
 | hogar/planner-limpieza | hogar | EN | superficial | 1 kw EN (printable planner) + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Honey Home 15/25 US); perforar por formato (sistema / por habitación / rutinas) |
 | negocios/guias-management-pdf | negocios | EN | superficial | 1 operador contado (Your Consulting Management Guide 41/46 US, 34/38 GB) + 1 control AR/ES · 2026-11-11 | apareció por modo C el 2026-11-11 (tarjeta); perforar por tema (gobierno corporativo / resolución de problemas / procesos / RR. HH.) y contar el control hispano con 4-5 kw |
 | educacion-profesional/contabilidad-workbooks | educacion-profesional | EN | superficial | 1 kw GB (£27 pdf) + 1 control AR/ES · 2026-11-09 | apareció por huella el 2026-11-09 (Practical Accounting Kit 21/31 GB); perforar por avatar (estudiante / pyme / liquidación de sueldos) |
@@ -509,15 +515,15 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 ## Rotación vigente
 
-| Día | EN | BR | ES |
-|---|---|---|---|
-| Lun | A huella | B perforar | C operadores |
-| Mar | B perforar | C operadores | A huella |
-| Mié | C operadores | A huella | B perforar |
-| Jue | A huella | B perforar | C operadores |
-| Vie | B perforar | C operadores | A huella |
-| Sáb | C agenda | A huella | B perforar |
-| Dom | lint de la cola | lint de la cola | lint de la cola |
+| Día | EN | BR | ES | EU |
+|---|---|---|---|---|
+| Lun | A huella | B perforar | C operadores | A huella |
+| Mar | B perforar | C operadores | A huella | B perforar |
+| Mié | C operadores | A huella | B perforar | C operadores |
+| Jue | A huella | B perforar | C operadores | A huella |
+| Vie | B perforar | C operadores | A huella | B perforar |
+| Sáb | C agenda | A huella | B perforar | C agenda |
+| Dom | lint de la cola | lint de la cola | lint de la cola | lint de la cola |
 
 La corrida de la tarde siempre es **B perforar** (`cazas/nube/NUBE.md` §5).
 

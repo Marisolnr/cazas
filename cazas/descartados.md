@@ -13,3 +13,9 @@ cierra el nicho.
 | Anunciante / oferta | page_id | Nicho | Mercado | Motivo | Permanencia | Fecha |
 |---|---|---|---|---|---|---|
 | (nicho entero: neurokids) | — | neurokids | todos | excluido por el dueño en la instalación | 🔴 permanente | 2026-11-08 |
+| (nicho entero: detectives / misterio) | — | detectives-misterio | todos | excluido por el dueño | 🔴 permanente | 2026-11-16 |
+| (nicho entero: juegos de mesa) | — | juegos-de-mesa | todos | excluido por el dueño | 🔴 permanente | 2026-11-16 |
+| (nicho entero: herrería y soldadura) | — | herreria-soldadura | todos | excluido por el dueño | 🔴 permanente | 2026-11-16 |
+| (nicho entero: cerrajería) | — | cerrajeria | todos | excluido por el dueño | 🔴 permanente | 2026-11-16 |
+| (nicho entero: reparación de electrodomésticos) | — | reparacion-electrodomesticos | todos | excluido por el dueño | 🔴 permanente | 2026-11-16 |
+| (nicho entero: aires acondicionados / refrigeración) | — | aires-acondicionados-refrigeracion | todos | excluido por el dueño | 🔴 permanente | 2026-11-16 |
