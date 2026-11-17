@@ -16,11 +16,11 @@ RAW/cazas-auto/     # informe completo de cada corrida
 skills/cazar/       # la skill, dentro del repo porque la nube no tiene ~/.claude/skills
 ```
 
-**Sesiones:** EN barre US y GB como mercado fuente; BR barre Brasil como mercado fuente; ES barre MX, CO, AR, PE, CL, BO, EC, GT y ES como destino y fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
-Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo; y los nichos excluidos por el dueño: neurokids.
+**Sesiones:** EN barre US y GB como mercado fuente; BR barre Brasil como mercado fuente; ES barre MX, CO, AR, PE, CL, BO, EC, GT y ES como mercado fuente; EU barre IT, FR, DE y PT como mercado fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
+Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo; y los nichos excluidos por el dueño: neurokids, detectives-misterio, juegos-de-mesa, herreria-soldadura, cerrajeria, reparacion-electrodomesticos, aires-acondicionados-refrigeracion.
 
 **Reglas de la caza:** (1) un mercado marcado «fuente» se caza para llevar la oferta a otro lado, nunca como
-destino: el veredicto dice a cuál de Argentina y España (AR, ES) se lleva. (2) El **embudo WhatsApp/Messenger es válido**: test
+destino: el veredicto dice a cuál de los países de `cazas/destinos.md` se lleva (nunca US, BR, RU, DE ni GB). (2) El **embudo WhatsApp/Messenger es válido**: test
 del copy, escalera «no evaluable», precio piso, **nunca se le escribe al vendedor**. (3) **El cero no descarta**:
 un nicho se declara DESCARTAR solo con 4-5 keywords nativas, un nivel de subnichos mirado y `ALL`. (4) El descarte
 se registra **por eje × mercado**, no por nicho entero.
