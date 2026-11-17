@@ -514,6 +514,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-17 06:40 | EN | B perforar (mañana) | recetas/postres-sin-azucar | en curso | en curso | en curso |
 | 2026-11-17 06:36 | BR | C operadores (mañana) | — (operadores BR) | en curso | en curso | en curso |
 | 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | 6 subnichos × 5 kw nativas (30) + ALL en 1 cero; ~40 páginas contadas (3 subagentes de lectura + re-conteo propio ES/AR) | 1 tarjeta (Mapaclpladder), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-16 18:38 | EN | B perforar (tarde) | musica/teoria-workbooks | 6 subnichos, 31 kw US/GB + ALL en 1 + 5 controles AR/ES; ~20 páginas contadas (4 subagentes de lectura + re-conteo propio) | 2 tarjetas (Fingerstyleguitarschool, Kubistra Music), 6 señales | profundo, con 6 hijos superficial; 1 fila de trampas |
