@@ -76,3 +76,4 @@
 ## [2026-11-17] caza-auto | EU — sin prompts/eu.md, no corrió
 ## [2026-11-17] caza-auto | EN perforar recetas/postres-sin-azucar → 2 candidatos a bandeja
 ## [2026-11-16] caza | Ajuste desde el masterprompt: sesión EU (IT FR DE PT) nueva, todas las sesiones = fuente, destinos en cazas/destinos.md, 6 nichos excluidos nuevos
+## [2026-11-17] caza-auto | EU huella IT-FR-DE-PT → 2 candidatos a bandeja

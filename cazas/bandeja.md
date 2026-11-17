@@ -1119,6 +1119,33 @@ ES 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 21 tarjetas
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Método de tarot «sin memorizar» — Die Kunst des Tarot DE · `esoterismo/tarot-guias-eu` · 2026-11-17 · sesión EU
+- **Qué es:** un método para leer el tarot sin aprenderse las cartas de memoria («Tarot lesen ohne Auswendiglernen», «Jede Karte mit einem Plan lesen», «Die 16 Hofkarten mit einer Formel»), vendido también como regalo para fans del tarot. En Alemania no se ve el precio. El mismo operador lanzó hoy la versión italiana, La Mappa dei Tarocchi, a 18 € con 6 regalos.
+- **Por qué es ganador:** cohorte 7+/activos **≥12/50 visibles en DE**, de 82 estimados, así que es un piso · ad más viejo visto de 10 días (07-11) · 10 tandas, la última hoy · cada ángulo duplicado ×5 · marca sin persona, cobra en USD. El mismo molde corre en inglés con The art of tarot (≥28/96 en GB el 16-11).
+- **Qué hacer:** modelarlo como mapa o guía visual de las 78 cartas, con una fórmula por palo y figura y un mazo imprimible de regalo. Destino sugerido: **Rumania o Grecia**, porque Italia ya se está cerrando. Ángulo: «leé cualquier carta con un plan, sin memorizar nada».
+- **Ads Library:** [DE](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1401739863026385&search_type=page&media_type=all) · [IT, La Mappa dei Tarocchi](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1504273442761198&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Score 0/4 (④ sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+### 🎯 «A Bíblia do Tricot», más de 2000 modelos — Isabel Martins PT · `manualidades/patrones-tricot-pt` · 2026-11-17 · sesión EU
+- **Qué es:** una colección digital de más de 2000 modelos de tricot (dos agujas), «organizados e prontos a usar». Es un solo producto y el precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **16/27 en PT** (conteo completo) · ad más viejo de **34 días** (14-10) · unas 19 fechas de creación, la última hoy · el mismo título repetido en 26 de 27 ads · la página tiene nombre de persona pero no hay nombre ni cara en los títulos, y cobra en USD (probable operador brasileño apuntando a Portugal).
+- **Qué hacer:** modelarla tal cual como biblioteca PDF de patrones de tricot por categoría (bebé, chalecos, mantas, puntos). Destino sugerido: **Italia o Rumania**. Ángulo: «la biblia del tricot, más de 2000 modelos en un solo lugar».
+- **Ads Library:** [PT](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=PT&view_all_page_id=1431639723356021&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Score 1/4 (③ título duplicado ×16 en la cohorte; ④ sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+**Señales del día EU (2026-11-17)**
+- O Pomar Mês a Mês (1349673428238130): «Poda de Árvores de Fruto Mês a Mês» a 14,90 €, 10/22 en PT con 13 días, página portuguesa en EUR. Pasa la vara pero quedó afuera por el tope de 2. ¿PDF o libro impreso? Verificar en la PC.
+- Prof. Sabrina Maia (1442918862233237): «+200 Atividades de Natal» a 5,90 €, 14/27 en PT, pero creados en solo 2 fechas (posible zombi), con nombre de persona y oferta de temporada.
+- Rachel Bennett (280579905138659): «+500 Kita-Aktivitäten» a 5 € en DE, IT, PT y ES, 6/≥50 de 68 estimados en DE; la cohorte puede estar detrás del tope. Re-medir el 2026-11-24.
+- Elsa Rivière · Pilates et Yoga (1498431200011027): clases listas para dar, para instructores, dentro de una app, 7/12 en FR con 14 días; tiene nombre de persona.
+- La Bible des Patrons (1418428721348749) 5/21 en FR con 18 días (156 patrones imprimibles) y Clara Zuhause (1341978468987935) 4/25 (planner de limpieza en FR e IT). Re-medir el 2026-11-24.
+- Ráfagas con la cohorte oculta detrás del tope: Studio Facile (PDFs ilustrados de oficios, 563 estimados en IT), Mente Accademica (244, BRL) y learndigital.shop (atlas visuales de salud, 102).
+- El molde «guías visuales de software» ya llegó a Europa: Creative Factory con 130 guías de Cricut en IT (3/10, 26 días) y Trenly Group con Inkscape en FR (0/11).
+
 ---
 
 ## Revisiones

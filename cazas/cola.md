@@ -263,6 +263,13 @@ los nichos que emergen.
 | tecnologia/electronica-programacion-pdf/reparacion-celulares-electronica | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | academias y servicios técnicos; Comunidad Reparando 40/50 es membresía mensual; Clínica de Consolas CO 4/4 a 405 d; Eductronix PE multinicho 7/36 |
 | tecnologia/electronica-programacion-pdf/robotica-programacion-docentes | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw + ALL en 1 · 2026-11-16 | `fichas Scratch` = hueco; Macro Aula Scratch Cuadernillo 6 en cohorte; Formacion digital robótica 1 ad; resto < 1 semana |
 | tecnologia/electronica-programacion-pdf/ejercicios-resueltos-ingenieria | tecnologia/electronica-programacion-pdf | ES | superficial | 5 kw · 2026-11-16 | solo multinicho (Aprendia, CMDigital); El rincón educativo 1/5; Digital Perú 6/7 producto invisible (abrir snapshot) |
+| esoterismo/tarot-guias-eu | esoterismo | EU | superficial | 1 kw DE (`ebook pdf`) + 1 IT (`guida pdf`) · 2026-11-17 | apareció por huella el 2026-11-17: Die Kunst des Tarot ≥12/≥50 DE (82 est., tarjeta); La Mappa dei Tarocchi IT 0/6 (mismo operador, nació hoy, 18 €); perforar en FR/IT/PT (`tarot sans mémoriser`, `tarocchi pdf`, `tarot pdf`); hermanos EN `esoterismo/tarot-guias-en`, ES `.../tarot-guias` |
+| manualidades/patrones-tricot-pt | manualidades | EU | superficial | 1 kw PT (`acesso imediato`) · 2026-11-17 | apareció por huella el 2026-11-17: Isabel Martins 16/27 PT (34 d, tarjeta, USD); FR Sylvie Moreau (tricot) sin contar; perforar `modelos tricot`, `tricot pdf`, `modèles tricot`, `schemi maglia` |
+| jardineria/poda-frutales-pt | jardineria | EU | superficial | 1 kw PT (`ebook pdf`) · 2026-11-17 | apareció por huella el 2026-11-17: O Pomar Mês a Mês 10/22 PT (13 d, 14,90 €, EUR); ¿PDF o impreso?; perforar huerta/poda/injerto en PT/IT/FR |
+| educacion/actividades-imprimibles-eu | educacion | EU | virgen | 2 kw (`anleitung pdf` DE, `moldes pdf` PT) · 2026-11-17 | apareció por huella el 2026-11-17: Rachel Bennett 6/≥50 DE (Kita 5 €, multiidioma), Prof. Sabrina Maia 14/27 PT (2 fechas, Navidad); re-medir 2026-11-24 |
+| idiomas/mapas-ilustrados-it | idiomas | EU | virgen | 2 kw IT (`guida pdf`, `mappe illustrate`) · 2026-11-17 | apareció por huella el 2026-11-17: Francese Illustrato 0/7, Spagnolo Illustrato 1/10, German Grammar Made Visual (DE) sin contar |
+| hogar/planner-limpieza-eu | hogar | EU | virgen | 2 kw (`accès immédiat` FR, `accesso immediato` IT) · 2026-11-17 | apareció por huella el 2026-11-17: Clara Zuhause 4/25 FR (FR/IT); hermano EN `hogar/planner-limpieza` |
+| manualidades/patrones-costura-fr | manualidades | EU | virgen | 1 kw FR (`accès immédiat`) · 2026-11-17 | apareció por huella el 2026-11-17: La Bible des Patrons 5/21 FR (18 d); Il Giardino delle Intenzioni IT 0/6 (60 patrones); re-medir 2026-11-24 |
 
 ---
 
@@ -375,6 +382,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `gráficos radiestesia` / `pêndulo radiestesia` / `mesa radiônica` (BR, noviembre) | el top 50 se lo come el lanzamiento «Pendulado Friday» de Radiestesia Terapêutica | `radiestesia pdf`, `gráficos radiônicos` |
 | `terapia pareja ejercicios` / `ejercicios terapia de pareja` (ES, noviembre) | spam de microdramas doblados («Mi Bella Durmiente…») y servicios de terapeutas | contar por `page_ids` (Clínica del vínculo 1353862937812637, Psicologia & Recursos 2025 469568772899568) |
 | `versión digital` / `descarga al instante` / `MXN PDF` / `COP PDF` (ES) | short-dramas, novelas y electrónicos (4-10 mil) / cursos en vivo, talleres por Zoom y suplementos | `imprimibles navidad`, `PDF editable`, `megapack imprimible`, `plantillas listas` |
+| `sofort download` / `pdf ratgeber` (DE) · `pdf scaricabile` (IT) · `acesso imediato` / `guia pdf` / `download imediato` (PT) | DE: short-dramas, apps y lead magnets gratis / IT: solo Studio Facile / PT: desborde brasileño en BRL (leer moneda y país) | DE `ebook pdf`, `pdf vorlagen`, `anleitung pdf`; IT `guida pdf`, `mappe illustrate`; PT `ebook pdf`, `moldes pdf` |
 | `page_ids` + `search_terms` (cualquier sesión) | la API ignora `search_terms` cuando hay `page_ids`: no destapa la cohorte oculta detrás del tope | re-medir cuando la página baje de 50 o sondear sin `page_ids` |
 
 ## Operadores a seguir (modo C)
@@ -510,6 +518,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Psicologia & Recursos 2025 | 469568772899568 | MX | kits para terapeutas (pareja, duelo, orientación vocacional) por WhatsApp, COP: 6/16 el 2026-11-16, pasa a 16 el 17-11; re-medir 2026-11-19 |
 | Odonto en Orden | 1355504520987314 | AR | sistema de consultorio odontológico, 9/30 el 2026-11-16 (15 el 17-11); re-medir 2026-11-19; vecinos Kit Odontologico APP 1218589731347806, Consultorio en Regla Odontológico CO 1453560014505584 |
 | Colección Digital Plus | 626238063897333 | CL | 11/26 el 2026-11-17 (huella `imprimibles navidad`), todo «Chatea con nosotros»: oferta invisible por API; abrir snapshots en la PC; re-medir 2026-11-21 |
+| Die Kunst des Tarot · La Mappa dei Tarocchi | 1401739863026385 · 1504273442761198 | DE · IT | tarjeta EU del 2026-11-17: ≥12/≥50 DE (82 est., 10 d visto); versión IT nació el 17-11 a 18 €: ver si escala y si abre FR/PT |
+| Isabel Martins | 1431639723356021 | PT | tarjeta EU del 2026-11-17: Bíblia do Tricot 16/27 PT (34 d, USD); ver si abre IT/FR |
+| O Pomar Mês a Mês | 1349673428238130 | PT | 10/22 el 2026-11-17 (13 d, 14,90 €, EUR); re-medir 2026-11-24 |
+| Studio Facile · Mente Accademica · learndigital.shop | 1232011766670582 · 874820029047521 · 1053888401135256 | IT | ráfagas de 563 / 244 / 102 estimados con cohorte oculta (2026-11-17); re-medir cuando bajen de 50 |
 | Edutechdigital | 208255869038018 | PE | material docente «Evaluaciones finales 2026», 9/9 el 2026-11-17; re-medir 2026-11-20 |
 | | | | |
 
@@ -534,7 +546,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 07:10 | EU | A huella (mañana; toca B pero no hay nodo EU en la cola → A) | — (huella, IT FR DE PT) | en curso | en curso | en curso |
+| 2026-11-17 07:10 | EU | A huella (mañana; toca B pero no hay nodo EU en la cola → A) | — (huella, IT FR DE PT) | 23 huellas nativas (IT 6, FR 6, DE 5, PT 5 + 1 de arranque) sin ceros; ~50 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio de 3) | 2 tarjetas (Die Kunst des Tarot, Isabel Martins), 7 señales | 7 nodos nuevos EU (3 superficial, 4 virgen); 4 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:42 | ES | A huella (mañana) | — (huella, hispano) | 20 huellas ES × 9 países (distintas de las del 09, 10 y 13-11); ~35 páginas contadas con `page_ids` + país (5 subagentes de lectura + re-conteo propio) | 0 tarjetas, 6 señales (Colección Digital Plus 11/26 con la oferta invisible) | sin nodos nuevos; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:40 | EN | B perforar (mañana) | recetas/postres-sin-azucar | 6 subnichos, 30 kw US/GB (60 consultas) + ALL en 2 ceros + 2 controles AR/ES; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Elisabeth.says + Nonna Sweets, Relief On Every Plate), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:36 | BR | C operadores (mañana) | — (operadores BR) | 48 page_ids (BR; TI em Mapas y Essência viva también AR/ES/MX) + 5 sondas + 2 controles hispanos; 3 subagentes de lectura | 2 tarjetas (Trilha do Estudo, Caixa do Terapeuta), 10 señales | sin cambios de estado; 1 operador nuevo a seguir (Opo Lumio, ES) |
