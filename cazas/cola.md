@@ -425,7 +425,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Macro Aula | 1216430771552642 | MX · hispano | línea de PDF tech (Scratch, ESP32, Arduino, PLC, Wi-Fi), 9-10/57 el 2026-11-16; re-medir 2026-11-19 |
 | Mapa Concursos | 113788658419021 | BR | tarjeta BR del 2026-11-10 tarde (+120 mapas mentais de enfermagem, 39/50); ver si «Receba Agora» es otro pack |
 | 123passei | 109322741722198 | BR | tarjeta BR del 2026-11-10 tarde («Protocolo» por concurso R$27,90, 18/34, 162 d) |
-| Trilha do Estudo | 641390105728644 | BR | ≥40/50 el 2026-11-10; apostila + app de preguntas: ¿PDF o suscripción? |
+| Trilha do Estudo | 641390105728644 | BR | tarjeta BR del 2026-11-17 («Apostila Completa + Aplicativo de Questões», ≥50/50 piso, 61 est., 49,5 d, USD); ¿PDF o suscripción? verificar en la PC |
 | Knitting Art Studio | 852298534641160 | US | tarjeta EN del 2026-11-10 (tarde): 100+ patrones de costura para mascotas a $27 + lead magnet, 40/50 |
 | The Crochet Nook | 534358449768435 | GB · US | tarjeta EN del 2026-11-10 (tarde): megapacks de crochet, 44/50 GB; US 189 est. con cohorte oculta |
 | Sewing Lovers | 1341379315722832 | US · GB | tarjeta EN del 2026-11-11: patrones PDF de bolsos a $9,99, 19/50 US (piso) y 8/37 GB; joven (ad más viejo 30 d) |
@@ -433,8 +433,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Templates - Pack de artes | 123045347437517 | BR | tarjeta BR del 2026-11-11 (figurinhas para stories R$3,99, 27/27, 217-293 d); catálogo de packs a R$1,49-3,99: ver qué SKU nuevo entra en cohorte |
 | Mestre da Madeira | 1240001732528839 | BR | tarjeta BR del 2026-11-11 (+100 moldes de madeira PDF R$12,90, 11/50, escalando) |
 | Ponto Certo App | 1037269729466043 | BR | tarjeta BR del 2026-11-13 tarde (molde avental japonês PDF + videoaula, 10/24, 114 d); probando Cesto Baleia y Chinelo de Tecido: ver qué SKU entra en cohorte |
-| Mamãe que fez | 1104742249386376 | BR | tarjeta BR del 2026-11-13 tarde (naninha R$17, 11/17, 12 d); re-medir 2026-11-20 |
-| Ana Beatriz (moldes) | 500613633701984 | BR | ≥30/≥50 el 2026-11-13 (moldes infantiles + curso, USD, 47-56 d); ¿persona? verificar en la PC |
+| Mamãe que fez | 1104742249386376 | BR | tarjeta BR del 2026-11-13 tarde (naninha R$17, 11/17); el 2026-11-17 da 0 con ALL en BR: ¿página borrada o renombrada? verificar en la PC |
+| Ana Beatriz (moldes) | 500613633701984 | BR | ≥48/≥50 (68 est.) el 2026-11-17, moldes + videoaula, USD, 50 d; nombre de persona + primera persona: verificar cara en la PC antes de tarjetear |
 | Clube do Devocional | 1333933036463024 | BR | ≥43/50 el 2026-11-11 con 40 ads de un solo día (7 d); WA sin oferta; re-medir 2026-11-18 |
 | Arquivos que encantam | 216603914872916 | BR | 25/33 el 2026-11-11 («Apenas R$10», producto no visible): verificar en la PC |
 | Biblioteca Digital (deportes) | 1270799516117158 | AR | tarjeta ES del 2026-11-11 tarde (planificación anual de vóley/newcom/básquet/handball a $19.990, 25/33 AR, 63,6 d); ver si entra a ES o a otro deporte |
@@ -461,7 +461,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Mente Ordenada | 1084424138077543 | hispano | 0/40 en 6 días con el molde «vaciá tu cabeza» (2026-11-12): re-medir 2026-11-19 |
 | Pack Digital Emprendor | 104462436003652 | AR | 18/18, 108 d, producto no visible por API (2026-11-12) |
 | Edufisicavisual | 1293268003864355 | BR | tarjeta BR del 2026-11-13 (mapas de cinesiología para educación física, 26/29, 12,7 d); re-medir 2026-11-20; ¿Lucia Ortiz 760125220506555 es su versión en español? |
-| Brinca e Aprende | 942354795618344 | BR | inglés infantil imprimible, 10/37 el 2026-11-13 (los 10 de un solo día) + 3 SKU nuevos; re-medir 2026-11-18 |
+| Brinca e Aprende | 942354795618344 | BR | inglés infantil imprimible; 10/39 el 2026-11-17 pero los 10 son de un solo día (09-11) y la tanda del 04-11 se apagó: rota, no acumula; re-medir 2026-12-01 |
 | Tia Juliana | 1332936713226815 | BR | tarjeta BR del 2026-11-14 («100 Cartões de Enfermagem», 11/35, 15 d, escalando); re-medir 2026-11-21; tester hispano Doctor PDF 114914206902993 (1/6 AR·ES) |
 | Mariana Fonseca | 948970524969940 | BR | 12/37 el 2026-11-14 («BAIXE AGORA», apostila no identificada, nombre de persona): verificar en la PC |
 | Sinapse Visual | 1312003592005982 | BR | «Oratória em Mapas» 7/39 (USD) el 2026-11-14, familia «em Mapas»; re-medir 2026-11-21 |
@@ -479,14 +479,15 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Tendencias Online / Cristiano Digital | 1225944363928959 · 105939112387960 | AR | 17/17 (46 d) y 13/15 (44 d) con títulos «OFERTA ESPECIAL!» (2026-11-14): verificar en la PC qué venden |
 | Creaciones Maravillosas | 1100378686494541 | MX | devocional imprimible $100 MXN, 10/10 a 49 d (2026-11-14); ver si crece |
 | Bendiciones creativas · Daniela Ramírez J. | 1128535147014509 · 991052380767123 | MX | 98 y 87 est. con cohorte oculta (ráfaga de la semana del 10-11); re-medir 2026-11-21 |
-| ComportaMente | 479332898595798 | BR | tarjeta BR del 2026-11-14 tarde («Kit NR-1 pronto para usar», 15/16, 22 d); re-medir 2026-11-21: ¿crece o se apaga? |
+| ComportaMente | 479332898595798 | BR | tarjeta BR del 2026-11-14 tarde («Kit NR-1 pronto para usar»); 41/49 el 2026-11-17 (5x2 na Prática 13, NR-1 15, Novembro Azul 9): crece |
 | Sr. SMS | 134265803944064 | BR | tarjeta BR del 2026-11-14 tarde (combo SST, ≥36 piso, 619 est., USD); medir con sondas `Black Friday`, `Combo Completo`; ¿la «IA NR-01» es suscripción? |
 | The Beauty Crafts | 889621137558075 | GB (+US sin contar) | tarjeta EN del 2026-11-16: ebooks de recetas de cosmética natural y limpieza, ≥35/73 GB, 85 d (EUR); contar US; vigilar sus clones hispanos |
 | Pattern Quilt Studio | 1218499961347502 | US (+GB sin contar) | tarjeta EN del 2026-11-16: patrones PDF de quilt sueltos, 32/44 US, 75 d; ver si sigue después de Navidad |
 | Nonna Sweets · The art of tarot · Presence College | 1519806301205219 · 1395155533680469 · 553429274518110 | GB · US | huella EN 2026-11-16: 30/47 GB (10 d) · ≥28/96 GB (13 d) · 37/48 GB (¿certificación?); re-medir 2026-11-23 |
 | Essência viva | 1436395682884516 | BR · AR · ES · MX | tarjeta BR del 2026-11-16 (Kit Radiestesia na Prática, 60 gráficos PDF R$27, 13/38, 40,7 d); ya corre en español; probando «Mesa de Reconexão» |
 | Sama Terapias | 370972230119772 | BR | tarjeta BR del 2026-11-16 (Mesas & Gráficos, 37/≥50 piso, 79,5 d); ver si «inscreva-se» es curso en vivo |
-| Caixa do Terapeuta (+ red Numerologia Automática) | 469875186209972 · 378526395348946 · 702053146325386 · 703760402823862 | BR (+ES) | ≥23/≥50 el 2026-11-16; el «Sistema de Numerologia Automática» escala en 3 páginas nuevas sin cohorte: re-medir 2026-11-23 |
+| Caixa do Terapeuta (+ red Numerologia Automática) | 469875186209972 · 378526395348946 · 702053146325386 · 703760402823862 | BR (+ES) | tarjeta BR del 2026-11-17 («+200 Ferramentas Práticas» / «Kit Completo», 23/≥50 piso, 40 d); el «Sistema de Numerologia Automática» corre en 3 páginas nuevas sin cohorte: re-medir 2026-11-23; testers BR en español (Luciana Ramos 515910701613917) |
+| Opo Lumio | 1287418131132351 | ES | operador que paga en BRL corriendo oposiciones (ADIF) en España, visto el 2026-11-17 en `temario oposiciones test`: el molde concurso BR → oposición ES; contar con `page_ids` + ES |
 | SST Online Gold · Escola da Prevenção | 155956234265597 · 663744763723231 | BR | 13/17 producto invisible (comentario→DM) y 14/18 pendrive físico + 365 DDS (2026-11-14): verificar en la PC |
 | Digital Shop · Santos En Punto · Flavia da Silva Araujo · Amigurumi Terapia | 552653941257698 · 1441997498998704 · 238104932713634 · 107566745618163 | ES · AR · MX · MX | ola navideña de belén/pesebre/amigurumi: 4/19 ES, 4/7 AR ($12.990), 4/10 MX, 1/12 MX el 2026-11-16; re-medir 2026-11-22 |
 | Psicologia & Recursos 2025 | 469568772899568 | MX | kits para terapeutas (pareja, duelo, orientación vocacional) por WhatsApp, COP: 6/16 el 2026-11-16, pasa a 16 el 17-11; re-medir 2026-11-19 |
@@ -516,7 +517,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-17 06:42 | ES | A huella (mañana) | — (huella, hispano) | en curso | en curso | en curso |
 | 2026-11-17 06:40 | EN | B perforar (mañana) | recetas/postres-sin-azucar | en curso | en curso | en curso |
-| 2026-11-17 06:36 | BR | C operadores (mañana) | — (operadores BR) | en curso | en curso | en curso |
+| 2026-11-17 06:36 | BR | C operadores (mañana) | — (operadores BR) | 48 page_ids (BR; TI em Mapas y Essência viva también AR/ES/MX) + 5 sondas + 2 controles hispanos; 3 subagentes de lectura | 2 tarjetas (Trilha do Estudo, Caixa do Terapeuta), 10 señales | sin cambios de estado; 1 operador nuevo a seguir (Opo Lumio, ES) |
 | 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | 6 subnichos × 5 kw nativas (30) + ALL en 1 cero; ~40 páginas contadas (3 subagentes de lectura + re-conteo propio ES/AR) | 1 tarjeta (Mapaclpladder), 7 señales | profundo, con 6 hijos superficial |
 | 2026-11-16 18:38 | EN | B perforar (tarde) | musica/teoria-workbooks | 6 subnichos, 31 kw US/GB + ALL en 1 + 5 controles AR/ES; ~20 páginas contadas (4 subagentes de lectura + re-conteo propio) | 2 tarjetas (Fingerstyleguitarschool, Kubistra Music), 6 señales | profundo, con 6 hijos superficial; 1 fila de trampas |
 | 2026-11-16 18:35 | BR | B perforar (tarde) | escrita-criativa/estruturas-narrativas | 6 subnichos × 5 kw BR (30) + ALL en 1 cero + 3 controles AR/ES/MX/CO; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio) | 1 tarjeta (Diagramação Express), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |

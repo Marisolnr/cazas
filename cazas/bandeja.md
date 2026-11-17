@@ -388,6 +388,36 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Apostila Completa + Aplicativo de Questões» para concursos — Trilha do Estudo BR · `concursos/material-estudo/por-avatar-professor-saude` · 2026-11-17 · sesión BR
+- **Qué es:** una apostila completa de concurso público que viene con una app de preguntas («Apostila Completa + Aplicativo de Questões»; también corre «Aplicativo de Estudos»). Se cobra en USD y el precio no se ve por API. Duda abierta: ¿el núcleo es la apostila en PDF con la app de regalo, o una suscripción a la app?
+- **Por qué es ganador:** cohorte 7+/activos **50/50 en BR**, sobre los 50 devueltos (es un piso: hay 61 estimados). Crece de una medición a la otra: ≥40 el 10-11, ≥40 el 13-11, ≥50 hoy. Tiene 14 fechas de creación entre el 28-09 y el 10-11, y el ad más viejo lleva **49,5 días**. **43 de los 50 en cohorte repiten el mismo título.** Es una página de marca, sin nombre de persona, y un solo operador.
+- **Qué hacer:** si es PDF, modelarlo para España como «temario resumido + banco de tests» de una oposición puntual (Correos, auxiliar administrativo, celador) a EUR 9-15. Si en la PC resulta ser una APP: pasarlo a PDF con tests imprimibles, más un Excel de autocorrección. Destino sugerido **ES**; AR no tiene un mercado de concursos parecido. En `temario oposiciones test` (ES) el tope lo ocupan academias y OpositaTest, y ya entró **Opo Lumio**, que paga en BRL y corre oposiciones de ADIF: un operador brasileño probando el molde en España.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=641390105728644&search_type=page&media_type=all) · creativo más viejo: [49 d](https://www.facebook.com/ads/library/?id=2294195771328510) · tester en ES: [Opo Lumio](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1287418131132351&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** abrir el snapshot y confirmar si se cobra un PDF o una suscripción, y cuánto.
+- Score 2/4 (longevidad 49 d, duplicación ×43) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «+200 Ferramentas Práticas» / «Kit Completo» para terapeutas — Caixa do Terapeuta BR · `esoterismo/radiestesia-mapas` · 2026-11-17 · sesión BR
+- **Qué es:** un kit descargable de más de 200 herramientas prácticas para terapeutas, del tipo fichas, dinámicas y recursos de sesión («Baixe Agora +200 Ferramentas Práticas», «Acesse Agora seu Kit Completo»). Se cobra en BRL y el precio no se ve. Desde el 12-11 la página también empuja un «Sistema de Numerologia Automática», que es probable planilla o software: eso no se trae.
+- **Por qué es ganador:** cohorte 7+/activos **23 en BR**, sobre los 50 devueltos (es un piso: hay 82 estimados). Es el mismo número que el 16-11, o sea que sostiene. Hay dos tandas que siguen enteras: la del 07-10 (11 ads, **40 días**) y la del 21-10 (12 ads). Cada tanda tiene un solo título, repetido 11-12 veces. Es una página de marca, sin nombre de persona, y un solo operador.
+- **Qué hacer:** modelar «kit de +200 recursos para terapeutas» (fichas imprimibles, dinámicas y guías de sesión) en PDF a USD 7-10, con un upsell de kit temático. Destino sugerido **AR**, después ES. Ojo, la ventana se está cerrando: en el hispano ya corren testers brasileños de este molde, de 0-1 días, cobrando en BRL. Son Luciana Ramos («+200 RECURSOS PARA TERAPEUTAS»), Lúcia Garcia (recursos para adolescentes) y Lucía Dias Lopez (Kit de Reiki).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=469875186209972&search_type=page&media_type=all) · creativo más viejo: [40 d](https://www.facebook.com/ads/library/?id=2215114689385623) · tester hispano: [Luciana Ramos](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=515910701613917&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** ver en la PC qué trae el kit (¿terapia holística o psicología?) y el precio, y confirmar que no sea una membresía.
+- Score 2/4 (longevidad 40 d, duplicación por tanda) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-17)**
+- Ana Beatriz (500613633701984): **≥48/50** en BR (68 estimados), ad más viejo de 50 días, en USD, con «LUCRE COM MEUS MOLDES» y moldes + videoaula. Es lo más fuerte de los operadores, pero tiene nombre de persona y habla en primera persona: verificar en la PC si hay cara antes de tarjetearla.
+- ComportaMente (479332898595798), tarjeta del 14-11: pasa de 15/16 a **41/49**. «5x2 na Prática» tiene 13 en cohorte, el Kit NR-1 15 y «Novembro Azul» 9.
+- TI em Mapas (1171375182736345), tarjeta del 12-11: la versión en español ya tiene **19/40** en AR/ES/MX (desde el 29-10), así que el destino hispano está ocupado.
+- Essência viva (1436395682884516), tarjeta del 16-11: lanzó hoy «Kit Radiestesia en la Práctica» en AR/ES/MX (4 ads, 0 en cohorte). En BR está 14/37.
+- Ponto Certo App (1037269729466043), tarjeta del 13-11: crece de 7/21 a 17/25. El avental tiene 11 en cohorte, el chinelo 3 y el cesto baleia 3.
+- Farmácia Mapeada (105693778467803): el SKU nuevo «Guia Prático da Dispensação de Controlados 2026» ya tiene ~15 en cohorte, pero es normativa Anvisa, específica de Brasil.
+- Arquivos que encantam (216603914872916): 13/20, y por fin se ve qué vende: «+150 Revistinhas Editáveis por R$10» (los ads con el producto en el título tienen < 7 días).
+- Embudos WA sin oferta en el título: Receitas Emagrecedoras ≥23/50, Saúde em Forma ≥20/50 y Criativizando 27/38. No pasan el test del copy.
+- Brinca e Aprende 10/39: los 10 son de un solo día (09-11) y la tanda anterior se apagó, así que rota y no acumula. Edufisicavisual baja de 26 a 13 y Tia Juliana de 11 a 3. Mamãe que fez desapareció (0 con ALL). Pequenos Leitores sigue apagada.
+- Cohortes invisibles: los 50 devueltos son todos de esta semana, así que no se puede medir la cohorte en Atividades infantil (278 estimados), Lacuna Concursos (76), Marcelomapas (126, SKU nuevo «Oficial de Justiça TJSP R$97»), Sr. SMS (641) y Prof. Mariana Oliveira (123, de nuevo en USD).
+
 ### 🎯 «Passo a passo simples» para diagramar tu propio libro — Diagramação Express BR · `escrita-criativa/autopublicacao` · 2026-11-16 (tarde) · sesión BR
 - **Qué es:** por el nombre de la página, un paso a paso para que el autor diagrame solo su libro (para Amazon o imprenta). Puede ser guía, mini-curso grabado o plantillas. El producto y el precio **no se ven por API**: todos los ads llevan el mismo título, «Passo a passo simples» (BRL).
 - **Por qué es ganador:** cohorte 7+/activos **22/44 en BR** (vistos los 44). Son dos tandas de 11 ads (08-11 y 09-11, de 8 a 9 días) que siguen todas vivas, y después tandas nuevas el 10 y el 11-11: 4 fechas y el operador vivo. Página de marca, sin nombre de persona, un solo operador. Es joven: la cohorte más vieja tiene 8 días.
