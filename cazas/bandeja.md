@@ -740,6 +740,16 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-17: nada que pase la vara; se barrió `PDF descargable`, `versión digital`, `guía descargable`, `PDF editable`, `recibes PDF`, `MXN PDF`, `COP PDF`, `imprimibles navidad`, `resúmenes PDF`, `plantillas listas`, `material imprimible`, `guía ilustrada`, `megapack imprimible`, `recetario digital`, `manual digital`, `kit plantillas`, `formato PDF`, `descarga al instante`, `bonos PDF`, `pack PDF` (9 países, ~35 páginas contadas).
+
+**Señales del día ES (2026-11-17, huella)**
+- Colección Digital Plus CL (626238063897333): **11/26** (31-10 → 08-11, 7 fechas, CLP), pero todos los títulos son «Chatea con nosotros»: la oferta no se ve por API. Abrir en la PC los snapshots 1679544637034323 y 1405802171730271; si es imprimible navideño con precio, es tarjeta.
+- Tienda de Hechizos MX (100963788488774): sube de 20 a **29/68** en cohorte (tarjeta del 14-11 todavía pendiente) y suma «Numerología paso a paso»; AR, ES y CO siguen en 0.
+- Mapas Visuales PRO PE (1291088710759821): 22/22 (megapack de automatización industrial, desde el 18-09), pero sin ads nuevos desde el 14-10: posible zombi. Es el mismo formato que Mapaclpladder (tarjeta del 16-11).
+- Edutechdigital PE (208255869038018): 9/9 («Evaluaciones finales 2026», material docente). Re-medir el 2026-11-20.
+- Nena Tarot (1219594787912266): ráfaga de guía de tarot con 303 ads en MX, 380 en AR y 318 en ES; cohorte oculta detrás del tope. Re-medir el 2026-11-24.
+- Ola navideña sin cohorte: Hecho por vos AR 0/≥50, Creando AR 0/41 («Cosé y Vendé: 55 moldes»), Mi Taller Creativo MX 0/22, EducaTlon MX 3/6. Re-medir el 2026-11-24.
+
 ### 🎯 «PLC y Ladder Visual 2026™ — +200 Mapas Visuales» (+ «Guía Visual de Redes Industriales — +100 Mapas Visuales») — Mapaclpladder ES·AR·MX·CO · `tecnologia/electronica-programacion-pdf/automatizacion-plc-industrial` · 2026-11-16 (tarde) · sesión ES
 - **Qué es:** manual visual de automatización industrial: más de 200 mapas de PLC y lenguaje ladder, con una segunda guía de redes industriales y protocolos de comunicación (+100 mapas). Es el formato «mapas visuales» que en BR ya corre por carrera (`mapas-visuais-r10`), aplicado a técnicos y estudiantes de automatización. Cobra en USD. Desde el 15-11 lanza también la versión en inglés («+200 Visual Maps for Automation»). La API no muestra precio ni cierre.
 - **Por qué es ganador:** cohorte 7+/activos **ES 25/50 (piso; 53 estimados)**, con el mismo set en AR (54 est.), MX y CO. Ad más viejo del 20-10 (**27,8 d**), 13 fechas de creación dentro de la cohorte y ads nuevos hoy: operador vivo y escalonado. Página sin persona, un solo operador, un producto central. Detrás empiezan a copiarlo (CMDigital, Formula dg, Macro Aula, Aprendia con PLC de < 7 d).

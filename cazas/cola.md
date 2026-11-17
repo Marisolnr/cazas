@@ -361,6 +361,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `cristais apostila` / `defumação apostila` / `livro das sombras` / `aromaterapia apostila` / `óleos essenciais apostila` / `mapa numerológico` / `mapa astral pdf` (BR, esoterismo) | recetas / charcutería / dramas doblados / cursos presenciales / informes personalizados y coaching | `radiestesia pdf`, `gráficos radiônicos`, `grimório pdf`, `rituais pdf`; contar por `page_ids` |
 | `gráficos radiestesia` / `pêndulo radiestesia` / `mesa radiônica` (BR, noviembre) | el top 50 se lo come el lanzamiento «Pendulado Friday» de Radiestesia Terapêutica | `radiestesia pdf`, `gráficos radiônicos` |
 | `terapia pareja ejercicios` / `ejercicios terapia de pareja` (ES, noviembre) | spam de microdramas doblados («Mi Bella Durmiente…») y servicios de terapeutas | contar por `page_ids` (Clínica del vínculo 1353862937812637, Psicologia & Recursos 2025 469568772899568) |
+| `versión digital` / `descarga al instante` / `MXN PDF` / `COP PDF` (ES) | short-dramas, novelas y electrónicos (4-10 mil) / cursos en vivo, talleres por Zoom y suplementos | `imprimibles navidad`, `PDF editable`, `megapack imprimible`, `plantillas listas` |
 | `page_ids` + `search_terms` (cualquier sesión) | la API ignora `search_terms` cuando hay `page_ids`: no destapa la cohorte oculta detrás del tope | re-medir cuando la página baje de 50 o sondear sin `page_ids` |
 
 ## Operadores a seguir (modo C)
@@ -492,6 +493,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Digital Shop · Santos En Punto · Flavia da Silva Araujo · Amigurumi Terapia | 552653941257698 · 1441997498998704 · 238104932713634 · 107566745618163 | ES · AR · MX · MX | ola navideña de belén/pesebre/amigurumi: 4/19 ES, 4/7 AR ($12.990), 4/10 MX, 1/12 MX el 2026-11-16; re-medir 2026-11-22 |
 | Psicologia & Recursos 2025 | 469568772899568 | MX | kits para terapeutas (pareja, duelo, orientación vocacional) por WhatsApp, COP: 6/16 el 2026-11-16, pasa a 16 el 17-11; re-medir 2026-11-19 |
 | Odonto en Orden | 1355504520987314 | AR | sistema de consultorio odontológico, 9/30 el 2026-11-16 (15 el 17-11); re-medir 2026-11-19; vecinos Kit Odontologico APP 1218589731347806, Consultorio en Regla Odontológico CO 1453560014505584 |
+| Colección Digital Plus | 626238063897333 | CL | 11/26 el 2026-11-17 (huella `imprimibles navidad`), todo «Chatea con nosotros»: oferta invisible por API; abrir snapshots en la PC; re-medir 2026-11-21 |
+| Edutechdigital | 208255869038018 | PE | material docente «Evaluaciones finales 2026», 9/9 el 2026-11-17; re-medir 2026-11-20 |
 | | | | |
 
 ## Rotación vigente
@@ -515,7 +518,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-17 06:42 | ES | A huella (mañana) | — (huella, hispano) | en curso | en curso | en curso |
+| 2026-11-17 06:42 | ES | A huella (mañana) | — (huella, hispano) | 20 huellas ES × 9 países (distintas de las del 09, 10 y 13-11); ~35 páginas contadas con `page_ids` + país (5 subagentes de lectura + re-conteo propio) | 0 tarjetas, 6 señales (Colección Digital Plus 11/26 con la oferta invisible) | sin nodos nuevos; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:40 | EN | B perforar (mañana) | recetas/postres-sin-azucar | en curso | en curso | en curso |
 | 2026-11-17 06:36 | BR | C operadores (mañana) | — (operadores BR) | 48 page_ids (BR; TI em Mapas y Essência viva también AR/ES/MX) + 5 sondas + 2 controles hispanos; 3 subagentes de lectura | 2 tarjetas (Trilha do Estudo, Caixa do Terapeuta), 10 señales | sin cambios de estado; 1 operador nuevo a seguir (Opo Lumio, ES) |
 | 2026-11-16 18:43 | ES | B perforar (tarde) | tecnologia/electronica-programacion-pdf | 6 subnichos × 5 kw nativas (30) + ALL en 1 cero; ~40 páginas contadas (3 subagentes de lectura + re-conteo propio ES/AR) | 1 tarjeta (Mapaclpladder), 7 señales | profundo, con 6 hijos superficial |
