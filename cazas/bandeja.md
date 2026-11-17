@@ -799,6 +799,22 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Mini Yesitos para pintar»: fabricar figuritas de yeso y venderlas en kits — Creaciones con Alma CO·AR·MX · `manualidades/plantillas-ceramica/yeso-cemento` · 2026-11-17 (tarde) · sesión ES
+- **Qué es:** enseña a fabricar figuritas de yeso para pintar y a venderlas en packs para cumpleaños, souvenirs y Navidad («Aprendé a hacer Mini Yesitos para vender», «Un cumpleaños, 30 kits», «Tres pasos para que no se vea casero», «¡Basta de tutoriales que no funcionan!»). Por los títulos parece una guía o un curso grabado de emprendimiento. Cobra en USD. La API no muestra el precio ni el formato.
+- **Por qué es ganador:** cohorte 7+/activos **AR 26/39**, **CO 21/37** y **MX 21/37** (mismo set de ads que CO), sin tope. Tiene 4 lotes escalonados (28-10, 02-11, 10-11 y 15-11) y el ad más viejo lleva **~20 d**. Página sin persona y un solo operador. El 13-11 apareció en Italia **Maria Bianchi** con los mismos títulos traducidos (5 ads de 4 d): el operador ya está exportando la oferta.
+- **Qué hacer:** modelar la oferta como guía PDF + videos cortos: receta del yeso, moldes, pintado, armado del kit y cuánto cobrar el pack de 30. Destino sugerido **Portugal**, donde `gesso pintar` no trae a nadie con esta oferta; mirar también **Francia**. Italia ya tiene el clon, y AR y MX ya los cubre este operador. Ángulo: «un cumpleaños = 30 kits vendidos».
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1245082028680065&search_type=page&media_type=all) · [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1245082028680065&search_type=page&media_type=all) · más viejo: [ad](https://www.facebook.com/ads/library/?id=2145199606365394) · «Aprendé a hacer…»: [ad](https://www.facebook.com/ads/library/?id=1127554959681057) · clon IT: [Maria Bianchi](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1355153611018190&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta saber el precio, si vende guía/curso o moldes físicos, y si los videos muestran la cara de alguien.
+- Score 1/4 (hueco en PT; 20 d y 26 en cohorte no llegan a 45 d ni a 50) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
+**Señales del día ES (2026-11-17, tarde)**
+- Planos de Barro (1463269926874211), el clon de Planos de arcilla: CO **10/18**, pero los 10 son un solo lote de 7,1 d (6-7 por inicio de entrega) y ES está en 0. «229 plantillas de cerámica a tamaño real». Re-medir el 2026-11-20.
+- Cerámica a Medida (1435809522953262): tercer operador del molde de plantillas de cerámica, CO 0/4 (todo de hoy), «40 plantillas + 4 libros».
+- Ceramicaemprendedor (860004577196412): «La Biblia de las Recetas Cerámicas» (esmaltes, USD), ~40 ads entre el 04-10 y el 17-10, hoy en 0 en CO y ES: cementerio reciente de un recetario digital.
+- Klayful Store ES (109662462160795): 8/16 a 29 d, pero son kits físicos de arcilla (huella de bebé, bautizo): el objeto es el mecanismo.
+- Porcelana fría, arcilla polimérica, esmaltes y cemento: solo talleres con cupo, tiendas y academias por WhatsApp; `arcilla autosecante` = hueco (0 también con ALL).
+
 ES 2026-11-17: nada que pase la vara; se barrió `PDF descargable`, `versión digital`, `guía descargable`, `PDF editable`, `recibes PDF`, `MXN PDF`, `COP PDF`, `imprimibles navidad`, `resúmenes PDF`, `plantillas listas`, `material imprimible`, `guía ilustrada`, `megapack imprimible`, `recetario digital`, `manual digital`, `kit plantillas`, `formato PDF`, `descarga al instante`, `bonos PDF`, `pack PDF` (9 países, ~35 páginas contadas).
 
 **Señales del día ES (2026-11-17, huella)**

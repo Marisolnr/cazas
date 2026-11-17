@@ -81,3 +81,5 @@
 ## [2026-11-17] caza-auto | BR B perforar (tarde) produtividade/planner-rotina-estudos → 1 candidatos a bandeja
 
 ## [2026-11-17] caza-auto | EN B perforar (tarde) esoterismo/tarot-guias-en → 1 candidatos a bandeja
+
+## [2026-11-17] caza-auto | ES B perforar (tarde) manualidades/plantillas-ceramica → 1 candidatos a bandeja
