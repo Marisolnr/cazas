@@ -1,0 +1,1136 @@
+# Bandeja — los ganadores del día, en tarjetas
+
+Salida del programa de caza ([[automatizar-la-caza-de-winners]]). **Cada sesión deja acá como máximo
+2 tarjetas por día**, una por producto ganador. Diez líneas cada una, nada más. La evidencia
+completa (keywords, conteos, descartes) queda en `RAW/cazas-auto/` y **no se le muestra a Marisol**
+salvo que la pida.
+
+> **Regla:** «pocos infoproductos ganadores por día y por mercado, por qué es ganador, qué se puede hacer
+> con él, y el link de su biblioteca de anuncios. Nada de informes largos.» Si un día no sale ninguno que
+> cumpla la vara, se escribe **una línea** («XX <fecha>: nada que pase la vara; se barrió X, Y, Z») —
+> **nunca se rellena el podio**.
+
+**Vara para tener tarjeta:** pasa el gate (no marca personal + embudo verificado o WhatsApp con la oferta
+en el copy) **y** además cohorte de **10 o más** ads con 7+ días activos de un solo page_id. No se suman fanpages hermanas ni se compensa el volumen con la
+longevidad de un ad suelto. Lo que pasa el gate pero no llega a la vara va como una línea de *señal*, no
+como tarjeta.
+
+**Cómo se revisa:** Claude muestra las tarjetas en el chat y **Marisol decide con palabras** — `Idea`
+(se crea la ficha del producto) · `tirar` (a `descartados.md` con su motivo) · `re-cazar <fecha>` ·
+`profundizar` (vuelve a [[cola]]). Nadie edita este archivo a mano. Las tarjetas decididas bajan al
+histórico.
+
+---
+
+## Pendientes de revisión
+
+<!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
+
+### 🎯 Libros de postres sin azúcar refinado en bundle («100+ Guilt-Free Desserts in 1 Book», «All 4 of my books, pay for 2») — Elisabeth.says US + Nonna Sweets GB/US · `recetas/postres-sin-azucar/postres-refinado` · 2026-11-17 · sesión EN
+- **Qué es:** un recetario de más de 100 postres sin azúcar refinado, vendido como colección de 4 a 7 libros con descuento («All 7 Books, Over 40 % Off», «Buy 4, Pay for 2 — ends Sunday»). El ángulo es «comé postre sin culpa» y «para los que extrañan el pan y el postre». Precio sin ver (cobra en EUR). Nonna Sweets corre la misma oferta con la abuela como fachada y el gancho «el médico me dijo que cortara el azúcar; me quedé con la torta».
+- **Por qué es ganador:** Elisabeth.says tiene cohorte 7+/activos **34/42 en US** (conteo completo). Su ad más viejo tiene **67 días** (10-09) y hay 18 fechas de creación, la última hoy. «Stop Choosing Between Healthy and Dessert» está duplicado 10 veces dentro de la cohorte. Nonna Sweets suma **31/50 en GB** y ≥24/50 en US (68 estimados), pero con solo 11 días. Son dos operadores con el mismo gancho («We Owe You an Apology» / «I owe you an apology about dessert»).
+- **Qué hacer:** modelarlo en español como «+100 postres sin azúcar refinado» en PDF, con bundle de 4 libros (tortas, galletitas, helados, desayunos dulces) y el gancho «el médico me dijo que cortara el azúcar». Destino sugerido **AR** y después ES. La ventana está abierta pero se mueve: `postres sin azúcar` da 755 activos en AR/ES, casi todos testers de 0-2 días (Antojo de noche «brownie en taza + 29 postres», Rico y Sanito, Valentina Ríos Recetas). Nadie muestra todavía una cohorte.
+- **Ads Library:** [Elisabeth.says US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=973401275857984&search_type=page&media_type=all) · [Nonna Sweets GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1519806301205219&search_type=page&media_type=all) · [Nonna Sweets US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1519806301205219&search_type=page&media_type=all) · más duplicado: [Stop Choosing, 29-09](https://www.facebook.com/ads/library/?id=1816943946158949) · [el más viejo, 10-09](https://www.facebook.com/ads/library/?id=1063322126102941) · [Apology, Nonna](https://www.facebook.com/ads/library/?id=1604579664277073)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL). En la PC hay que verificar tres cosas: el precio del bundle, que sea PDF y no libro impreso, y que «Elisabeth» no sea una autora con cara (el copy dice «my books»).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Recetario antiinflamatorio («Your body is asking for a change… and it starts with what you eat») — Relief On Every Plate US/GB · `recetas/postres-sin-azucar/antiinflamatorio-intestino` · 2026-11-17 · sesión EN
+- **Qué es:** un recetario de comida antiinflamatoria con un solo ángulo («tu cuerpo te está pidiendo un cambio, y empieza por lo que comés»). El formato y el precio no se ven (cobra en USD). Por el espejo hispano, parece un recetario digital de un operador latino.
+- **Por qué es ganador:** cohorte 7+/activos **37/43 en US** y los mismos 43 en GB (conteo completo). El ad más viejo tiene **77 días** (01-09) y hay 10 tandas, la última el 15-11. Un solo título repetido en los 43 ads: ganó su test interno y lo escala sin cambiarlo. Página sin persona.
+- **Qué hacer:** modelarlo en español como «+200 recetas antiinflamatorias para desinflamarte desde el plato», en PDF, con un plan de 21 días como bump. Destino sugerido **ES**, donde el público de menopausia e hinchazón paga en euros. **Atención:** el mismo operador ya prueba la versión en español («Alivio en cada Plato», 2/6) y en AR/ES hay una ola de recetarios antiinflamatorios de 0-3 días (Cocina Sana Cada Día «1001 recetas», Nuvessa, Menú Resuelto, Kefa Digital «menú antiinflamatorio para la menopausia 16,90 €»). La ventana se está cerrando: entrar con un avatar angosto (menopausia, hinchazón, tiroides).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1191202924084648&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1191202924084648&search_type=page&media_type=all) · el más viejo: [01-09](https://www.facebook.com/ads/library/?id=4451809438414443) · [tanda 04-11](https://www.facebook.com/ads/library/?id=1384513467094488) · espejo hispano: [Alivio en cada Plato](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1157850780754263&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL). En la PC hay que verificar el precio, que sea PDF y si hay bumps.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (2026-11-17)**
+- Claudia Williams «The Dry Mix Mom» (1360700847131953): 36/≥50 en US (165 estimados, 28 días). Vende mezclas secas caseras para reemplazar las de caja y comparte títulos con Graceshopfinds (≥10) y Mary Simmons. Tiene nombre de persona y puede ser físico: verificar en la PC.
+- Chef Anna Collins (1283746054814175): repostería sin gluten, 15/31 en US (17 días). No se sabe si es curso o ebook, y la página tiene nombre de persona.
+- Recipes From The Bible / Cooking With Jesus (1523445677509859 · 1485183781338862): recetario de «comida bíblica» con unos 550 activos estimados en US y GB. La cohorte queda oculta detrás del tope de 50, pero hay ≥25 de 7+ días por filtro. Re-medir el 2026-11-24.
+- The Printed Kitchen (1242454385622632): plan de cenas de 4 semanas, 16/22 en GB (46 días, GBP). El nombre sugiere un producto impreso.
+- The Cookbook Store (1347654908420844): libro impreso de 100 bakes sin gluten y sin azúcar, 29/44 en GB (46 días). Es físico, pero sirve como molde para pasar a PDF.
+- The Light Table Kitchen (1336852769517463): «310 No-Added-Sugar Recipes», lanzado hoy en GB. Re-medir el 2026-11-24.
+- Cementerios: `keto recipes ebook` en GB (con ALL aparecen 70 ads, todos apagados) y `anabolic recipes` en GB.
+
+### 🎯 Pack de tablaturas navideñas para guitarra fingerstyle («120 Christmas Guitar Tabs — Just $27») — Fingerstyleguitarschool US/GB · `musica/teoria-workbooks/guitarra` · 2026-11-16 (tarde) · sesión EN
+- **Qué es:** un pack de más de 100 tablaturas navideñas para guitarra con los dedos. Son 34 canciones, cada una en tres versiones (completa, fácil y muy fácil). Se descarga al instante en PDF y en Guitar Pro. Se anuncia a $27 con «95 % off». Al lado corre un «Fingerstyle Guitar Starter Kit», que sirve todo el año.
+- **Por qué es ganador:** cohorte 7+/activos **33/33 en US y en GB** (conteo completo) · ad más viejo de **44 días** (03-10) · 7 tandas, la última el 09-11 · «Christmas Fingerstyle Tabs – 95 % Off» aparece duplicado 19 veces dentro de la cohorte · página-escuela sin persona en los títulos, cobra en GBP.
+- **Qué hacer:** modelarlo en español como «+100 villancicos y clásicos navideños para guitarra, en tres niveles, PDF al instante». Destino sugerido **AR** (con versión de rock nacional para las fiestas) y después ES. Es estacional: hay que lanzarlo antes del 01-12. La ventana se está abriendo: `villancicos guitarra` da 0 activos en AR y en ES, pero Escuela Fingerstyle (AR) lanzó el 14-11 un «kit completo para tocar con los dedos» (2 días).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=109749731564018&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=109749731564018&search_type=page&media_type=all) · más duplicado: [95 % Off, 06-10](https://www.facebook.com/ads/library/?id=1183464130867568) · [oferta completa $27](https://www.facebook.com/ads/library/?id=2104055546893821) · clon en AR: [Escuela Fingerstyle](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1374902015716886&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL). Verificar en la PC el precio real (en el copy dice $27) y si el «95 % off» lleva a un upsell.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Pack de licks de jazz a $37 («Authentic Jazz Licks for $37 Only») — Kubistra Music US · `musica/teoria-workbooks/teoria-armonia` · 2026-11-16 (tarde) · sesión EN
+- **Qué es:** un pack de frases de jazz para sonar «como un profesional» al instante, a $37. No se ve si es un PDF de tablaturas con audio o un video.
+- **Por qué es ganador:** cohorte 7+/activos **24/24 en US** (conteo completo, todo lo activo tiene más de 7 días) · ad más viejo de **75 días** (02-09) · 7 tandas, la última el 07-11 · «Authentic Jazz Licks for $37» aparece duplicado 13 veces · página-marca sin persona, cobra en USD.
+- **Qué hacer:** modelarlo en español como «100 licks de jazz (y bossa) en tablatura con audio», en PDF. Destino sugerido **ES**: el público de jazz en AR es chico. No hay oferta hispana a la vista y la página no corre en AR ni en ES. Es un nicho angosto: sirve como producto secundario de una tienda de música, no como apuesta principal.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=104428361665998&search_type=page&media_type=all) · más duplicado: [$37, 02-09](https://www.facebook.com/ads/library/?id=3978295202476208) · [tanda nueva 07-11](https://www.facebook.com/ads/library/?id=993254947187184)
+- **Landing:** embudo no verificado desde la nube. Verificar en la PC el formato (PDF o video) y que no haya una marca personal detrás.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-16)**
+- Acordes en Claro (1205940002609789): es la ballena del nicho, con unos 80 ads distintos en cohorte en US («226 pages, 92 exercises with answers», teoría musical por instrumento en PDF, desde el 16-10). Pero es un operador hispano que ya corre en AR (44/50) y en ES (50/50, 215 estimados): el destino lo tiene ocupado el mismo dueño.
+- Música Sin Vueltas (1276982315507030): «Piano/Guitar Without Detours», PDF de 206-228 páginas, con 33 a 64 ads en cohorte en US. En AR ya tiene 496 activos estimados: destino ocupado. Comparte un título con Acordes en Claro, así que puede ser el mismo operador.
+- Music Solved (1465563836630767): método «System 365» por instrumento, ≥15/144 en US, pero los 15 salen de una sola tanda (08-11). Re-medir el 2026-11-23.
+- The Keys Coach (1114084528459556): piano por acordes para adultos, 13/18 en US/GB (desde el 27-06). El formato no se ve y la página dice «coach». Verificar en la PC.
+- Guitarra Facil (AR, 1394654520402362): cancionero PDF «100 clásicos del rock nacional», ≥22 en cohorte. Es la prueba de que en AR se venden PDFs de guitarra (le toca a la sesión ES).
+- Violín en PDF es un cementerio en US/GB: nada activo, pero con ALL aparecen ads de hasta junio.
+
+### 🎯 Ebooks de recetas de cosmética natural casera («452 DIY Body Care Recipes», «155 Cleaning Recipes») — The Beauty Crafts GB · `hogar/cosmetica-natural-recetas` · 2026-11-16 · sesión EN
+- **Qué es:** un catálogo de ebooks de recetas para hacer en casa: cremas, mantecas, aceites, mascarillas, cuidado del pelo y limpiadores caseros («Masks, Oils & Serums, Made at Home», «Know Exactly What's in Your Hair Care», «Make Your Own Cleaners for Pennies»). También vende una versión ampliada («Your Recipe Binder, Twice as Thick»). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **≥35/50 visibles en GB** (73 estimados, así que es un piso) · ad más viejo de **85 días** (23-08) · 9 tandas, la última el 10-11 · «Masks, Oils & Serums» duplicado ×10 en la tanda de agosto, todos vivos · marca sin persona, cobra en EUR.
+- **Qué hacer:** modelarlo en español: «+400 recetas de cosmética natural y limpieza casera», PDF con ángulo de ahorro y de saber qué tiene cada frasco · destino sugerido **ES** y después AR · la ventana se está abriendo: en AR/ES aparecieron esta semana clones de 0-2 días que todavía no prueban nada (Valentina Ríos «Más de 450 recetas», La botánica de Angélica, Cosmética Viva).
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=889621137558075&search_type=page&media_type=all) · más duplicado: [Masks, 85 d](https://www.facebook.com/ads/library/?id=3395406710646090) · [452 recetas](https://www.facebook.com/ads/library/?id=1769783510801226) · clon en español: [Valentina Ríos](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1427649773768661&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el precio, si es PDF y si la versión ampliada es un bump.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Patrones PDF de quilt sueltos (jelly roll, retazos, caminos de mesa navideños) — Pattern Quilt Studio US · `manualidades/patrones-costura-pdf/quilting` · 2026-11-16 · sesión EN
+- **Qué es:** una tienda de patrones de quilt en PDF, uno por anuncio: «Jelly Roll Ready. Christmas Confetti Magic», «Your Blue Scraps Are Hiding 16 Stars», caminos de mesa y posavelas navideños, «Sew Her First Quilt». Cada patrón promete aprovechar telas que ya tenés (jelly roll, retazos, cuadrados de 10"). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **32/44 en US** (conteo completo) · ad más viejo de **75 días** (02-09), todavía vivo · ~26 fechas de creación, una tanda nueva cada 2-4 días · tienda sin persona.
+- **Qué hacer:** modelar «patrones de patchwork en PDF con tus retazos»: patrón suelto barato + bundle navideño · destino sugerido **ES** (el patchwork tiene comunidad en España; en AR/ES, `patrones patchwork` no trae ningún vendedor de PDF: hueco), después AR · ángulo: «tus retazos ya son un quilt».
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1218499961347502&search_type=page&media_type=all) · más viejo: [Jelly Roll, 75 d](https://www.facebook.com/ads/library/?id=1083476340838961) · [PDF Pattern](https://www.facebook.com/ads/library/?id=1791092502096531)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el precio por patrón y si hay bundle.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (2026-11-16)**
+- Presence College (553429274518110): 37/48 en GB (68 días), pero vende «Certified Christian Counselor» con «Black Friday 80 % off». Parece una certificación o un curso: verificar en la PC el formato y el precio.
+- Nonna Sweets (1519806301205219): postres sin azúcar, 30/47 en GB y ≥24 en US, pero el ad más viejo tiene solo 10 días y la página es una persona de fachada («Nonna»). Re-medir el 2026-11-23.
+- The art of tarot (1395155533680469): guía para leer tarot sin memorizar, ≥28 en cohorte de 96 estimados en GB, con 13 días. Re-medir el 2026-11-23.
+- Click Agency (1338981272625517): «kit de inicio en Mac» a $19,90, 14/15 en GB (32 días, 4 fechas, BRL). Pasa el volumen, pero la oferta es dudosa (puede ser un curso). Verificar en la PC.
+- Laura Puentes (114969284838255): «65 Gourmet Popcorn Recipes That Sell», 19 a 28 en cohorte de 38 en US (23 días). La página tiene nombre de persona.
+- SigmaSmart.en (1240702875795368): 31/47 en US, pero reparte el volumen entre muchos SKU de «sistemas de negocio». No es una sola oferta.
+- La red «Illustrated + 2 free books» sigue sumando páginas (Diagram Books 305 estimados, Learning Fast 142, Visualia Books), todas con cohorte 0.
+
+EN 2026-11-15 (tarde): nada que pase la vara; domingo de lint, re-chequeo del de la mañana sin cambios (próximo B: `musica/teoria-workbooks`).
+
+EN 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 22 tarjetas EN pendientes de revisión y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-en-lint-cola.md`).
+
+### 🎯 «NCLEX Review Cheat Sheet, 400 pages»: la chuleta que reemplaza al manual de enfermería — My Nurse Notes US · `examenes-ilustrados/enfermeria-nclex` · 2026-11-14 (tarde) · sesión EN
+- **Qué es:** un resumen de 400 páginas para el examen de matrícula de enfermería de EE. UU. (NCLEX), vendido contra los manuales («Nursing Textbooks are Scam!», «All the Answers Look Right. That's the Trap.»). Ofrece pagar en cuotas sin interés. Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **34/34 en US** (conteo completo) · ad más viejo de **133 días** (03-07) · 5 tandas (03-07, 16-08, 14-10, 17-10 y 05-11) · marca sin persona, USD. En GB el NCLEX es cementerio (2/2 de 8 días).
+- **Qué hacer:** modelar «la chuleta del EIR»: resumen visual por temas + trampas de las preguntas («todas parecen correctas») en PDF a precio bajo · destino sugerido **ES** (en `EIR enfermería` solo hay academias de 300-500 € y un tester BR de 1-2 días, «El Mapa del EIR 2027»), después AR (residencias de enfermería) · ángulo: «el manual tiene 2.000 páginas; el examen pregunta 400». ⚠️ «400 pages» + cuotas puede ser un libro impreso o un ticket alto: confirmarlo antes de decidir.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=107734932379817&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=967067193054353) · tester en ES: [El Mapa del EIR 2027](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1485989934587325&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el formato (PDF o impreso), el precio y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Guía de método para el examen de trabajo social clínico («LCSW Study Guide — The Retaker's Edition») — LCSW Strategy US · `examenes-ilustrados/trabajo-social-salud-mental` · 2026-11-14 (tarde) · sesión EN
+- **Qué es:** una guía de estudio para el examen de licencia LCSW, vendida como «sistema de decisión» y no como más contenido («It's Not What You Know», «Four Decision Systems», «Read the first chapter», «50% Off»). Apunta fuerte a quien ya reprobó («For LCSW Retakers», «It Wasn't You»). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **20/21 en US** (conteo completo) · ad más viejo de **156 días** (11-06) · 13 fechas de creación, la última el 09-11 · marca sin persona, operador europeo (EUR). En GB corrió entre junio y julio y lo apagó: el mercado que funciona es US.
+- **Qué hacer:** modelar «el método para el supuesto práctico» de las oposiciones de **trabajo social en ES**: cómo decidir la respuesta que quiere el tribunal, en PDF corto + edición «para quien ya se presentó» · destino sugerido **ES** (en `oposiciones trabajo social` solo hay academias y másters, ninguna guía barata de método) · ángulo: «no te faltó estudiar: te faltó un método para decidir». En AR no hay examen de licencia equivalente.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1071328126064642&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1013684827720597)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC si es ebook o libro, el precio y si la muestra del primer capítulo es un lead magnet.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-14)**
+- Studio Facile (1272162682644374): en GB ≥20 en cohorte de 129 estimados, pero el ad más viejo tiene ~10 días y es la misma red «X in Pictures + 2 bonus books». Re-medir el 2026-11-21.
+- Medschoolbro (102012419389119): ≥30 en cohorte entre los 50 visibles en US (157 estimados, ≥36 días), guías USMLE/MCAT en CAD. Mezcla Qbank y «Masterclass» y puede tener cara: verificar en la PC.
+- Go CDL Pro (1066314876557111): ≥50/57 en US (92 días), pero el último ad es del 06-10 (posible zombi) y puede ser un mazo físico.
+- Cerca de la vara, re-medir el 2026-11-21: LCSW Study Notes 7/15 (EUR), PassPath 7/8 (una sola fecha), Med Notes Guide 3/15 (guías de una página a $27-47, AED).
+- Fábricas visuales «Illustrated / Visual Explainer + 2 bonus books» (Learning Fast, Fenix Books, Diagram Books, Doitvisual, Visualia, Precise Prep, Illustrated SYP más las 4 conocidas): todas con cohorte 0, abiertas entre el 12 y el 14-11. Ola sin probar.
+- NCLEX y ASWB/LCSW en GB: cementerio (solo ads inactivos).
+
+### 🎯 «150 PE Games, Ready to Run»: pack de juegos de educación física — Digital Academy (EF) US·GB · `deportes/planes-practica-entrenadores-en` (operadores) · 2026-11-14 · sesión EN
+- **Qué es:** un pack digital de 150 juegos de educación física listos para usar en clase, de descarga inmediata, con 3 bonos de regalo («Plan a PE Class in 5 Minutes», «instant download»). Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **13/25 en US** y **12/21 en GB** (conteo completo, no piso) · ad más viejo de **12 días** · 5 tandas (02, 03, 05, 10 y 13-11), sigue cargando ads · página de producto sin persona.
+- **Qué hacer:** modelar «150 juegos de educación física listos, buscados por material y por edad» en PDF con 3 bonos · destino sugerido **ES** (en ES solo hay guías anuales y «curso listo», ningún pack de juegos con 7+ días). ⚠️ En AR ya lo copió **El Bolso del Profe** («150 juegos, 3 regalos, un PDF», creado el 12-11): si se va a AR, entrar ya y con otro ángulo («juegos sin material», «juegos donde nadie hace fila»).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1340771395780798&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1340771395780798&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2399906830815415) · clon AR: [El Bolso del Profe](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1484471184741332&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el precio, los bonos y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Prácticas ya planeadas por deporte de nicho («96 Youth Practices, Already Planned») — The Ascent Club US·GB · `deportes/planes-practica-entrenadores-en` (operadores) · 2026-11-14 · sesión EN
+- **Qué es:** una fábrica de packs digitales de prácticas armadas, uno por deporte de nicho: lucha, atletismo, remo, lacrosse, escalada («90 Wrestling Practices…», «121 Track Practices…», «120 Rowing Practices…», «Print It. Post It.»). El 13-11 abrió packs para clubes que no son deportes: teatro, robótica, scouts y equitación. Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **23/36 en US** y **20/31 en GB** en los ads de prácticas (254 y 236 activos estimados; los 50 más nuevos tapan la cola, así que es un piso) · ad más viejo de **39 días** · 8-9 fechas de creación, la última el 13-11 · sin persona. Hermana probable: Download Studio (7/35, multinicho).
+- **Qué hacer:** copiar el molde «una fanpage, un pack por deporte chico» donde nadie le arma la práctica al entrenador voluntario: pádel, balonmano, hockey, rugby infantil · destino sugerido **ES** (pádel y balonmano), después AR (hockey y rugby) · ángulo: «la práctica del martes ya está hecha: imprimila y pegala en el vestuario». Es el mismo nodo que la tarjeta de Basketball Coach Pro (13-11), pero este operador muestra el método para escalar: SKU nuevo cada pocos días.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=102421131594782&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=102421131594782&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1610943924056176)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el formato (¿PDF o app?), el precio por pack y si hay bundle.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-14)**
+- Revelation Unsealed 3D (1345541285309886): 9/33 en US (antes 8/23), ad de 39 días, tandas el 12 y el 13-11. Le falta 1 para la vara.
+- Donna Whitfield (1180278161845468): 10/50 en US, pero es una tanda de un solo día al borde, con nombre de persona y producto sin ver (610 activos estimados). Re-medir el 2026-11-17.
+- HeroeDigitals (1258628903995580): 15/26 en US, 22 días. Los títulos («Five taps», «Tap nine. Done.») apuntan a una app: verificar en la PC.
+- Ultimate Notion Planner (425210960671076): 27/27 en US, pero con 2 fechas solas. Abrió un SKU B2B («One Portal Per Client»). Her Notion Planner: 17/17 sin ads nuevos en 30 días (posible zombi).
+- Ya tienen tarjeta y abrieron producto nuevo: Dragon Fire («NIST Incident Response Toolkit», 13-11), The Crochet Nook («1,200+ Granny Squares $8.88», 12-11), Cosmo Studio (invitaciones Canva, todavía fuera de la cohorte). This & That Planners pasó de 10 a 24/40.
+- Apagadas o relanzadas, sin cohorte: Growing in Faith, Faith Times y Sewing Lovers (0 activos); EaseUp, Honey Home, Stitch Well y Elsie Brooks (todo relanzado en ≤4 días); clones de CustodyLogs (1/2, 0/5, 0/1).
+
+### 🎯 Registro privado para el juicio de custodia («Get court-ready») — CustodyLogs US · `pareja/custodia-registros/registro-juicio` · 2026-11-13 (tarde) · sesión EN
+- **Qué es:** una herramienta para que el padre o la madre en un juicio de custodia anote en privado los incumplimientos, los mensajes y los hechos, y llegue al juzgado con todo ordenado («Get court-ready», «The file that helped me win custody», «Start Documenting Privately»). Hay ads de catálogo, así que probablemente es una tienda. No se sabe si es una app, un archivo descargable o una carpeta, ni el precio.
+- **Por qué es ganador:** cohorte 7+/activos **47/47 en US** (conteo completo; 0 en GB) · ad más viejo de **274 días** (desde el 12-02) · unas 20 fechas de creación, la última el 05-11 · página de producto sin persona, operador europeo (EUR). Ya lo copian: The Custody Keeper (mismo título «Get court-ready ->»), Shielded Co-Parenting y AntiAlienate, todos con ads de menos de 7 días. Intentos previos apagados en GB (Plainly Digital «Record Hub $17», Custody Binder, Clear Record Co.).
+- **Qué hacer:** si es app, pasarlo a un kit imprimible y planilla: registro diario de cumplimiento del régimen, línea de tiempo de hechos, plantillas de mensajes neutros y checklist «qué llevarle al abogado» · destino sugerido **ES** (custodia compartida y modificación de medidas), después AR (régimen de comunicación) · ángulo: «lo que no está anotado, para el juzgado no pasó». El control en AR·ES (`custodia registro`) solo trajo short-dramas: hueco. Sin promesas legales en el copy.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=959544217247977&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=676539412214936)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL y custodylogs.com no se pudo abrir): verificar en la PC si es app o archivo, el precio y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Guía de co-parentalidad con un ex narcisista + «Recovery Set» — Isabella Francis US · `pareja/custodia-registros/ex-narcisista` · 2026-11-13 (tarde) · sesión EN
+- **Qué es:** el libro «Co-Parenting After Divorcing a Narcissist» (un título dice Paperback, así que es **impreso**) y un «Recovery Set». Promete cómo criar con un ex manipulador sin pelear y proteger a los hijos. Precio sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **31/31 en US** (conteo completo; 0 en GB) · ad más viejo de **91 días** (desde el 15-08) · 5 tandas (15-08, 22-08, 04-10, 21-10 y 05-11) · unos 20 ángulos distintos («The Divorce Ended. The Parenting Didn't.», «Disarm the Narcissist. Protect Your Peace.», «Healing happens in four phases»). ⚠️ La página tiene nombre de persona (¿seudónimo de autora?). Los títulos no hablan en primera persona, pero la cara no se vio: verificar Filtro A en la PC.
+- **Qué hacer:** pasarlo a una guía PDF + guiones de respuesta para copiar y pegar («qué contestarle cuando…») + un plan de 4 fases · destino sugerido **AR**, después ES · ángulo: «el divorcio terminó, la guerra no: cómo criar con él sin caer en sus juegos». En AR·ES (`ex narcisista hijos`) solo hay 1 ad, de una psicóloga con nombre propio: hueco.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=201865639680760&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=935282975527917)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC el formato (¿libro físico o también digital?), el precio y qué trae el Recovery Set.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-13)**
+- Anthony Bompiani (603230363139284): ≥47/51 en US y 6/6 en GB, 120 días, «Beat The Narcissist In Court». Es marca personal («Judge Anthony») con una IA a USD 1: no es modelable.
+- Dads Law School (116224934730171): 4/5 en US, con un ad de 339 días («Get The Book», «Show Up Ready for Court»). No llega a 10.
+- Clones de CustodyLogs que arrancaron esta semana: The Custody Keeper (EUR), Shielded Co-Parenting (AUD) y AntiAlienate, todos 0/4-5. Re-medir el 2026-11-20.
+- Cementerio en GB (`pro se custody`, `narcissist ex guide` solo con ALL): Plainly Digital «Solo Co-Parent Record Hub [$17]», Custody Binder, Clear Record Co., Readwellia.
+- `divorce` + binder/planner/checklist/organizer y `custody court`/`family court`: short-dramas y novelas, sin señal.
+
+### 🎯 Pack de prácticas de básquet «Today only: $14.90» — Basketball Coach Pro US · `deportes/planes-practica-entrenadores-en/basquet` · 2026-11-13 · sesión EN
+- **Qué es:** un pack digital de entrenamiento para entrenadores de básquet a **USD 14,90** con «oferta solo por hoy». El mismo operador corre la plantilla en fútbol (Soccer Training Pro, USD 9,90-14,90). Contenido exacto y formato sin ver.
+- **Por qué es ganador:** cohorte 7+/activos **27/27 en US** · ad más viejo de **39 días** (desde el 05-10) · 5 tandas escalonadas (04, 09, 13, 24 y 26-10), la última hace 17 días · el mismo título en los 27 ads · página de producto sin persona. La hermana Soccer Training Pro tiene 22/22 en US y GB con ads de 87 días, pero sin ads nuevos en 45 días (posible zombi). Probable operador brasileño.
+- **Qué hacer:** modelar un pack de prácticas armadas por deporte («la práctica de mañana, ya planeada»: sesiones por edad, ejercicios con diagrama, plan de temporada) con precio de oferta del día y una fanpage por deporte · destino sugerido **ES** (en AR ya vende Biblioteca Digital, la tarjeta ES del 11-11) · ángulo: «el entrenador voluntario que no sabe qué hacer en la práctica de hoy». ⚠️ En ES ya prueban Manuales Listos («189 sesiones», ads de menos de 7 días) y Miguel Torres (BRL).
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1373186709203115&search_type=page&media_type=all) · hermana [Soccer Training Pro US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1234094106455284&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1643780760776504)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL): verificar en la PC qué trae el pack, el formato y los bumps.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-13)**
+- Digital Academy (1340771395780798) «150 PE games + 3 bonuses» para docentes de educación física: 12/24 en US y 11/20 en GB, pero el ad más viejo tiene 11 días. En español ya corren Orbis Atlas (ES), EFácil, YTeducativo e Ideasjugadas (ARS). Re-medir el 2026-11-20.
+- Orbis Atlas (1386049191263743) «Whole PE Year, Planned»: 10/31 en US, todo de una sola tanda. Ya vende en español en ES.
+- HeroeDigitals (1258628903995580), planes de práctica de varios deportes: ≥19 en US (84 estimados, 21 días). Un título habla de una «app»: verificar en la PC.
+- The Ascent Club: ningún SKU llega a 10 en cohorte (el máximo es 8: lucha, atletismo, lacrosse, patinaje). Es una fábrica de «N prácticas ya planeadas» para cualquier actividad.
+- EBasketballCoach (20/20, 633 días) y American Coaching Academy (41/41): catálogos con lead magnet gratis. EBasketballCoach no tiene ads nuevos en 30 días (posible zombi).
+- Cementerios en GB: `basketball drills pdf` (75 ads, todos inactivos), `rugby coaching drills` y `volleyball drills pdf`.
+
+### 🎯 Enciclopedia «200 habilidades perdidas» (autosuficiencia, en un solo libro) — The Lost Skills of Independence US·GB · `hogar/preparacion-emergencias/habilidades-perdidas` · 2026-11-12 (tarde) · sesión EN
+- **Qué es:** un libro de 200 guías ilustradas de oficios y habilidades que «ya no se enseñan»: conservar comida, remedios caseros, huerta, prepararse para emergencias. Cada guía trae los materiales y las herramientas. Es **FÍSICO**: tapa dura espiralada de 262 páginas a **USD 39**, con promo «76% Off» en los ads. El autor es Claude Davis («The Lost Ways»).
+- **Por qué es ganador:** cohorte 7+/activos **≥50/604 en US y ≥50/233 en GB** (pisos: los 50 visibles ya tienen 7+ días) · ad más viejo visto de **31 días** (desde el 12-10) · operador vivo, con ads nuevos esta semana · página de producto sin cara · el mismo título repetido en toda la cohorte.
+- **Qué hacer:** pasarlo a PDF: fichas ilustradas por oficio, organizadas por tema (cocina y conservas, casa, huerta, remedios, cortes de luz) · destino sugerido **AR**, después ES · ángulo: «lo que sabían hacer tus abuelos, en un solo manual». ⚠️ Esta semana arrancó en AR/ES una ola de clones en español: Maestro del Oficio («234 habilidades de los abuelos · Hoy 7x1», ARS), Mauricio Rios, Jime Bauer y Lucas Rossi. Todos con ads de 0-2 días, así que todavía no tienen cohorte y la ventana se está cerrando.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=984264748113661&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=984264748113661&search_type=page&media_type=all)
+- **Landing:** el producto está verificado en la tienda del distribuidor (store.motherearthnews.com/products/the-lost-skills-of-independence: físico, USD 39, 262 páginas). La landing del ad no se abrió: verificar en la PC si hay versión digital u order bumps.
+- Score 2/4 · Decisión: —
+- Evidencia: API; producto verificado por WebFetch (tienda del distribuidor), snapshot y landing del ad no verificados desde la nube (longevidad por API).
+
+### 🎯 Plan de emergencia hecho para tu dirección, para imprimir — Fallback Book GB · `hogar/preparacion-emergencias/plan-familiar-personalizado` · 2026-11-12 (tarde) · sesión EN
+- **Qué es:** un plan de emergencia del hogar armado para tu dirección: qué hacer en los primeros 10 minutos, dónde se encuentra la familia, cómo llegar a pie a lo de tus padres, agua segura sin canilla, checklists de una página y la fuente de cada dato. Llega por mail en un día y se usa en papel («works with no battery»). No se sabe si es un PDF personalizado o un libro impreso, ni el precio.
+- **Por qué es ganador:** cohorte 7+/activos **18/18 en GB** · el ad más viejo tiene **12 días** (desde el 31-10) · 3 fechas de creación, sin ads nuevos desde el 02-11 · página de producto sin persona · un solo operador. Atrás viene una ola de planes de apagón de 72 h en US, todos de esta semana: The Smart Library, Handled Simply, Grid Down Plan y Gridfall Survival con su «$9 Blackout Binder».
+- **Qué hacer:** modelar un plan de emergencia familiar en PDF personalizado por ciudad o barrio (punto de encuentro, rutas a pie, agua, checklist de 72 h, contactos) · destino sugerido **ES** (el apagón del 28-04-2025 y la recomendación de la UE de tener un kit de 72 h), después AR · ángulo: «linterna, radio y agua ya tenés: ahora falta el plan». En ES solo hay testers de 1-2 días (Apagón Total, Charlotte Whitmore) y nadie personaliza el plan.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1388539597681148&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2059902624712166)
+- **Landing:** embudo no verificado desde la nube (no se encontró el dominio): verificar en la PC el formato, el precio y cómo personaliza.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-12)**
+- Ola de planes de apagón y de 72 h en US, todos creados el 10-12/11 y con cohorte 0: The Smart Library 0/12 («blackout plan in 3 books»), Handled Simply 0/7, Grid Down Plan, Gridfall Survival y READY Household Crisis Manual (GB). Re-medir el 2026-11-19.
+- 50 Blackout Hacks (1436057402930089): imprimible facturado en **ARS**. Es un operador argentino testeando en US (0/2).
+- Prepared American 14/20 y Homefront Ready 14/26 en US pasan el volumen, pero son advertoriales de la familia American Ready, que vende un kit sanitario físico. No es infoproducto.
+- Food Storage Tips (724248187440810): ≥17/273 en US (piso) y 8/8 en GB con ads de 394 días. Es un advertorial «#1 Food Storage Hack» y el producto no se ve: verificar en la PC.
+- Bug in Guide (319949591203932): ≥18/635 en US (piso), «A Navy Seal's Bug-In Guide». ¿Libro físico o PDF? Verificar en la PC.
+- The Amish Ways (385207881346032): 250 estimados con cohorte oculta. Mezcla preppers con tinturas y «parasite flush» (suplementos).
+
+### 🎯 Kit digital «qué hacer cuando no estés» (sucesión y papeles de la familia) — My Estate Kit GB · `hogar/kit-sucesion-familia` · 2026-11-12 · sesión EN
+- **Qué es:** un kit digital para dejarle a la familia todo ordenado: cuentas, pólizas, contraseñas y los pasos de la sucesión («A will says who inherits. Not what to do.», «The binder that guides your family»). Llega por mail para completar en la compu o imprimir. Precio cerca de **£29** (dato de una reseña). Trustpilot: 4,6 con 264 reseñas.
+- **Por qué es ganador:** cohorte 7+/activos **≥50/50 en GB** (54 estimados: los 50 visibles tienen 12+ días) · el ad más viejo tiene **115 días** (desde el 20-07) · 16 fechas de creación y 41 ads nuevos en los últimos 30 días (operador vivo) · página de producto sin persona · un solo operador; atrás entran Atlas Media «The Kept Folder», Just In Case Papers y LifeTrove.
+- **Qué hacer:** modelar un kit PDF/planilla «lo que tu familia va a necesitar saber» con los trámites del país (declaratoria de herederos, bancos, seguros, contraseñas) · destino sugerido **ES**, después AR · ángulo: «un testamento dice quién hereda, no qué hacer», con historias en primera persona de hijos que encontraron todo en minutos.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1091977304009213&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1823982462257708)
+- **Landing:** myestatekit.co.uk (no abierta). El formato digital sale de Trustpilot: «access is sent by email so you can start straight away». Verificar en la PC el precio y qué trae el kit.
+- Score 3/4 · Decisión: —
+- Evidencia: API; formato verificado por WebFetch (Trustpilot), landing y snapshot no verificados desde la nube (longevidad por API).
+
+### 🎯 Planilla todo-en-uno de vida y finanzas a USD 9 («70+ tabs») — Cosmo Studio US·GB · `productividad/planillas-vida` · 2026-11-12 · sesión EN
+- **Qué es:** una planilla descargable con más de 70 pestañas: ingresos y gastos, deudas, 12 metas, rachas de hábitos y 107 tareas con kanban y gantt. Se paga **USD 9** una sola vez («Was $297», «No App, No Monthly Fee, Just $9», «Trusted By 160,000+ Organizers»).
+- **Por qué es ganador:** cohorte 7+/activos **22/28 en US** y 21/25 en GB · el ad más viejo tiene **72 días** (desde el 31-08), y siguen activos los 16 ads creados ese día · 4 fechas de creación, la última hoy (abrió un SKU nuevo: invitación de casamiento en Canva) · página fantasma · el mismo estilo de títulos aparece en Her Notion Planner y Ultimate Notion Planner (probablemente el mismo operador; no se suman).
+- **Qué hacer:** modelar una planilla de Google Sheets/Excel «reemplazá 5 apps por una planilla», con finanzas personales en pesos o euros, hábitos y metas · destino sugerido **AR**, después ES · ángulo: «olvidarme de pagar me costó $X, esto cuesta $Y», pago único, sin suscripción.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=209343218938190&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=209343218938190&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2379209239494027)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC dónde se compra y qué formato tiene la planilla (Sheets o Excel).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-12)**
+- The Ascent Club (102421131594782): planes de práctica listos para entrenadores de más de 10 deportes y actividades, **≥58 en cohorte en US** (contados con sondeos; 228 estimados, cohorte oculta), ad más viejo de 35 días. Es multi-SKU: contar por deporte. Hermana con el mismo copy: Download Studio.
+- CustodyLogs (959544217247977): **44/49 en US**, 21 fechas, ad de 272 días («Get court-ready», registros para juicios de custodia). Puede ser una app y no un PDF: verificar en la PC.
+- Goodreadsnow (103734905086194): 18/21 en US, workbooks de PTSD complejo y regulación somática (PDF, EUR), ad de 33 días.
+- PLR Printables Store (106571978807489): 30/35 en US y GB, imprimibles con derechos de reventa. Vende un negocio, no un producto final.
+- Ultimate Notion Planner (27/27 US) y Her Notion Planner (18/18 GB): planners de Notion a USD 9, pero cada uno con ads de solo 2 fechas.
+- Excelbychris (316333711567922): 0/38, «300 Excel Templates 95% OFF». 26 ads cumplen 7 días el 13-11: re-medir.
+
+### 🎯 Guía «Step by Step Guide to Understand the Bible» / «God's Word Made Simple» — RootedinFaith GB·US · `religion/biblia-visual/estudio-biblico-guias` · 2026-11-11 (tarde) · sesión EN
+- **Qué es:** una guía paso a paso para entender la Biblia («God's Word Made Simple», «Discover The True Meaning»), con promo «62% Off This Week Only». La API no muestra el precio ni el formato: no se sabe si es PDF o libro impreso.
+- **Por qué es ganador:** cohorte 7+/activos **30/45 en GB y 28/≥50 en US** (52 estimados) · el ad más viejo tiene **33 días** (desde el 06-10) · 10-11 fechas de creación y una tanda nueva el 10/11-11 (operador vivo) · casi toda la cohorte repite un solo título · página fantasma · un solo operador.
+- **Qué hacer:** modelar una guía PDF para entender la Biblia libro por libro, con resúmenes visuales · destino sugerido **ES**, después AR · ojo: en español este ángulo ya lo corren varios operadores brasileños con páginas de nombre de persona («Descubre la Biblia Libro por Libro», «Por Fin Vas a Entender la Biblia», «66 Libros de la Biblia»), así que el diferencial tiene que estar en el formato (mapas, una página por libro) o en el avatar. Todavía no se contó la cohorte de esos operadores.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1339338722596915&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1339338722596915&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2107206247336170)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC si la guía es digital, cuánto cuesta y qué trae.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-11)**
+- Valentina Ríos (1280761195116636): **17/26 en US** con «Crea y ofrece tu propia papelería cristiana» (kit para revender, copy en español, BRL, ad de 25 días). Pasa la vara, pero ya corre en AR/ES junto con Elixir de Vida y Papelería Cristiana: el destino está ocupado.
+- Revelation Unsealed 3D (1345541285309886): **8/23 en US**, ad de 36 días, «The Visual Guide to Revelation» (168 páginas ilustradas). Hay 4 ads que cumplen 7 días en horas: re-medir el 14-11 y ver si es PDF o libro.
+- Catholic Roots (1246058108601925): 25/25 en US y 19/19 en GB («All 73 books explained, 857 pages», para imprimir), pero no crea ads desde hace 31 días: posible zombi.
+- Shining Light Printables (1007803189074036): 12/12 en US y GB (juegos y guías bíblicas para imprimir, ad de 111 días), sin ads nuevos en 30 días: posible zombi.
+- Growing in Faith (1329678806897080): 18/27 en US con advertorial («If you have a child read this ☝️»), solo 3 fechas y el ad más viejo de 9 días. No se ve el producto: verificar en la PC y que no sea neurokids.
+- Christian Knowledge (538851202636965): 275 estimados con «Revelation, Explained Verse by Verse» en varios idiomas; la cohorte está oculta, re-medir.
+
+### 🎯 Guías PDF de management y consultoría «Instant PDF Download» — Your Consulting Management Guide US·GB · `negocios/guias-management-pdf` · 2026-11-11 · sesión EN
+- **Qué es:** guías PDF de gestión empresarial y consultoría con descarga inmediata («Instant PDF Download»). Esta semana suma una promo de Black Friday con 40% OFF sobre títulos como «Corporate Governance Explained» y «Solve Any Business Problem». El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **41/46 en US y 34/38 en GB** · el ad más viejo lleva **144 días** (desde el 20-06) · 14 fechas de creación y un ad nuevo el 10-11 (operador vivo) · el mismo título repetido 40 veces en la cohorte durante 5 meses · página fantasma · un solo operador.
+- **Qué hacer:** modelar una colección de guías PDF cortas de gestión para pymes («resolvé cualquier problema de tu negocio», gobierno corporativo, procesos) · destino sugerido **ES**, después AR · ángulo: «la consultora que no podés pagar, en PDF». En AR/ES no apareció nada así: con `consultoría PDF` solo salen consultoras con nombre de persona y Estrategia Clara (2 ads). Es un hueco provisorio, medido con una sola keyword.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1097413493462052&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1097413493462052&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1693173465103660)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC qué PDF es, cuánto cuesta y si es una guía suelta o una biblioteca.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Patrones PDF de bolsos y neceseres a USD 9,99 — Sewing Lovers US (+GB) · `manualidades/patrones-costura-pdf/bolsos` · 2026-11-11 · sesión EN
+- **Qué es:** patrones PDF de costura para bolsos, totes acolchados y neceseres con cierre, en 3 a 5 talles («One Pattern, Three Sizes», «1 Pattern, 5 Sizes», «Quilted Tote PDF Pattern»), a **USD 9,99** («Now $9.99 (Was $19.99)»). Tiene un ángulo para vender lo que cosés: «Make It. Fill It. Sell It.», «One Sale Can Pay for the Pattern».
+- **Por qué es ganador:** cohorte 7+/activos **19/50 en US** (piso, 85 estimados; ayer 20/50) y 8/37 en GB · 7 fechas de creación entre el 01-11 y el 10-11 · el ad más viejo tiene 9 días en US y 30 días en GB · página fantasma · un solo operador. Es joven: pasa la vara por volumen, no por longevidad.
+- **Qué hacer:** modelar un patrón PDF de neceser o tote multitalle a precio bajo, con el ángulo «cosé uno y vendelo» · destino sugerido **AR** · ojo: en español ya hay moldes de bolsos (Dulce Irene, 12 bolsos de crochet; El Arsenal Del Marroquinero, 500 moldes de cuero), así que el diferencial es la costura con tela y el ángulo de reventa.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1341379315722832&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1341379315722832&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2023485678336598)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-11)**
+- This & That Planners (tarjeta del 09-11) creció de 10/50 a **25/41 en US**: entró en la cohorte la tanda del 29-10.
+- The Crochet Nook (tarjeta del 10-11): apareció la cohorte de US, **28/50** buscando «Granny Square», con un ad de 88 días.
+- Knitting Art Studio (tarjeta del 10-11): **44/50 en US** (ayer 40/50); la oferta de $27 tiene 14 ads en la cohorte. En GB nunca corrió (0 con ALL).
+- Heroic Husband sigue con 44/47 en US y 39/39 en GB, pero no crea ads desde el 07-11 en US y desde el 17-10 en GB. Planner Lovers (29/29) tampoco crea ads nuevos desde el 01-11. Vigilar si frenan.
+- Sarah Mitchell (244418568758034): 14/45 en GB, «+500 crochet patterns organized in one place». La página tiene nombre de persona: verificar en la PC si hay cara.
+- Patterns Zone (101105212312996): 12/39 en US, «Only $3 (Was $13)». No se sabe qué producto vende.
+- Cohortes ocultas que siguen sin verse: Donna Whitfield (558 estimados), Stitch Well y Elsie Brooks (433 y 318, con los mismos títulos), The EaseUp Planners (130, «70% Off»), Visual Guide Lab e In pictures books (116 y 395). Todos rehacen sus ads a diario.
+
+### 🎯 Bundle de patrones de costura para mascotas «100+ Pet Sewing Patterns» — Knitting Art Studio US · `manualidades/patrones-costura-pdf` · 2026-11-10 (tarde) · sesión EN
+- **Qué es:** pack digital de más de 100 patrones de costura para mascotas (ropa, accesorios para perro: «Turn Your Fabric Into Something Your Pet Can Actually Use») a **USD 27**, con una guía de costura gratis como lead magnet («FREE Sewing Guide», «Sewing Made Simple — FREE», «1,000+ Sewing Projects — FREE»).
+- **Por qué es ganador:** cohorte 7+/activos **40/50 en US** (piso, 142 estimados), de los cuales **10 son de la oferta paga de $27** y unos 30 del lead magnet · 12 fechas de creación entre el 28-09 y el 06-11 · ad más viejo de 43 días · tanda nueva el 06-11 (operador vivo) · página fantasma (nombre de estudio) · un solo operador; Wag & Stitch ($21, 15 ads de 6,9 días) y PawPattern están copiando el mismo ángulo.
+- **Qué hacer:** modelar un pack «+100 moldes para coser ropa y accesorios para tu perro» en PDF con tabla de talles («tu perro en 3 medidas»), más una guía de costura gratis para captar leads · destino sugerido **ES**, después AR · hook: «Con la tela que tenés en casa». En esta corrida no apareció nada así en español, pero el control AR/ES no se corrió.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=852298534641160&search_type=page&media_type=all) · creativo más viejo de la oferta paga: [ad](https://www.facebook.com/ads/library/?id=1058376573863736) · lead magnet más viejo: [ad](https://www.facebook.com/ads/library/?id=1812099636496745)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir si la guía gratis lleva al bundle de $27 y si los patrones son PDF.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Bundles de crochet «800+ Granny Squares» / «800 Flower Patterns» — The Crochet Nook GB (+US) · `manualidades/patrones-costura-pdf` · 2026-11-10 (tarde) · sesión EN
+- **Qué es:** packs PDF de patrones de crochet: 800+ granny squares (+20 de regalo), 800 flores («Turn Yarn into Bouquets»), 135 llaveros amigurumi, 350 amigurumis y una manta de flores 6 en 1 («Instant PDF»). Cobra en USD y EUR; el precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **44/50 en GB** (75 estimados) · unas 7 fechas de creación · ad más viejo de 44 días · en US tiene 189 estimados con los 50 visibles de hoy (cohorte oculta, operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el formato de megapack temático («800 flores», «800 cuadrados») traducido y ordenado por técnica · destino sugerido **AR**, después ES · ángulo: «un año de proyectos en un solo PDF». Ojo: el crochet ya tiene oferta hispana (Crea y Emprende, Sofía Ramírez), así que el diferencial es el megapack de flores y granny squares, no el amigurumi.
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=534358449768435&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=534358449768435&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2245105816269921)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API; el conteo de GB lo hizo un subagente).
+
+**Señales del día EN (tarde, 2026-11-10)**
+- Knitting Memories (111213628297241): 23/27 en US y GB con un ad de 92 días, pero vende patrones de tejido infantil sueltos con «90% Off», tipo tienda de Etsy (la red «X Memories» incluye Sewing Memories).
+- Sewing Lovers (1341379315722832): 20/50 en US (piso) y 8/37 en GB; patrones PDF de bolsos y neceseres a USD 9,99. Es un operador a seguir.
+- Sarah Mitchell (244418568758034): 14/44 en GB con «+500 crochet patterns organized in one place»; la página tiene nombre de persona, verificar si hay cara.
+- Patterns Zone (101105212312996): 12/34 en US y 12/29 en GB con un solo título, «Only $3 (Was $13)»; no se sabe qué producto es.
+- Cohortes ocultas, re-medir desde el 2026-11-17: Stitch Well (409 estimados, ads de hasta 69 días por keyword), All Knittings (≈520) y The Knitter's Treasure Chest (5.200 patrones, unos 45 ads cumplen 7 días el 11-11).
+- Emma Clarke 24/32 y Online Skills 10/31: bolsos en plastic canvas contados en primera persona, probable marca personal.
+
+### 🎯 «Salvá tu matrimonio» para el marido rechazado — Heroic Husband + Linda Harrison US·GB · `pareja/reconquista-matrimonio` · 2026-11-10 · sesión EN
+- **Qué es:** guía/libro para el hombre cuya esposa se enfrió o pide el divorcio («How Successful Men Save Their Marriage For Good», «$8 Book | Successful Men Stop Divorce Today», «Wife stopped wanting you?», «Miss the Woman you married?»); Heroic Husband lo vende a **USD 8** y agrega una «7 Day Trial»; el precio de Linda (cobra en EUR) no se ve.
+- **Por qué es ganador:** cohorte 7+/activos **Heroic Husband 47/53 en US (piso) y 45/45 en GB**, **Linda Harrison 43/55 en US (piso) y 17/20 en GB** · ads vivos de 71 días (Heroic) y de 105 días (Linda) · 8 y más de 10 fechas de creación, con tandas de esta semana (operadores vivos) · dos operadores con el mismo dolor · Heroic es página de marca.
+- **Qué hacer:** modelar una guía PDF corta para el hombre («por qué ella se apagó y qué hacer en los próximos 30 días»), a USD 7-9, con hook «¿Tu mujer ya no te busca?» · destino sugerido **AR** primero y después ES: ninguno de los dos corre ahí, y en AR la oferta que hay (Cerca de Nuevo, de hoy) le habla a ella, no a él.
+- **Ads Library:** Heroic Husband [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=234796816378250&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=234796816378250&search_type=page&media_type=all) · Linda Harrison [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=778821148649074&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=778821148649074&search_type=page&media_type=all) · creativos más viejos: [Heroic](https://www.facebook.com/ads/library/?id=1052153710756130) · [Linda](https://www.facebook.com/ads/library/?id=2327726454633290)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir si el «$8 Book» es ebook o libro físico, qué es la prueba de 7 días, y si la cara de Linda Harrison vende (página con nombre de persona).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (mañana, 2026-11-10)**
+- Sarah Couples Therapist (991798834020896): «Normally $99 — $9.97 today», 6/10 en US y GB (los otros 4 cumplen 7 días hoy); página con nombre de terapeuta, verificar la cara.
+- Donna Whitfield (1180278161845468): 553 ads estimados en US con un solo título, los 50 visibles del 06-11: cohorte oculta, re-medir desde el 17-11.
+- Printable WITH Lisa (106064502120864) y Heal & Focus (531767666678981): fábrica de workbooks digitales «90% off» (pareja, Biblia, sistema nervioso), 31 y 46 activos pero ninguno con 7 días: rota todo cada semana.
+- Kinley's Lane (10/10, todos del 20-10) y Calm sphere (16/16 INR, todos de agosto): posibles zombis.
+- Michelle Mays (17/17) y Fierce Marriage (15/15): traición y pareja cristiana tienen demanda, pero son autoras con libros impresos.
+
+### 🎯 Planner digital perpetuo «una descarga, todos los años» — This & That Planners US · `planners-imprimibles-2027/digital-tablet` · 2026-11-09 (tarde) · sesión EN
+- **Qué es:** planner digital que se abre en una app de notas gratis en tablet, teléfono o PC («One Download. Every Year», «Pay Once. 2027 Already Inside», «Works On Android Too»); precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **10/50 en US** (piso, 66 estimados) · ad más viejo de 11 días en US y de 38 días en GB · 3 fechas de creación, tanda de 22 ads nuevos hoy (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el ángulo «el último planner que vas a comprar» (perpetuo, no vence en diciembre, sirve sin iPad) · destino sugerido **ES**, después AR · hook: «10 planners de papel o 1 digital». En AR/ES ya venden planners digitales (Planner Lovers, NorthPlanner, Papelia), pero ninguno con el ángulo perpetuo.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1007996855726476&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1007996855726476&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1092920840246723)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y confirmar que es descarga y no suscripción).
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Planner Digital 2027 con 45 portadas + 4 regalos — Planner Lovers US·GB (+AR·ES·MX) · `planners-imprimibles-2027/digital-tablet` · 2026-11-09 (tarde) · sesión EN
+- **Qué es:** planner digital 2027 para tablet, «45 portadas, un solo planner», «cada área de tu vida, una pestaña», con 4 regalos; cobra en USD; precio no visible.
+- **Por qué es ganador:** cohorte 7+/activos **28/28 en US** (vistos todos) y 9/9 en GB · «Plan Your Whole Year in One Tap» ×10 en la cohorte · 3 fechas de creación, la última de hace 8 días · página fantasma · un solo operador.
+- **Qué hacer:** ojo: es un operador **hispano** que ya corre en AR/ES/MX (20 activos, mismas fechas): no hay hueco, es el competidor a vencer y el molde. Si se entra, a **ES** con diferencial (perpetuo, por profesión o para estudiantes, «De la universidad a la vida personal»). Sirve más como operador a seguir por la sesión ES.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=128972030308501&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=128972030308501&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=128972030308501&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1851011136055769)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales EN, tarde (2026-11-09)**
+- The EaseUp Planners (1194131877121706): planner digital, 140 ads estimados en US, pero relanzó todo el 06/07-11 y los 50 visibles tienen menos de 7 días; re-medir desde el 16-11.
+- My Digital Prayers (1256866034188045): planner de oración digital, 8/8 en US con ads de 24 días, pero todos creados el mismo día (posible zombi).
+- Commit30 (497100157108794): 10/14 en US con un ad de 484 días, pero vende planners de metas físicos.
+- Presupuesto y Navidad en PDF (Winter Wren $3.99, Litepaper Publisher, Simplify Her Life, Family Fun Printables $12.95): muchos testers y ninguno llega a 7 días; mirar de nuevo antes del 30-11.
+
+EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study guide pdf, printable pages, digital planner, canva templates, checklist pdf, mini course, ebook download, $37 guide, $9 pdf, £9.99 pdf, £19 guide, template bundle, exercises answers (US y GB).
+
+**Señales del día EN (mañana, 2026-11-09)**
+- Linda Harrison (778821148649074): «Wife stopped wanting you?» / «Miss the man you married?», 44/≥50 en cohorte en US con ads de hasta 104 días y tandas nuevas hoy; cobra en EUR. No va como tarjeta porque la página tiene nombre de persona y no se ve si vende guía o coaching: verificar en la PC, es lo más fuerte del día.
+- Tonic Site Shop (302255036552164): plantillas web para Showit, 29/35 en US con ads de hasta 237 días, pero cuestan USD 1.495: no es bajo ticket.
+- Fallback Book (GB, 1388539597681148): plan de emergencia «para tu dirección», 12/18 en cohorte; puede ser personalizado o libro impreso.
+- Hearth & Order (1471930582665074): clon nuevo del planner de limpieza de Honey Home (139 y 36 páginas), ads de hoy: la ventana del nicho se está llenando.
+- Teoría musical y costura en PDF (Acordes en Claro, Music Solved, Sewing Lovers, All Knittings): cientos de ads activos pero la API solo muestra los 50 de hoy; volver a mirar desde el 16-11.
+
+### 🎯 Megapaquete de plantillas NIST / ciberseguridad — Dragon Fire Method GB·US · `ciberseguridad/plantillas-nist` · 2026-11-09 (2ª corrida) · sesión EN
+- **Qué es:** paquetes digitales de plantillas de seguridad de la información («125 NIST templates + 500 more», toolkit de evaluación de riesgos NIST 800-30, 30 plantillas de respuesta a incidentes); cobra en EUR y el precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **30/≥50 en GB** (piso) y ≥9/≥50 en US con los 50 más nuevos · tandas de 8 a 60 días · 16 fechas de creación y una tanda nueva de ayer · un solo operador que domina NIST/ISO/IR en las dos plazas.
+- **Qué hacer:** modelar tal cual en español (ENS + ISO 27001 + NIST CSF para pymes y consultores) · destino sugerido **ES**, después AR · ángulo: «500 plantillas listas para tu auditoría». En AR/ES el único par es Quality4U (planilla de ciberseguridad en Excel).
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=163589696835008&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=163589696835008&search_type=page&media_type=all) · creativo: [ad](https://www.facebook.com/ads/library/?id=1150905517887550)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. ⚠️ Dos ads dicen «Buy direct from me»: hay que confirmar que los creativos no dependen de una cara (marca personal).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales EN, 2ª corrida (2026-11-09)**
+- Your Consulting Management Guide (1097413493462052): 47/50 en US y 43/46 en GB, con ads de hasta 141 días y «Instant PDF Download» en el título, pero no dice qué vende; verificar en la PC.
+- ISO 27001: dos vendedores de kits (ISO 27001 PRO LLC y Stratovik, «$99») solo tienen ads inactivos; es un cementerio.
+- LawMother (101019127920427): kit de planificación sucesoria al 60 % OFF, 25/45 en US; puede ser un estudio de abogados.
+
+### 🎯 Cleaning Planner System (printable) — Honey Home US·GB · `hogar/planner-limpieza` · 2026-11-09 · sesión EN
+- **Qué es:** planner de limpieza imprimible, «sistema» de 139 páginas + versión «room by room» de 36 páginas; precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **15/25 en US** y **13/23 en GB** · tandas a 11-12 d y 32-33 d · 4 fechas de creación, la última del 08-11 (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar tal cual en español («tu casa en orden, habitación por habitación») · destino sugerido **ES** · ángulo: sistema completo vs. lista suelta. En AR/ES ya testean Casa en Calma y Casa al Día con ads de menos de 7 días: la ventana se está cerrando.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1334135786448993&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1334135786448993&search_type=page&media_type=all) · creativo más duplicado: [ad](https://www.facebook.com/ads/library/?id=4562502697396507)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Kit de contabilidad práctica: 7 workbooks + 300 ejercicios — Practical Accounting Kit GB · `educacion-profesional/contabilidad-workbooks` · 2026-11-09 · sesión EN
+- **Qué es:** 7 cuadernos de ejercicios de contabilidad con más de 300 ejercicios, digital, **£19.90** (precio del título del ad).
+- **Por qué es ganador:** cohorte 7+/activos **21/31 en GB** (vistos todos los ads) · tandas a 8·9·10·12·13 d · 8 fechas de creación distintas · página fantasma con una sola oferta · no corre en US.
+- **Qué hacer:** modelar adaptado al plan contable de cada país (PGC en ES) · destino sugerido **ES** · ángulo: «la práctica que la carrera no te da». En AR ya hay 4 testers con ads de menos de 7 días (Contabilidad Sin Vueltas, Ediciones Vertice…).
+- **Ads Library:** [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1329811246889008&search_type=page&media_type=all) · creativo: [ad](https://www.facebook.com/ads/library/?id=991757703286904)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (2026-11-09)**
+- Dragon Fire Method (GB, 163589696835008): plantillas NIST de ciberseguridad, 30/≥50 en cohorte con tandas de 8 a 53 días; podría ser marca personal («buy direct from me») y no se ve el precio.
+- Live Well & Fully (447372159049335) / Barbara Decker (2025115757540683): «método» para madres de hijos adultos con adicciones, 45/≥50 en US; parece un programa o coaching y no se ve el formato.
+- Haircare Guide (101757929032411): 49/≥50 en US y 50/≥50 en GB, «Get Your Thick Hair Back!»; parece un advertorial de suplemento.
+- Libros ilustrados para exámenes (Visual Guide Lab, In pictures books, Illustrated Manuals): mucho volumen pero ningún ad llega a 7 días; volver a mirar desde el 16-11.
+
+<!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
+
+### 🎯 «Apostila Completa + Aplicativo de Questões» para concursos — Trilha do Estudo BR · `concursos/material-estudo/por-avatar-professor-saude` · 2026-11-17 · sesión BR
+- **Qué es:** una apostila completa de concurso público que viene con una app de preguntas («Apostila Completa + Aplicativo de Questões»; también corre «Aplicativo de Estudos»). Se cobra en USD y el precio no se ve por API. Duda abierta: ¿el núcleo es la apostila en PDF con la app de regalo, o una suscripción a la app?
+- **Por qué es ganador:** cohorte 7+/activos **50/50 en BR**, sobre los 50 devueltos (es un piso: hay 61 estimados). Crece de una medición a la otra: ≥40 el 10-11, ≥40 el 13-11, ≥50 hoy. Tiene 14 fechas de creación entre el 28-09 y el 10-11, y el ad más viejo lleva **49,5 días**. **43 de los 50 en cohorte repiten el mismo título.** Es una página de marca, sin nombre de persona, y un solo operador.
+- **Qué hacer:** si es PDF, modelarlo para España como «temario resumido + banco de tests» de una oposición puntual (Correos, auxiliar administrativo, celador) a EUR 9-15. Si en la PC resulta ser una APP: pasarlo a PDF con tests imprimibles, más un Excel de autocorrección. Destino sugerido **ES**; AR no tiene un mercado de concursos parecido. En `temario oposiciones test` (ES) el tope lo ocupan academias y OpositaTest, y ya entró **Opo Lumio**, que paga en BRL y corre oposiciones de ADIF: un operador brasileño probando el molde en España.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=641390105728644&search_type=page&media_type=all) · creativo más viejo: [49 d](https://www.facebook.com/ads/library/?id=2294195771328510) · tester en ES: [Opo Lumio](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1287418131132351&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** abrir el snapshot y confirmar si se cobra un PDF o una suscripción, y cuánto.
+- Score 2/4 (longevidad 49 d, duplicación ×43) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «+200 Ferramentas Práticas» / «Kit Completo» para terapeutas — Caixa do Terapeuta BR · `esoterismo/radiestesia-mapas` · 2026-11-17 · sesión BR
+- **Qué es:** un kit descargable de más de 200 herramientas prácticas para terapeutas, del tipo fichas, dinámicas y recursos de sesión («Baixe Agora +200 Ferramentas Práticas», «Acesse Agora seu Kit Completo»). Se cobra en BRL y el precio no se ve. Desde el 12-11 la página también empuja un «Sistema de Numerologia Automática», que es probable planilla o software: eso no se trae.
+- **Por qué es ganador:** cohorte 7+/activos **23 en BR**, sobre los 50 devueltos (es un piso: hay 82 estimados). Es el mismo número que el 16-11, o sea que sostiene. Hay dos tandas que siguen enteras: la del 07-10 (11 ads, **40 días**) y la del 21-10 (12 ads). Cada tanda tiene un solo título, repetido 11-12 veces. Es una página de marca, sin nombre de persona, y un solo operador.
+- **Qué hacer:** modelar «kit de +200 recursos para terapeutas» (fichas imprimibles, dinámicas y guías de sesión) en PDF a USD 7-10, con un upsell de kit temático. Destino sugerido **AR**, después ES. Ojo, la ventana se está cerrando: en el hispano ya corren testers brasileños de este molde, de 0-1 días, cobrando en BRL. Son Luciana Ramos («+200 RECURSOS PARA TERAPEUTAS»), Lúcia Garcia (recursos para adolescentes) y Lucía Dias Lopez (Kit de Reiki).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=469875186209972&search_type=page&media_type=all) · creativo más viejo: [40 d](https://www.facebook.com/ads/library/?id=2215114689385623) · tester hispano: [Luciana Ramos](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=515910701613917&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** ver en la PC qué trae el kit (¿terapia holística o psicología?) y el precio, y confirmar que no sea una membresía.
+- Score 2/4 (longevidad 40 d, duplicación por tanda) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-17)**
+- Ana Beatriz (500613633701984): **≥48/50** en BR (68 estimados), ad más viejo de 50 días, en USD, con «LUCRE COM MEUS MOLDES» y moldes + videoaula. Es lo más fuerte de los operadores, pero tiene nombre de persona y habla en primera persona: verificar en la PC si hay cara antes de tarjetearla.
+- ComportaMente (479332898595798), tarjeta del 14-11: pasa de 15/16 a **41/49**. «5x2 na Prática» tiene 13 en cohorte, el Kit NR-1 15 y «Novembro Azul» 9.
+- TI em Mapas (1171375182736345), tarjeta del 12-11: la versión en español ya tiene **19/40** en AR/ES/MX (desde el 29-10), así que el destino hispano está ocupado.
+- Essência viva (1436395682884516), tarjeta del 16-11: lanzó hoy «Kit Radiestesia en la Práctica» en AR/ES/MX (4 ads, 0 en cohorte). En BR está 14/37.
+- Ponto Certo App (1037269729466043), tarjeta del 13-11: crece de 7/21 a 17/25. El avental tiene 11 en cohorte, el chinelo 3 y el cesto baleia 3.
+- Farmácia Mapeada (105693778467803): el SKU nuevo «Guia Prático da Dispensação de Controlados 2026» ya tiene ~15 en cohorte, pero es normativa Anvisa, específica de Brasil.
+- Arquivos que encantam (216603914872916): 13/20, y por fin se ve qué vende: «+150 Revistinhas Editáveis por R$10» (los ads con el producto en el título tienen < 7 días).
+- Embudos WA sin oferta en el título: Receitas Emagrecedoras ≥23/50, Saúde em Forma ≥20/50 y Criativizando 27/38. No pasan el test del copy.
+- Brinca e Aprende 10/39: los 10 son de un solo día (09-11) y la tanda anterior se apagó, así que rota y no acumula. Edufisicavisual baja de 26 a 13 y Tia Juliana de 11 a 3. Mamãe que fez desapareció (0 con ALL). Pequenos Leitores sigue apagada.
+- Cohortes invisibles: los 50 devueltos son todos de esta semana, así que no se puede medir la cohorte en Atividades infantil (278 estimados), Lacuna Concursos (76), Marcelomapas (126, SKU nuevo «Oficial de Justiça TJSP R$97»), Sr. SMS (641) y Prof. Mariana Oliveira (123, de nuevo en USD).
+
+### 🎯 «Passo a passo simples» para diagramar tu propio libro — Diagramação Express BR · `escrita-criativa/autopublicacao` · 2026-11-16 (tarde) · sesión BR
+- **Qué es:** por el nombre de la página, un paso a paso para que el autor diagrame solo su libro (para Amazon o imprenta). Puede ser guía, mini-curso grabado o plantillas. El producto y el precio **no se ven por API**: todos los ads llevan el mismo título, «Passo a passo simples» (BRL).
+- **Por qué es ganador:** cohorte 7+/activos **22/44 en BR** (vistos los 44). Son dos tandas de 11 ads (08-11 y 09-11, de 8 a 9 días) que siguen todas vivas, y después tandas nuevas el 10 y el 11-11: 4 fechas y el operador vivo. Página de marca, sin nombre de persona, un solo operador. Es joven: la cohorte más vieja tiene 8 días.
+- **Qué hacer:** si en la PC se confirma que vende el método y no el servicio, modelar «diagramá tu libro para Amazon KDP en una tarde» (guía PDF + plantillas de Word/Canva) a USD 9-12. Destino sugerido **ES**, después AR: en el control hispano (`estructuras narrativas`, `escribir novela`, `crear personajes`) nadie vende autopublicación. Volver a medir el 2026-11-23 para ver si la cohorte aguanta.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1350262598172109&search_type=page&media_type=all) · creativos más viejos: [08-11](https://www.facebook.com/ads/library/?id=1459481796113257) · [08-11 (2)](https://www.facebook.com/ads/library/?id=29175687838782812)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL y la marca no aparece en la web). **Antes de decidir:** abrir el snapshot y ver si es un PDF o curso o un servicio de diagramación hecho por ellos (el servicio no se trae), y el precio.
+- Score 0/4 (cohorte de 8 días, una sola creatividad) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-16, tarde)**
+- Creartool (325627053956826), tarjeta del 09-11: 21/21, todos con «10 Estruturas Narrativas» (el más viejo, del 01-06). Los SKU nuevos («30 Estruturas», arquetipos, «101 fatos») ya no tienen ads activos y el último ad es del 18-10.
+- Livingbooksbr (109699682175872): 12/30 por entrega, en un lanzamiento con cuenta regresiva («Vendas abertas», «É hoje!»). El producto no se ve, probablemente un curso: verificar en la PC.
+- Narralab (1392023417322143) corre «¿Molde equivocado para tu historia?» en el hispano, 2/2 a 15 días (USD): un tester del molde de Creartool en el destino.
+- Casa Folha (38/58 en «escrever») y Escrita Criativa (lanzamiento «2ª aula») son cursos con autora estrella o por lanzamiento: no se traen.
+- Autor.ia (11/15, USD) escribe el libro con IA: es SaaS o servicio, no se trae. Meu Livro Pronto, 8/8 a 76 días por «R$ 97»: probable servicio, verificar.
+- Guion, personajes/mundos, fanfic y plantillas de escritor no tienen cohorte en BR: son escuelas, RPG y spam de webnovel.
+
+### 🎯 «Kit Radiestesia na Prática · 60 gráficos em PDF» — Essência viva BR · `esoterismo/radiestesia-mapas` · 2026-11-16 · sesión BR
+- **Qué es:** un kit de 60 gráficos de radiestesia en PDF para imprimir y usar con el péndulo en las sesiones, a **R$27**. Hay una versión mayor, «Kit Atendimento Completo», a R$47, y hoy empezó a probar un SKU nuevo («Mesa de Reconexão com Vidas Passadas · método em PDF»). El público es la terapeuta que ya tiene el péndulo y no tiene el material.
+- **Por qué es ganador:** cohorte 7+/activos **13/38 en BR** (vistos los 38, sin tope). Tiene 3 ads de **40,7 días** (06-10) con el título «⭐⭐⭐⭐⭐ 4.83/5», 8 ads de 20 días (27-10) y tandas nuevas todos los días entre el 12 y el 15-11: 8 fechas y el operador vivo. Es una página de marca, sin cara en el nombre, y un solo operador. Los ángulos que sobreviven son «Imprima hoje. Atenda amanhã.» y «Você já tem o pêndulo. Falta o material.».
+- **Qué hacer:** modelar «carpeta de gráficos de radiestesia para tus sesiones» en PDF a USD 7-9, con un upsell de «kit de atención completo» (fichas de consultante, informe para la clienta). Destino sugerido **ES**, después AR. Ojo, la ventana se está cerrando: el mismo operador ya corre «Kit Radiestesia en la Práctica» en español (7 ads en el hispano con ALL), y esta semana aparecieron testers de 1-2 días (EnergiaAfla, Código de Luz, FIT Planner). Esto encaja con el ángulo que la tarjeta ES de Regarte (14-11) dejó propuesto: péndulo más tablas imprimibles.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1436395682884516&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ES&view_all_page_id=1436395682884516&search_type=page&media_type=all) · creativos más viejos: [40 d](https://www.facebook.com/ads/library/?id=1382484153619420) · [20 d «Você já tem o pêndulo»](https://www.facebook.com/ads/library/?id=1134012069159171)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC que el checkout cobre R$27 por un PDF y qué trae el kit de R$47.
+- Score 1/4 (duplicación por título; el hueco hispano ya tiene testers) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Mesas & Gráficos 2026» (ebook de mesas radiónicas y gráficos) — Sama Terapias BR · `esoterismo/radiestesia-mapas` · 2026-11-16 · sesión BR
+- **Qué es:** un ebook o pack de mesas radiónicas y gráficos para terapeutas holísticos. Ahora corre la versión de Black Friday («Mesas & Gráficos 2026»). La misma página vende también algo con inscripción («Clique em saiba mais e inscreva-se!»), que puede ser un curso. El precio no se ve (BRL).
+- **Por qué es ganador:** volumen y longevidad: **37 en cohorte de 50 devueltos (piso; 58 estimados) en BR**. Por título, la cohorte se reparte así: «Oferta por tempo limitado» 25 (20 de la tanda del 08-11 y 5 de **79 días**), «garanta seu ebook» 5 (52-77 días) y «inscreva-se» 7 (hasta **79,5 días**). Hay unas 11 fechas y el operador está vivo. Es una página de marca, sin nombre de persona, y un solo operador.
+- **Qué hacer:** si en la PC se confirma que la oferta grande es el ebook, modelar «mesas radiónicas listas para imprimir + manual de activación» en PDF a USD 9-12. Destino sugerido **ES**, después AR. En el hispano Sama no corre (0 con ALL) y en `mesa radiónica` solo hay un operador con algo de cohorte (Ámate Conscientemente, mesa + manual, 9-25 días); el resto son centros y cursos.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=370972230119772&search_type=page&media_type=all) · creativos más viejos: [79 d (oferta)](https://www.facebook.com/ads/library/?id=1060627956611446) · [77 d (ebook)](https://www.facebook.com/ads/library/?id=2076195966316912)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** ver qué vende «Oferta por tempo limitado», el precio, si «inscreva-se» es un curso en vivo (eso no se trae) y que no haya una terapeuta con cara en los creativos.
+- Score 2/4 (longevidad 45+, hueco hispano) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La cohorte es un piso: la API corta en 50.
+
+**Señales del día BR (2026-11-16)**
+- Fe Alves (105784057830847): ≥34 en cohorte con la sonda «Grimório» (79 d, 216 activos est.), pero el nombre es de persona y mezcla el «Grimório Proibido» R$39,90 con amarres y pareja («Doce Obsessão», «Método Anti-Separação»): no va como tarjeta.
+- Caixa do Terapeuta (469875186209972): ≥23/≥50 (82 est.), «+200 Ferramentas Práticas» para terapeutas y «Sistema de Numerologia Automática»; ese sistema corre además en 3 páginas nuevas sin cohorte (Reescrevendo seu Caminho, Coleção Terapêutica Premium, la versión en español): re-medir 2026-11-23.
+- Guia do Tarot (1280118968507279) 17/17 a 114 d y Mapa Astral (689639197570424) 10/10 a 108 d, pero ninguno con ads en 30 días: posibles zombis.
+- Radiestesia Terapêutica (100428381926033): lanzamiento «Pendulado Friday» el 18-11 con 273 activos est., todos nuevos; re-medir 2026-11-25.
+- Mirra Mattos (1264875876874665) 21/27 a 182 d con «Tarot do zero R$49»: marca personal (Tarot Livre®), no se trae.
+- Campo Vibracional sigue sin cohorte (0/≥50, ningún ad de más de 6 días): re-medir 2026-11-21 sigue en pie.
+
+BR 2026-11-15 (tarde): domingo de lint, nada que pase la vara; no se barrió nada (re-chequeo del lint de la mañana, sin cambios).
+
+BR 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 19 tarjetas BR pendientes de revisión y 8 operadores que solo se pueden verificar en la PC (lista en `RAW/cazas-auto/2026-11-15-br-lint-cola.md`).
+
+### 🎯 «Kit NR-1 pronto para usar» (riesgos psicosociales) — ComportaMente BR · `seguranca-trabalho/cartilhas-sst/nr1-psicossocial` · 2026-11-14 (tarde) · sesión BR
+- **Qué es:** un kit listo para cumplir la NR-1 nueva de Brasil, la que desde 2026 obliga a las empresas a evaluar los riesgos psicosociales dentro del PGR. Por el nombre de la página apunta a psicólogos y RR. HH. Los 16 ads tienen un solo título, así que es una sola oferta. El precio no se ve en los ads (moneda BRL).
+- **Por qué es ganador:** cohorte 7+/activos **15/16 en BR** (vistos todos, sin tope). La primera tanda es de 12 ads del 23-10 (**22 días**) y siguen vivos todos; después lanzó 3 el 28-10 y 1 el 11-11. Hay 3 fechas y el operador está vivo. Página de marca, un solo operador. Es regulación nueva, así que la demanda es reciente. En el subnicho asoman clones (Vivendo de Psicologia, Cláudia Russo «Kit NR1», Gestão de SST na Prática), todos de menos de 7 días.
+- **Qué hacer:** modelar «kit de evaluación de riesgos psicosociales listo para usar»: cuestionario, matriz de riesgos, informe y plan de acción editables, a USD 9-15. Destino sugerido **ES**, donde la evaluación psicosocial ya es obligatoria por la ley de prevención de riesgos laborales (adaptarlo a ese método), después AR. En el hispano está casi vacío: `riesgos psicosociales kit` da 2 ads en ES/AR, uno es un tester BR en español de hace 2 días (Seguridad Industrial Pro), y ComportaMente da 0 en AR/ES/MX con ALL.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=479332898595798&search_type=page&media_type=all) · creativos más viejos: [22 d](https://www.facebook.com/ads/library/?id=1834175684253111) · [22 d](https://www.facebook.com/ads/library/?id=1158666846839195)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC el precio, si es un kit descargable o una consultoría o software, y que no haya una psicóloga con cara vendiendo en los creativos.
+- Score 2/4 (duplicación por título, hueco hispano) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Combo SR. SMS — Segurança do Trabalho 2026» (documentos y treinamentos de SST) — Sr. SMS BR · `seguranca-trabalho/cartilhas-sst/documentos-planilhas` · 2026-11-14 (tarde) · sesión BR
+- **Qué es:** un combo de material para técnicos de seguridad del trabajo: modelos de PGR y AEP, gestión de SST, cartillas y treinamentos. La oferta de Black Friday es «10 Produtos de SST» con acceso vitalicio. Uno de los productos se llama «IA de Segurança do Trabalho — Especialista em NR-01», que puede ser un asistente y no un archivo. El precio no se ve (moneda de la cuenta USD).
+- **Por qué es ganador:** volumen enorme: **619 activos estimados en BR**. Con la sonda `Black Friday` sobre la página conté **36 en cohorte de 50 devueltos (piso; 143 estimados)**, tandas del 04-11 y 05-11. Otro subagente sumó **≥74 en cohorte** entre varias sondas, con un ad de PGR de **54 días** (20-09). Hay más de 7 fechas y ads nuevos todos los días: el operador está vivo y escalando. «Sr. SMS» es un personaje, no un nombre de persona; un solo operador.
+- **Qué hacer:** modelar un «combo del técnico en higiene y seguridad»: modelos editables (relevamiento de riesgos, permisos de trabajo, checklists de inspección, capacitaciones en PowerPoint), a USD 9-15 con upsell del combo completo. Destino sugerido **AR** (técnicos y licenciados en Higiene y Seguridad, adaptado a la normativa local), después ES (técnicos de prevención). En el hispano no hay nadie: `seguridad higiene plantillas` en AR/ES da 15 ads de escuelas y consultoras, y Sr. SMS da 0 en AR/ES/MX con ALL.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=134265803944064&search_type=page&media_type=all) · creativos: [54 d (PGR)](https://www.facebook.com/ads/library/?id=1392827052428869) · [10 d (combo)](https://www.facebook.com/ads/library/?id=1316276687246997)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL y muchos tienen el título vacío). Antes de decidir hay que ver en la PC el precio, qué trae el combo, si la «IA» es una suscripción y si hay cara en los creativos.
+- Score 2/4 (volumen, hueco hispano) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La cohorte es un piso: la API corta en 50.
+
+**Señales del día BR (2026-11-14, tarde)**
+- SST Online Gold (155956234265597): 13/17 en BR (37 d, 3 fechas), títulos «Acesso Imediato» y «Comente "Eu Quero" que te envio» (comentario → DM): el producto no se ve; mirar en la PC.
+- Escola da Prevenção (663744763723231): 14/18 (8 fechas) pero vende un pendrive de SST con envío (físico) y «365 DDS» de R$97 a R$47: ver en la PC si hay versión digital.
+- Grupoisesmt (111072448532138): 18/28, «+115 cursos de SST prontos, fature com sua marca» (reventa de cursos, 2 fechas); no es bajo ticket.
+- Mundo do Aço (1306672945868585) 8/8, «100 DDS Visuais» para limpieza y facilities, y Segurança dos Trabalhos (184703358066141) 8/8, «Drive SST +100 mil arquivos» (R$25, ad de 479 d): a 2 de la vara, re-medir el 21-11.
+- Fernanda Ribeiro (844848748719291): «As 38 NRs por R$11,99» 8/8 (8 d) dentro de una página multinicho (≥29/≥50); nombre de persona.
+- SSTreta (450774674794986): slides de NRs + «1.000 DDS», 6/6 de una sola fecha (13-06) sin ads nuevos: posible zombi.
+- Ola de esta semana con cohorte 0: PS Serviços de SST 0/30 (slides de las 38 NRs), Vibe Digital 0/15, Ederson Deda 0/8 (APR y PT en Word), Camila R (NR-17, dentro de 281 multinicho), Ricardo Montenegro (+490 slides), Mapeou Tudo (36 mapas de NRs R$12,90): re-medir el 21-11.
+
+### 🎯 «100 Cartões de Enfermagem para consultar em 3 segundos» — Tia Juliana BR · `saude/cartoes-consulta-enfermagem` · 2026-11-14 · sesión BR
+- **Qué es:** 100 tarjetas de consulta rápida para enfermería (fichas de bolsillo en PDF para el turno: medicación, valores, procedimientos). El título se repite en los 35 ads, así que es una sola oferta. El precio no se ve en los ads (moneda BRL).
+- **Por qué es ganador:** cohorte 7+/activos **11/35 en BR** (vistos todos, sin tope). La primera tanda es del 30-10: **10 ads a 15 días** siguen vivos todos, más 1 del 07-11. Después lanzó 5 el 11-11, 2 el 12-11, 10 el 13-11 y 7 hoy, o sea que está escalando la misma oferta. Hay 7 fechas de inicio y el operador está vivo. La página tiene nombre de apodo («Tia Juliana»), no de autoridad; un solo operador.
+- **Qué hacer:** modelar tal cual: «100 fichas de enfermería para consultar en 3 segundos», PDF imprimible y para el celular, a USD 5-7. Ángulo: «la respuesta en el turno, sin buscar en el libro». Destino sugerido **AR** (escuelas de enfermería y turnos largos), después ES (adaptando nombres de fármacos). En el hispano hay un solo tester: Doctor PDF («100 fichas de consulta rápida», MXN) con 1/6 en AR y ES, el mismo molde todavía sin cohorte. La ventana está abierta pero alguien ya entró.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1332936713226815&search_type=page&media_type=all) · creativos más viejos: [15 d](https://www.facebook.com/ads/library/?id=1670969617766162) · [15 d](https://www.facebook.com/ads/library/?id=1002861112872161) · tester hispano: [Doctor PDF AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=114914206902993&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC el precio, si es PDF o tarjetas impresas y que no haya una cara de enfermera vendiendo en los creativos.
+- Score 2/4 (duplicación por título, hueco hispano) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Joven (15 d): conviene re-medirlo el 21-11.
+
+**Señales del día BR (2026-11-14)**
+- Mariana Fonseca (948970524969940): 12/37 en BR (16 d, 7 fechas), todos «✅BAIXE AGORA» y 33 de 37 mencionan «apostila»; no se ve qué apostila vende y la página lleva nombre de persona: mirar en la PC.
+- Mundo da pedagogia (1039269859262453): 10/25 pero mezclado; la oferta más fuerte es «Consciência Negra sem perder tempo!» con 8 en cohorte (estacional, vence el 20-11).
+- Sinapse Visual (1312003592005982): «Oratória em Mapas» 7/39 (USD) más mapas de Navidad y de Transpetro; misma familia que TI em Mapas: re-medir el 21-11.
+- Mais Você (133188449874410): 7/23 con ads de 99 días, todos «CHAME AGORA NO ZAP!» sin oferta visible; lanzó hoy 16 de «1000 Adesivos».
+- Riscos para Bordar (396283016894466): riscos de bordado, 7/16 con títulos de prueba social («+1000 vendas», «4.9/5»); a 3 de la vara: re-medir el 21-11.
+- Sr. SMS (134265803944064): combo de seguridad del trabajo (PGR, AEP, cartilla), ≥4 en cohorte con 613 activos estimados, en USD; cohorte detrás del tope, no se sabe si es plantilla o software.
+- Ola de esta semana con cohorte 0: Campo Vibracional 0/32 (radiestesia), Ana dias 0/24 (300 simulados SARESP R$10), Alan Projetos 0/16 (100 casas R$10), Lucro Na Mesa 0/10 (R$37), Sabrina Paiva 0/7 (300 planillas de obra R$37): re-medir el 21-11.
+
+### 🎯 «Molde do Avental Japonês Viral em PDF» + videoaula — Ponto Certo App BR · `costura/moldes-pdf-br/casa-avental-mesa-posta` · 2026-11-13 (tarde) · sesión BR
+- **Qué es:** el molde en PDF del delantal japonés (el cruzado, sin botones ni lazos), con una videoaula de costura. Los títulos muestran entre 748 y 848 reseñas en estrellas. El precio no se ve en los ads. La página también probó otros moldes sueltos esta semana: Cesto Baleia y Chinelo de Tecido.
+- **Por qué es ganador:** cohorte 7+/activos **10/24 en BR** (vistos todos), y los 10 son del delantal. El ad más viejo tiene **113,6 días**. Las tandas son del 23-07, 25-07, 23-08, 24-09, 03-10 y 06-11, y no apaga lo viejo. Hay 11 fechas de creación y 14 ads nuevos en la última semana, así que el operador está vivo. Es una página de marca, sin persona, y un solo operador.
+- **Qué hacer:** modelar «molde del delantal japonés en PDF + video paso a paso», en talles, a USD 5-7, con el ángulo «cosé tu delantal en una tarde y vendelo». Destino sugerido **AR**, después ES. En el hispano está vacío: `molde delantal` da 8 ads en AR/ES/MX/CO, casi todo ruido. En `moldes costura` solo entran testers brasileños y latinos en USD, todos con menos de 4 días.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1037269729466043&search_type=page&media_type=all) · creativos más viejos: [114 d](https://www.facebook.com/ads/library/?id=1337414954780602) · [111 d](https://www.facebook.com/ads/library/?id=1340572048291672)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC el precio, qué trae la videoaula y si el «App» del nombre es una suscripción en vez de un PDF.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). El 11-11 estaba en 9/22: entró a la vara con el ad del 06-11.
+
+### 🎯 Proyectos de costura (naninha de ursinho, boneco de neve) «Por Apenas R$17,00» — Mamãe que fez BR · `costura/moldes-pdf-br/infantil-bebe-bonecas` · 2026-11-13 (tarde) · sesión BR
+- **Qué es:** proyectos de costura en formato digital para mamás: «Projeto Naninha de Ursinho» (el muñeco de apego del bebé) y ahora «Projeto Boneco de Neve» para Navidad, a **R$ 17** según el título. No se ve si es solo el molde o molde más video.
+- **Por qué es ganador:** cohorte 7+/activos **11/17 en BR** (vistos todos): 7 ads de «Por Apenas R$17,00» (01-11 al 04-11) y 4 de la naninha (05/06-11). El ad más viejo tiene **11,8 días**. Hay 8 fechas de creación y lanza un SKU nuevo por semana. Es una página fantasma y un solo operador.
+- **Qué hacer:** modelar «muñeco de apego / naninha en PDF + paso a paso» a USD 5-7, con un proyecto estacional por mes (Navidad ya). Destino sugerido **ES**, donde el «doudou» es conocido, después AR. No se midió competencia de este proyecto en español.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1104742249386376&search_type=page&media_type=all) · creativos más viejos: [12 d](https://www.facebook.com/ads/library/?id=1067310256353522) · [12 d](https://www.facebook.com/ads/library/?id=1743437906733139)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). Antes de decidir hay que ver en la PC qué incluye el proyecto y que no haya una cara en los creativos.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Es joven: conviene re-medirlo el 20-11 antes de producir.
+
+**Señales del día BR (2026-11-13, tarde)**
+- Ana Beatriz (500613633701984): **≥30/≥50** en BR (66 est.), moldes infantiles y de babador + curso («MOLDES+VIDEOAULA», «LUCRE COM MEUS MOLDES»), USD, ad de 47-56 días. Es lo más fuerte del nodo, pero la página es un nombre de persona y el copy va en primera persona: verificar en la PC si hay cara antes de tarjetearla.
+- Silvia Mello (1147193731812287): ≥30/164 en BR con «Clique em saiba mais», 29 días; aparece por mesa posta y ropita, pero el producto no se ve. Verificar en la PC.
+- Boracosturar (631200920077769): 11/24, pero los 11 son un solo creativo («Pague 2 e Leve 3 Moldes»): tienda de moldes sueltos desde R$2,50, 50 días.
+- Raquel Barros (1271130002749095) 10/17 y Carolina Vieira Moldes (1335926382943346) 10/10: los dos justo en el piso, con el producto invisible; Carolina en USD con «Últimas unidades!» (¿físico?).
+- Cerca de la vara: Costura com Jéssica Lais 9/10 (necessaires, persona), Pixelverso 9/10 («4,8/5», ¿pet?), Avila Moldes 8/12 (moldes PDF por pieza, 52 días). Re-medir 2026-11-20.
+- En el hispano los moldes de costura ya tienen testers sin cohorte: Angela Moldes, Isabela Costurera, Patrones en PDF («+120 patrones infantiles»), Thaise Costura (BRL, «recíbelo primero y paga después»).
+
+### 🎯 Mapas visuales de cinesiología para educación física — Edufisicavisual BR · `mapas-visuais-r10/saude` · 2026-11-13 · sesión BR
+- **Qué es:** material visual (mapas) de cinesiología para estudiantes y profes de educación física. Es la única oferta de la página: los 29 ads activos mencionan «cinesiologia» en el texto. Los títulos son solo estrellas («⭐⭐⭐⭐⭐ 4.9/5») y el precio no se ve en los ads; desde el 05-11 la cuenta paga en USD (antes en BRL).
+- **Por qué es ganador:** cohorte 7+/activos **26/29 en BR** (vistos todos). El ad más viejo tiene **12,7 días** y hay 4 fechas de creación (31-10 ×16, 05-11 ×5, 06-11 ×5, 10-11 ×3): de la primera tanda siguen vivos los 16. Es una página fantasma (marca «Edufisicavisual», sin persona) y un solo operador. El 12-11 estaba en 21/29; lo marcamos para re-medir y pasó la vara antes de la fecha.
+- **Qué hacer:** modelar «cinesiología / anatomía del movimiento en mapas» en PDF a USD 7-10, para el profe de educación física y el estudiante del profesorado (no para kinesiólogos: ese ángulo ya está lleno). Destino sugerido **AR**, después ES. Ojo: en el hispano ya hay testers brasileños de esta semana con 0-2 días: Kine de Bolsillo («300 mapas de kinesiología», $12.900 ARS), Sofia Martins y Laura Menezes («+150 mapas de anatomía»), CMDigital, Luna Celeste, Camila González. En educación física hay pocos: Simplifica Educación Física («+60 mapas de periodización», ad de 27 días) y Lucia Ortiz (mismo título de estrellas, en BRL, ¿la versión en español de este operador?).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1293268003864355&search_type=page&media_type=all) · creativos más viejos: [13 d](https://www.facebook.com/ads/library/?id=1160515229823998) · [13 d](https://www.facebook.com/ads/library/?id=1123997510133945)
+- **Landing:** embudo no verificado desde la nube (sin URL en los ads). Antes de decidir hay que ver en la PC el precio, cuántos mapas trae, si hay cara en los creativos y si Lucia Ortiz es el mismo operador.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, tema por `page_ids` + `search_terms: cinesiologia` 29/29). Es joven: conviene re-medirlo el 20-11 antes de producir.
+
+**Señales del día BR (2026-11-13, mañana)**
+- TI em Mapas (1171375182736345), tarjeta del 12-11: la versión en español ya entró en cohorte: **AR 19/19, MX 19/19, ES 18/34** («+300 Mapas Mentales de TI», ad de 14,7 días). La ventana de AR/ES se está cerrando; BR sigue en 33/41.
+- NeuroKit Clínico (964287390098744), tarjeta del 11-11: sube a 45/66 en BR. La hermana (883009701566343) corre en AR/ES con el creativo francés (12-13 en cohorte) y lanzó «90 fichas de TCC listas para la sesión» en español el 08-11: entra en cohorte el 15-11. Nuevo SKU: EMDR.
+- Nova Era (114755404813290), tarjeta del 11-11: sube a 35/42; «Planner Psi» entró en cohorte con 8 ads («pague una vez, recibí todos los años»). «Metáforas terapêuticas» tiene 6 de 4 días.
+- Hadassa Fit (769240466269366) sube de 14/26 a 18/26; Daily Routine Club (671948206009244) sube a 17/32. Cozinhanoprato (1143346648872228) sigue 14/14 sin ads nuevos desde el 20-10.
+- Lacuna Concursos (1173569735845788): pasa la vara con «📥 Baixe Agora» **20/34**, ad de 38 días, 11 fechas; 26 de los 34 dicen «apostila» y ninguno «grátis». No se ve qué concurso ni el precio: verificar en la PC.
+- Arquivos que encantam (216603914872916): 22/28 con «🚨Apenas R$10🚨», ad de 30 días y 6 nuevos hoy. Sigue sin verse qué vende: verificar en la PC.
+- Trilha do Estudo (641390105728644): «Apostila Completa + Aplicativo de Questões» ≥34/50 (41 días, USD). Pasa el volumen, pero falta saber si es PDF o suscripción a la app.
+- Mestre da Madeira (1240001732528839), tarjeta del 11-11: **reinició la página**. Tiene 0/10 y todo es de 1 día; sube el precio a R$ 14,90.
+- Brinca e Aprende (942354795618344): «inglés para niños con monstruitos» llega justo a 10/10 en cohorte, pero los 10 son de un solo día (04-11). Lanzó 3 SKU nuevos; volver a medir el 18-11.
+- Receitas Emagrecedoras (≥32/≥50) y Saúde em Forma (≥23/≥50) siguen en WhatsApp sin la oferta en el título. Clube do Devocional baja de ≥43 a 15/33 (WA). Prof. Mariana Oliveira (1080842931788422) ya no tiene ads activos en BR. Creartool (325627053956826) esconde la cohorte detrás de 136 ads nuevos de Black Friday.
+
+### 🎯 Ebook de recetas fit para airfryer — Hadassa Fit BR · `receitas/ebooks-fit/airfryer-fit` · 2026-11-12 (tarde) · sesión BR
+- **Qué es:** un ebook digital de recetas para airfryer en clave fit; algunos creativos también hablan de bolos fit. Es la única oferta de la página. Los títulos son solo estrellas («⭐⭐⭐⭐⭐ 4.9/5.0») y el precio no se ve en los ads; el tema sale de que 23 de los 26 ads activos mencionan «receitas airfryer» en el texto.
+- **Por qué es ganador:** cohorte 7+/activos **14/26 en BR** (vistos todos); 12 de esos 14 son de la oferta airfryer. El ad más viejo tiene **103,6 días** (tanda del 01-08). Lanza tandas cada 2-4 semanas (01-08, 30-09, 01-11, 05-11 y 11-11) y en los últimos 30 días creó 16 ads: el operador está vivo y no apaga lo viejo. Es una página fantasma (marca) y un solo operador. Alrededor hay subnicho: Chef Mari ≥18, Chef Pierre 17/24, Fernanda Rocha ≥15 (todas personas-chef de fantasía) y Cozinhanoprato 14.
+- **Qué hacer:** modelar «recetas fit para airfryer» en PDF a USD 5-9, con el ángulo «comé liviano sin ensuciar ollas». Destino sugerido **AR**, después ES. Ojo: el destino ya está caliente. En AR/ES `recetas airfryer` da 177 ads, todos de menos de 2 días, de unos 12 testers (Cocina Argentina en AirFryer, Pasos que crean bienestar, Renata Sampaio en BRL, This Short Life - Digital, Cena Resuelta en EUR). Nadie tiene cohorte todavía, pero el ángulo «cocina argentina» ya está tomado: entrar por «fit / liviano».
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=769240466269366&search_type=page&media_type=all) · creativos más viejos: [104 d](https://www.facebook.com/ads/library/?id=27777610458561601) · [104 d](https://www.facebook.com/ads/library/?id=1518590072785529)
+- **Landing:** embudo no verificado desde la nube (sin URL en los ads). Antes de decidir hay que verificar en la PC el precio, cuántas recetas trae y que no haya cara en los creativos.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, tema por `page_ids` + `search_terms`).
+
+### 🎯 «4 E-books, Infinitos Momentos» (colección de ebooks de recetas) — Cozinhanoprato BR · `receitas/ebooks-fit/colecoes-packs` · 2026-11-12 (tarde) · sesión BR
+- **Qué es:** una colección de 4 ebooks de recetas, que se vende desde `cozinhanoprato.com.br/colecao`. Aparece al buscar «receitas airfryer fit». El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **14/14 en BR**: todo lo que corre sigue vivo. El ad más viejo tiene **31,7 días**, hay 3 fechas de creación y 13 ads nuevos en 30 días. Es una página fantasma (marca) con dominio propio y un solo operador. Es la única «colección» con cohorte en el nicho: el resto de las keywords de colección trae renda extra y personas.
+- **Qué hacer:** modelar un «pack de 4 recetarios» (por ejemplo airfryer, viandas, dulces fit y panes) en PDF a USD 7-12, con el ángulo de regalo y «momentos» (familia, fin de año). Destino sugerido **AR**, después ES. En AR ya hay mega-packs de recetas con bonos (This Short Life - Digital, Recetas de la abu, Vida Saludable «120 Recetas + 5 Bonos»), todos de menos de 2 días. Es más joven que Hadassa: conviene volver a medirlo el 19-11 antes de producir.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1143346648872228&search_type=page&media_type=all) · creativos más viejos: [32 d](https://www.facebook.com/ads/library/?id=1047784384900326) · [32 d](https://www.facebook.com/ads/library/?id=1646586723916844)
+- **Landing:** `cozinhanoprato.com.br/colecao`, no verificada: WebFetch no se pudo correr en esta sesión desatendida. Antes de decidir hay que ver en la PC el precio, el checkout y de qué tratan los 4 ebooks.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-12, tarde)**
+- Receitas Emagrecedoras (1036943289509621): ≥42/≥50 (76 estimados), ad de ≥55 días, 41 nuevos en 30 días, pero es embudo WhatsApp «RECEBA NO WHATSAPP» sin la oferta en el título: verificar en la PC.
+- Saúde em Forma (788979120968843): ≥29/≥50 (80 estimados), el mismo molde WhatsApp de recetas para desinchar; la cohorte queda detrás del tope.
+- Chef Mari (1124610190743998, ≥18/≥50), Chef Pierre (901522396387905, 17/24, USD) y Fernanda Rocha (1138521512675924, ≥15/≥50, USD): pasan el volumen con recetas de airfryer, pero son personas-chef con «Pegue as Receitas»: verificar en la PC si hay cara.
+- FitFlow (1205760639286319, 17/17, 121 días) y Comida Saudável (1211982808660456, 15/15, 108 días): siguen sin ningún ad nuevo en 30 días (posible zombi, igual que el 11-11).
+- «200 Sobremesas Zero Açúcar» corre en 5 páginas a la vez (BG Digital, Vórtex y otras) con 0-1 en cohorte, y Luana Oliveira rota unos 750 ads de marmitas congeladas sin cohorte visible: olas, no ganadores.
+
+### 🎯 «TI em Mapas: +300 Mapas Mentais de TI para Concursos» — TI em Mapas BR · `mapas-visuais-r10/tecnologia-exatas` · 2026-11-12 · sesión BR
+- **Qué es:** un pack digital de más de 300 mapas mentales de informática para concursos públicos: modelos de desarrollo de software, niveles de prueba, bases de datos y BI, APIs REST, fundamentos de DevOps. Es la única oferta de la página. El precio no se ve en los ads y la cuenta paga en USD.
+- **Por qué es ganador:** cohorte 7+/activos **41/49 en BR** (vistos todos). El ad más viejo tiene **77,7 días** y hay 11 fechas de creación, del 26-08 al 10-11, todas con el mismo título. Hubo 12 ads nuevos en los últimos 30 días, así que el operador está vivo. Es una página fantasma (marca, sin persona) y un solo operador. Las páginas «Clube do X» que venden mapas de TI a R$ 10 no llegan a 10 en ninguna página.
+- **Qué hacer:** modelar «+300 mapas mentales de informática» en PDF a USD 7-10, para quien estudia programación o rinde certificaciones (bases de datos, redes, ciberseguridad, cloud), porque en AR/ES los concursos públicos de TI pesan menos que en Brasil. Destino sugerido **AR**, después ES. Ojo: el propio operador lanzó la versión en español el 10-11 («+300 Mapas Mentales de TI», ≥15 ads con menos de 2 días). La ventana está abierta, pero él mismo la está cerrando.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1171375182736345&search_type=page&media_type=all) · creativos más viejos: [77 d](https://www.facebook.com/ads/library/?id=1802904447810419) · [76 d](https://www.facebook.com/ads/library/?id=1380184964240700)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio, qué temas trae el pack y si en español es el mismo producto traducido.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+### 🎯 «Aprenda Farmacologia Sem Enrolação» (farmacología ilustrada) — Farmácia Mapeada BR · `mapas-visuais-r10/saude` · 2026-11-12 · sesión BR
+- **Qué es:** material visual de farmacología para estudiantes y profesionales de farmacia y enfermería, con los ganchos «Farmacologia ilustrada», «Farmacologia visual e direto ao ponto» y «Entenda, não decore». La página vende también una «Guia Prático da Dispensação de Controlados» y tiene un ángulo de concurso (EBSERH). El precio no se ve en los ads. Hay un ad titulado «Digital ou Impresso?», así que puede existir una versión impresa.
+- **Por qué es ganador:** solo la oferta de farmacología tiene **15/20 en cohorte**, con 3 ads de **78 días** (del 25-08) y tandas del 02, 03 y 05-11 que siguen vivas. La página entera tiene ≥32/≥50 en cohorte (112 estimados, es un piso). Lanzó una tanda nueva ayer: el operador está vivo. Es una página fantasma (marca «Farmácia Mapeada») y un solo operador.
+- **Qué hacer:** modelar «Farmacología ilustrada / entendé, no memorices» en PDF a USD 7-12, para estudiantes de enfermería y farmacia. Destino sugerido **AR**, después ES. En AR/ES nadie tiene cohorte (`farmacología mapas` da 110 ads, todos de menos de 2 días), pero ya hay testers brasileños: El Mapa del EIR 2027 y El Mapa del FIR 2027 apuntan a las residencias españolas, más Simone Longo y Aula de Enfermería. En ES el ángulo residencia ya está tomado.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=105693778467803&search_type=page&media_type=all) · creativos más viejos: [78 d](https://www.facebook.com/ads/library/?id=1006963029025645) · [78 d](https://www.facebook.com/ads/library/?id=4067009663432041)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio, si lo que corre es el PDF o el libro impreso, y cuántas páginas y temas trae.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-12, mañana)**
+- Marcelomapas (100945228762390): «Direito Constitucional Ilustrado: 163 páginas por R$ 17» y «Exame da Ordem: 16 disciplinas por R$ 97», con ≥22 en cohorte (143 estimados) y un ad de 79,5 días. Pasa la vara, pero el nombre puede ser de persona y el eje es concursos y OAB: verificar la cara en la PC.
+- Mapas Visuais & ilustrados (1316538911539485): ≥22/50 (117 estimados), con títulos de solo estrellas («9.8/10») y tandas del 31-10 al 12-11. No se ve qué vende: verificar en la PC.
+- Edufisicavisual (1293268003864355): mapas de cinesiología y educación física, 21/29, pero el ad más viejo tiene 11,7 días (4 fechas) y los títulos son de solo estrellas. Volver a medir el 19-11.
+- La red «Clube do X» a R$ 10 (Clube dos Mapas, que antes se llamaba «Clube da AWS», 5/17; Clube da Enhenharia de Software 5/5; Clube do Cálculo 0/23; Club do Devops 0/14; Clube da CYBER 0/8) lanza todos los días y no deja correr nada: no hay ganador.
+- Bovino Ilustrado (839795209227100, 6/16, ad de 60 días) y Universo Laboratorial (1367688956422784, 4/10), ambos a R$ 10: el eje veterinaria/laboratorio tiene oferta, pero chica.
+
+### 🎯 «90 fichas de TCC prontas para a sessão» para psicólogos — NeuroKit Clínico + Terapia Cognitiva Online BR · `psicologia/materiais-psicanalise/ferramentas-clinicas-tcc` · 2026-11-11 (tarde) · sesión BR
+- **Qué es:** packs digitales de fichas de terapia cognitivo-conductual listas para usar en sesión y para que el paciente se lleve a casa («90 fichas de TCC prontas», «88 técnicas de TCC prontas para usar», «85 fichas prontas para o paciente»). NeuroKit además vende la misma línea por enfoque: TCC infantil, manejo psicoanalítico, duelo, EMDR. El precio no se ve en los ads; el mercado anda en R$ 19,90-37.
+- **Por qué es ganador:** NeuroKit Clínico tiene **34/50 en cohorte** (61 estimados, es un piso), con tandas vivas a los 8 y 22 días; la oferta madre tiene **el mismo título ×10 a los 22 días**, y detrás del tope hay ads de 27-34 días. Terapia Cognitiva Online corre el mismo molde con **19/33**, en 8 tandas de 9 a 45 días. Son dos páginas fantasma (marca, sin persona) con la misma oferta, y hay 3 anunciantes más con el mismo molde (Magda San Martins, manualdasemocoes, Terapia de Verdade).
+- **Qué hacer:** modelarlo en español con un avatar más angosto que «fichas TCC» genérico, por ejemplo fichas por motivo de consulta (ansiedad, duelo, pareja) o el kit para la psicóloga recién recibida, en PDF a USD 7-12. Destino sugerido **AR**, después ES. Ojo: los propios brasileños ya lo están llevando al español esta semana (NeuroKit en español, «Fichas TCC» en EUR, Evolução sem Fronteiras, Pedro Henrique, Clínica del vínculo, todos con ads de menos de 7 días). La ventana está abierta pero se está cerrando.
+- **Ads Library:** [NeuroKit BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=964287390098744&search_type=page&media_type=all) · [Terapia Cognitiva Online BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=836423469737678&search_type=page&media_type=all) · creativos más viejos: [NeuroKit 22 d](https://www.facebook.com/ads/library/?id=1484300833590727) · [TCO 45 d](https://www.facebook.com/ads/library/?id=1702945517465769)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio, si «ficha que o paciente preenche no celular» es app o PDF, y que «TCC infantil» no sea material de neurodivergencia (nicho excluido).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+### 🎯 «Cadernos de Bolso» de terapia infantil, adolescentes y orientación parental — Nova Era Recursos Terapêuticos BR · `psicologia/materiais-psicanalise/psicoterapia-infantil` · 2026-11-11 (tarde) · sesión BR
+- **Qué es:** una línea de cuadernos y recursos digitales para terapeutas: «Caderno de Bolso da Terapia Infantil», «…com Adolescentes», «…da Orientação Parental», «Apostila de Técnicas Criativas para Crianças», «Meu Caderno Mágico de Fim de Ano», «Guia Terapêutico de Reflexão e Progresso». Lo nuevo de esta semana es «Planner Psi + Caderno de Prontuários» y «Metáforas terapêuticas para adultos». El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **25/42 en BR** (vistos todos), con escalonamiento de 13 fechas de creación: tandas vivas a los 14, 15, 16, 24, 25, 30, 38, 48 y 53 días, y 35 ads nuevos en 30 días. Es una página fantasma (marca «Nova Era») y un solo operador. Es una línea, no un SKU: ningún cuaderno solo llega a 10 (el más fuerte, «Caderno Mágico de Fim de Ano», tiene 6).
+- **Qué hacer:** modelar el formato «cuaderno de bolsillo» para terapeutas en español (uno por público: infancia, adolescentes, orientación a padres), en PDF a USD 7-10, con un bundle de los tres. Destino sugerido **AR**, después ES. En AR/ES hay testers de hoy (Universo Terapéutico Digital cobrando en BRL, «Kit Terapéutico Infantil» de Bienestar Emocional en USD), nadie con cohorte.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=114755404813290&search_type=page&media_type=all) · creativos más viejos: [53 d](https://www.facebook.com/ads/library/?id=1623694402481432) · [53 d](https://www.facebook.com/ads/library/?id=4513829768893068)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio, el contenido de cada cuaderno y que el material infantil no sea de neurodivergencia (nicho excluido).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-11, tarde)**
+- Estante da Psicologia (1032687959933493): «+150 Materiais de Psicanálise Organizados» baja a 6/25 (ayer 8/19), pero tiene 3 ads que cumplen 7 días mañana y 10 de hoy; volver a medir el 18-11.
+- Mariana Costa (1197064566833260): mapas de Klein/Winnicott, Lacan y Freud a R$ 37, 11/14 con ads de hasta 50 días, pero cobra en USD y es persona de fachada («a psicóloga traduziu»); verificar la cara en la PC.
+- Dra. Rô Terapias (1132884673243956): ≥62/165 con «Baralho Constelação Familiar» y «+120 Atividades do Nervo Vagal»; holístico, con «Dra.», y puede ser un mazo físico: verificar en la PC.
+- Psiflow.clin (934437693093616): «Documentos clínicos prontos» para psicólogos, ≥18/81 (destapado con `search_terms`); Valesca Romão (376309695576775), prontuários editáveis, 17/21 con ads de 132 días, nombre de persona.
+- La oferta «recursos terapêuticos prontos por R$ 9,99» se está clonando en páginas nuevas (Helena Duarte 0/10, Ludicare 0/5, Terapia Infantil na Prática 0/7); Magda San Martins «Kit TCC +200 fichas R$ 19,90» lanzó Black November (4/35). Volver a medir el 18-11.
+
+### 🎯 «+ de 10 mil figurinhas para stories» a R$ 3,99 — Templates - Pack de artes BR · `design-digital/packs-stories-templates` · 2026-11-11 · sesión BR
+- **Qué es:** un pack digital de más de 10.000 stickers para las historias de Instagram, a **R$ 3,99**. Es el producto estrella de una tienda-catálogo que también vende otros packs a R$ 1,49-3,99 (mini site, feed profesional, STL, sublimación de tazas).
+- **Por qué es ganador:** la página tiene ≥37/50 en cohorte (67 estimados, es un piso). Solo esta oferta tiene **27/27 ads en cohorte, con el mismo título repetido 27 veces**. Son 10 tandas, de 217 a 293 días (del 21-01 al 07-04), y siguen vivas. Es una página fantasma, sin persona, y un solo operador. La página sigue creando ads de otros SKU (≥31 en 30 días).
+- **Qué hacer:** modelarlo tal cual en español: «+10.000 stickers para tus historias de Instagram», a USD 2-4 o como order bump de otro pack. Destino sugerido **AR**, después ES. Ángulo: historias que no aburren, para el emprendedor que publica todos los días. En AR/ES no hay oferta fuerte: `stickers historias` da 65 ads, casi todo físico, más un tester brasileño en español (Stickers empreendedoras, BRL, ads de 2-4 días). El hueco está abierto, pero ya lo están probando.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=123045347437517&search_type=page&media_type=all) · creativos más viejos: [293 d](https://www.facebook.com/ads/library/?id=929442639749702) · [282 d](https://www.facebook.com/ads/library/?id=904431729205167)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio en el checkout, si el pack es reventa de material ajeno (licencias) y qué upsell tiene.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+### 🎯 «+100 Moldes em PDF» de carpintería a R$ 12,90 — Mestre da Madeira BR · `oficios/moldes-marcenaria-pdf` · 2026-11-11 · sesión BR
+- **Qué es:** un pack PDF de más de 100 moldes y proyectos de madera para hacer en casa, a **R$ 12,90**. Es la única oferta de la página: los 50 ads tienen el mismo título.
+- **Por qué es ganador:** cohorte 7+/activos **11/50 en BR** (es un piso: hay 51 estimados). Hay tandas vivas a los 8, 23, 25 y 43 días, de 7 fechas de creación distintas, y 48 ads creados en los últimos 30 días, 21 de ellos hoy: está escalando. Es una página fantasma (marca «Mestre da Madeira») y un solo operador.
+- **Qué hacer:** modelarlo en español, pero con un avatar más angosto que el genérico, por ejemplo juguetes de madera, muebles de palet o cajas y organizadores, en PDF a USD 7-10. Destino sugerido **AR**, después ES. Ojo: en AR/ES ya hay testers de esta semana (Carpinteria que Vende, «140 planos con moldes 1:1 en PDF», USD, ads de 1 día; Tablero Studio; y el brasileño Fórmula Projetos Lucrativos corriendo en español). La ventana se está cerrando.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1240001732528839&search_type=page&media_type=all) · creativos más viejos: [43 d](https://www.facebook.com/ads/library/?id=1881010266594511) · [43 d](https://www.facebook.com/ads/library/?id=1099696853049626)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC qué proyectos trae el pack y si los moldes son a tamaño real.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-11, mañana)**
+- Clube do Devocional (1333933036463024): tiene ≥43/50, pero 40 de esos ads se crearon el mismo día (hace 7 días). Cierra por WhatsApp sin la oferta en el título («PEDE AQUI PELO ZAP»). Lo nuevo de hoy es «Cantata de Natal Pronta para Crianças», en USD. Verificar en la PC y volver a medir el 18-11.
+- Arquivos que encantam (216603914872916): 25/33, con tandas a 7, 11, 18, 20 y 26 días, todas con el título «🚨Apenas R$10🚨». No se ve qué vende: verificar en la PC.
+- Ponto Certo App (1037269729466043): «Molde do Avental Japonês Viral em PDF», 9/22, con ads de 39 a 111 días; le falta 1 para la vara. Esta semana lanzó moldes de chinelo de tecido y de un cesto.
+- Amo Resumos (109673104683776): manuales médicos en PDF (reumatología a R$ 39,90, geriatría, menopausia), 12/40. Son varios productos distintos y 9 de esos 12 ads tienen solo 7-8 días.
+- FitFlow (1205760639286319, 17/17, ebook de recetas fit) y Comida Saudável (1211982808660456, 15/15, 29 apostilas de recetas): tienen ads de 61 a 119 días, pero ninguno nuevo en 30 días (posible zombi).
+- Ateliê Próspero (1265947236593095, crochê, 0/37) y Brinca e Aprende (942354795618344, inglés infantil imprimible, 0/30): lanzaron todo esta semana; volver a medir el 18-11.
+
+### 🎯 «+ de 120 Mapas Mentais de Enfermagem» — Mapa Concursos BR · `concursos/material-estudo/resumos-mapas-mentais` · 2026-11-10 (tarde) · sesión BR
+- **Qué es:** pack digital de más de 120 mapas mentales de enfermería, para estudiar el concurso o la carrera («+ de 120 Mapas Mentais de Enfermagem», «Receba Agora Mesmo», «Aperte AQUI! E Receba Agora Mesmo»). El precio no se ve en los ads y el operador paga con dos cuentas, una en BRL y otra en USD.
+- **Por qué es ganador:** cohorte 7+/activos **39/50 en BR** (es un piso: hay 68 activos estimados). Hay tandas que siguen vivas a los 19, 22, 25, 28, 31, 36, 45, 48 y 51 días, de 14 fechas de creación distintas, y 30 ads creados en los últimos 30 días, así que el operador sigue activo. Es una página fantasma (marca «Mapa Concursos») y un solo operador.
+- **Qué hacer:** modelarlo en español como «+120 mapas mentales de enfermería», PDF para estudiantes y para el examen de residencia o de oposición, por USD 7-10. Destino sugerido: **AR** primero (estudiantes de enfermería) y después ES (oposición de enfermería del SAS / EIR). Ojo: en AR y ES ya venden material de enfermería con esquemas (Aula de Enfermería, Enfermería Digital, y Simone Longo, que paga sus ads en BRL), todos con ads de esta semana. La ventana se está cerrando, y el diferencial tendría que ser el formato de mapa mental.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=113788658419021&search_type=page&media_type=all) · creativos más viejos: [51 d](https://www.facebook.com/ads/library/?id=2168533343878194) · [48 d](https://www.facebook.com/ads/library/?id=1740592963830079)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC el precio y si los ads «Receba Agora Mesmo» venden el mismo pack u otros mapas para concursos.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Protocolo» de simulados + cronograma por concurso a R$ 27,90 — 123passei BR · `concursos/material-estudo/questoes-simulados` · 2026-11-10 (tarde) · sesión BR
+- **Qué es:** kit de último tramo para un concurso puntual: simulados de la banca, más un cronograma de 40 o 60 días, más un «Desafio Final». Ejemplos: «Protocolo TRT — R$ 27,90», «Protocolo TJ-SP — R$27,90», «Desafio Final PC-BA por R$27,90», «Do Zero ao TRT 4: cronograma de 60 dias», «5 simulados FCC para o Banestes». Precio único de **R$ 27,90**.
+- **Por qué es ganador:** cohorte 7+/activos **18/34 en BR** (se vieron todos). Hay tandas vivas a los 162, 124, 77, 61, 60, 20 y 12 días; el «Protocolo TRT» lleva 162 días corriendo y tiene 7 ads en la cohorte. Son 13 fechas de creación distintas, con ads nuevos hoy. Es una página fantasma (marca «123passei») y un solo operador. Vende por sitio, no por WhatsApp.
+- **Qué hacer:** modelar el molde, no el contenido: «Protocolo final <oposición>», con simulacros tipo test de la convocatoria, un plan de 40 o 60 días y un reto final, en PDF a 9-12 €. Destino sugerido **ES**, que tiene un mercado de oposiciones enorme: `simulacros oposiciones` da 648 ads y `temario oposiciones` 867, pero casi todo son academias y cursos online (MasterD, Benempol, Informe Español), no un PDF de bajo ticket por convocatoria. En AR los concursos casi no tienen ads (`concurso docente` da 2). Cada SKU vence con su convocatoria.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=109322741722198&search_type=page&media_type=all) · creativos más viejos: [162 d](https://www.facebook.com/ads/library/?id=1754908135878377) · [124 d](https://www.facebook.com/ads/library/?id=1808707840294748)
+- **Landing:** embudo no verificado desde la nube. Antes de decidir hay que verificar en la PC qué trae el «Protocolo» (¿PDF o acceso a una plataforma?) y si tiene upsell.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-10, tarde)**
+- Aprovaconcursobb (1067637653109051): vende una apostila por edital a R$ 29,90-37,90, ≥21/50 (piso, 255 estimados). También pasa la vara, pero queda en tercer lugar porque cada SKU está atado a una sola convocatoria.
+- Trilha do Estudo (641390105728644): ≥40/50 (67 estimados), con ads de hasta 39 días. Vende apostila más una app de preguntas: ver en la PC si es un PDF o una suscripción.
+- ConcursoPM (125472794229668): apostila de la PM-SP, 26/33, con un ad de 285 días, pero solo 7 ads nuevos en 30 días: escala vieja que se va apagando.
+- Gabaritei (870903229450408): plan «Estude em 30 dias» por concurso, 14/37, con ads de 50 días. Mismo molde que 123passei.
+- MeuPreparatório (109109610803813): 49/50 con ads de hasta 333 días, pero solo 1 ad nuevo en 30 días (casi congelada).
+- Felipe Resumão (759042973953984): «Resumão» por cargo a R$ 19,90, ≥15/50 (391 estimados). El nombre de la página es de una persona: ver en la PC si hay una cara.
+- Isaque Concursos (106498559158243, 16/36) y Enfermagem Resumida (101093207914538, ≥14): tienen volumen, pero una es persona con «Imersão» y la otra usa una aula gratis como carnada de un curso (Filtro C).
+
+BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR de la cola (Creartool, Daily Routine Club, Prof. Mariana Oliveira, Criativizando e Educando, Loja das Profs, Prof Jaque Mendes, Pequenos Leitores) más Atividades infantil, Lacuna Concursos y Estante da Psicologia.
+
+**Señales del día BR (2026-11-10, mañana)**
+- Creartool (325627053956826), tarjeta del 09-11: la cohorte sigue en 23 y ahora se ve completa (23/79). Desde el 09-11 lanzó 3 productos nuevos sobre el manual: «30 Estruturas» (16 ads), un mazo de arquetipos de personajes (17) y «101 fatos reais para transformar em ficção» (7). Ninguno tiene 7 días todavía, pero muestran que el manual ya tiene una escalera de upsells para modelar.
+- Daily Routine Club (671948206009244), tarjeta del 09-11: estable en 14/24, sin productos nuevos.
+- Prof. Mariana Oliveira (1080842931788422), tarjeta del 09-11: estable en 19/49 y publica una tanda casi todos los días. Todos los ads viejos están firmados «Dra.» y los nuevos «Prof.».
+- Atividades infantil (265589206630616): la cohorte ya se ve y pasa la vara (≥27/233, ad de 42 días, 15 fechas), pero cierra por mensajes («Clique Aqui 👉», «Converse conosco») sin la oferta en el título. Verificar en la PC qué vende y que no sea neurokids.
+- Criativizando e Educando (430307330169512): subió a 16/32, con un ad de 84 días, y pasa el volumen. Sigue cerrando por WhatsApp sin oferta visible: verificar en la PC.
+- Pequenos Leitores, ahora «Leitura Descomplicada» (1196621566868514): se apagó. Le quedan 4 activos, todos del 01-09, y no crea ads hace 70 días (posible zombi).
+- Prof Jaque Mendes + Loja das Profs (105209655117919 / 1002633749601439): lanzaron unos 150 ads de «Black das Profs» desde el 07-11. Por página tienen ≥6 y 7 en cohorte; no se suman.
+- Lacuna Concursos (1173569735845788): bajó a ≥4 visibles (piso, máximo 10 días); sigue sin verse si es pago o lead magnet. Estante da Psicologia (1032687959933493): bajó de 11 a 8/19.
+
+### 🎯 Manual «Estruturas Narrativas para fugir da Jornada do Herói» — Creartool BR · `escrita-criativa/estruturas-narrativas` · 2026-11-09 · sesión BR
+- **Qué es:** manual digital para escritores y guionistas con 10 estructuras narrativas alternativas a la Jornada del Héroe (desde hoy prueba una versión de 30); precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **23/48 en BR** (vistos todos) · tandas a 21-24·49·56-63·105-124·160 días · 13 fechas de creación, tanda nueva hoy · página fantasma (marca «Creartool») · un solo operador.
+- **Qué hacer:** modelar tal cual en español («10 estructuras para escapar del Viaje del Héroe») · destino sugerido **ES**, después AR · ángulo: anti-cliché para el que escribe. En español solo hay cursos de guion y una app (Narralab), ningún manual.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=325627053956826&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2207165410123850)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio).
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+### 🎯 Planner de rutina y estudios — Daily Routine Club BR · `produtividade/planner-rotina-estudos` · 2026-11-09 · sesión BR
+- **Qué es:** planner digital de rutina y de estudios («Sua rotina tá uma bagunça?», «Chega de bagunça nos estudos»); precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **14/22 en BR** (vistos todos) · tandas a 23·33-34·46 días · 6 fechas de creación, la última hoy · página fantasma · un solo operador · el mismo título 11 veces en la cohorte.
+- **Qué hacer:** modelar tal cual en español («tu rutina es un caos?») · destino sugerido **AR**, después ES · ángulo: orden para estudiar, para estudiante y opositor. En AR/ES no hay ningún planner de estudios con ads (control `planner estudios`).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=671948206009244&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1033189223026405)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y el formato exacto).
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, duplicación por título).
+
+**Señales del día BR (2026-11-09)**
+- Pequenos Leitores (ex Leitura Descomplicada, 1196621566868514): actividades de gramática y lectura crítica listas para docentes, 12/35 con ads de hasta 94 días, pero con un hueco de 2 meses sin ads nuevos: parece reactivación.
+- Lacuna Concursos (1173569735845788): material para concursos «Baixe Agora», ≥15/≥50; no se ve si es pago o lead magnet.
+- Estante da Psicologia (1032687959933493): «+150 materiais de psicanálise», 11/19 con ads de hasta 33 días; sin re-verificar.
+- Red de mapas visuales a R$10 («Clube dos Mapas» 8/25, Clube do Cálculo, Club do Devops, Leg Educação): mismo molde en varias páginas, ninguna llega a 10.
+- Atividades infantil (265589206630616): 170 activos, pero los 50 más nuevos son de ≤ 3 días y la cohorte no se ve; re-medir.
+
+### 🎯 «Atividades Investigativas» para Fundamental 1 y 2 — Prof. Mariana Oliveira BR · `educacao/atividades-prontas-professores` · 2026-11-09 (tarde) · sesión BR
+- **Qué es:** pack digital de actividades listas para docentes («Atividades Investigativas Fundamental 1 e 2»), vendido con prueba social «⭐⭐⭐⭐⭐ (4,9)» en casi todos los títulos; precio no visible en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **19/48 en BR** (vistos todos) · tandas a 8·10·14·18·27·29 días · ~13 fechas de creación, tanda nueva hoy · un solo operador, que paga en USD.
+- **Qué hacer:** modelar el molde en español («actividades investigativas listas para primaria y secundaria») · destino sugerido **AR**, después ES · ángulo: «tu clase de ciencias lista en 5 minutos». Ojo: operadores brasileños ya corren lo mismo en español (Laura Martínez con «⭐4,5», Actividades de Ciencias Naturales con «+1.250 actividades»): el hueco está parcialmente tomado.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1080842931788422&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1661224902264569)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y el contenido). ⚠️ La página tiene nombre de persona y el 03-11 pasó de «Dra.» a «Prof.»: parece una fachada, pero hay que confirmar que no venda una cara.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API, sin cuerpo ni URL en la respuesta).
+
+**Señales BR, 2ª corrida (2026-11-09)**
+- Criativizando e Educando (430307330169512): 14/32 en cohorte con un ad de 84 días y 8 fechas de creación, pero cierra por WhatsApp sin oferta visible en los títulos; ver en la PC qué vende.
+- Prof. Luana Rodrigues (812621601932503): apostilas de alfabetización y producción de texto, 38/50 en cohorte, pero tiene nombre de persona y el combo cuesta R$197.
+- Prof Jaque Mendes + Loja das Profs (105209655117919 / 1002633749601439): mismo operador, ≥13 + 7 en cohorte y 187 activos estimados; la cohorte real queda detrás del tope de 50.
+- Prof Juliana (836987269503104): 50/54, pero todos los ads son del mismo día (19-10) y cierra por WhatsApp; no pasa el filtro de fechas distintas.
+- Pequenos Leitores (1196621566868514): cayó de 12/35 a 8/17 en el día; la reactivación se está apagando.
+
+<!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
+
+ES 2026-11-17: nada que pase la vara; se barrió `PDF descargable`, `versión digital`, `guía descargable`, `PDF editable`, `recibes PDF`, `MXN PDF`, `COP PDF`, `imprimibles navidad`, `resúmenes PDF`, `plantillas listas`, `material imprimible`, `guía ilustrada`, `megapack imprimible`, `recetario digital`, `manual digital`, `kit plantillas`, `formato PDF`, `descarga al instante`, `bonos PDF`, `pack PDF` (9 países, ~35 páginas contadas).
+
+**Señales del día ES (2026-11-17, huella)**
+- Colección Digital Plus CL (626238063897333): **11/26** (31-10 → 08-11, 7 fechas, CLP), pero todos los títulos son «Chatea con nosotros»: la oferta no se ve por API. Abrir en la PC los snapshots 1679544637034323 y 1405802171730271; si es imprimible navideño con precio, es tarjeta.
+- Tienda de Hechizos MX (100963788488774): sube de 20 a **29/68** en cohorte (tarjeta del 14-11 todavía pendiente) y suma «Numerología paso a paso»; AR, ES y CO siguen en 0.
+- Mapas Visuales PRO PE (1291088710759821): 22/22 (megapack de automatización industrial, desde el 18-09), pero sin ads nuevos desde el 14-10: posible zombi. Es el mismo formato que Mapaclpladder (tarjeta del 16-11).
+- Edutechdigital PE (208255869038018): 9/9 («Evaluaciones finales 2026», material docente). Re-medir el 2026-11-20.
+- Nena Tarot (1219594787912266): ráfaga de guía de tarot con 303 ads en MX, 380 en AR y 318 en ES; cohorte oculta detrás del tope. Re-medir el 2026-11-24.
+- Ola navideña sin cohorte: Hecho por vos AR 0/≥50, Creando AR 0/41 («Cosé y Vendé: 55 moldes»), Mi Taller Creativo MX 0/22, EducaTlon MX 3/6. Re-medir el 2026-11-24.
+
+### 🎯 «PLC y Ladder Visual 2026™ — +200 Mapas Visuales» (+ «Guía Visual de Redes Industriales — +100 Mapas Visuales») — Mapaclpladder ES·AR·MX·CO · `tecnologia/electronica-programacion-pdf/automatizacion-plc-industrial` · 2026-11-16 (tarde) · sesión ES
+- **Qué es:** manual visual de automatización industrial: más de 200 mapas de PLC y lenguaje ladder, con una segunda guía de redes industriales y protocolos de comunicación (+100 mapas). Es el formato «mapas visuales» que en BR ya corre por carrera (`mapas-visuais-r10`), aplicado a técnicos y estudiantes de automatización. Cobra en USD. Desde el 15-11 lanza también la versión en inglés («+200 Visual Maps for Automation»). La API no muestra precio ni cierre.
+- **Por qué es ganador:** cohorte 7+/activos **ES 25/50 (piso; 53 estimados)**, con el mismo set en AR (54 est.), MX y CO. Ad más viejo del 20-10 (**27,8 d**), 13 fechas de creación dentro de la cohorte y ads nuevos hoy: operador vivo y escalonado. Página sin persona, un solo operador, un producto central. Detrás empiezan a copiarlo (CMDigital, Formula dg, Macro Aula, Aprendia con PLC de < 7 d).
+- **Qué hacer:** modelar el formato para **AR**, con voseo y precio en pesos: «Mapas visuales de PLC y Ladder», más un segundo SKU de **tableros y comandos eléctricos**, que en AR y PE se está lanzando ahora (Método Tablerista, Manual del Electricista Residencial, < 7 d). Así se entra por el lado industrial ya probado y se suma el residencial · destino sugerido **AR** · ángulo: «entendé un ladder de un vistazo: 200 mapas en vez de 600 páginas».
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1253942927808210&search_type=page&media_type=all) · [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1253942927808210&search_type=page&media_type=all) · más viejo: [ad](https://www.facebook.com/ads/library/?id=2219976192290174) · PLC y Ladder (título en español): [ad](https://www.facebook.com/ads/library/?id=1137891842109391) · redes industriales: [ad](https://www.facebook.com/ads/library/?id=965296689985089)
+- **Landing:** embudo no verificado desde la nube (ningún ad trae la URL): verificar en la PC antes de decidir. Falta precio, si es PDF o acceso a plataforma, y el tipo de cierre.
+- Score 2/4 (cohorte ancha y escalonada en los dos destinos; precio y embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La mitad de los creativos no tiene título: el tema se infiere por la página.
+
+**Señales del día ES (2026-11-16, tarde)**
+- Macro Aula (1216430771552642): **9/57** (10 si entra un ad del 9-11 a la noche), los 57 vistos. Línea de PDF de tecnología: Scratch Cuadernillo (6 en cohorte), ESP32 (3), y desde el 13-11 Arduino, PLC, electrónica y Wi-Fi. Pasa la vara mañana si no apaga: re-medir 2026-11-19.
+- Ola de manuales eléctricos «Edición Argentina» y en PEN, todos con ≤ 6 d: Método Tablerista (1363399653534668) 0/18 · Manual del Electricista Residencial (1523299904190973) 0/6 · Impulso Digital IA (S/ 10) 0/2 · Aprenvo · Max Shute Russo. Re-medir 2026-11-23.
+- Shopi Store BO (1397937420068178) 12/12, pero solo 4 ads confirmados de electricidad («FORMATO DIGITAL PDF», «Curso grabado»): abrir snapshots en la PC.
+- CMDigital (962417550298160, voseo, USD): megapacks multinicho ≥11/59; su «Sistema completo de PLC: 6 tomos + 5 bonos» tiene 0 en cohorte (14-11). El título «Pago único, acceso inmediato, garantía siete días» sugiere checkout.
+- Digital Perú (1292427827281929) 6/7 a 34 d y MindLab con el mismo título «OBTÉN LA OFERTA», en física e ingeniería resuelta: producto invisible por API.
+- Arduino para niños y docentes (Profes Tecnomaketers, Sofía Hernández «Megapack Niños Inventores», Aprende en ixza «+120 inventos», Mentes En Acción): todo con < 1 semana.
+- Pista para BR: páginas en BRL que anuncian en español sobre oficios técnicos (Al Punto US$ 5,90, Diagnosticando Impressoras, Inverter en La Práctica US$ 67, Loja Mecatronica Power On).
+
+### 🎯 Informes astrológicos personalizados (Carta Natal · Revolución Solar · «Ikigai astrológico» vocacional · Carta Natal Infantil · combos) — Aprende Astrología ES·AR · `esoterismo/grimorio-brujeria/astrologia-numerologia` · 2026-11-16 · sesión ES
+- **Qué es:** un catálogo de informes astrológicos que se arman con la fecha de nacimiento: Revolución Solar, Informe Vocacional («Descubre tu Ikigai Astrológico»), Carta Natal Infantil y el combo Carta Natal + Revolución Solar. Los productos tienen nombre fijo y se venden en combos. Ningún título habla de consulta, sesión ni lectura en vivo. Cobra en USD. La API no muestra precio ni formato.
+- **Por qué es ganador:** cohorte 7+/activos **ES 37/38** (61 d) y **AR 32/39** (59 d), sin tope en ninguno de los dos. En AR hay 7 fechas de creación y el ad más nuevo es de hace 1,7 d, así que el operador sigue activo. Crece desde el 14-11 (ES 20/37 → 37/38). Página sin persona y un solo operador.
+- **Qué hacer:** si los informes salen solos (plantilla + datos de nacimiento), se modela como **informe PDF automatizado**. Se arma con un generador de cartas y textos fijos por posición, y la entrega es inmediata. Si los hace una persona, es servicio y no entra. AR y ES ya los pisa este operador: conviene entrar con un solo informe fuerte y no con el catálogo, por ejemplo el **vocacional/Ikigai**, que es el ángulo más original · destino sugerido **ES** · ángulo: «¿sientes que naciste para algo más? tu carta natal lo dice».
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=446279405782137&search_type=page&media_type=all) · [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=446279405782137&search_type=page&media_type=all) · más viejo ES: [ad](https://www.facebook.com/ads/library/?id=1068128852691222) · más viejo AR: [ad](https://www.facebook.com/ads/library/?id=2574862236350381)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio y saber si el informe es automático o lo hace una persona: eso decide si es producto o servicio.
+- Score 2/4 (cohorte ancha y vieja en los dos destinos; formato y embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-16)**
+- Consultorio Nutri Listo (1431610173366748) AR **36/46** (13/42 el 12-11, 12,3 d): sigue creciendo y sigue solo en AR (ES y MX 0). Ya tuvo tarjeta.
+- Neutral Nature (919376131265589): la cohorte ya se ve. ES ≥25/104 y MX ≥25/103 (pisos), CO 27/27 sin ads nuevos en 13 d. El clon Pura Idea está apagado. Ya tuvo tarjeta.
+- Planner Hoy Solo 3 ES 30/39 · MX 31/40 (AR 0) · Claridad y Acción AR 30/40 · MX 30/40 · ES 20/30 (10 en cohorte por cada plantilla: freelance, obras, abogados) · Planos de arcilla AR 21/39 (≥16 el 10-11). Los tres ya tuvieron tarjeta y siguen vivos.
+- Sector Digital ES ≥20/81 (todo deportiva). La línea adicciones sigue en 0 en cohorte, pero sus primeros 6 ads cumplen 7 d hoy a la tarde (AR y MX).
+- Por entrar en cohorte mañana: Psicologia & Recursos 2025 MX 6/16 → 16 (kits de terapia de pareja, duelo y orientación vocacional, WhatsApp, COP) · Odonto en Orden (1355504520987314) AR 9/30 → 15.
+- Med Spa Documents Kit MX 0/68 y CO 0/67 visibles (pisos): saca ~10 ads por día y la cohorte queda detrás del tope (~18 ocultos).
+- Studio Facile ES 0/114 visibles (piso): ebooks ilustrados por profesión o tema («La audiometría ilustrada», «La geopolítica, con dibujos»), escalando.
+- Ola navideña de crochet y belén, todavía joven: Digital Shop (552653941257698) ES 4/19 · Santos En Punto AR 4/7 (15 patrones de pesebre a $12.990) · Flavia da Silva Araujo MX 4/10 · Amigurumi Terapia MX 1/12. Re-medir el 22-11.
+- Crea y Emprende AR 8/14 (17/20 el 09-11) abre SKU «Tejé la colección del Verano 2027» · Talleres Listos AR ≥12/198, mientras ES y MX bajan a 4 (relanzó 22 ads en 2 d).
+- Pixelpack MX/AR ≥34/61: además del megapack, «herramienta de semitonos DTF» con 9 en cohorte y lanzamiento de 15 ads (es software, no infoproducto).
+- Se apagan o están zombis: Cursos Online (0 activos) · Educa Online (11, solo EC, 4 en cohorte) · Puntada Maestra ES 2/6 · Planner Lovers AR/MX 20/20 en 2 fechas · La Biblioteca Definitiva De Tejido MX 23/23 sin ads nuevos en 56 d. Saber Cristão no confirma (ES ≥9/151, MX 0/160 visibles; la línea en portugués tiene < 7 d).
+
+ES 2026-11-15 (tarde): lint de la cola, sin caza ni tarjetas; nada cambió en ES desde el lint de la mañana.
+
+ES 2026-11-15: domingo de lint de la cola, sin caza ni tarjetas. Hay 21 tarjetas ES pendientes de revisión, 27 re-mediciones ES que vencen entre el 16 y el 21-11 y 9 verificaciones que solo se pueden hacer en la PC (lista en `RAW/cazas-auto/2026-11-15-es-lint-cola.md`).
+
+### 🎯 Rituales y hechizos digitales «paso a paso» («Acceso inmediato» · «Rituales para fin de año») — Tienda de Hechizos MX · `esoterismo/grimorio-brujeria/hechizos-rituales` · 2026-11-14 (tarde) · sesión ES
+- **Qué es:** rituales y hechizos en formato digital, con acceso inmediato. Los títulos dicen «Aprende paso a paso», «Acceso inmediato» y, desde el 13-11, «Rituales para fin de año», «Cierra el año de forma excepcional». Cobra en MXN. La API no trae precio ni formato exacto (PDF, guía o video).
+- **Por qué es ganador:** cohorte 7+/activos **20/50 en MX (piso; 56 estimados)**. Tres tandas: 29-10 (7 ads, 16,6 d, ninguno apagado), 07-11 (17 ads, «Acceso inmediato») y 13-11 (26 ads de fin de año). Sigue lanzando. Tienda fantasma, sin persona, un solo operador. **En AR y ES no tiene ningún ad.**
+- **Qué hacer:** modelar tal cual para **AR** o **ES**, que están libres: un kit «rituales paso a paso» (PDF imprimible + calendario de rituales) y una edición estacional «rituales para cerrar el año / Año Nuevo 2027», que tiene ventana hasta enero · destino sugerido **AR** · ángulo: «cerrá el año en orden y abrí tus caminos, paso a paso».
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=100963788488774&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1665785568216408) · acceso inmediato: [ad](https://www.facebook.com/ads/library/?id=1088097260716494) · fin de año: [ad](https://www.facebook.com/ads/library/?id=1655819066217142)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, el formato y si cierra por WhatsApp.
+- Score 1/4 (cohorte de 2 semanas, volumen detrás del tope, destino libre) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: esoterismo puede chocar con políticas de Meta; mirar cómo lo esquiva el creativo.
+
+### 🎯 «Aprendé a usar tu péndulo en 7 días» — Regarte AR (+MX·ES) · `esoterismo/grimorio-brujeria/pendulo-radiestesia` · 2026-11-14 (tarde) · sesión ES
+- **Qué es:** guía o mini-curso para aprender a usar el péndulo en 7 días. Una sola oferta con versión en vos (AR) y en tú (MX/ES). Cobra en USD. Formato y precio no visibles por API.
+- **Por qué es ganador:** cohorte 7+/activos **≥29/50 en AR (piso; 63 estimados)**. Los 13 que no se ven son todavía más viejos. Escalonado en **13 fechas** (03-11 → 14-11, una tanda casi por día) y no apaga. También corre MX 13/40 y ES 13/40. Página fantasma, una sola oferta, un solo operador.
+- **Qué hacer:** AR y ES ya los pisa este operador, así que no conviene la copia literal. Conviene modelar el formato «aprendé X en 7 días» sobre un ángulo vecino que nadie tiene con cohorte: **péndulo + tablas/mapas imprimibles** (en BR ya corren mapas de péndulo en PDF, nodo `esoterismo/radiestesia-mapas`), o radiestesia para el hogar · destino sugerido **ES** (13 en cohorte, el más flojo) · ángulo: «dejá de dudar: tu péndulo responde claro en una semana».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1342388312284290&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1342388312284290&search_type=page&media_type=all) · creativo más viejo visible: [ad](https://www.facebook.com/ads/library/?id=1788880745561628) · versión tú: [ad](https://www.facebook.com/ads/library/?id=1466907392252954)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, confirmar que es PDF o curso grabado (no en vivo) y que no hay cara.
+- Score 1/4 (cohorte joven pero diaria, volumen detrás del tope, destino ocupado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-14, tarde)**
+- Aprende Astrología (446279405782137) AR 32/39 (57 d) · ES 20/37 (59 d): pasa volumen, pero vende informes personalizados (carta natal infantil, revolución solar, Ikigai astrológico); verificar en la PC si son automáticos (producto) o hechos a mano (servicio).
+- El Poder de la Energía (656646417531034) MX 50+/67 (~414 d): producto invisible y nada nuevo en 30 d, posible zombi.
+- Sanamente.ARG (597119330159000) AR 38/50 página entera: tienda multinicho de PDFs; lo esotérico (hechizos 18 libros $4.800, magia gitana, velomancia) son 7 ads en 4 ofertas.
+- Holística y Energías (100286322915957) AR 10/11, pero repartido en dos ofertas (5+5); Ángeles en tu camino (1084752698054821) MX 9/12: a uno de la vara.
+- Tarot de autoaprendizaje joven y repartido: Karen Bizarro MX 7/37 (persona, Messenger), Mapas del Tarot 6/10 (BRL), Arcano Luz y Mi Tarot Guiado 0/10: re-medir 2026-11-21.
+- Calendario de Brujas 2027 (Livia Montaury, CO 0/14) y Caja del Terapeuta numerología (cohorte oculta, 177 est. AR): re-medir 2026-11-21.
+- Cementerios/ruido: `libro de hechizos` y `libro de las sombras` = short-drama; manifestación y cristales en PDF = cohorte 0.
+
+### 🎯 «La Biblia explicada versículo por versículo» (4.786 versículos · Cartas de Pablo · Profetas · Apocalipsis) — Saber Cristão MX·ES·AR · `fe/material-cristiano-imprimible/estudio-biblico-ministerial` · 2026-11-14 · sesión ES
+- **Qué es:** línea de guías digitales que explican la Biblia libro por libro: «4.786 Versículos Explicados Uno a Uno» (el producto madre), «Las 13 Cartas de Pablo», «Los 12 Libros Históricos», «Los 12 Profetas Menores», «Daniel y Apocalipsis: 761 Versículos». Operador brasileño que pauta en español (cobra en USD); desde el 11-11 testea la versión en portugués y una línea de escuela dominical. Precio y formato exacto no se ven por API.
+- **Por qué es ganador:** cohorte 7+/activos **≥45/50 en MX** (solo la línea «explicados», 61 estimados), **≥32/50 en ES** (136 est.) y **≥22/50 en AR** (152 est.): pisos, la cola sigue detrás del tope. Escalonado en 6 tandas (19-10 · 22-10 · 26-10 · 27-10 · 04-11 · 06-11) y sigue lanzando a diario. El producto madre está repetido 9 veces dentro de la cohorte. Página fantasma, un solo operador. Es el mismo molde que RootedinFaith en inglés (tarjeta EN del 11-11).
+- **Qué hacer:** AR y ES ya los pisa este mismo operador, así que no conviene la copia literal. Conviene modelar el formato «X versículos explicados» con un ángulo que no toca: **versión católica** (73 libros, con deuterocanónicos), donde en el hispano solo hay ofertas jóvenes sin cohorte · destino sugerido **AR** (piso más bajo, 22 en cohorte) · ángulo: «entendé por fin lo que leés, versículo por versículo».
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=409263028944196&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=409263028944196&search_type=page&media_type=all) · [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=409263028944196&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1462833422384955) · producto madre: [ad](https://www.facebook.com/ads/library/?id=2651734505286607) · Cartas de Pablo: [ad](https://www.facebook.com/ads/library/?id=1600684861538560)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. El cierre es «Más información / Saber más» (landing, no WhatsApp). Falta el precio y confirmar que es PDF y no libro impreso.
+- Score 0/4 (cohorte de 25 d, volumen detrás del tope, duplicación 9, destino ocupado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Manuales para líderes de iglesia («Forma Líderes Para Tu Iglesia» · Manual del Diácono · Teología Sistemática · Homilética) — Reino Hub AR·ES·MX · `fe/material-cristiano-imprimible/estudio-biblico-ministerial` · 2026-11-14 · sesión ES
+- **Qué es:** catálogo de manuales digitales de formación ministerial: formar líderes, plantar iglesias, manual del diácono, teología sistemática («Digital»), consejería pastoral, homilética y escatología. Operador brasileño (cobra en BRL) con creativos en español. Precio no visible por API.
+- **Por qué es ganador:** cohorte 7+/activos **30/30 en AR** y **30/30 en ES** (31/31 en MX): **todo lo que tiene activo lleva 10 o más días**. 6 tandas entre el 25-10 y el 04-11, el más viejo con 17,3 días, y no apagó ninguno. Página fantasma, un solo operador. El SKU que más empuja es «Forma Líderes Para Tu Iglesia» (9 ads); el resto, 3-5 por manual.
+- **Qué hacer:** ya pauta en AR y ES, así que conviene modelar el **catálogo por cargo** y no un manual suelto: kit «el ministerio listo» (líder de célula, maestro de escuela dominical, diácono, ujier, alabanza), un PDF por cargo y un bundle · destino sugerido **AR** · ángulo: «el próximo líder de tu iglesia ya está cerca: dale el manual».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=609309682275141&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=609309682275141&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1001753025510455) · líderes: [ad](https://www.facebook.com/ads/library/?id=1181373734384385) · teología: [ad](https://www.facebook.com/ads/library/?id=2594394417705534)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio y confirmar que es PDF y no curso con tutor.
+- Score 0/4 (cohorte de 17 d, 30 activos, máx. 9 por SKU, destino ocupado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: cohorte joven y multi-SKU; re-medir el 2026-11-21.
+
+**Señales del día ES (2026-11-14)**
+- Tendencias Online (1225944363928959) AR 17/17 (46,4 d): los 12 viejos dicen solo «OFERTA ESPECIAL!» (producto invisible) y los 5 del 05-11 «De nuevo creyente a discípulo»; verificar en la PC qué vende. Cristiano Digital (105939112387960) AR 13/15 (44 d) usa los mismos títulos: probable mismo operador.
+- Cristianas con Poder (1306900159163457) CL 13/29 (16 fechas, 45 d), MX 8/17, AR 7/20: pasa la vara en CL, pero «¡Primero recibe, luego pagas!» sin oferta en el copy; verificar en la PC.
+- Creaciones Maravillosas (1100378686494541) MX 10/10 (49 d, 6 fechas): devocional imprimible a $100 MXN, justo en la vara; quedó fuera por el tope de 2.
+- Café con Jesús (1390063744181837) MX 13/13 y Mapa Didáctico de la Biblia (958179187385380) MX 20/20 (274 d): una sola fecha y nada nuevo en 30 d, posible zombi.
+- El Prediccador Certero (1164739126732342) MX 25/25: software PredicaIA a US$59,90/año, SaaS (fuera de alcance).
+- Bendiciones creativas (1128535147014509, 98 est.) y Daniela Ramírez J. (991052380767123, 87 est.) MX: ráfaga de esta semana con cohorte oculta; ola de calendarios católicos 2027 (Calendarios de Fe 0/9): re-medir 2026-11-21.
+- Huecos: `lapbook bíblico` y `navidad cristiana imprimible` (0 también con ALL).
+
+### 🎯 Kit de marca y gestión por oficio «Tu marca de coach, prolija y en orden» (+ abogados) — Mind Digital Studio AR · `plantillas-canva/kits-por-oficio/profesionales-servicios` · 2026-11-13 (tarde) · sesión ES
+- **Qué es:** kit digital de identidad de marca + gestión para un oficio concreto: un SKU para coaches (el que escala) y otro «Kit de identidad y gestión para abogados». Cobra en USD. El precio y el formato exacto (plantillas Canva o marca hecha a medida) no se ven: la API de esta corrida solo trajo títulos.
+- **Por qué es ganador:** cohorte 7+/activos **18/50 en AR (piso; ~60 estimados)**, 17 de ellos del SKU coach. Escalonado en 5 tandas (14,7 · 12,9 · 11 · 9 · 7,2 d) y sigue sumando tandas el 08, 10 y 12-11. Estudio fantasma, sin nombre de persona, un solo operador. Pauta solo en AR: en MX, ES y CO no tiene ads.
+- **Qué hacer:** llevar el molde a **ES**, que está libre: «tu marca de <oficio>, prolija y en orden», un kit editable de identidad (logo, paleta, posts) + gestión (presupuestos, fichas de cliente) por oficio. Empezar por coach y sumar oficios que no toca (psicólogos, nutricionistas, abogados en ES) · ángulo: «dejá de improvisar tu imagen».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=100484571813019&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=4510640945866740) · coach: [ad](https://www.facebook.com/ads/library/?id=1424817626493336) · abogados: [ad](https://www.facebook.com/ads/library/?id=1154543433778819)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, y confirmar que es plantilla (producto) y no diseño a medida (servicio).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: cohorte de dos semanas; re-medir el 2026-11-20.
+
+### 🎯 Pack de plantillas para Instagram («Plantillas Black Friday» · «Haz crecer tu Instagram») — Pack Insta de Impacto AR·MX (+ES) · `plantillas-canva/kits-por-oficio/formato-packs-genericos` · 2026-11-13 (tarde) · sesión ES
+- **Qué es:** pack de plantillas editables para Instagram, hoy con edición Black Friday. Operador que cobra en BRL con creativos en español (brasileño pautando en el hispano). Títulos de clickbait («¡No te pierdas este trucazo!»): precio y cantidad de plantillas no se ven por API.
+- **Por qué es ganador:** cohorte 7+/activos **19/44 en AR** y 21/47 en MX. El ad más viejo lleva **65,5 días** y hay escalonamiento (65 · 24 · 22 · 15 · 10 · 7 d), con tandas nuevas el 09, 11, 12 y 13-11: el más longevo del nodo. Página sin marca personal visible, un solo operador.
+- **Qué hacer:** ya corre en AR, MX y ES, así que conviene modelar el molde y no la oferta genérica: pack de plantillas IG **por oficio** (estética, uñas, psicología, nutrición), que es justo donde la ola hispana todavía no tiene cohorte · destino sugerido **ES** · ángulo: «tu Instagram profesional listo para el Black Friday en una tarde».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=802396849634003&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=802396849634003&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=28762542953337453) · Black Friday: [ad](https://www.facebook.com/ads/library/?id=2496842867391771)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta precio, contenido del pack y si hay cara.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Hay una página homónima (1194180837101878) sin contar.
+
+**Señales del día ES (2026-11-13, tarde)**
+- Taller Creativo (1156743057524645): 15/23, 36,7 d, pero los 23 ads dicen «Haz clic en "Más información"» y nada más: oferta invisible, verificar en la PC.
+- LaOfi (101087078492489): ES 12/50 piso (10,2 d), MX 4, CO 5, AR 0/50; kit para diseñadores («Sistema para cobrar branding premium»); cohorte detrás del tope, re-medir 2026-11-20.
+- Med Spa Documents Kit (1318045718067882) MX 0/48 por entrega pero 10 creados el 06-11: cruza la vara mañana si siguen vivos (documentos para estética, USD); re-medir 2026-11-16.
+- Odonto en Orden (1355504520987314) AR 0/26 (9 del 07-11) y Lash/Nail Pro Catálogo MX 0/14 · 0/13 (tanda del 12-11): ola joven por oficio, re-medir 2026-11-19.
+- Cer Solutions (106139672439939) MX 11/18 (145 d) pero multi-oficio (psicólogos 4 en cohorte); Neri Designer (303587820364240) MX 8/50 piso, «500+ artes editables» a USD 4-6,90.
+- Revelarte (1268335106370092) AR 14/50 piso (8,5 d): láminas de bienestar, no Canva.
+- Cocina en Regla (1458517994007884) pausada: 0 activos (39 con ALL), «Manual + 4 bonus · 19 €».
+- Cementerio: `Canva fisioterapeutas` (0 ACTIVE / 151 ALL). Casi huecos: `Canva restaurantes` (8), `Canva educadoras` (2), kits para inmobiliarias y contadores (0).
+
+### 🎯 Pack de actividades emocionales imprimibles (autoestima · rechazo · emociones) para chicos y adolescentes — Laura Educa ES · `educacion-emocional/actividades-imprimibles` · 2026-11-13 · sesión ES
+- **Qué es:** colección de actividades emocionales en PDF para imprimir, para que padres/psicólogos acompañen a chicos y adolescentes (autoestima, rechazo, manejo de emociones, «emociones adolescentes»). «+100 actividades listas para usar», «Ya lo utilizan en psicoterapia». Oferta navideña: 50% OFF + 5 bonos + «Manual de Acompañamiento» de regalo. Cobra en EUR; el precio exacto no se ve en los ads (solo el % OFF), pero es low-ticket digital.
+- **Por qué es ganador:** cohorte 7+/activos **14/28 en ES** (los 28 ads corren solo en ES). El ad más viejo lleva **144,4 días** y hay 11+ fechas de creación distintas, con tanda nueva del 12-11 (edición navideña): escala sostenida de casi 5 meses, no una ráfaga. Página fantasma de un solo producto, un solo operador.
+- **Qué hacer:** llevar el molde a **AR**, que está libre (la página no pauta fuera de ES) · modelar «pack de actividades emocionales imprimibles para acompañar a tu hijo/alumno», con escalera de bonos y edición navideña · ángulo: «de la teoría a herramientas listas para imprimir». Si resulta ser material impreso, se modela igual en PDF (el dolor se resuelve con las actividades, no con el objeto).
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=109425057952071&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=900533646404636) · producto: [ad](https://www.facebook.com/ads/library/?id=2062028624511565) · oferta: [ad](https://www.facebook.com/ads/library/?id=1538058271669576)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. El cierre es «Más información» (landing), no WhatsApp. Falta el precio piso.
+- Score 3/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Verificar en la PC: que no sea marca personal (cara de «Laura» en los creativos) y que sea educación emocional general y no roce el nicho excluido (los títulos hablan de autoestima/rechazo/emociones, no de TEA/TDAH).
+
+**Señales del día ES (2026-11-13, huella)**
+- Ola «plantillas Canva» por oficio (verificar en la PC si es plantilla o mini-curso; la oferta no se ve en el copy): Taller Creativo (1156743057524645) 15/22 AR y 15/23 MX, 36 d, 12 fechas — el más sólido estructuralmente, pero título único «Haz clic en Más información» sin producto ni precio; LaOfi (101087078492489) ES ≥12/50 piso (172 est.), kit editable para diseñadores; Mind Digital Studio (100484571813019) AR ≥17/50; Revelarte (1268335106370092) AR ≥19/50 láminas de bienestar; Odonto en Orden, Lash Pro Catálogo, Cocina en Regla: ola joven del 12-11.
+- Axo y Yo (1358953320636772) MX: 10/20, pero los 10 se crearon el 05-11 (cohorte de una sola fecha, ~7,5 d): cuadernillos escolares por grado personalizados con el nombre, $149 MXN; re-medir 2026-11-20 para ver si la cohorte se sostiene.
+- Cristianas con Poder (1306900159163457): 31/71 en el bloque (16 en CL, MX 8, AR 7), 47 d; «¡Primero recibe, luego pagas!» sin producto ni precio en el copy (antes «Pequeños Cristianos»): no se puede reconstruir la ficha WA; verificar en la PC.
+- Megapacks con oferta invisible por API («OFERTA SOLO POR HOY», títulos genéricos): Pro Academy (1376930888834648) 13/32, Impulso Creativo (1060958123777585) 2/25, Megapack Online 0/35: producto no visible, re-medir y abrir snapshot.
+- Grimorio Cósmico (705078809356115) 6/26 (68 d, brujería imprimible) y Macro Aula (1216430771552642) 5/20 (PDFs técnicos de electrónica/programación): operadores con longevidad pero sin cohorte de 10; seguir.
+- Cohorte no medible por el tope de 50: Música Sin Vueltas (1276982315507030, 493 activos AR, teoría de teclado PDF) y Cuadernos de Oficio (1449810074873055, 86 ES, cuaderno de estudio por oficio): re-medir por país con menos ruido.
+- Cementerios/trampas: `envío inmediato` y precios en soles sueltos (`S/ 15`) → short-dramas y físicos; `cuaderno de trabajo` → cuadernos físicos.
+
+
+### 🎯 Plantillas Notion por oficio (freelancer · estudio de obras · abogados) — Claridad y Acción AR·ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-12 (tarde) · sesión ES
+- **Qué es:** plantillas de Notion para gestionar el trabajo de un oficio: clientes, presupuestos, proyectos, tareas y cobros en un solo panel, con «instructivo paso a paso incluido». Hay tres SKUs: freelancer, estudio de arquitectura/obras y abogados/casos. Cobra en USD. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **30/40** en los 9 países (AR 30/40, ES 20/30, MX 30/40), con 10 en cohorte por cada SKU. El ad más viejo tiene **37,6 días**. Hay 6 fechas de creación y la última es del 10-11, con 10 ads nuevos de freelancer: está escalando. Página fantasma, un solo operador. Salió del eje formato (`plantilla Notion`).
+- **Qué hacer:** ya corre en AR y en ES, así que conviene modelar el molde y no la oferta: «tu negocio en una sola plantilla» para un oficio que no toca (psicólogos, nutricionistas, profes particulares, fotógrafos) · destino sugerido **ES** · ángulo: «del WhatsApp y el Excel a un solo panel».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=771123896085843&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=771123896085843&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1779100009908413) · obras: [ad](https://www.facebook.com/ads/library/?id=3736736096474074)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. El cierre es «Comenta FREELANCER» (DM por comentario). Falta el precio.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «La agenda para cabezas que van a mil» — Mente Inquieta ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-12 (tarde) · sesión ES
+- **Qué es:** una agenda/planner para adultos que se dispersan («hecha para tu cerebro», «la agenda que no te juzga si la dejas», «un plan también para los días malos»). Cobra en EUR. El precio y el formato (PDF o impresa) no se ven en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **18/40 en ES** y 18/40 en MX. Es joven: el ad más viejo tiene 14,3 días. Hay 5 fechas de creación y la última es del 11-11, con un lote de 22 ads en curso. Página fantasma, un solo operador. Es el mismo molde que Planner Hoy Solo 3 (30/41, ya en bandeja): dos operadores con cohorte, y ninguno pauta en AR.
+- **Qué hacer:** llevar el molde a **AR**, que está libre: planner PDF «para cabezas que van a mil», con hoja de vaciado, 3 prioridades del día y plan B para los días malos · ángulo: «sin culpa si lo dejás». Si resulta ser una agenda impresa, se modela igual en PDF, porque el dolor se resuelve con el método y no con el objeto.
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1335956396276935&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1335956396276935&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2269026110674995) · «cabezas que van a mil»: [ad](https://www.facebook.com/ads/library/?id=4479179522300537)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta confirmar si es PDF o física y el precio.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: la cohorte tiene dos semanas; re-medir el 2026-11-19.
+
+**Señales del día ES (2026-11-12, tarde)**
+- Planner Hoy Solo 3 (1280820831792286, ya en bandeja): 30/41, ES 29/40 y MX 29/40; sigue sin pautar en AR.
+- Mente Ordenada (1084424138077543): 0/40 pero con 40 ads de 4-5 fechas en 6 días («Planner + 5 bonos · Descarga inmediata», «Vaciá tu cabeza en 10 minutos»). Es el tercer operador del molde; re-medir el 2026-11-19.
+- Pack Digital Emprendor (104462436003652, AR): 18/18, 108 días y 11 fechas, pero los títulos son «50%off» o vacíos: no se sabe qué vende. Hay que ver el snapshot en la PC.
+- Edwindigital (630965730107298): plantillas Excel de finanzas a US$6, 41/41 (AR 13, MX 13), pero sin ads nuevos en 35 días: posible zombi. Habitos exitosos (13/13 AR, 233 días, sin ads nuevos): también posible zombi.
+- Planner Lovers (ya en bandeja EN 09-11): AR 19/19 y MX 20/20, solo 2 fechas de creación y sin ads nuevos desde el 01-11.
+- Retos de ahorro imprimibles (Ositos de Entrecasa 0/10 de ayer, Guias e Manuais 3/14 desde cuenta BR): ola nueva; re-medir el 2026-11-19.
+- Cementerios: agendas 2027 en hispano (imprentas y PLR), `planner estudiante` y `planner oposiciones`.
+
+### 🎯 «+150 dinámicas grupales listas para aplicar» — Talleres Listos ES·MX·AR · `operadores ES` · 2026-11-12 · sesión ES
+- **Qué es:** un pack de más de 150 dinámicas grupales listas para usar en talleres, clases o grupos. Es un solo SKU con un solo título en los tres países y cobra en USD. El precio y el formato exacto no se ven en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **≥26/50 en ES** (115 estimados), **≥22/50 en MX** (122) y **≥12/50 en AR** (194; en AR los lotes nuevos tapan a los viejos). Las tres son pisos. El ad más viejo tiene 12 días, hay 8 fechas de creación y la última es del 11-11: está escalando con lotes cada 1-3 días. Página fantasma, un solo operador. El 10-11 ya pasaba la vara y quedó afuera solo por el tope de 2 tarjetas; hoy sigue creciendo.
+- **Qué hacer:** ya corre en AR y en ES, así que conviene modelar el molde y no la oferta: un «banco de dinámicas listas» para un avatar concreto (docentes de secundaria, RR. HH. y onboarding, catequesis o grupos de jóvenes), con fichas de objetivo, tiempo y materiales · destino sugerido **ES**, que es donde más cohorte junta · ángulo: «tu próximo taller armado en 5 minutos».
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1423115024221032&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1423115024221032&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=2000317804259636)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Faltan el precio y confirmar que es una descarga (PDF) y no un curso en vivo.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Sistema de consultorio para nutricionistas «Pago único · Acceso inmediato» — Consultorio Nutri Listo AR · `operadores ES` · 2026-11-12 · sesión ES
+- **Qué es:** materiales listos para el consultorio de nutricionistas («+1.500 materiales · 7 módulos»), con pago único y acceso inmediato. Cobra en USD. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **13/42 en AR** (completo; ayer estaba en 6/40). Corre solo en AR: MX, ES, CO, PE, EC y CL dan 0. Es joven: el ad más viejo tiene 8 días y la página ~9. Hay 4 fechas de creación, con una tanda hoy («4.7/5 +3400 Nutricionistas», 18 ads). Página fantasma, un solo operador.
+- **Qué hacer:** llevarlo a **ES**, donde no corre nadie con esta oferta: el sistema de consulta del dietista-nutricionista (fichas de primera consulta, planes, seguimiento y educación al paciente) · ángulo: «tu consulta organizada desde el primer paciente, sin armar nada desde cero». Para AR conviene esperar: ya tiene dueño y la cohorte todavía es joven.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1431610173366748&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1740005817558070) · «Pago único»: [ad](https://www.facebook.com/ads/library/?id=1833848121092150)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Faltan el precio y ver si es PDF/plantillas o un área de miembros.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). Riesgo: la cohorte tiene un día; re-medir el 2026-11-18.
+
+**Señales del día ES (2026-11-12)**
+- Pixelpack (116045223625247, MX): creció de ≥29 a **≥42/50**, con un ad de 103 días («+500.000 diseños» DTF/sublimación a US$9,99). Pasa la vara, pero es un megapack de reventa con diseños de terceros (anime, entre otros): riesgo de derechos de autor.
+- Red Aprendia 1 «Aprende con Guías Profesionales» (1380966491766673): ≥44/50 MX, ≥26/50 PE y 27/34 BO (país nuevo, con temas bolivianos). Pasa volumen, pero es catálogo de guías sueltas, casi todas sin título; mismo molde que Aprendia, que ya está en bandeja.
+- Valentina Ríos (1280761195116636): papelería cristiana para revender, **19/19 en AR** y 20 ads nuevos en ES (del 05-11, entran en cohorte ~13-11). Página con nombre de persona y cobro en BRL.
+- Mapasyresumenes (234866809700963): SKU nuevo para ES lanzado hoy, oposiciones «2027 en 150 páginas» a 12,90 € (Guardia Civil, Policía Nacional, Justicia, Abogacía), 20 ads. Re-medir el 2026-11-19.
+- Todo Digital (916814288184704, MX): 10/24 pero repartido entre SKUs; el nuevo son guías de topografía a $125 MXN (6 en cohorte).
+- Crea y Emprende (AR 14/22): abrió hoy el tema siguiente a Navidad, «Tejé la colección del Verano 2027» + «cuánto cobrar tus tejidos» (6 ads).
+- Neutral Nature: CO bajó a 42/42 sin creativos nuevos desde 03-11; entró a AR con un test de 8 ads (09-11). Planner Hoy Solo 3 creció a 28/40 en ES y MX; Planos de arcilla a ≥26/50 en AR. Derecho en Mapas bajó a 5/41 (debajo de la vara).
+- Posibles zombis: La Biblioteca Definitiva De Tejido (23/23, sin ads nuevos en 53 d), Planner Lovers (sin ads desde 01-11, no corre en ES) e IA Programas (16/22 → 11/11).
+
+### 🎯 «Planificación anual de vóley / newcom / básquet / handball + 5 bonos» — Biblioteca Digital AR · `deportes/planificacion-entrenadores` · 2026-11-11 (tarde) · sesión ES
+- **Qué es:** packs de planificación anual para profes y entrenadores de clubes, uno por deporte («6 libros de vóley», «Megapack Handball: 6 libros», «+500 ejercicios y +250 entrenamientos»), a **$19.990 ARS** (antes $35.000; $18.500 por transferencia; cupón NEWCOM10).
+- **Por qué es ganador:** cohorte 7+/activos **25/33 en AR** (todo corre en AR; ES y el resto del bloque, 0) · el ad más viejo tiene **63,6 días** (08-09) · 12 fechas de creación, la última del 10-11 (operador vivo) · página fantasma · un solo operador. Sale al perforar `salud-mental/sistemas-de-sesiones` por el eje entrenadores.
+- **Qué hacer:** modelar el molde para **ES**, donde no corre: «tu temporada armada» por deporte para profes de educación física y entrenadores de base (vóley, baloncesto, balonmano; el newcom no existe allá, así que va fútbol sala o multideporte) · ángulo: «tu clase lista en 5 minutos, toda la temporada planificada». En AR ya tiene dueño.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1270799516117158&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1765783258019900) · vóley $19.990: [ad](https://www.facebook.com/ads/library/?id=27974495148892383)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta confirmar que son PDF descargables y no libros impresos.
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-11, tarde)**
+- Sector Digital (1122535934265327, ya en bandeja desde el 09-11): sigue creciendo. Contado por país da AR ≥15/50, ES ≥28/50 y MX ≥14/50, con ≥31 ads únicos en cohorte, todos de psicología deportiva. La línea de adicciones tiene cohorte 0.
+- Consultorio Nutri Listo (1431610173366748): sistema de consultorio para nutricionistas, «Pago único · Acceso inmediato». Tiene 6/40 y la página tiene 8 días: re-medir el 2026-11-18.
+- Soy Nutri Digital (106039621913944, ARS): materiales para nutricionistas, 22/22 con ads de hasta 226 días, pero sin un ad nuevo en 112 días (posible zombi).
+- Psico Express (690918464110425, PEN): «+8000 instrumentos» y Excel automatizado para psicólogos, 7/21 con un ad de 77 días.
+- Psicologia & Recursos 2025 (469568772899568, COP): kits PDF por WhatsApp (pareja, duelo, trabajo social), 6/16 con un ad de 43 días.
+- Terapia de pareja para terapeutas, ola de esta semana: Clínica del vínculo («84 ejercicios», 0/12) y Kit Graduación Listo (24 protocolos + fichas Word, 0/36). Re-medir el 2026-11-18.
+
+### 🎯 Packs de «50 fichas ilustradas» por oficio (pintura anticorrosiva, seguridad en altura, puesta a tierra, salud pública) — Aprendia : Guias profesionales MX · `educacion-profesional/fichas-visuales-estudio` · 2026-11-11 · sesión ES
+- **Qué es:** packs PDF de unas 50 fichas visuales con diagramas, cada uno sobre un oficio o una carrera. Los temas van de «pulido, juntas y epóxicos», «granallado y recubrimientos» y «carga y descarga en cisterna» a «quimioterapia explicada en fichas» y crucigramas para el aula. Cobra en MXN. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **38/50 en MX** (piso, 63 estimados). El ad más viejo tiene ~68 días (04-09) y hay ~17 fechas de creación, con una tanda hoy. Página fantasma. Es la única página de la red «Aprendia» (≥17 page_ids con la misma plantilla) que deja correr los ganadores. Las otras rotan cada 2-3 días con cohorte ~0. **No corre en AR ni en ES.**
+- **Qué hacer:** modelar el formato «50 fichas visuales de <oficio>» en PDF, empezando por los temas con ads de 30+ días (recubrimientos y pintura industrial, seguridad en altura, puesta a tierra) · destino sugerido **AR**, después ES (normativa local en cada ficha) · ángulo: «todo el oficio en 50 fichas, con diagramas, para estudiar o llevar a la obra».
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1319574141233447&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1401147972145855) · fichas de granallado: [ad](https://www.facebook.com/ads/library/?id=1071865185849020)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Faltan el precio y confirmar que es descarga PDF.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Mapas mentales de Derecho Penal / Administrativo» — Derecho en Mapas CO · `educacion-profesional/fichas-visuales-estudio` · 2026-11-11 · sesión ES
+- **Qué es:** dos packs de mapas mentales de derecho («Quiero los mapas del Penal», «Quiero los mapas del Administrativo»). Es el molde brasileño de «mapas mentais de direito» traducido al español: el operador es brasileño y cobra en BRL. El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **10/34 en CO** (cohorte justa en la vara; los 34 corren solo en CO). El ad más viejo tiene ~23 días (19-10) y hay ~11 fechas de creación, con tandas el 09-11 y el 10-11. Página fantasma, con una hermana (Mapas del Derecho) que no se sumó. **No corre en AR ni en ES.**
+- **Qué hacer:** hacer el producto propio con el ordenamiento de cada país: mapas de Penal y Administrativo argentino para estudiantes de abogacía (**AR**), y para oposiciones en **ES** (temario ya esquematizado) · ángulo: «toda la materia en mapas, para leer en 10 minutos antes del parcial».
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1356269490904663&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1055540124204793)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Faltan el precio y saber si son PDF o un área de miembros.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-11)**
+- IA Programas (809461785581622, MX): 16/22 en cohorte, el ad más viejo del 27-10. Aparece en «resúmenes derecho/medicina PDF» pero todos los títulos están vacíos, así que no se sabe qué vende. Abrir los snapshots en la PC.
+- Mapasyresumenes (234866809700963): guías de admisión «X en 150 páginas» con precio local (S/ 33,90 · COP 31.900 · MXN 179). Está en 4/50: re-medir el 2026-11-18.
+- Studio Facile (1272162682644374): «X ilustrada» (contabilidad, ECG, náutica) con 43 ads en ES, todos del 09 al 11-11. Re-medir el 2026-11-18.
+- Red Aprendia: ≥17 páginas con la misma plantilla y cohorte ~0 por rotación. Contarla por país, nunca página por página en los 9 juntos.
+- `mapas conceptuales imprimibles`: cementerio (0 activos, 43 viejos).
+
+### 🎯 «300 tarjetas pop-up para imprimir» — Neutral Nature CO (+ES·MX) · `oficios-digitales/guias-cricut/tarjetas-popup-papeleria` · 2026-11-10 (tarde) · sesión ES
+- **Qué es:** biblioteca de 300 plantillas de tarjetas pop-up (3D) para imprimir, cortar y armar. Es un solo producto con un solo título. Cobra en USD y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **47/47 en CO**, con ads de hasta 10,9 días y 4 fechas de creación. Está escalando a ES (130 activos estimados) y a MX (128), con tandas diarias del 05-11 al 10-11. Página fantasma, un solo operador. Desde hace 7 días tiene un clon que copia el título palabra por palabra: **Pura Idea**, con 43 ads.
+- **Qué hacer:** modelar tal cual en PDF imprimible, con un ángulo de regalo hecho a mano («tarjetas que se abren en 3D, imprimí y armá») y Navidad en primer plano · destino sugerido **AR**, donde recién entró (10 ads, ninguno de 7+ días). En ES ya escala. La ventana es corta.
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=919376131265589&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=919376131265589&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1544989384137370)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Falta el precio y confirmar que es descarga PDF.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «+100 guías visuales de Cricut Design Space» (+ «80 fichas para Silhouette») — Biblioteca Creativa AR·ES·MX·CO · `oficios-digitales/guias-cricut/cricut-silhouette` · 2026-11-10 (tarde) · sesión ES
+- **Qué es:** guías paso a paso con capturas para aprender a usar la Cricut y la Silhouette (configuración por material, proyectos). Tercer SKU: «200 Modelos de Bordado en Papel». El operador es brasileño: escribe en español y cobra en BRL. No se ve el precio.
+- **Por qué es ganador:** cohorte 7+/activos **10/25 en AR** (los mismos 25 ads corren en ES, MX y CO). El ad más viejo tiene 32,7 días (09-10) · 8 fechas de creación, la última del 09-11 · subió de 8/26 ayer a 10/25 · página fantasma, con un clon en inglés (Creative Library) y una página-persona con la misma oferta. Es una cohorte justa en la vara.
+- **Qué hacer:** hacer un producto propio en castellano rioplatense: guías visuales por máquina y por material («qué cuchilla, presión y velocidad para cada material») más proyectos para vender · destino sugerido **AR**: el competidor traduce del portugués y cobra en reales · ángulo: «tu Cricut está guardada porque no sabés configurarla».
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1244762302063129&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1244762302063129&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1692908435779062)
+- **Landing:** no verificado desde la nube: verificarlo en la PC antes de decidir. Falta el precio y saber si son PDF o un área de miembros.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-10, tarde)**
+- Deco Mundo (746385791884775): «Kit Fiesta Mágica», plantillas de fiesta editables en Canva. Tiene 11/23 con ads de hasta 17 días: pasa la vara, pero quedó afuera por el tope de 2 tarjetas.
+- Pixelpack (116045223625247): «+500.000 diseños» para DTF y sublimación a US$9,99. Tiene ≥29/62 con ads de hasta 108 días. Es un megapack de reventa, con riesgo de derechos de autor.
+- Smartsubli (659506740579643): 25/25 con ads de hasta 51 días, pero no creó ningún ad en 30 días (posible zombi). Puede que venda una herramienta y no un pack.
+- Pablo Ruiz – Diseños profesionales (1253043424549276): diseños para láser/CNC + «método de venta», 16/28 en AR. La página tiene nombre de persona: verificar si hay cara en los creativos.
+- Neutral Nature en ES (130) y MX (128): la cohorte está detrás del tope de 50. Re-medir el 2026-11-17.
+- The Leather Blueprint (1111361138727626, patrones de cuero, EUR, 92 activos) y Planos & Proyectos (1365754686630257, «+2.000 planos para cajas de sonido», 93 activos): cohorte oculta, re-medir.
+- Vectores Laser (1182186001656075): 9/9 con un ad de 78 días, cierra por Messenger. Queda a uno de la vara.
+
+### 🎯 «Planner para vaciar la cabeza» (elegí tus 3 de hoy) — Planner Hoy Solo 3 ES·MX · `productividad/planner-vaciar-cabeza` · 2026-11-10 · sesión ES
+- **Qué es:** planner de una hoja para descargar todo lo pendiente y quedarte con 3 prioridades por día («La lista eterna de tu cabeza cabe en una hoja», «Lo abres y ya sabes por dónde empezar»). Cobra en USD y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **21/35 en ES** (contados uno por uno) y unos 20 en MX · el ad que vende más viejo tiene 19,2 días · 10 fechas de creación entre el 21-10 y el 09-11 (operador vivo, rota ángulos) · página fantasma · un solo operador.
+- **Qué hacer:** modelar tal cual en PDF imprimible + versión digital («vaciá la cabeza y elegí tus 3 de hoy») · destino sugerido **AR**, donde no corre (0 activos) · ángulo: «la lista eterna de tu cabeza en una hoja», para gente saturada, no para fans de la papelería.
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1280820831792286&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1280820831792286&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1625984888978251)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y saber si es PDF o planner digital).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «246 plantillas de cerámica a tamaño real» — Biblioteca maestra: Planos de arcilla AR · `manualidades/plantillas-ceramica` · 2026-11-10 · sesión ES
+- **Qué es:** biblioteca de moldes para imprimir, cortar la arcilla y armar piezas de cerámica a mano («Dejá de adivinar. Empezá a armar.»). Desde el 09-11 son 248 plantillas. Cobra en ARS y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **≥16/≥50 en AR** (piso; 61 estimados, contados uno por uno) · dos tandas en cohorte, de 10,3 días (×9) y de 7,2-7,5 días (×7) · 5 fechas de creación, la última del 09-11 · página fantasma · un solo operador. Ojo: es una cohorte joven.
+- **Qué hacer:** modelar tal cual en PDF · destino sugerido **ES**, donde no corre (0 activos) · ángulo: «dejá de adivinar las medidas» + «¿no tenés horno? también sirven» (arcilla polimérica o de secado al aire). La ventana es corta: **Planos de Barro** (1463269926874211) arrancó hoy un clon de 229 plantillas en USD y tuteo, con 10 ads.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1435630566293933&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1128024273319002)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y confirmar que es descarga PDF).
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-10)**
+- Talleres Listos (1423115024221032): «+150 dinámicas grupales listas para aplicar». Ayer la cohorte estaba oculta; hoy, contada por país, da **AR 20/≥50, ES 24/≥50 y MX 21/≥50**, con ads de hasta 12 días. Pasa la vara, pero ya corre en los dos destinos: es molde y competidor, no hueco. Quedó fuera por el tope de 2 tarjetas.
+- Red «Aprendia» (Aprende Fácil con Guías, Aprende Ya, Aprende con Guias Profesionales): fichas visuales de estudio para oficios y carreras (tratamiento de agua, oftalmología, CNC), de 342 a 659 ads estimados por página, pero los 50 visibles son de los últimos 3 días: re-medir por país.
+- Bienestar Digital (1319255167927860): material docente en videos y PDF, 7/31 con un ad de 42 días; en horas suma 3 más y queda en ~10.
+- Todo Digital (916814288184704): pack de plantillas Excel a 90 MXN, 4/24, con 7 ads que entran en cohorte en 1-2 días.
+- Matriz Digital (1268089893046373): kit para anfitriones de alquiler temporario, ≥4/≥50 en AR (65 estimados); la cohorte está detrás del tope.
+- Psicologia & Recursos 2025 (469568772899568): kits de formatos para psicólogos y trabajadores sociales por WhatsApp, 6/19 con un ad de 31 días.
+
+### 🎯 «Navidad Tejida · +100 patrones» (+ «Florería Tejida · 50 patrones») — Crea y Emprende AR·ES · `manualidades/patrones-pdf/crochet-amigurumi` · 2026-11-09 (tarde) · sesión ES
+- **Qué es:** biblioteca digital de patrones de crochet por tema: más de 100 adornos y regalos navideños, y una segunda oferta de 50 flores tejidas. No se ve el precio en los ads (cobra en USD).
+- **Por qué es ganador:** cohorte 7+/activos **17/20 en AR** (19/30 en todo el hispano y 5/13 en ES) · Navidad Tejida pone sola 14 de la cohorte · tandas de 7 a 20,5 días · 14 fechas de creación, del 20-10 al 06-11 (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el molde, no la misma oferta, porque ya corre en AR y en ES. La idea es una «biblioteca temática de patrones tejidos» por ocasión (Navidad ahora, después Día de la Madre, bebé, flores) · destino sugerido **ES**, donde su cohorte es chica · ángulo: «tejé tus regalos de Navidad». Es estacional: la ventana se cierra a fines de diciembre.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1056023200924288&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1056023200924288&search_type=page&media_type=all) · creativo más viejo de Navidad: [ad](https://www.facebook.com/ads/library/?id=1397980735440944)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir (falta el precio y confirmar que es PDF).
+- Score 2/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Mega Pack Papercraft / «Crea tu Pueblito Navideño» — Cursos Online MX · `manualidades/patrones-pdf/papercraft-fiesta` · 2026-11-09 (tarde) · sesión ES
+- **Qué es:** plantillas para imprimir y armar casitas y miniaturas de papel: un pueblito navideño y, desde esta semana, «120 patrones de casitas navideñas». Cobra en MXN y no se ve el precio en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **11/24** (20 activos en MX) · 4 ads de papercraft de hasta 17,3 días y 5 de pueblito que recién pasaron los 7 días · 6 fechas de creación, la última del 07-11 · un solo operador.
+- **Qué hacer:** modelar tal cual en PDF («armá tu pueblito navideño de papel») · destino sugerido **AR**, después ES: no corre en ninguno de los dos. ⚠️ Es justo en la vara: la mitad de la cohorte tiene 7 días, la página se llama «Cursos Online» y vende varios productos (también mostacillas 3D).
+- **Ads Library:** [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=512123288644096&search_type=page&media_type=all) · creativo más viejo: [ad](https://www.facebook.com/ads/library/?id=1823877388628931)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Hay 2 ads «Chatea con nosotros» (WA) y falta confirmar que sea PDF y no curso.
+- Score 1/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales ES, corrida de la tarde (2026-11-09)**
+- La Biblioteca Definitiva De Tejido (1151253608079340): «+5200 patrones», 23/23 en cohorte con ads de hasta 57 días, pero no crea un ad nuevo hace ~49 días. Es un posible zombi: abrir el snapshot.
+- Ola navideña de esta semana en patrones y moldes: Digital Shop (belén, 0/17), Hecho por vos (150 moldes de Papá Noel, 0/48), Premium Master Academy (1.500 moldes, 0/19), Santos En Punto, Forgium. Todo tiene menos de 7 días: re-medir el 16-11.
+- Educa Online (880717081793459): mega pack de moldes de ropa y bebé a **$4**, 9/43. Le falta uno para la vara.
+- Recursos creativos (708050409060790): moldes de foami, 8/≥50 (piso). Puede tener más cohorte detrás del tope.
+- Puntada Maestra (1314855495043139): belén de 30 figuras a crochet en PDF, en España (EUR), 4/23 con 9 tandas.
+- Sofía Ramírez (1386276927902506): patrones de crochet por WhatsApp, unos 180 ads. Los 50 que se ven son de hoy, así que la cohorte queda oculta.
+
+### 🎯 Sistema de sesiones listo para usar para psicólogos deportivos — Sector Digital AR·ES·MX · `salud-mental/sistemas-de-sesiones` · 2026-11-09 · sesión ES
+- **Qué es:** kit digital con «7 módulos y recursos prácticos de psicología deportiva» para planificar las sesiones de toda la temporada (en español y en inglés). Desde el 08-11 suma una segunda línea: «Sistema completo para adicciones en 8 etapas». No se ve el precio ni si es PDF o mini-curso grabado.
+- **Por qué es ganador:** cohorte 7+/activos **25/≥50** (piso, 62 estimados) · el ad que vende más viejo tiene 28,6 días · 12 fechas de creación, la última del 08-11 (operador vivo) · página fantasma · un solo operador.
+- **Qué hacer:** modelar el molde, no copiar la especialidad: el mismo «sistema de sesiones» para otra profesión (nutricionistas, entrenadores, coaches de salud) · destino sugerido **ES**, después AR · ángulo: «Dejá de armar cada sesión desde cero». Ojo: ya corre en AR (58) y en ES (55), así que para psicología deportiva no hay hueco.
+- **Ads Library:** [AR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AR&view_all_page_id=1122535934265327&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1122535934265327&search_type=page&media_type=all) · creativo: [ad](https://www.facebook.com/ads/library/?id=1424759336524519)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta confirmar que no sea un curso en vivo y que no haya una cara que venda.
+- Score 0/4 · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día ES (2026-11-09)**
+- Digital Academy (858372700683858): 15/41 en cohorte, con un ad de 88 días, pero es una tienda de muchos packs (AutoCAD, sublimación, mecánica, Montessori) que cierra por WhatsApp; ninguna oferta sola llega a 10.
+- Biblioteca Creativa (1244762302063129): «+100 guías visuales de Cricut» y fichas de Silhouette, 8/26 con un ad de 31 días; volver a mirar el 16-11.
+- emprender con manualidades (116221641477307): patrones navideños en PDF y biblioteca de macramé, 5/≥50 vistos de 79; puede haber más cohorte detrás del tope.
+- Talleres Listos (1423115024221032): «+150 dinámicas grupales listas», 304 ads estimados con un solo título; los 50 que se ven son nuevos y la cohorte puede estar oculta.
+- Planner de limpieza en hispano: Casa en Orden 5 activos (hasta 34 días) y Casa en Calma 2 de hoy; nadie con volumen, el hueco para el molde de Honey Home sigue abierto.
+- Contabilidad hispana: muchos testers (Ediciones Vertice, Aprende Ya, Aldinio Digital, Ebookify, Contabilidad Argentina Paso a Paso) y ninguno con cohorte.
+- Avenlo (1434008009790850): libro ilustrado en PDF + 2 de regalo, 20 activos y ninguno de 7 días; el molde de libros ilustrados de EN ya corre en español.
+
+
+<!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
+
+---
+
+## Revisiones
+
+| Fecha | Tarjetas revisadas | `Idea` | `tirar` | `re-cazar` | `profundizar` | Tasa |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+> Tasa = `Idea` / revisadas. Por debajo de 20 % se sube la vara; por encima de 70 % se baja.
+
+## Histórico (decididas)
+
+| Fecha | Sesión | Producto | Decisión | A dónde fue |
+|---|---|---|---|---|
+| | | | | |
