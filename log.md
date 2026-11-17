@@ -74,3 +74,4 @@
 ## [2026-11-17] caza-auto | BR C operadores → 2 candidatos a bandeja
 ## [2026-11-17] caza-auto | ES huella hispano → 0 candidatos a bandeja
 ## [2026-11-17] caza-auto | EU — sin prompts/eu.md, no corrió
+## [2026-11-17] caza-auto | EN perforar recetas/postres-sin-azucar → 2 candidatos a bandeja
