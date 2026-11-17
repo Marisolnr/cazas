@@ -1,11 +1,10 @@
 # Destinos — a qué países se lleva un ganador
 
-Lista de Marisol (2026-11-16). El veredicto de cada tarjeta («llevarlo a…») elige **uno o dos países de esta
+Lista de Marisol (2026-11-16, actualizada el 2026-11-17: entran Alemania y Reino Unido; Hong Kong sigue). El veredicto de cada tarjeta («llevarlo a…») elige **uno o dos países de esta
 lista**: los que tengan hueco (0-3 jugadores débiles, confirmado con `ALL`) y donde la oferta se pueda adaptar.
-Todos los mercados que se cazan (EN, BR, ES, EU) son **fuente**.
+Los países cuna donde se caza son **EE.UU., Brasil, Reino Unido, Colombia y España** (sesiones EN, BR y ES; EU pausada).
 
-**Nunca son destino:** Estados Unidos, Brasil, Rusia, Alemania y Gran Bretaña (Reino Unido). Se pueden cazar como
-fuente, pero el veredicto no los nombra.
+**Nunca son destino:** Estados Unidos, Brasil, Rusia y España (España es solo fuente, decisión de Marisol 2026-11-14, ratificada el 2026-11-17). Se pueden cazar como fuente, pero el veredicto no los nombra.
 
 **Validados hoy (preferidos, con checkout probado):** Rumania, Italia, Portugal, Grecia, Hungría, Suiza, Sudáfrica,
 México, Irlanda, Canadá, Australia, Nueva Zelanda, Bulgaria, Turquía, Moldavia, Israel, Ucrania, Francia,
@@ -13,9 +12,9 @@ Eslovaquia, Chequia, Suecia, Noruega, Países Bajos, Bélgica, Croacia, Luxembur
 
 **Lista completa de destinos posibles:**
 
-China · Indonesia · Pakistán · Nigeria · Bangladesh · Etiopía · México · Japón · Egipto · Filipinas · RD Congo ·
-Vietnam · Irán · Turquía · Tanzania · Tailandia · Francia · Sudáfrica · Italia · Kenia · Myanmar · Colombia ·
-Sudán · Uganda · Corea del Sur · Argelia · Irak · España · Argentina · Afganistán · Yemen · Canadá · Angola ·
+India · China · Indonesia · Pakistán · Nigeria · Bangladesh · Etiopía · México · Japón · Egipto · Filipinas · RD Congo ·
+Vietnam · Irán · Turquía · Alemania · Tanzania · Tailandia · Reino Unido · Francia · Sudáfrica · Italia · Kenia · Myanmar · Colombia ·
+Sudán · Uganda · Corea del Sur · Argelia · Irak · Argentina · Afganistán · Yemen · Canadá · Angola ·
 Ucrania · Marruecos · Polonia · Uzbekistán · Mozambique · Malasia · Ghana · Arabia Saudita · Perú · Madagascar ·
 Costa de Marfil · Camerún · Nepal · Níger · Venezuela · Australia · Corea del Norte · Siria · Malí ·
 Burkina Faso · Sri Lanka · Malaui · Zambia · Chad · Kazajistán · Somalia · Chile · Senegal · Guatemala ·
@@ -33,4 +32,4 @@ Islas Salomón · Guyana · Bután · Luxemburgo · Surinam · Montenegro · Mal
 Belice · Bahamas · Islandia · Vanuatu · Barbados · Santo Tomé y Príncipe · Samoa · Santa Lucía · Kiribati ·
 Seychelles · Granada · Micronesia · Tonga · San Vicente y las Granadinas · Antigua y Barbuda · Andorra ·
 Dominica · San Cristóbal y Nieves · Liechtenstein · Mónaco · Islas Marshall · San Marino · Palaos · Nauru ·
-Tuvalu · Santa Sede · **India** · **Hong Kong**
+Tuvalu · Santa Sede · Hong Kong
