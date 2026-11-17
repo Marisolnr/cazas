@@ -546,6 +546,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-17 18:40 | BR | B perforar (tarde) | produtividade/planner-rotina-estudos | en curso | en curso | en curso |
 | 2026-11-17 07:10 | EU | A huella (mañana; toca B pero no hay nodo EU en la cola → A) | — (huella, IT FR DE PT) | 23 huellas nativas (IT 6, FR 6, DE 5, PT 5 + 1 de arranque) sin ceros; ~50 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio de 3) | 2 tarjetas (Die Kunst des Tarot, Isabel Martins), 7 señales | 7 nodos nuevos EU (3 superficial, 4 virgen); 4 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:42 | ES | A huella (mañana) | — (huella, hispano) | 20 huellas ES × 9 países (distintas de las del 09, 10 y 13-11); ~35 páginas contadas con `page_ids` + país (5 subagentes de lectura + re-conteo propio) | 0 tarjetas, 6 señales (Colección Digital Plus 11/26 con la oferta invisible) | sin nodos nuevos; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 06:40 | EN | B perforar (mañana) | recetas/postres-sin-azucar | 6 subnichos, 30 kw US/GB (60 consultas) + ALL en 2 ceros + 2 controles AR/ES; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio) | 2 tarjetas (Elisabeth.says + Nonna Sweets, Relief On Every Plate), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
