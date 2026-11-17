@@ -546,6 +546,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-17 18:45 | ES | B perforar (tarde) | manualidades/plantillas-ceramica | en curso | en curso | en curso |
 | 2026-11-17 18:40 | EN | B perforar (tarde) | esoterismo/tarot-guias-en | en curso | en curso | en curso |
 | 2026-11-17 18:40 | BR | B perforar (tarde) | produtividade/planner-rotina-estudos | en curso | en curso | en curso |
 | 2026-11-17 07:10 | EU | A huella (mañana; toca B pero no hay nodo EU en la cola → A) | — (huella, IT FR DE PT) | 23 huellas nativas (IT 6, FR 6, DE 5, PT 5 + 1 de arranque) sin ceros; ~50 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio de 3) | 2 tarjetas (Die Kunst des Tarot, Isabel Martins), 7 señales | 7 nodos nuevos EU (3 superficial, 4 virgen); 4 operadores a seguir; 1 fila de trampas |
