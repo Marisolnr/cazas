@@ -415,6 +415,22 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Caderno do acadêmico de <carrera>»: cuaderno digital por carrera universitaria — Notion Estudos BR · `produtividade/planner-rotina-estudos/universitario` · 2026-11-17 (tarde) · sesión BR
+- **Qué es:** un cuaderno o plantilla digital armado para cada carrera universitaria. Los títulos son del tipo «ESTUDANTES DE PSICOLOGIA — CADERNO DO ACADÊMICO DE PSICOLOGIA». Por el nombre de la página, parece una plantilla de Notion, pero no está confirmado. Se cobra en BRL y el precio no se ve.
+- **Por qué es ganador:** cohorte 7+/activos **≥50 en BR**, sobre unos 247 activos estimados (es un piso). Contado tanda por tanda: Terapia Ocupacional 10/10 (12,9 d), Gastronomia 10/10 (11,1 d), Física 10/10 (8,9 d), Psicologia 10/10 y Educação Física 10/10 (7,8-7,9 d). Hoy corren 5 carreras más que todavía no llegan a los 7 días. Cada carrera tiene 10 ads con el mismo título y ninguna tanda perdió un ad. Es una página de marca, sin persona, y un solo operador. **Ojo:** la página arrancó hace unos 13 días, así que es una escala rápida, no una longevidad probada.
+- **Qué hacer:** modelar el «cuaderno del universitario» por carrera, en plantilla de Notion más PDF imprimible, a EUR/USD 7-9. Conviene abrir con las carreras de salud y humanas y sumar una carrera nueva por tanda, como hace él. Destino sugerido **Portugal**, que va tal cual porque es el mismo idioma, y después **México**. En el hispano el molde está vacío: `plantilla Notion estudiantes` da 4 ads con ALL y Notion Estudos tiene 0 fuera de Brasil.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=128822573650748&search_type=page&media_type=all) · tanda más vieja: [Terapia Ocupacional, 12,9 d](https://www.facebook.com/ads/library/?id=1851606812546576) · [Gastronomia, 11 d](https://www.facebook.com/ads/library/?id=2210848403123692)
+- **Landing:** embudo no verificado desde la nube (los ads no traen URL). **Antes de decidir:** abrir el snapshot y confirmar si es una plantilla de Notion, un PDF o una suscripción, y cuánto cuesta.
+- Score 3/4 (volumen ≥50, duplicación ×10 por tanda, hueco en PT/hispano; falla la longevidad: 13 d) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-17, tarde)**
+- Planner Lovers (128972030308501), tarjeta EN del 09-11: en Brasil también está **44/44**, con 10 fechas y un ad de 93 días («Seu Semestre Organizado em 1 Clique» ×8, cobrado en USD). Ya corre en AR/ES/MX, así que el hispano está ocupado.
+- Daily Routine Club (671948206009244), tarjeta del 09-11: **17/22**, con 8 fechas y un ad de 42 días. «Sua rotina tá uma bagunça?» se repite 18 veces. Sigue vivo y creciendo.
+- Moldes & Artes Digitais (125664903959736): 6/9, con «Planner Prosperar» y «Planner Financeiro». Renueva creativos cada ~30 días desde el 19-09 (59 d).
+- Guia dos Desorganizados (1468944306295036): 3/10. «Guia de Organização para Pessoas Extremamente Desorganizadas» ya tiene 4 fechas en 9 días: re-medir 2026-11-24.
+- Cohortes invisibles: eleja.se («Planner'27», unos 260 estimados) y Notion Estudos (por página solo se ven las tandas de hoy). Lanzamientos sin cohorte: Papeliê 0/10 (planner familiar), Planilhas Fáceis 0/9, Cursos Digitais Prontos 0/14 y Rota ENEM 0/3.
+
 ### 🎯 «Apostila Completa + Aplicativo de Questões» para concursos — Trilha do Estudo BR · `concursos/material-estudo/por-avatar-professor-saude` · 2026-11-17 · sesión BR
 - **Qué es:** una apostila completa de concurso público que viene con una app de preguntas («Apostila Completa + Aplicativo de Questões»; también corre «Aplicativo de Estudos»). Se cobra en USD y el precio no se ve por API. Duda abierta: ¿el núcleo es la apostila en PDF con la app de regalo, o una suscripción a la app?
 - **Por qué es ganador:** cohorte 7+/activos **50/50 en BR**, sobre los 50 devueltos (es un piso: hay 61 estimados). Crece de una medición a la otra: ≥40 el 10-11, ≥40 el 13-11, ≥50 hoy. Tiene 14 fechas de creación entre el 28-09 y el 10-11, y el ad más viejo lleva **49,5 días**. **43 de los 50 en cohorte repiten el mismo título.** Es una página de marca, sin nombre de persona, y un solo operador.
