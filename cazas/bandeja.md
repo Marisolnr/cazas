@@ -26,6 +26,23 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Método de decluttering habitación por habitación para mujeres de 60+ («The Room-by-Room Method») — The Lighter House US · `hogar/planner-limpieza/declutter-por-habitacion` · 2026-11-18 (tarde) · sesión EN
+- **Qué es:** una guía imprimible para ordenar la casa «en el orden correcto» de once habitaciones, con una página por habitación y un capítulo aparte para las fotos y «las cosas que eran de él». Se hace de a 15-20 minutos por día, sentada. Avatar: mujer de 60-65+ que se achica o enviudó («So Your Kids Never Have to Do This»). Cobra en AUD y el precio no se ve; un título dice «Save $20».
+- **Por qué es ganador:** cohorte 7+/activos **≥26/68 en US** (piso: la API corta en 50 y con `decluttering` aparecieron 8 más detrás del tope). Hay 6 tandas de 22, 21, 16, 12, 11 y 7 días que siguen prendidas, y sube una tanda nueva casi todos los días (hoy: «Declutter Your Home Before Christmas»). Es una marca sin persona: copy tipo advertorial con anécdotas de terceras. Corre solo en US: 0 en GB, Irlanda, Australia, Nueva Zelanda y Canadá.
+- **Qué hacer:** modelarlo en PDF como «El método habitación por habitación para vaciar la casa después de los 60», con una página por ambiente, un capítulo de fotos y recuerdos y la regla de los 15 minutos. Ángulo: «que tus hijos no tengan que hacerlo». Destino sugerido: **Irlanda** y **Nueva Zelanda** tal cual en inglés; después **Italia**, donde con ALL solo hay testers de 2-4 ads (Stopcaos, Marco Rinaldi «Una casa pulita e ordinata»).
+- **Ads Library:** [The Lighter House US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1363821166819958&search_type=page&media_type=all) · el más viejo: [27-10](https://www.facebook.com/ads/library/?id=1446600934263115) · más duplicado: [«You know which room.» ×3](https://www.facebook.com/ads/library/?id=940716855528794)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL y la búsqueda web no encontró la tienda). En la PC hay que verificar el precio, que sea PDF y no un libro impreso, y que no haya una cara vendiendo.
+- Score 1/4 (④ probable) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-18)**
+- El molde de Honey Home («Cleaning Planner System — 139 printable pages») lo corren 4 fachadas con los mismos títulos. Calm Home tiene 20/20 en US y 19/19 en GB (51 d) y Home Goods 10/10 y 10/10 (57 d), pero ninguna creó un ad en 30 días: posibles zombis. Hearth & Order tiene 9/9 en una sola tanda y Honey Home 3/6.
+- Kristina Cook (664219280116696), «TidyMinds™ ADHD Cleaning Planner»: 50/≥50 en US con ads de hasta 395 d, pero el más nuevo tiene 134 d: posible zombi. Además tiene nombre de persona y el ™ sugiere que es físico. Verificar en la PC.
+- Ultimate Life OS (258977330641466): 50/≥50 en US y GB, pero es una fábrica de plantillas Canva con solo 2 fechas. Sus tarjetas de tareas para chicos en PDF suman 14 en US y 15 en GB, todas de una tanda de 12 d. Re-medir el 2026-11-25.
+- The Savvy Mama (100138683061685), planners de mamá a $7 (Reg. $47): 10/35 en US, pero mezcla ofertas y ninguna llega a 10 sola. The Everyday Home Reset: 9/15, con el producto invisible detrás de «Thanksgiving Offer». Re-medir los dos el 2026-11-25.
+- The Beauty Crafts (ya tarjeta) suma un SKU de limpieza («155 Cleaning Recipes»): 6 ads en cohorte en US y GB más una tanda del 17-11.
+- El TDAH y la limpieza son de las apps (Nudge, Fabulous), de los coil books físicos de dropshipping y de los lead magnets gratis de Dr. Emma C.: no hay infoproducto pago con cohorte.
+
 ### 🎯 Plan de cenas de 4 semanas ya armado («Four weeks of dinners, already planned») — The Printed Kitchen GB · `recetas` (operadores) · 2026-11-18 · sesión EN
 - **Qué es:** un plan de cenas de cuatro semanas ya resuelto (menú más lista de compras: «One shop. Five dinners. Sorted.»). Desde el 10-11 suma un segundo SKU: «Gluten-free sourdough, step by step». Cobra en GBP. No se ve el formato ni el precio.
 - **Por qué es ganador:** cohorte 7+/activos **22/22 en GB** (conteo completo). El ad más viejo tiene **47 días** (02-10) y hay 4 fechas de creación, la última el 10-11. «Four weeks of dinners, already planned» está duplicado **14 veces** dentro de la cohorte: 9 ads del 02-10 siguen prendidos y el 10-11 sumó otra tanda de 5. Página de marca, sin persona. Corre solo en GB: 0 en US con ALL y 0 en Irlanda, Australia, Canadá y Nueva Zelanda.

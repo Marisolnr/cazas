@@ -90,3 +90,4 @@
 ## [2026-11-18] caza-auto | EN C operadores (operadores EN) → 2 candidatos a bandeja
 
 ## [2026-11-18] caza-auto | BR B design-digital/packs-stories-templates (tarde) → 2 candidatos a bandeja
+## [2026-11-18] caza-auto | EN B perforar hogar/planner-limpieza → 1 candidatos a bandeja
