@@ -88,3 +88,5 @@
 
 ## [2026-11-18] caza-auto | ES B perforar manualidades/patrones-pdf/crochet-amigurumi → 0 candidatos a bandeja
 ## [2026-11-18] caza-auto | EN C operadores (operadores EN) → 2 candidatos a bandeja
+
+## [2026-11-18] caza-auto | BR B design-digital/packs-stories-templates (tarde) → 2 candidatos a bandeja
