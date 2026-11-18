@@ -87,3 +87,4 @@
 ## [2026-11-18] caza-auto | BR A huella — → 2 candidatos a bandeja
 
 ## [2026-11-18] caza-auto | ES B perforar manualidades/patrones-pdf/crochet-amigurumi → 0 candidatos a bandeja
+## [2026-11-18] caza-auto | EN C operadores (operadores EN) → 2 candidatos a bandeja
