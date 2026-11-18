@@ -572,6 +572,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-18 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/crochet-amigurumi | en curso | en curso | en curso |
 | 2026-11-18 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
 | 2026-11-18 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-17 18:45 | ES | B perforar (tarde) | manualidades/plantillas-ceramica | 6 subnichos × 5 kw CO/ES (30) + ALL en 3 + 3 sondas de destino; ~15 páginas contadas (3 subagentes de lectura + re-conteo propio CO/AR/MX) | 1 tarjeta (Creaciones con Alma), 5 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
