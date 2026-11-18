@@ -591,6 +591,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-18 18:36 | BR | B perforar (tarde) | design-digital/packs-stories-templates | en curso | en curso | en curso |
 | 2026-11-18 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/crochet-amigurumi | 6 subnichos × 5 kw CO/ES (30) + 1 de arranque + ALL en 1 cero; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio CO) | 0 tarjetas, 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-18 06:40 | EN | C operadores (mañana) | — (operadores EN; agenda del hub vacía) | ~62 operadores EN (~100 consultas `page_ids` + país, ~10 sondeos `search_terms`) + controles IE/AU/CA/NZ por page_id y 3 kw MX/AU con ALL; 4 subagentes de lectura + re-conteo propio de 3 | 2 tarjetas (The Printed Kitchen, Mary Simmons + Claudia Williams), 7 señales | sin cambios de estado; 2 operadores nuevos a seguir (The Printed Kitchen, Presence College); 4 operadores apagados (This & That, Sewing Lovers, Knitting Art Studio, Custody Keeper); 1 fila de trampas |
 | 2026-11-18 06:36 | BR | A huella (mañana) | — (huella, BR) | 18 huellas BR (distintas de las del 09, 11 y 14-11) + 5 controles con ALL (hispano, PT, IT); ~45 páginas contadas con `page_ids` + BR (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Na Sala da Prô, Caeli), 6 señales | 2 nodos nuevos BR (superficial); 4 filas de operadores; 1 fila de trampas |
