@@ -572,6 +572,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-18 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-17 18:45 | ES | B perforar (tarde) | manualidades/plantillas-ceramica | 6 subnichos × 5 kw CO/ES (30) + ALL en 3 + 3 sondas de destino; ~15 páginas contadas (3 subagentes de lectura + re-conteo propio CO/AR/MX) | 1 tarjeta (Creaciones con Alma), 5 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 18:40 | EN | B perforar (tarde) | esoterismo/tarot-guias-en | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 3 ceros + 2 controles de destino (IT, RO); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 3) | 1 tarjeta (Realifestation), 5 señales | profundo, con 6 hijos superficial; 4 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 18:40 | BR | B perforar (tarde) | produtividade/planner-rotina-estudos | 6 subnichos × 5 kw BR (30, sin ceros) + 8 consultas de re-conteo por tanda + 2 controles hispanos con ALL + Notion Estudos en MX/CO/AR/PE/CL/ES/PT; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio) | 1 tarjeta (Notion Estudos), 5 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
