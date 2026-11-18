@@ -591,6 +591,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-18 18:45 | ES | B perforar (tarde) | docentes/dinamicas-grupales | en curso | en curso | en curso |
 | 2026-11-18 18:40 | EN | B perforar (tarde) | hogar/planner-limpieza | en curso | en curso | en curso |
 | 2026-11-18 18:36 | BR | B perforar (tarde) | design-digital/packs-stories-templates | en curso | en curso | en curso |
 | 2026-11-18 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/crochet-amigurumi | 6 subnichos × 5 kw CO/ES (30) + 1 de arranque + ALL en 1 cero; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio CO) | 0 tarjetas, 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
