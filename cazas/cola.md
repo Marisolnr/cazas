@@ -174,6 +174,8 @@ los nichos que emergen.
 | esoterismo/radiestesia-mapas/tarot-cigano | esoterismo/radiestesia-mapas | BR | superficial | 5 kw · 2026-11-16 | Mirra Mattos 21/27 (persona); Guia do Tarot 17/17 y Mapa Astral 10/10 sin ads en 30 d (posibles zombis); Biblioteca Perdida ≥21/≥50 producto invisible |
 | esoterismo/radiestesia-mapas/numerologia-astrologia | esoterismo/radiestesia-mapas | BR | superficial | 5 kw · 2026-11-16 | «Sistema de Numerologia Automática» en 4 páginas sin cohorte (red en escala, re-medir 2026-11-23); mapas astrales = informes personalizados |
 | esoterismo/radiestesia-mapas/rituais-grimorios-ervas | esoterismo/radiestesia-mapas | BR | superficial | 10 kw · 2026-11-16 | Fe Alves ≥34 (persona, mezcla amarres); Arquivos Secretos 9/9 (331 d, sin ads nuevos); O Mundo do Axé 25/25 producto invisible (USD); aromaterapia = cursos |
+| fe/capelinhas-imprimir | fe | BR | superficial | 1 huella (`combo digital`) + 3 controles ALL (MX CO AR PE CL, PT, IT) · 2026-11-18 | apareció por huella el 2026-11-18: Caeli 36/46 (tarjeta); testers de 0-7 d en hispano, PT e IT. Perforar: advocaciones, santos, primera comunión, altarcitos |
+| educacao/gestao-escolar-planilhas | educacao | BR | superficial | 1 huella (`produto digital`) + 2 controles ALL hispanos · 2026-11-18 | apareció por huella el 2026-11-18: Na Sala da Prô ≥43/50 (tarjeta); hueco hispano. Perforar: calendario, horarios, agenda de coordinación, comunicados, formatura |
 | salud-mental/sistemas-de-sesiones | salud-mental | ES | profundo | 6 subnichos × 4-6 kw (27) sin ceros + ~45 páginas contadas (Sector Digital por país) · 2026-11-11 tarde | perforado el 2026-11-11 (tarde): 1 tarjeta (Biblioteca Digital, eje entrenadores); modo C sobre los hijos |
 | salud-mental/sistemas-de-sesiones/psicologia-clinica | salud-mental/sistemas-de-sesiones | ES | superficial | 7 kw · 2026-11-11 | nadie con 10+: Psico Express 7/21 (77 d), Cer Solutions 7 de psicología (20/28 multi-oficio), Psique y Ciencia mezcla cursos |
 | salud-mental/sistemas-de-sesiones/deportiva | salud-mental/sistemas-de-sesiones | ES | superficial | 2 kw · 2026-11-11 | solo Sector Digital (≥31 únicos, AR/ES/MX, ya en bandeja); el resto universidades y lanzamientos con live |
@@ -296,6 +298,7 @@ los nichos que emergen.
 Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | Keyword / patrón | Por qué falla | Qué usar |
+| `receba no email` / `baixe agora` / `garantia 7 dias` / `entrega imediata` / `manual prático` (BR, huella) | novelas y short-dramas en USD (248 mil y 77 mil resultados) / retail, autos, constructoras | `combo digital`, `produto digital`, `material imprimível` |
 | `sugar free recipes` / `sugar free baking` / `refined sugar free` / `keto desserts` / `keto baking` / `fat bombs` / `protein baking` / `menopause recipes` / `diabetic desserts` (EN) | short-dramas y novelas / red de suplementos de canela «Ceylon Cinnamon» y ALA con nombres de médico / gadgets y snacks | `healthy desserts ebook`, `prediabetes recipes` (GB), `celiac recipes`, `anti inflammatory recipes` (GB), `diabetic cookbook` (GB) |
 | `formulario electrónica` / `diagramas eléctricos` / `esquemas eléctricos` / `electricidad domiciliaria` / `reparación de televisores` / `reparación de placas` / `fichas Scratch` (ES) | ERPs y señales de bolsa / automotriz y scanners / institutos presenciales AR-BO con cupos / servicios técnicos locales / tragamonedas | `manual PLC`, `automatización industrial PDF`, `manual del electricista`, `Arduino PDF` |
 |---|---|---|
@@ -550,6 +553,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Edutechdigital | 208255869038018 | PE | material docente «Evaluaciones finales 2026», 9/9 el 2026-11-17; re-medir 2026-11-20 |
 | | | | |
 | Realifestation · Emily D · Biblioteca de Acasă · Eureka.labs | 1345136965345763 · 992566507281610 · 1380989605099798 · 1093038623903745 | US · US · RO · US/GB | tarjeta EN tarde 2026-11-17: 41/41 US (56 d) · 20/32 US · tester RO desde 05-11 · 22/25 US repartido; re-medir 2026-11-24 |
+| Caeli - Editora Católica | 1111029515430471 | BR | tarjeta BR del 2026-11-18 (capelinhas de Nossa Senhora para imprimir, 36/46, 20,7 d); re-medir 2026-11-25; ver si salta al hispano |
+| Na Sala da Prô | 108550775468031 | BR | tarjeta BR del 2026-11-18 (calendário escolar 2027 + grade de horários en Excel, ≥43/50, 68 est.); ¿el «Clube» es la oferta real? |
+| Capillas de Nuestra Señora · Little Big Scientist · What Would Jesus Do? | 1365797309960134 · 1321647621036448 · 1514214018442562 | MX · PT · IT | testers del molde capelinhas fuera de BR (0-7 d el 2026-11-18); re-medir 2026-11-25 |
+| Facilitaê Digital · Biblioteca do Corte · Packs para Empreendedoras | 1171932599334530 · 1273210592538710 · 108230422168514 | BR | 28/≥50 catálogo / 25/≥50 nicho invisible / 15/23 creciendo (2026-11-18); re-medir 2026-11-25 |
 
 ## Rotación vigente
 
@@ -574,7 +581,7 @@ la completa al terminar.
 |---|---|---|---|---|---|---|
 | 2026-11-18 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/crochet-amigurumi | en curso | en curso | en curso |
 | 2026-11-18 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
-| 2026-11-18 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
+| 2026-11-18 06:36 | BR | A huella (mañana) | — (huella, BR) | 18 huellas BR (distintas de las del 09, 11 y 14-11) + 5 controles con ALL (hispano, PT, IT); ~45 páginas contadas con `page_ids` + BR (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Na Sala da Prô, Caeli), 6 señales | 2 nodos nuevos BR (superficial); 4 filas de operadores; 1 fila de trampas |
 | 2026-11-17 18:45 | ES | B perforar (tarde) | manualidades/plantillas-ceramica | 6 subnichos × 5 kw CO/ES (30) + ALL en 3 + 3 sondas de destino; ~15 páginas contadas (3 subagentes de lectura + re-conteo propio CO/AR/MX) | 1 tarjeta (Creaciones con Alma), 5 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 18:40 | EN | B perforar (tarde) | esoterismo/tarot-guias-en | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 3 ceros + 2 controles de destino (IT, RO); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 3) | 1 tarjeta (Realifestation), 5 señales | profundo, con 6 hijos superficial; 4 operadores a seguir; 1 fila de trampas |
 | 2026-11-17 18:40 | BR | B perforar (tarde) | produtividade/planner-rotina-estudos | 6 subnichos × 5 kw BR (30, sin ceros) + 8 consultas de re-conteo por tanda + 2 controles hispanos con ALL + Notion Estudos en MX/CO/AR/PE/CL/ES/PT; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio) | 1 tarjeta (Notion Estudos), 5 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |

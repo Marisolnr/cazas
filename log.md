@@ -83,3 +83,5 @@
 ## [2026-11-17] caza-auto | EN B perforar (tarde) esoterismo/tarot-guias-en → 1 candidatos a bandeja
 
 ## [2026-11-17] caza-auto | ES B perforar (tarde) manualidades/plantillas-ceramica → 1 candidatos a bandeja
+
+## [2026-11-18] caza-auto | BR A huella — → 2 candidatos a bandeja
