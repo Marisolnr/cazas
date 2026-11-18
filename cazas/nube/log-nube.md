@@ -22,3 +22,4 @@
 - 2026-11-17 06:36 BR (mañana): HEAD desprendido al arrancar otra vez (main local viejo); el push «en curso» se rechazó 3 veces y se arregló con `git checkout -B main HEAD` + `git branch -u origin/main` + push normal, sin force.
 - 2026-11-17 06:47 EU (mañana): otra vez sin `cazas/nube/prompts/eu.md` (ni columna EU en la rotación, ni `TARJETAS-EU`, ni fila en `rutinas.md`); no cazó. Segunda corrida seguida perdida: falta crear el prompt o pausar la rutina.
 - 2026-11-17 EN (mañana): conflicto de rebase en cola.md (bitácora) y log.md con ES/EU; resuelto conservando las dos versiones.
+- 2026-11-18 18:40 EN (tarde): conflicto de rebase en cola.md (bitácora) y log.md con BR/ES; resuelto conservando las tres versiones.
