@@ -185,7 +185,13 @@ los nichos que emergen.
 | salud-mental/sistemas-de-sesiones/coaching-trabajo-social | salud-mental/sistemas-de-sesiones | ES | superficial | 5 kw · 2026-11-11 | certificaciones y coaches-persona; packs de coaching todos < 2 d |
 | deportes/planificacion-entrenadores | deportes | ES | superficial | 1 kw (`plantillas entrenadores`) + Biblioteca Digital por país · 2026-11-11 | apareció al perforar salud-mental el 2026-11-11 (Biblioteca Digital 25/33 AR, tarjeta; ES 0); perforar por deporte (fútbol / vóley / básquet / handball) y avatar (profe de educación física / club) |
 | manualidades/patrones-pdf | manualidades | ES | profundo | 8 subnichos × 4-5 kw (37) + ALL en 2 + ~30 páginas contadas · 2026-11-09 | perforado el 2026-11-09 (tarde): 2 tarjetas (Crea y Emprende, Cursos Online); modo C sobre los hijos |
-| manualidades/patrones-pdf/crochet-amigurumi | manualidades/patrones-pdf | ES | superficial | 6 kw · 2026-11-09 | Crea y Emprende 19/30 (AR 17/20), tarjeta; la ola navideña de amigurumi tiene < 7 d: re-medir 2026-11-16 |
+| manualidades/patrones-pdf/crochet-amigurumi | manualidades/patrones-pdf | ES | profundo | 6 subnichos × 5 kw CO/ES (30) + 1 de arranque + ALL en 1 · 2026-11-18 | perforado el 2026-11-18 (mañana): 0 tarjetas; Emprende con Arte 23/32 CO=ES con oferta invisible y El Universo Del Crochet 48/48 posible zombi; ola navideña sin cohorte: re-medir 2026-11-25 |
+| manualidades/patrones-pdf/crochet-amigurumi/amigurumi-munecos | manualidades/patrones-pdf/crochet-amigurumi | ES | superficial | 6 kw · 2026-11-18 | Emprende con Arte 23/32 (oferta invisible); Flavia da Silva Araujo 4/29 ES; resto offshore (THB/BRL/PEN) o cursos con cupo |
+| manualidades/patrones-pdf/crochet-amigurumi/navideno-tejido | manualidades/patrones-pdf/crochet-amigurumi | ES | superficial | 5 kw · 2026-11-18 | Digital Shop 7/19 ES (belén), Puntada Maestra 2/10, Natália 1/9, Navidad Tejida con Amor 0/15: re-medir 2026-11-25 |
+| manualidades/patrones-pdf/crochet-amigurumi/ganchillo-vocabulario-es | manualidades/patrones-pdf/crochet-amigurumi | ES | superficial | 5 kw + ALL esquemas · 2026-11-18 | Metododagabii 4/14 (posible persona); `esquemas ganchillo` = cementerio chico |
+| manualidades/patrones-pdf/crochet-amigurumi/tejer-para-vender | manualidades/patrones-pdf/crochet-amigurumi | ES | superficial | 5 kw · 2026-11-18 | cursos con cupo y personas; Hilos de Fe «150 Patrones Católico» sin contar; Aprende Claro 2/8 (curso grabado de bolsos) |
+| manualidades/patrones-pdf/crochet-amigurumi/prendas-accesorios | manualidades/patrones-pdf/crochet-amigurumi | ES | superficial | 5 kw · 2026-11-18 | El Universo Del Crochet 48/48 CO=ES (8 packs «50 X de Crochet», sin ads nuevos en 47 d: posible zombi); Modatejida 0/14 CO (ARS) |
+| manualidades/patrones-pdf/crochet-amigurumi/flores-llaveros-minis | manualidades/patrones-pdf/crochet-amigurumi | ES | superficial | 5 kw · 2026-11-18 | Aprende y Juega 7/7 CO (50 d); Flores que no se marchitan 0/11 CO; Innovarte 0/6 (cumple 7 d hoy) |
 | manualidades/patrones-pdf/tejido-dos-agujas | manualidades/patrones-pdf | ES | superficial | 4 kw + ALL tricot · 2026-11-09 | La Biblioteca Definitiva De Tejido 23/23 pero sin ads nuevos en ~49 d (posible zombi) |
 | manualidades/patrones-pdf/bordado | manualidades/patrones-pdf | ES | superficial | 4 kw + ALL bordado mexicano · 2026-11-09 | todo < 7 d; bordado mexicano = cementerio |
 | manualidades/patrones-pdf/costura-moldes | manualidades/patrones-pdf | ES | superficial | 5 kw · 2026-11-09 | Educa Online 9/43 ($4), Emprendedores 6/6; re-medir 2026-11-16 |
@@ -298,6 +304,7 @@ los nichos que emergen.
 Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | Keyword / patrón | Por qué falla | Qué usar |
+| `top crochet` / `prendas crochet` / `crochet negocio` / `emprender crochet` / `amigurumis venden` (ES) | ropa física y tiendas de moda / cursos con cupo («ÚLTIMOS CUPOS») | `mantas crochet`, `bolsos crochet`, `belén ganchillo`, `llaveros crochet` |
 | `receba no email` / `baixe agora` / `garantia 7 dias` / `entrega imediata` / `manual prático` (BR, huella) | novelas y short-dramas en USD (248 mil y 77 mil resultados) / retail, autos, constructoras | `combo digital`, `produto digital`, `material imprimível` |
 | `sugar free recipes` / `sugar free baking` / `refined sugar free` / `keto desserts` / `keto baking` / `fat bombs` / `protein baking` / `menopause recipes` / `diabetic desserts` (EN) | short-dramas y novelas / red de suplementos de canela «Ceylon Cinnamon» y ALA con nombres de médico / gadgets y snacks | `healthy desserts ebook`, `prediabetes recipes` (GB), `celiac recipes`, `anti inflammatory recipes` (GB), `diabetic cookbook` (GB) |
 | `formulario electrónica` / `diagramas eléctricos` / `esquemas eléctricos` / `electricidad domiciliaria` / `reparación de televisores` / `reparación de placas` / `fichas Scratch` (ES) | ERPs y señales de bolsa / automotriz y scanners / institutos presenciales AR-BO con cupos / servicios técnicos locales / tragamonedas | `manual PLC`, `automatización industrial PDF`, `manual del electricista`, `Arduino PDF` |
@@ -455,7 +462,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Biblioteca Creativa | 1244762302063129 | hispano | guías Cricut/Silhouette 8/26 (09-11) → 10/25 (10-11, tarjeta ES tarde); clon en inglés Creative Library 1362229870302077 |
 | Neutral Nature | 919376131265589 | CO · ES · MX · AR | tarjeta ES del 2026-11-10 (tarde): 300 tarjetas pop-up, 47/47 CO; ES 130 y MX 128 con cohorte oculta: re-medir 2026-11-17; clon Pura Idea 1422137500990129 |
 | Pixelpack | 116045223625247 | hispano | megapack DTF/sublimación US$9,99, ≥29/62 con ad de 108 d (2026-11-10) |
-| Crea y Emprende | 1056023200924288 | AR · ES | tarjeta ES del 2026-11-09 tarde (Navidad Tejida / Florería Tejida, AR 17/20); ver qué tema sigue después de Navidad |
+| Crea y Emprende | 1056023200924288 | AR · ES | tarjeta ES del 2026-11-09 tarde (Navidad Tejida / Florería Tejida, AR 17/20); ver qué tema sigue después de Navidad · 2026-11-18: ES 5/10, CO 0 |
+| Emprende con Arte | 1026486940545647 | CO · ES | crochet por chat: 23/32 CO=ES, ~19 fechas desde el 12-06, títulos solo «70% DE DESCUENTO POR HOY»: abrir snapshots en la PC (1903792583664667) y re-medir 2026-11-25 |
+| El Universo Del Crochet | 1283144374890089 | CO · ES | 8 packs «50 X de Crochet» (BRL), 48/48 pero sin ads nuevos desde hace 47 d: posible zombi; re-medir 2026-11-25 |
 | Cursos Online | 512123288644096 | MX | tarjeta ES del 2026-11-09 tarde (papercraft / pueblito navideño, 11/24); ver si «120 casitas» entra en cohorte |
 | La Biblioteca Definitiva De Tejido | 1151253608079340 | hispano | 23/23 sin ads nuevos en ~49 d: ¿zombi o escala vieja? |
 | This & That Planners | 1007996855726476 | US · GB | tarjeta EN del 2026-11-09 (tarde): planner digital perpetuo 10/50; ver si la tanda de 22 del 09-11 sobrevive |
@@ -579,7 +588,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-18 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/crochet-amigurumi | en curso | en curso | en curso |
+| 2026-11-18 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/crochet-amigurumi | 6 subnichos × 5 kw CO/ES (30) + 1 de arranque + ALL en 1 cero; ~20 páginas contadas (3 subagentes de lectura + re-conteo propio CO) | 0 tarjetas, 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-18 06:40 | EN | C operadores (mañana) | — (operadores EN) | en curso | en curso | en curso |
 | 2026-11-18 06:36 | BR | A huella (mañana) | — (huella, BR) | 18 huellas BR (distintas de las del 09, 11 y 14-11) + 5 controles con ALL (hispano, PT, IT); ~45 páginas contadas con `page_ids` + BR (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Na Sala da Prô, Caeli), 6 señales | 2 nodos nuevos BR (superficial); 4 filas de operadores; 1 fila de trampas |
 | 2026-11-17 18:45 | ES | B perforar (tarde) | manualidades/plantillas-ceramica | 6 subnichos × 5 kw CO/ES (30) + ALL en 3 + 3 sondas de destino; ~15 páginas contadas (3 subagentes de lectura + re-conteo propio CO/AR/MX) | 1 tarjeta (Creaciones con Alma), 5 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |

@@ -825,6 +825,16 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-18: nada pasa la vara. Se barrieron 6 subnichos de `crochet-amigurumi` con 30 keywords en CO/ES: `amigurumi PDF`, `patrones amigurumi`, `muñecos crochet`, `belén ganchillo`, `navidad crochet`, `adornos crochet`, `patrones ganchillo`, `ganchillo PDF`, `crochet vender`, `tejer vender`, `bolsos crochet`, `mantas crochet`, `flores crochet`, `llaveros crochet`, entre otras.
+
+**Señales del día ES (2026-11-18, mañana)**
+- Emprende con Arte (1026486940545647): **23/32** en CO y el mismo set en ES. Lleva ~19 fechas de creación desde el 12-06 (el ad más viejo tiene 158 d) y sumó ads hoy. Llega a la vara por volumen, pero todos los títulos dicen «70% DE DESCUENTO POR HOY» o «Chatea con nosotros», así que la oferta de crochet no se ve por API. Abrir en la PC los snapshots 1903792583664667 y 2551450975362719: si es un pack digital de patrones con precio, es tarjeta. Re-medir el 2026-11-25.
+- El Universo Del Crochet (1283144374890089): **48/48** en CO, mismo set en ES. Son 8 packs «50 X de Crochet» (mantas, blazers, vestidos, amigurumis para bebés, cestas…), cobra en BRL y vende en español. Los ads tienen entre 48 y 77 días, pero no creó ninguno en los últimos 47: posible zombi. Confirmar impresiones en el snapshot 27788889094126364.
+- Digital Shop (552653941257698): ES **7/19**, belén a ganchillo, 6 fechas, sigue escalando. Re-medir el 2026-11-25. Puntada Maestra 2/10 y Endulzarte corren el mismo belén en ES.
+- Aprende y Juega (1221090801091643): CO 7/7, «Empieza a Tejer tu Navidad Hoy». El ad más viejo tiene 50 d y no tiene ads nuevos.
+- Crea y Emprende (tarjeta del 09-11): ES 5/10, CO 0. No creció en ES.
+- Ola navideña de crochet sin cohorte: Flavia da Silva Araujo 4/29 ES y 4/19 CO, Navidad Tejida con Amor 0/15, Natália Silva 1/9 («¡Solo US$2,90!»), Modatejida 0/14 CO, Flores que no se marchitan 0/11 CO. Re-medir el 2026-11-25.
+
 ### 🎯 «Mini Yesitos para pintar»: fabricar figuritas de yeso y venderlas en kits — Creaciones con Alma CO·AR·MX · `manualidades/plantillas-ceramica/yeso-cemento` · 2026-11-17 (tarde) · sesión ES
 - **Qué es:** enseña a fabricar figuritas de yeso para pintar y a venderlas en packs para cumpleaños, souvenirs y Navidad («Aprendé a hacer Mini Yesitos para vender», «Un cumpleaños, 30 kits», «Tres pasos para que no se vea casero», «¡Basta de tutoriales que no funcionan!»). Por los títulos parece una guía o un curso grabado de emprendimiento. Cobra en USD. La API no muestra el precio ni el formato.
 - **Por qué es ganador:** cohorte 7+/activos **AR 26/39**, **CO 21/37** y **MX 21/37** (mismo set de ads que CO), sin tope. Tiene 4 lotes escalonados (28-10, 02-11, 10-11 y 15-11) y el ad más viejo lleva **~20 d**. Página sin persona y un solo operador. El 13-11 apareció en Italia **Maria Bianchi** con los mismos títulos traducidos (5 ads de 4 d): el operador ya está exportando la oferta.
