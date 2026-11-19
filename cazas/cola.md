@@ -637,6 +637,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-19 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/tejido-dos-agujas | en curso | en curso | en curso |
 | 2026-11-19 18:45 | EN | B perforar (tarde) | educacion-profesional/contabilidad-workbooks | en curso | en curso | en curso |
 | 2026-11-19 18:40 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/alfabetizacao | en curso | en curso | en curso |
 | 2026-11-19 06:42 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 19-21/11 + operadores con tarjeta) | 56 páginas (+1 hermana) × CO/ES + país principal (~160 consultas `page_ids` + país), 8 sondas `search_terms`, 4 controles de destino IT/PT/FR; 4 subagentes de lectura | 1 tarjeta (LaOfi), 10 señales | sin cambios de estado; 9 operadores apagados o relanzados; 1 fila de trampas |
