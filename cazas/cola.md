@@ -431,6 +431,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `kit cristiano` / `material cristiano` (ES, nov-2026) | una ráfaga de Bendiciones creativas (45 ads del 13-11) se come el top 50 | `mapas bíblicos`, `cronología bíblica`, `bosquejos sermones` |
 | `Biblia explicada` (ES) | «La Biblia del Punto» (tejido), panaderías, academias | `versículos explicados`, `mapas bíblicos` |
 | `page_ids` + `search_terms` (ES, nube, 2026-11-13) | el término se ignora: devuelve los mismos 50 nuevos (LaOfi) | anotar la cohorte como piso y re-medir |
+| `page_ids` con varios `countries` juntos · `kit branding` IT (ES, nube, 2026-11-19) | la unión de países devuelve un solo conteo (LaOfi IT+PT+FR+MX = MX solo) / `kit branding` IT = short-dramas | `countries` de a uno para contar; la unión solo para ver si la página corre afuera · destino de kits de diseño: `kit grafici` IT con ALL |
 | `page_ids` + `search_terms` (EN, nube, 2026-11-14) | a veces filtra (The Ascent Club con `practices`: 0/50 → 23/36) y a veces no (Lost Skills, Heroic Husband, Visual Guide Lab, Stitch Well: mismos 50 de la semana) | probar 1 término del título; si no cambia la lista, la cohorte se mide solo en la web |
 | `kit talleres` / `juegos cooperativos` / `animación infantil juegos` / `recreación dinámicas` / `dinámicas empresariales` / `team building dinámicas` / `talleres listos` (ES, 2026-11-18) | taller mecánico y soldadura (excluido) / juegos de mesa físicos (excluido) y consolas / recreacionistas y eventos (servicio) / AND con cualquier «listo» | `dinámicas trabajo equipo`, `dinámicas terapéuticas`, `actividades adultos mayores`, `talleres imprimibles` |
 | `porcelana fría` / `cerámica placas` / `cerámica casera` / `cerámica sin horno` / `masa flexible` (ES, 2026-11-17) | clickbait «Seguir viendo» del día / planchas de pelo, sartenes «cerámica», DramaBox / fitness | `plantillas cerámica`, `moldes yeso`, `porcelana moldes`, `mini yesitos` |
@@ -454,14 +455,14 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 |---|---|---|---|
 | Fingerstyleguitarschool | 109749731564018 | US · GB | tabs navideñas fingerstyle $27, 33/33 (tarjeta 2026-11-16 tarde); ¿sigue después de navidad con el starter kit? re-medir 2026-11-23 |
 | Escuela Fingerstyle | 1374902015716886 | AR | clon hispano de 2 d (14-11) del kit fingerstyle; si sobrevive, la ventana AR se cierra: re-medir 2026-11-21 |
-| Acordes en Claro | 1205940002609789 | US · GB · AR · ES | whale hispano de teoría musical en PDF (~80 en cohorte US, 44 AR, 50 ES); mirar SKUs nuevos por instrumento, quincenal |
+| Acordes en Claro | 1205940002609789 | US · GB · AR · ES | whale hispano de teoría musical en PDF (~80 en cohorte US, 44 AR, 50 ES); mirar SKUs nuevos por instrumento, quincenal · 2026-11-19: ES 41/50, AR 31/50 (SKU violín), abrió IT y FR el 13-19/11 (1.363 est.): sin destino libre |
 | Tienda de Hechizos | 100963788488774 | MX | rituales/hechizos digitales MXN, 20/50 piso a 16,6 d (tarjeta 2026-11-14 tarde); ¿salta a AR/ES? ¿sobrevive la tanda de fin de año? re-medir 2026-11-21 |
 | Regarte | 1342388312284290 | AR · MX · ES | «Aprendé a usar tu péndulo en 7 días», ≥29/50 AR con tanda diaria (tarjeta 2026-11-14 tarde); ¿segundo SKU? re-medir 2026-11-21 |
 | Aprende Astrología | 446279405782137 | AR · ES | informes astrológicos 32/39 AR a 57 d; tarjeta ES del 2026-11-16 (ES 37/38, AR 32/39, 61 d); verificar en la PC si el informe es automático (producto) o servicio |
 | Mind Digital Studio | 100484571813019 | AR | kits de marca + gestión por oficio (coach 17, abogados 1), 18/50 piso (tarjeta 2026-11-13); ¿SKU u oficio nuevo? ¿salta a ES? re-medir 2026-11-20 |
 | Pack Insta de Impacto | 802396849634003 | AR · MX · ES | pack de plantillas IG en BRL, 19/44 AR a 65 d (tarjeta 2026-11-13); página homónima 1194180837101878 sin contar |
 | Med Spa Documents Kit | 1318045718067882 | MX · CO | documentos para estética, 48 activos con 10 en el borde de la cohorte; 2026-11-16: MX 0/68 y CO 0/67 visibles (~10 ads por día, cohorte detrás del tope); re-medir 2026-11-23 |
-| LaOfi | 101087078492489 | ES · MX | kit para diseñadores, ES 12/50 piso con cohorte detrás del tope; re-medir 2026-11-20 |
+| LaOfi | 101087078492489 | ES · MX · CO | kit para diseñadores, ES 12/50 piso con cohorte detrás del tope; 2026-11-19: ES 42/50 (≥53/75 con sondas), CO 42/50, mismo set en MX, 0 en IT/PT/FR (tarjeta ES); re-medir 2026-11-26 |
 | Hadassa Fit | 769240466269366 | BR | recetas fit para airfryer, 14/26, tandas cada 2-4 semanas desde el 01-08 (tarjeta 2026-11-12) |
 | Cozinhanoprato | 1143346648872228 | BR | colección de 4 ebooks de recetas, 14/14 a 32 d (tarjeta 2026-11-12); re-medir 2026-11-19 |
 | Receitas Emagrecedoras | 1036943289509621 | BR | embudo WA de recetas para adelgazar, ≥42/≥50; ver si aparece la oferta |
@@ -506,14 +507,14 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | The EaseUp Planners | 1194131877121706 | US | 140 est. con cohorte oculta (relanzó todo el 06/07-11); re-medir 2026-11-16 |
 | Planner Hoy Solo 3 | 1280820831792286 | ES · MX | tarjeta ES del 2026-11-10 (planner para vaciar la cabeza, 21/35 ES); ver si entra a AR |
 | Biblioteca maestra: Planos de arcilla | 1435630566293933 | AR | tarjeta ES del 2026-11-10 (246-248 plantillas de cerámica, ≥16/≥50); seguir con su clon Planos de Barro 1463269926874211 (USD, de hoy) |
-| Creaciones con Alma | 1245082028680065 | AR · CO · MX (+ clon IT Maria Bianchi 1355153611018190) | tarjeta ES del 2026-11-17 (tarde): «Mini Yesitos para pintar», AR 26/39, CO 21/37, MX 21/37, 20 d, USD; re-medir 2026-11-24: ¿crece la cohorte? ¿el clon italiano pasa de 0? |
+| Creaciones con Alma | 1245082028680065 | AR · CO · MX (+ clon IT Maria Bianchi 1355153611018190) | tarjeta ES del 2026-11-17 (tarde): «Mini Yesitos para pintar», AR 26/39, CO 21/37, MX 21/37, 20 d, USD; 2026-11-19: CO 17/36, AR 17/30 (ángulo Navidad); re-medir 2026-11-24: ¿crece la cohorte? ¿el clon italiano pasa de 0? |
 | Planos de Barro | 1463269926874211 | CO | clon de Planos de arcilla: CO 10/18 el 2026-11-17 (un solo lote de 7,1 d, 6-7 por entrega); re-medir 2026-11-20 |
 | Red Aprendia | 1380966491766673 · 1372902832576549 · 1288181344388955 | MX · PE · hispano | fichas visuales de estudio, 342-659 est. por página con cohorte oculta; contar por país |
 | Aprendia : Guias profesionales | 1319574141233447 | MX | tarjeta ES del 2026-11-11: packs de 50 fichas por oficio, MX 38/50 (63 est.), AR/ES 0; la única de la red que deja correr ganadores |
 | Derecho en Mapas | 1356269490904663 | CO | tarjeta ES del 2026-11-11: mapas de Derecho Penal/Administrativo, CO 10/34, operador BR; hermana Mapas del Derecho 1404914672699239 |
 | IA Programas | 809461785581622 | MX | 16/22 el 2026-11-11 con títulos vacíos: ver qué vende |
 | Mapaclpladder | 1253942927808210 | ES · AR · MX · CO | tarjeta ES del 2026-11-16 (tarde): PLC y Ladder en +200 mapas visuales, ES 25/50 piso, 27,8 d, USD; abre versión en inglés el 15-11; re-medir 2026-11-23 |
-| Macro Aula | 1216430771552642 | MX · hispano | línea de PDF tech (Scratch, ESP32, Arduino, PLC, Wi-Fi), 9-10/57 el 2026-11-16; re-medir 2026-11-19 |
+| Macro Aula | 1216430771552642 | MX · hispano | línea de PDF tech (Scratch, ESP32, Arduino, PLC, Wi-Fi), 9-10/57 el 2026-11-16; 2026-11-19: MX 1/20, ES 1/14, rota SKU cada 2-3 d (Kali Linux, Redes, Electrónica): re-medir 2026-12-03 |
 | Mapa Concursos | 113788658419021 | BR | tarjeta BR del 2026-11-10 tarde (+120 mapas mentais de enfermagem, 39/50); ver si «Receba Agora» es otro pack |
 | 123passei | 109322741722198 | BR | tarjeta BR del 2026-11-10 tarde («Protocolo» por concurso R$27,90, 18/34, 162 d) |
 | Trilha do Estudo | 641390105728644 | BR | tarjeta BR del 2026-11-17 («Apostila Completa + Aplicativo de Questões», ≥50/50 piso, 61 est., 49,5 d, USD); ¿PDF o suscripción? verificar en la PC |
@@ -538,7 +539,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | RootedinFaith | 1339338722596915 | GB · US | tarjeta EN del 2026-11-11 (tarde): guía para entender la Biblia, 30/45 GB y 28/≥50 US, ad de 33 d; formato sin verificar |
 | Revelation Unsealed 3D | 1345541285309886 | US | 8/23 el 2026-11-11 («Visual Guide to Revelation», 168 páginas); 9/33 el 2026-11-14 (39 d, tandas 12 y 13-11); re-medir 2026-11-21 |
 | Valentina Ríos | 1280761195116636 | US · AR · ES | papelería cristiana de reventa, 17/26 US (BRL, español); ya en AR/ES; le toca seguirla también a ES |
-| Mapasyresumenes | 234866809700963 | ES · CO | guías «2027 en 150 páginas»: el 2026-11-12 lanzó oposiciones españolas a 12,90 € (20 ads en ES); re-medir 2026-11-19 |
+| Mapasyresumenes | 234866809700963 | ES · CO | guías «2027 en 150 páginas»: el 2026-11-12 lanzó oposiciones españolas a 12,90 € (20 ads en ES); 2026-11-19: ES 0 activos (719 en ALL), pasó a CO con «Procuraduría 2027» a COP 31.900 (0/23); re-medir 2026-11-26 |
 | Growing in Faith / Faith Times | 1329678806897080 · 1241869225684857 | US | 18/27 y 7/36 el 2026-11-11, advertorial infantil-cristiano, producto no visible |
 | My Estate Kit | 1091977304009213 | GB | tarjeta EN del 2026-11-12: kit digital de sucesión (~£29), ≥50/50 GB, 115 d; contar US y seguir al cluster (Atlas Media Group 1254679187727827, Afterpath 1016389298235387) |
 | Cosmo Studio | 209343218938190 | US · GB | tarjeta EN del 2026-11-12: planilla de vida a $9, 22/28 US y 21/25 GB, 72 d; abrió SKU de invitaciones en Canva el 12-11; hermanas probables Her Notion Planner 1282088321645043 y Ultimate Notion Planner 425210960671076 |
@@ -551,7 +552,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Marcelomapas | 100945228762390 | BR | direito ilustrado R$17 / OAB R$97, ≥22/143 est. (79,5 d) el 2026-11-12; verificar si hay cara |
 | Mapas Visuais & ilustrados | 1316538911539485 | BR | ≥22/50 (117 est.) con títulos de solo estrellas el 2026-11-12: ver qué vende |
 | Claridad y Acción | 771123896085843 | AR · ES · MX | plantillas Notion por oficio, 30/40 y un SKU nuevo cada 1-2 semanas (2026-11-12): muestra el próximo oficio |
-| Mente Ordenada | 1084424138077543 | hispano | 0/40 en 6 días con el molde «vaciá tu cabeza» (2026-11-12): re-medir 2026-11-19 |
+| Mente Ordenada | 1084424138077543 | hispano | 0/40 en 6 días con el molde «vaciá tu cabeza» (2026-11-12); 2026-11-19: rehízo todo el 16-11, CO=MX 0/16, ES 0: re-medir 2026-11-26 |
 | Pack Digital Emprendor | 104462436003652 | AR | 18/18, 108 d, producto no visible por API (2026-11-12) |
 | Edufisicavisual | 1293268003864355 | BR | tarjeta BR del 2026-11-13 (mapas de cinesiología para educación física, 26/29, 12,7 d); re-medir 2026-11-20; ¿Lucia Ortiz 760125220506555 es su versión en español? |
 | Brinca e Aprende | 942354795618344 | BR | inglés infantil imprimible; 10/39 el 2026-11-17 pero los 10 son de un solo día (09-11) y la tanda del 04-11 se apagó: rota, no acumula; re-medir 2026-12-01 |
@@ -565,7 +566,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Laura Educa | 109425057952071 | ES | tarjeta ES del 2026-11-13: actividades emocionales imprimibles, 14/28 ES, 144 d; solo pauta en ES → ver si abre AR y confirmar que no es marca personal ni neurokids |
 | Taller Creativo | 1156743057524645 | AR · MX | plantillas Canva, 15/22 AR y 15/23 MX (36 d, 12 fechas) con título único «Más información»: oferta invisible por API; verificar en la PC qué vende |
 | Cristianas con Poder | 1306900159163457 | MX · AR · CL | ex «Pequeños Cristianos», 31/71 bloque (16 CL), «recibe y luego pagas» sin oferta visible (2026-11-13); re-medir 2026-11-20 |
-| El Bolso del Profe | 1484471184741332 | AR | clon rioplatense de Digital Academy (EF): «150 juegos, 3 regalos, un PDF», creado el 12-11 (señal EN 2026-11-14); medir cohorte desde el 2026-11-19 |
+| El Bolso del Profe | 1484471184741332 | AR | clon rioplatense de Digital Academy (EF): «150 juegos, 3 regalos, un PDF», creado el 12-11 (señal EN 2026-11-14); 2026-11-19: 0 ads en ALL en CO/AR (página vacía): bajar a mensual |
 | Axo y Yo | 1358953320636772 | MX | cuadernillos escolares por grado $149 MXN, 10/20 pero cohorte de una sola fecha (05-11); re-medir 2026-11-20 |
 | Saber Cristão | 409263028944196 | MX · ES · AR · CO | tarjeta ES del 2026-11-14 («X versículos explicados», MX ≥45/50, ES ≥32/50, AR ≥22/50, pisos); testea PT y escuela dominical desde el 11-11: ver qué línea entra en cohorte |
 | Reino Hub | 609309682275141 | AR · ES · MX | tarjeta ES del 2026-11-14 (manuales para líderes de iglesia, 30/30, 17 d, BRL); re-medir 2026-11-21: ¿sobreviven las tandas? |
@@ -588,8 +589,8 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Opo Lumio | 1287418131132351 | ES | operador que paga en BRL corriendo oposiciones (ADIF) en España, visto el 2026-11-17 en `temario oposiciones test`: el molde concurso BR → oposición ES; contar con `page_ids` + ES |
 | SST Online Gold · Escola da Prevenção | 155956234265597 · 663744763723231 | BR | 13/17 producto invisible (comentario→DM) y 14/18 pendrive físico + 365 DDS (2026-11-14): verificar en la PC |
 | Digital Shop · Santos En Punto · Flavia da Silva Araujo · Amigurumi Terapia | 552653941257698 · 1441997498998704 · 238104932713634 · 107566745618163 | ES · AR · MX · MX | ola navideña de belén/pesebre/amigurumi: 4/19 ES, 4/7 AR ($12.990), 4/10 MX, 1/12 MX el 2026-11-16; re-medir 2026-11-22 |
-| Psicologia & Recursos 2025 | 469568772899568 | MX | kits para terapeutas (pareja, duelo, orientación vocacional) por WhatsApp, COP: 6/16 el 2026-11-16, pasa a 16 el 17-11; re-medir 2026-11-19 |
-| Odonto en Orden | 1355504520987314 | AR | sistema de consultorio odontológico, 9/30 el 2026-11-16 (15 el 17-11); re-medir 2026-11-19; vecinos Kit Odontologico APP 1218589731347806, Consultorio en Regla Odontológico CO 1453560014505584 |
+| Psicologia & Recursos 2025 | 469568772899568 | MX | kits para terapeutas (pareja, duelo, orientación vocacional) por WhatsApp, COP: 6/16 el 2026-11-16, pasa a 16 el 17-11; 2026-11-19: MX 16/16 (40 d), CO/ES 0; re-medir 2026-11-26 |
+| Odonto en Orden | 1355504520987314 | AR | sistema de consultorio odontológico, 9/30 el 2026-11-16 (15 el 17-11); 2026-11-19: relanzó todo, AR 0/10; re-medir 2026-11-26; vecinos Kit Odontologico APP 1218589731347806, Consultorio en Regla Odontológico CO 1453560014505584 |
 | Colección Digital Plus | 626238063897333 | CL | 11/26 el 2026-11-17 (huella `imprimibles navidad`), todo «Chatea con nosotros»: oferta invisible por API; abrir snapshots en la PC; re-medir 2026-11-21 |
 | Die Kunst des Tarot · La Mappa dei Tarocchi | 1401739863026385 · 1504273442761198 | DE · IT | tarjeta EU del 2026-11-17: ≥12/≥50 DE (82 est., 10 d visto); versión IT nació el 17-11 a 18 €: ver si escala y si abre FR/PT |
 | Isabel Martins | 1431639723356021 | PT | tarjeta EU del 2026-11-17: Bíblia do Tricot 16/27 PT (34 d, USD); ver si abre IT/FR |
@@ -630,7 +631,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-19 06:42 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 19-21/11 + operadores con tarjeta) | en curso | en curso | en curso |
+| 2026-11-19 06:42 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 19-21/11 + operadores con tarjeta) | 56 páginas (+1 hermana) × CO/ES + país principal (~160 consultas `page_ids` + país), 8 sondas `search_terms`, 4 controles de destino IT/PT/FR; 4 subagentes de lectura | 1 tarjeta (LaOfi), 10 señales | sin cambios de estado; 9 operadores apagados o relanzados; 1 fila de trampas |
 | 2026-11-19 06:40 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
 | 2026-11-19 06:36 | BR | B perforar (mañana) | oficios/moldes-marcenaria-pdf | 6 subnichos × 5 kw BR (30, sin ceros, ALL no hizo falta) + ~25 sondas de copy con `page_ids` + `search_terms` + 9 controles de destino (hispano, PT, IT, DE, FR, RO, PL); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Ricardo Artesanato, Manual da Sobra Lucrativa), 5 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-18 18:45 | ES | B perforar (tarde) | docentes/dinamicas-grupales | 6 subnichos × 5 kw CO/ES (30, sin ceros) + 4 sondas de destino IT/PT/FR; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 3) | 2 tarjetas (Isabel Navarro, Geriactiva), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
