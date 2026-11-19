@@ -26,6 +26,22 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Planilla de contabilidad de 7 pestañas a $9, pago único — Small Business Bundle GB · `educacion-profesional/contabilidad-workbooks/pyme-planillas` · 2026-11-19 (tarde) · sesión EN
+- **Qué es:** una planilla descargable de contabilidad para freelancers y pequeños negocios. Tiene 7 pestañas, 40 categorías que se configuran una vez, el impuesto calculado en cada línea y el P&L de 12 meses ya armado. Cuesta **$9** de pago único («7 Tabs. $9. Yours Forever.») y trae un video de configuración. La misma página vende una segunda planilla de stock para quienes venden en ferias y mercados.
+- **Por qué es ganador:** cohorte 7+/activos **30/39 en GB** (vistos todos) y 30/40 en US con los mismos ads. Siguen vivas 3 tandas: 15 ads de contabilidad del 28-09 (**52 d**), 15 de stock del 09-10 (41 d) y 9 nuevos del 18-11. Son 15 en cohorte sobre la oferta de $9 sola. Es una página fantasma con nombre de producto y títulos sin persona, y la única de 30 páginas barridas que vende planilla contable de pago único.
+- **Qué hacer:** modelar tal cual: la planilla de Sheets/Excel + video de configuración, con el ángulo «dejá de pagar la app de contabilidad todos los meses» («3 Reasons A $9 Sheet Beats An App», «From Shoebox Receipts To Books Done»). Destino sugerido: **Australia**, **Irlanda** y **Canadá** en inglés, adaptando GST/IVA. Con ALL y `bookkeeping spreadsheet` en AU/IE/CA/NZ solo aparecen firmas, SaaS y Excelbychris, sin ningún vendedor de planilla a precio único. Después, **México** en español.
+- **Ads Library:** [Small Business Bundle GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=653474667854909&search_type=page&media_type=all) · [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=653474667854909&search_type=page&media_type=all) · creativos: [7 Tabs. $9](https://www.facebook.com/ads/library/?id=2013818782658735) · [3 Reasons A $9 Sheet Beats An App](https://www.facebook.com/ads/library/?id=1101580795680529)
+- **Landing:** embudo no verificado desde la nube: la API no trajo la URL. Antes de decidir hay que verificar en la PC si es checkout directo, si el «bundle» es una compra o dos, y si hay order bump.
+- Score 2/4 (① 52 d · ④ hueco en AU/IE/CA/NZ) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-19)**
+- Practical Accounting Kit (1329811246889008), tarjeta pendiente del 09-11, creció de 21/31 a **35/46 en GB**: 13 fechas, una sola oferta «7 workbooks + 300+ exercises for £19.90» y 0 ads en US. Con `debits credits` (GB) devuelve 41 de 50 ads.
+- Su molde se está copiando. Julia Bennett (1420325024499818) lanzó el 18-11 «Clear Accounts Kit 2026/27 · 7 workbooks + 8 bonuses» (0/2 GB). Mundo Bonito (1172982479242257, cobra en MXN y escribe en inglés) corre «The exact practice, in 7 workbooks» desde el 11-11 en AU/IE/CA/NZ. La ventana de esos destinos se está cerrando.
+- The Bookkeeping Coach UK (836404006212509) tiene **21/22 en GB** y anuncia desde el 21-04 (212 d). La guía de £27 suma 12 ads en cohorte desde el 23-10 y el resto son lead magnets gratis. El gate es dudoso: «Coach» en el nombre y 7 meses de captación sugieren una escalera. Verificar en la PC los creativos (si hay cara) y el back-end.
+- Contador en Acción (1418159758044206) vende en US un «Accounting Pack» en inglés: 6 workbooks + 6 bonus de nómina, 1040, W-2 y 1099. Tiene 6/16 y 10 fechas desde el 30-10, y crece: re-medir el 2026-11-26.
+- El «mapa visual de impuestos» de Easymaptax (1161672967038413) y The Self-Employed Tax Map (1323318897540495) está en 0/12 y 0/10 en US. Rotan tandas cada pocos días; temporada de impuestos de enero.
+
 EN 2026-11-19 (mañana): nada que pase la vara; se barrió printable tracker, fillable pdf, printable workbook, downloadable guide, handbook pdf, digital guide, $12 pdf, $29 guide, £15 pdf, printable templates, step by step pdf, playbook pdf, worksheet bundle, printable kit (US/GB).
 
 **Señales del día EN (mañana, 2026-11-19)**
