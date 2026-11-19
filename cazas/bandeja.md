@@ -26,6 +26,17 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-19 (mañana): nada que pase la vara; se barrió printable tracker, fillable pdf, printable workbook, downloadable guide, handbook pdf, digital guide, $12 pdf, $29 guide, £15 pdf, printable templates, step by step pdf, playbook pdf, worksheet bundle, printable kit (US/GB).
+
+**Señales del día EN (mañana, 2026-11-19)**
+- Printable WITH Lisa (106064502120864) refuerza la tarjeta pendiente de RootedinFaith (11-11): su guía «Every book of the Bible broken down simply — all 66 for just $17.98» suma 10 ads en cohorte en US (20/28 la página, 20/29 en GB; 15 d). El 10-11 rotaba todo (0/31). Es una fábrica «90% off» que mezcla 6 ofertas, así que no lleva tarjeta propia; sirve como precio de referencia del molde.
+- Sarah Whitfield (1328290737029753), «Gift Basket Formula»: 40+ recetas de canastas de regalo con plantillas imprimibles de caja, etiquetas y tags, a $27 (no $67) + «Launch Kit» gratis; £19.99 en GB. Tiene 9/≥50 en US (65 est.; 27 d) y 5/≥50 en GB: le falta uno para la vara y sube tandas por Black Friday. Re-medir 2026-11-26.
+- Aesthetic Atlas (1064483973422918), «64-Page Facial Injection Atlas — $12»: 7/14 en US con un ad de 127 d y 8 fechas. Es chica pero la más estable del día. Re-medir 2026-12-03.
+- Barbara Decker / Live Well & Fully (señal del 09-11) siguen: ≥50/≥50 en US y 35/35 en GB (79 d) con «Love Another Way» para madres de hijos adultos con adicción. El formato y el precio siguen invisibles (¿programa o coaching?): verificar en la PC.
+- La red Alma Oasis / Efficient Therapist / Rewilded Health (AED/USD, «83% OFF + FREE bonus course»): ≥34, ≥22 y 15 en cohorte, pero vende cursos de certificación online (breathwork), no PDF.
+- Dragon Fire Method (ya tarjeta) lanzó el 18-11 un SKU nuevo, «300 finance templates in Word and Excel»; sigue 38/≥50 en US y 37/≥50 en GB.
+
+
 ### 🎯 Método de decluttering habitación por habitación para mujeres de 60+ («The Room-by-Room Method») — The Lighter House US · `hogar/planner-limpieza/declutter-por-habitacion` · 2026-11-18 (tarde) · sesión EN
 - **Qué es:** una guía imprimible para ordenar la casa «en el orden correcto» de once habitaciones, con una página por habitación y un capítulo aparte para las fotos y «las cosas que eran de él». Se hace de a 15-20 minutos por día, sentada. Avatar: mujer de 60-65+ que se achica o enviudó («So Your Kids Never Have to Do This»). Cobra en AUD y el precio no se ve; un título dice «Save $20».
 - **Por qué es ganador:** cohorte 7+/activos **≥26/68 en US** (piso: la API corta en 50 y con `decluttering` aparecieron 8 más detrás del tope). Hay 6 tandas de 22, 21, 16, 12, 11 y 7 días que siguen prendidas, y sube una tanda nueva casi todos los días (hoy: «Declutter Your Home Before Christmas»). Es una marca sin persona: copy tipo advertorial con anécdotas de terceras. Corre solo en US: 0 en GB, Irlanda, Australia, Nueva Zelanda y Canadá.

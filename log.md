@@ -94,3 +94,4 @@
 ## [2026-11-18] caza-auto | ES B docentes/dinamicas-grupales (tarde) → 2 candidatos a bandeja
 ## [2026-11-19] caza-auto | BR B perforar oficios/moldes-marcenaria-pdf → 2 candidatos a bandeja
 ## [2026-11-19] caza-auto | ES C operadores → 1 candidatos a bandeja
+## [2026-11-19] caza-auto | EN A huella (sin nodo) → 0 candidatos a bandeja
