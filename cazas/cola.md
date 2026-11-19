@@ -621,6 +621,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-19 06:42 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 19-21/11 + operadores con tarjeta) | en curso | en curso | en curso |
 | 2026-11-19 06:40 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
 | 2026-11-19 06:36 | BR | B perforar (mañana) | oficios/moldes-marcenaria-pdf | en curso | en curso | en curso |
 | 2026-11-18 18:45 | ES | B perforar (tarde) | docentes/dinamicas-grupales | 6 subnichos × 5 kw CO/ES (30, sin ceros) + 4 sondas de destino IT/PT/FR; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 3) | 2 tarjetas (Isabel Navarro, Geriactiva), 7 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
