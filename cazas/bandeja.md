@@ -475,6 +475,31 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Curso de carpintería para principiantes + apostila, por WhatsApp — Ricardo Artesanato BR · `oficios/moldes-marcenaria-pdf/marceneiro-iniciante` · 2026-11-19 · sesión BR
+- **Qué es:** curso de marcenaria para iniciantes con apostila y projetos, que se sigue «pelo celular». Cierra por WhatsApp («Chama no whats»). El copy trae el precio en R$, pero la API no deja leer el monto (precio n/e). No hay sede, cupos ni envío: es digital.
+- **Por qué es ganador:** cohorte 7+/activos **≥44/~224 en BR** (piso: la API solo muestra los 50 más nuevos, y 44 de esos ya pasan los 7 días). Escalonado: sigue prendido un ad de **101 días** y hay tandas vivas a 98, 83, 76, 71, 69, 33, 27, 15, 14 y 8 días. El último ad nuevo es del 13-11. Un solo operador.
+- **Qué hacer:** modelarlo como «Carpintería desde cero con el celular»: mini-curso grabado + apostila PDF + 30 proyectos con medidas, con landing a USD 12-17 (WA → landing). Destino sugerido **Rumania**: `curs tâmplărie` con ALL da hueco (solo un makerspace gratis y presencial). No ir al hispano: ahí ya hay cursos con persona (Muebleando, Carpintería Para No Carpinteros).
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=913699531818972&search_type=page&media_type=all) · el más viejo: [101 d](https://www.facebook.com/ads/library/?id=1427154622558454) · típico: [8 d](https://www.facebook.com/ads/library/?id=1450236909803235)
+- **Landing:** WA: oferta reconstruida con sondas de palabras sobre el copy (marcenaria, curso, apostila, projetos, celular, iniciantes, R$; da cero en presencial, vagas, frete y pdf). **Antes de decidir:** abrir el snapshot y ver si hay una cara vendiendo («Ricardo» es nombre de persona) y el monto del precio. La cuenta paga en USD.
+- Score 2/4 (longevidad 101 d, hueco en RO; volumen > 50 sin demostrar, duplicación sin ver) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API; copy por sondas `search_terms`).
+
+### 🎯 PDF de proyectos con sobras de madera y palets para fabricar y vender — Manual da Sobra Lucrativa BR · `oficios/moldes-marcenaria-pdf/paletes` · 2026-11-19 · sesión BR
+- **Qué es:** un PDF de proyectos para hacer con sobras de madera y palets y venderlos. Cierra por WhatsApp («CONVERSE CONOSCO»). Solo 6 ads traen precio en R$ (monto no legible): precio n/e.
+- **Por qué es ganador:** cohorte 7+/activos **47/54 en BR** (vi 50 de 54). Hay tandas vivas a **51, 50, 49, 48, 46, 41 y 28 días**, y una nueva del 17-11: son 9 fechas de creación, con un operador vivo. Página fantasma, sin persona en el nombre. Hay una hermana, Segredo da Sobra Lucrativa (6/9), que no se suma.
+- **Qué hacer:** modelar el ángulo, no el pack genérico: «60 proyectos con retazos que se venden en ferias», con hoja de costos y precio de venta sugerido por pieza, en PDF a EUR 7-9. Destino sugerido **Alemania**: los testers de esta semana venden «Holzprojekte mit Bauplan» y nadie usa el ángulo de reventa. Ojo, la ventana se cierra: el ángulo «retazos/sobras» ya corre en el hispano, IT y PT, y la ola de packs de madera tiene ads de 0-7 días en 7 países.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1413790768477215&search_type=page&media_type=all) · el más viejo: [51 d](https://www.facebook.com/ads/library/?id=1123642000190243) · típico: [45 d](https://www.facebook.com/ads/library/?id=1329241469233749)
+- **Landing:** WA: oferta reconstruida con sondas de palabras sobre el copy (madeira, projetos, sobras, vender, paletes y pdf en 51 de 54; da cero en curso, apostila y grátis). **Antes de decidir:** abrir el snapshot y ver el precio y si es PDF o la oferta de un taller.
+- Score 1/4 (longevidad 51 d; volumen 47 < 50; hueco ✘; duplicación sin ver) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API; copy por sondas `search_terms`).
+
+**Señales del día BR (2026-11-19)**
+- Biblioteca do Corte (1273210592538710): 25 en cohorte de 50 vistos (72 activos), archivos para corte láser; joven (más viejo ~13 d). Producto y precio sin ver. Re-medir 2026-11-26.
+- Tesouro dos Mestres (1116389191564368): 8/32 a ~31 d, título «4,9/5», probable pack de projetos de marcenaria.
+- Maison Solutions (1197117933493198): 12/12 «+82 Moldes de Natal em Madeira», todo de una sola fecha (30-10): posible tanda única; estacional.
+- Mestre da Madeira (1240001732528839, tarjeta del 11-11): 0 activos y 0 con ALL en BR; página borrada o page_id cambiado.
+- Ola global de «packs de proyectos de madera» (DE, IT, FR, PL, RO, PT, hispano), todos con ads de 0-7 d: el pack genérico ya no tiene hueco; hay que diferenciar por ángulo.
+
 ### 🎯 Papelería de casamiento editable en Canva (invitaciones, combo de 5 piezas) — Canva Para Noivas BR · `design-digital/packs-stories-templates/festa-papelaria-editavel` · 2026-11-18 (tarde) · sesión BR
 - **Qué es:** plantillas de papelería de boda para que la novia las edite en Canva desde el celular: invitaciones (incluidas «convites digitais interativos»), y el resto de la papelería «todo combinando». Precios en los títulos: invitación digital R$47, «Combo Black: 5 produtos» R$127.
 - **Por qué es ganador:** cohorte 7+/activos **36/47 en BR** (vistos todos, sin tope). Corre desde junio (ad más viejo de **149 días**) y renueva cada semana: más de 15 fechas de creación, con ads nuevos hoy. El combo de Black Friday ya tiene 15/15 a 8 días. Es una página de marca, sin persona en el nombre, y un solo operador. Ojo: es ticket medio (R$47-127), no R$10.
