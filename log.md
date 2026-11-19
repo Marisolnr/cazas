@@ -98,3 +98,4 @@
 ## [2026-11-19] caza-auto | BR B perforar (tarde) educacao/atividades-prontas-professores/alfabetizacao → 1 candidatos a bandeja
 
 ## [2026-11-19] caza-auto | EN B perforar (tarde) educacion-profesional/contabilidad-workbooks → 1 candidatos a bandeja
+## [2026-11-19] caza-auto | ES B perforar manualidades/patrones-pdf/tejido-dos-agujas (tarde) → 1 candidatos a bandeja
