@@ -637,6 +637,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-19 18:45 | EN | B perforar (tarde) | educacion-profesional/contabilidad-workbooks | en curso | en curso | en curso |
 | 2026-11-19 18:40 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/alfabetizacao | en curso | en curso | en curso |
 | 2026-11-19 06:42 | ES | C operadores (mañana) | — (operadores ES: re-mediciones 19-21/11 + operadores con tarjeta) | 56 páginas (+1 hermana) × CO/ES + país principal (~160 consultas `page_ids` + país), 8 sondas `search_terms`, 4 controles de destino IT/PT/FR; 4 subagentes de lectura | 1 tarjeta (LaOfi), 10 señales | sin cambios de estado; 9 operadores apagados o relanzados; 1 fila de trampas |
 | 2026-11-19 06:40 | EN | A huella (mañana) | — (huella, US GB) | 14 huellas × US/GB (28, distintas de las del 09, 12 y 16-11) + 4 de arranque repetidas por error del brief (8 consultas); ~35 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio de 2) | 0 tarjetas, 6 señales (Printable WITH Lisa 20/28 refuerza a RootedinFaith) | 2 nodos nuevos superficial; 3 operadores a seguir; 1 fila de trampas |
