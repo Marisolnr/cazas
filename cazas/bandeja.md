@@ -486,6 +486,23 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Secuencias didácticas listas sobre libros infantiles (PDF para maestras) — Notebook da Profª BR · `educacao/atividades-prontas-professores/alfabetizacao` · 2026-11-19 (tarde) · sesión BR
+- **Qué es:** «sequências didáticas» listas, cada una sobre un libro infantil conocido: «O Piquenique do Gildo», «O Pequeno Príncipe Preto», «O Natal do Carteiro», «Na Loja do José Tem», más un «Projeto Correio de Natal». Son para maestras de alfabetización. El link va a una ficha de tienda propia («SD … - Notebook da Prof»). La API no muestra el precio: n/e.
+- **Por qué es ganador:** cohorte 7+/activos **12/12 en BR** (vistos todos). El ad más viejo tiene **95 días** (16-08) y hay tandas vivas a 94, 40 (5 ads del 10-10) y 16-17 días (Navidad). Son 5 fechas de creación y el último ad nuevo es del 03-11: el operador está vivo. Un solo operador. Hay otra página con el mismo formato, sala.interativa (9/9), pero sin ads nuevos desde hace un año.
+- **Qué hacer:** modelar el formato «una secuencia por libro» como PDF (lectura guiada, fichas, escritura, proyecto de aula) a EUR 5-9 cada una, con un combo de temporada (Navidad) como upsell. Destino sugerido **Italia** («percorso didattico sull'albo illustrato»): `albo illustrato attività` con ALL da 211 ads, todos de maestras con cara y librerías, y ningún pack sin cara. **México** después (`secuencia didáctica cuento` con ALL = 12, nadie con volumen). Usar libros de dominio público o solo la actividad, sin reproducir el texto del libro.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=125996334592649&search_type=page&media_type=all) · el más viejo: [95 d](https://www.facebook.com/ads/library/?id=959518957174542) · típico: [40 d](https://www.facebook.com/ads/library/?id=1641889177478694)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL; el título apunta a una ficha de tienda). **Antes de decidir:** abrir el snapshot y ver si vende una profesora con cara (la página se llama «Profª»: riesgo de marca personal) y cuánto cuesta cada secuencia.
+- Score 2/4 (longevidad 95 d y hueco en IT; volumen 12 < 50; duplicación sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API; copy por sondas `search_terms`: `sequência didática` y `alfabetização` en 8 de 12).
+
+**Señales del día BR (2026-11-19, tarde)**
+- Alfabetização Fácil (511728418697833): 12/12 en BR, ad de 147 d, 8 fechas, último ad nuevo del 28-10. Son actividades y juegos para que los padres enseñen a leer y escribir («⭐ 14.480 Avaliações»). Pasa la vara, pero 3 de los 12 ads nombran autismo, TDAH y dislexia (roza neurokids), y en el destino ya hay clones: IT (Imparo a Leggere Giocando, Giulia Romano), RO («Învață-l să citească acasă», mismo molde) y PT. No va como tarjeta: decidir en la PC.
+- Atividades fonicas (960591340479506): 10/10, pero todo del 06-07/03 y ni un ad en 30 días: posible zombi.
+- Atividades infantil (265589206630616, operador): ≥16/127 (destapada con sondas), ad más viejo de 30 d, crea ads a diario; producto «80 frases» sin ver y cierra por mensajes.
+- Pais e filhos (673085592562946) 9/16 y Método Glúteos Brasilenos (110018661823764) 2/25 usan el mismo gancho «+20.000 famílias»: probablemente es un solo operador, y no se suman.
+- En silábicas y caligrafía todos los fantasmas son de 0-5 d (Passo Prático R$19,90, Lápis Mágico R$12,90, Ler Brincando, Núcleo da Pedagogia), por la ola de Black Friday y Navidad. Caligrafía cursiva la domina una persona (Prof. Bruna Ferraz, ≥50 ads de 18-19/11). Re-medir 2026-12-03.
+- EJA/adultos en BR: solo apps gratis de arbitraje y escuelas; no hay infoproducto.
+
 ### 🎯 Curso de carpintería para principiantes + apostila, por WhatsApp — Ricardo Artesanato BR · `oficios/moldes-marcenaria-pdf/marceneiro-iniciante` · 2026-11-19 · sesión BR
 - **Qué es:** curso de marcenaria para iniciantes con apostila y projetos, que se sigue «pelo celular». Cierra por WhatsApp («Chama no whats»). El copy trae el precio en R$, pero la API no deja leer el monto (precio n/e). No hay sede, cupos ni envío: es digital.
 - **Por qué es ganador:** cohorte 7+/activos **≥44/~224 en BR** (piso: la API solo muestra los 50 más nuevos, y 44 de esos ya pasan los 7 días). Escalonado: sigue prendido un ad de **101 días** y hay tandas vivas a 98, 83, 76, 71, 69, 33, 27, 15, 14 y 8 días. El último ad nuevo es del 13-11. Un solo operador.
