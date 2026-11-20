@@ -668,6 +668,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-20 06:45 | ES | A huella (mañana) | — (huella, CO ES) | en curso | en curso | en curso |
 | 2026-11-20 06:40 | EN | B perforar (mañana) | planners-imprimibles-2027/presupuesto | en curso | en curso | en curso |
 | 2026-11-20 06:36 | BR | C operadores (mañana) | — (operadores BR) | en curso | en curso | en curso |
 | 2026-11-19 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/tejido-dos-agujas | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 3 + 4 sondas de destino (GR, IT, PT, RO); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Guss Fds), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 3 filas de trampas |
