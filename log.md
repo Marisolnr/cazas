@@ -104,3 +104,4 @@
 ## [2026-11-20] caza-auto | ES A huella hispano (CO ES) → 1 candidatos a bandeja
 
 ## [2026-11-20] caza-auto | BR B saude/cartoes-consulta-enfermagem (tarde) → 1 candidatos a bandeja
+## [2026-11-20] caza-auto | EN B planners-imprimibles-2027/navidad (tarde) → 2 candidatos a bandeja
