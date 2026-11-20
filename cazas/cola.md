@@ -685,6 +685,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-20 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/bordado | en curso | en curso | en curso |
 | 2026-11-20 18:40 | EN | B perforar (tarde) | planners-imprimibles-2027/navidad | en curso | en curso | en curso |
 | 2026-11-20 18:36 | BR | B perforar (tarde) | saude/cartoes-consulta-enfermagem | en curso | en curso | en curso |
 | 2026-11-20 06:45 | ES | A huella (mañana) | — (huella, CO ES) | 16 huellas × CO/ES (32, distintas de las del 09, 10, 13 y 17-11) + 2 sondas de destino (RO, GR); ~31 páginas contadas con `page_ids` + país (3 subagentes de lectura) + re-conteo propio de Rachel Bennett en ES/CO/MX/FR/RO | 1 tarjeta (Rachel Bennett), 6 señales | 1 nodo nuevo superficial (docentes/planificacion-inicial); 2 filas de operadores; 1 fila de trampas |
