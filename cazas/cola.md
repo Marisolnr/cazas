@@ -668,6 +668,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-20 06:36 | BR | C operadores (mañana) | — (operadores BR) | en curso | en curso | en curso |
 | 2026-11-19 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/tejido-dos-agujas | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 3 + 4 sondas de destino (GR, IT, PT, RO); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Guss Fds), 6 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 3 filas de trampas |
 | 2026-11-19 18:45 | EN | B perforar (tarde) | educacion-profesional/contabilidad-workbooks | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 5 ceros + control AU/IE/CA/NZ con ALL; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Small Business Bundle), 5 señales | profundo, con 6 hijos superficial; 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-19 18:40 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/alfabetizacao | 6 subnichos × 5 kw BR (30; ALL en 1 cero) + 9 controles de destino con ALL (PT, IT, RO, hispano) + 15 sondas de copy por página; ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Notebook da Profª), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
