@@ -502,6 +502,25 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Pack de +150 «revistinhas» editables para niños a R$10 — Arquivos que encantam BR · operadores BR (modo C) · 2026-11-20 · sesión BR
+- **Qué es:** un pack de más de 150 «revistinhas» editables: libritos infantiles de actividades y para colorear, que se personalizan e imprimen (en BR se venden como recuerdo o «lembrancinha» de cumpleaños). Cuesta **R$10**. Los ads nuevos cierran con «comentá "eu quero" y te lo mando» (de comentario a DM).
+- **Por qué es ganador:** cohorte 7+/activos **13/24 en BR**. Los 13 de la cohorte son «🚨Apenas R$10🚨» y la sonda `revistinhas` sobre la página los devuelve a todos (15 activos), así que el producto es este. El ad más viejo tiene **35,8 días** y hay una tanda viva de 9 ads a ~30 días y otra a 21. Son 8 fechas de creación, con ads nuevos el 14, 18 y 20-11: operador vivo. La página es de marca, sin persona, y la sonda `autismo` da 0 con ALL (no es neurokids). En BR el molde es viejo: Revistinhas Lucrativas y Revistinha Lucrativa lo venden como «renda extra» desde agosto.
+- **Qué hacer:** modelarlo como «+150 livrinhos de atividades personalizáveis» (PDF/Canva editable con el nombre del niño) a EUR 4-6, más un upsell de temas (Navidad, cumpleaños por personaje genérico). Destino sugerido **Portugal**: `revistinhas editáveis` da 0 con ALL y `livros de atividades personalizados` da 10, todos imprentas y eventos físicos. En MX el ángulo «imprimibles de fiesta» ya lo corre Imprime y Crea (USD); en IT hay un tester BR (Katie McDow, BRL) con el producto sin ver.
+- **Ads Library:** [BR](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=216603914872916&search_type=page&media_type=all) · el más viejo: [35,8 d](https://www.facebook.com/ads/library/?id=1673455084516172) · típico: [30 d](https://www.facebook.com/ads/library/?id=1692483525800854) · con el producto en el título: [3 d](https://www.facebook.com/ads/library/?id=1411132814125733)
+- **Landing:** embudo no verificado desde la nube (la API no trae la URL; los ads nuevos piden comentar para recibir el link). **Antes de decidir:** abrir el snapshot y confirmar que el entregable es un archivo editable (PDF/Canva) y no un impreso, y que los personajes no son de marca registrada.
+- Score 3/4 (longevidad 36 d, duplicación del título ×13, hueco en PT; volumen 24 < 50) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API; producto por sonda `search_terms` sobre la página).
+
+**Señales del día BR (2026-11-20)**
+- ComportaMente (479332898595798), tarjeta del 14-11: **40/41** (Kit NR-1 16/16 + escala 5x2 18/19), con precio de Black Friday hasta el 30-11.
+- Ana Beatriz (500613633701984): baja a 26/41 (≥48/50 el 17-11). Sigue la duda de la persona: verificar en la PC.
+- Diagramação Express (1350262598172109), tarjeta del 16-11: sube a **42/48** («Passo a passo simples» ×48). Sigue sin saberse si es PDF o servicio.
+- NeuroKit Clínico: la hermana (883009701566343) ya tiene **FR 23/33 y ES 16/28**, así que FR y ES están tomados. TI em Mapas: ES 35/35, AR 19/19, MX 19/19, así que el hispano está cerrado.
+- Essência viva (1436395682884516): BR 33/36. Prueba en español desde el 28-10 (AR 4, MX 4, ES 7 con ALL), todavía sin cohorte.
+- Creartool (325627053956826): 21/30. Abrió el 19-11 «Planeje seu mistério antes do capítulo 1», un planner para escribir una novela (herramienta de escritura, no el nicho excluido).
+- Cozinhanoprato (1143346648872228): 14/14, sin ads nuevos desde el 20-10 → posible zombi. Mestre da Madeira y Mamãe que fez: 0 con ALL en BR.
+- Facilitaê Digital (1171932599334530): ≥43/50, pero son ~8 SKUs de ~5 ads cada uno y ninguna oferta suelta llega a 10.
+
 ### 🎯 Secuencias didácticas listas sobre libros infantiles (PDF para maestras) — Notebook da Profª BR · `educacao/atividades-prontas-professores/alfabetizacao` · 2026-11-19 (tarde) · sesión BR
 - **Qué es:** «sequências didáticas» listas, cada una sobre un libro infantil conocido: «O Piquenique do Gildo», «O Pequeno Príncipe Preto», «O Natal do Carteiro», «Na Loja do José Tem», más un «Projeto Correio de Natal». Son para maestras de alfabetización. El link va a una ficha de tienda propia («SD … - Notebook da Prof»). La API no muestra el precio: n/e.
 - **Por qué es ganador:** cohorte 7+/activos **12/12 en BR** (vistos todos). El ad más viejo tiene **95 días** (16-08) y hay tandas vivas a 94, 40 (5 ads del 10-10) y 16-17 días (Navidad). Son 5 fechas de creación y el último ad nuevo es del 03-11: el operador está vivo. Un solo operador. Hay otra página con el mismo formato, sala.interativa (9/9), pero sin ads nuevos desde hace un año.
