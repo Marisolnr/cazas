@@ -26,3 +26,4 @@
 - 2026-11-19 06:40 EN (mañana): el brief del primer subagente salió sin la lista de huellas (placeholder); barrió 4 keywords ya usadas. Las 14 huellas nuevas se corrieron con otros 2 subagentes.
 - 2026-11-20 06:40 EN (mañana): HEAD desprendido al arrancar (main local 27 commits atrás); el push «en curso» se rechazó 3 veces y se arregló con `git branch -f main HEAD` + `git checkout main` + `git branch -u origin/main` + push normal, sin force.
 - 2026-11-21 18:55 EN (tarde): conflicto de rebase en `cazas/cola.md` (bitácora) y `log.md` con BR/ES, resuelto conservando las dos versiones; 1 consulta `page_ids` + `reading` falló con error de la API (reemplazada por `phonics`).
+- 2026-11-21 18:45 ES (tarde): la API de la Biblioteca falló 4 veces de forma intermitente («Ad Library search failed»); todas salieron al reintentar.

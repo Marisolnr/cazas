@@ -1128,6 +1128,16 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-21 (tarde): nada que pase la vara; se barrió macramé, pulseras de hilo, mostacilla/miyuki, bisutería/alambrismo, resina y emprender bisutería (30 kw × CO/ES).
+
+**Señales del día ES (2026-11-21, tarde · B perforar `macrame-bisuteria`)**
+- Manualidades Idearte (558732267318684): **CO 15/17 · ES 9/11** (116 d, 15 fechas, WA). Vende cursos online de manualidades con certificado: `curso` aparece en 16 de 17 ads y `bisutería`/`aretes` en 5. No aparecen `vivo` ni `presencial`. Es multi-curso y la oferta de bisutería no llega a 10. Verificar en la PC qué curso es, si es grabado y el precio.
+- Academia Creativa (600663839792480): **CO 26/26 · ES 19/19** (268 d, WA). Es un curso de negocio de sublimación con certificado, pero `vivo` aparece en 15 de 26 ads: probable curso en vivo. Solo tiene 1 ad de los últimos 30 días.
+- Escuela de manualidades (1071326689389327): CO 10/12 (87 d, 7 fechas). Vende un pack de cursos con «+3 cursos adicionales gratis» por WA, pero el producto no se ve por API.
+- Sofía Ramírez (221534091045377): CO ≥50 activos (82 est.), todos de 5 días o menos. Vende «Artesanía en Chaquira: 8 guías con 200+ proyectos» y «Joyas Miyuki desde cero». La cohorte está oculta detrás del tope y la página también corre crianza. Re-medir el 2026-11-28.
+- Hilo Propio (1361803930343915): 7/11 CO=ES, con «Kumihimo Fácil: 30 pulseras paso a paso» (USD, 2 fechas). Es el único digital de pulseras.
+- Cementerio: `tapiz macramé` ES (ALL 270), donde Marija Marković («Biblioteca de Macramé +1.000 proyectos») y La Biblioteca del Macrame se apagaron. Huecos: `chaquira patrones` CO/ES y `telar mostacilla` ES (0 también en ALL).
+
 ### 🎯 Packs «50 proyectos de costura en tela, con patrones» (bolsas, mochilas, estuches, neceseres, delantales, adornos) — Mundo de La Costura CO·ES · `manualidades/patrones-pdf/costura-moldes` · 2026-11-21 · sesión ES
 - **Qué es:** un catálogo de packs digitales por tema: «50 Bolsas de Tela», «40 Mochilas de Tela», «50 Estuches», «50 Neceseres», «50 Delantales», «50 Adornos Navideños», «50 Piezas para Bebés» y, desde el 19-11, «50 Sombreros Bucket con Patrones» y «50 Blusas». Cobra en BRL y algún título trae portugués filtrado: es un operador brasileño que traduce al español. La API no muestra el precio.
 - **Por qué es ganador:** cohorte 7+/activos **CO ≥32/50** (66 est.; los 16 que no se ven son más viejos, ~48 estimados) y **ES ≥34/50** (64 est.), en un solo page_id. Escalona tandas de 6-12 ads por SKU sin apagar las viejas: 12-09, 17-09, 24-10, 28-10, 18-11 y 19-11. El ad más viejo activo lleva **70 d** y lanzó una tanda nueva hace 2 d (operador vivo). Página sin marca personal.
