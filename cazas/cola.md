@@ -733,6 +733,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-21 18:36 | BR | B perforar (tarde) | qualidade/kits-documentos-editaveis | en curso | en curso | en curso |
 | 2026-11-21 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/costura-moldes | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 5 + 9 sondas de destino con ALL; ~35 páginas contadas (3 subagentes de lectura + re-conteo propio de Mundo de La Costura en CO, GR, IT) | 1 tarjeta (Mundo de La Costura), 7 señales | profundo, con 6 hijos superficial; 1 operador a seguir; 1 fila de trampas |
 | 2026-11-21 06:40 | EN | C agenda (mañana) | — (operadores EN con re-medición vencida o de esta semana) | ~38 operadores, ~75 consultas `page_ids` + país (4 subagentes de lectura + conteo propio de 2) + 4 sondeos `search_terms` + 4 sondas de destino con ALL (MX ×2, IT, CA/AU/IE/NZ) | 2 tarjetas (Revelation Unsealed 3D, Ultimate Life OS kits Canva), 6 señales | sin cambios de estado; 6 filas de operadores actualizadas; 1 fila de trampas |
 | 2026-11-21 06:36 | BR | A huella (mañana) | — (huella, BR) | 18 huellas BR (distintas de las del 09, 11, 14 y 18-11) + 3 controles de destino con ALL (hispano ×2, PT); ~40 páginas contadas con `page_ids` + BR (3 subagentes de lectura + re-conteo propio de 3) | 1 tarjeta (Ana Julia), 6 señales | 3 nodos nuevos BR (2 superficial, 1 virgen); 3 operadores a seguir; 1 fila de trampas |
