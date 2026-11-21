@@ -107,3 +107,4 @@
 ## [2026-11-20] caza-auto | EN B planners-imprimibles-2027/navidad (tarde) → 2 candidatos a bandeja
 ## [2026-11-20] caza-auto | ES B perforar manualidades/patrones-pdf/bordado (tarde) → 1 candidatos a bandeja
 ## [2026-11-21] caza-auto | BR A huella — (huella, BR) → 1 candidatos a bandeja
+## [2026-11-21] caza-auto | EN C agenda operadores EN → 2 candidatos a bandeja
