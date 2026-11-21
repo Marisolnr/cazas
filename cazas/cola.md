@@ -717,6 +717,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-21 06:40 | EN | C agenda (mañana) | — (operadores EN con re-medición vencida o de esta semana) | en curso | en curso | en curso |
 | 2026-11-21 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-20 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/bordado | 6 subnichos × 5 kw CO/ES (30) + ALL en 4 + 4 sondas de destino (IT, PT, RO, GR); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 2, con 8 sondas de copy sobre Elena Río) | 1 tarjeta (Elena Río), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-20 18:40 | EN | B perforar (tarde) | planners-imprimibles-2027/navidad | 6 subnichos × 5 kw US/GB (60 consultas, sin ceros) + 6 controles de destino con ALL (IT ×3, PT, RO, AU/CA/IE/NZ ×2); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (LaserCurio, HookieNest), 5 señales | profundo, con 6 hijos superficial + 1 nodo nuevo (manualidades/svg-cricut-laser); 5 filas de operadores; 1 fila de trampas |
