@@ -112,3 +112,4 @@
 ## [2026-11-21] caza-auto | ES B manualidades/patrones-pdf/costura-moldes → 1 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | BR B qualidade/kits-documentos-editaveis (tarde) → 1 candidatos a bandeja
+## [2026-11-21] caza-auto | EN B planners-imprimibles-2027/docente (tarde) → 2 candidatos a bandeja

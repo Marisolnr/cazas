@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Sistema de lectura imprimible K-2 («Readers You Print Yourself», 7.000 páginas, 9 niveles) — Sproutpals US·GB · `planners-imprimibles-2027/docente` · 2026-11-21 (tarde) · sesión EN
+- **Qué es:** un sistema imprimible para enseñar a leer en K-2: libritos decodificables que se imprimen en casa o en el aula, 9 niveles en una carpeta, 203 pósters de fonética y la «letra de la semana» planificada. Le vende a docentes y a madres homeschool (y a abuelas como regalo). El precio no se ve.
+- **Por qué es ganador:** la cohorte 7+/activos es **≥13/131 en US** en re-conteo propio y **≥25** según el subagente. La cohorte está oculta porque la página sube una tanda diaria del 17 al 21-11. Tiene 9+ fechas de creación desde el 03-09 (79 d, visto por subagente) y es una sola oferta. Es marca de producto sin persona. Ya la habíamos visto por huella el 12-11 y el 16-11, y corre en todo el anglo (CA/AU/IE/NZ/ZA).
+- **Qué hacer:** modelar tal cual, en italiano: «letture decodificabili da stampare, un livello alla volta», para maestre de primaria y genitori. Destino sugerido: **Italia** (`letture fonetiche` con ALL = 0: hueco). En México no: Valentina Ríos ya tradujo el molde el 16-11 («Lecturas que imprimes tú misma»).
+- **Ads Library:** [Sproutpals US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1072404955967252&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1072404955967252&search_type=page&media_type=all) · creativos: [letter of the week ×5, 11-11](https://www.facebook.com/ads/library/?id=1163166316189672) · [More Than Worksheets, 14-11](https://www.facebook.com/ads/library/?id=27175367005494368)
+- **Landing:** embudo no verificado desde la nube: la API no trajo la URL. Antes de decidir hay que verificar en la PC el precio y que se entregue en PDF.
+- Score 2/4 (① 79 d por subagente · ④ hueco IT con ALL) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Planillas de evaluación por objetivo para Pre-K («Checkpoints», color-coded de «Not Yet» a «Exceeding») — Made for Pre-K US · `planners-imprimibles-2027/docente` · 2026-11-21 (tarde) · sesión EN
+- **Qué es:** planillas imprimibles para registrar la observación y la evaluación de cada alumno de Pre-K por objetivo («Every Student. Every Objective.», «See Your Gaps on One Page», «Print Once. Use It All Year.»). Sirven para llegar a los checkpoints a tiempo y las puede usar también la auxiliar. Entra con dos lead magnets gratis: plantillas de planificación y una guía de áreas de juego. El precio no se ve.
+- **Por qué es ganador:** cohorte 7+/activos **≥42/257 en US** en re-conteo propio (vistos los primeros 50). De esos, **22 son la oferta paga** (tanda del 10-11, 11 d) y 20 son los dos lead magnets (×10 cada uno, 13-11). Subió tandas nuevas el 18 y el 20-11, y tiene ads más viejos con ALL (septiembre-octubre). Página sin persona («Made by a Teacher for Teachers»).
+- **Qué hacer:** modelar el kit de planillas de observación/evaluación para la escuela infantil, con lead magnet gratis de planificación. Destino sugerido: **Italia**, para «osservazioni scuola dell'infanzia». Hay un solo tester débil, Atelier Ruba, con 5 ads del 18-11 sobre el mismo ángulo: la ventana está abierta pero se mueve. En México no: `evaluación preescolar` está saturado con packs NEM.
+- **Ads Library:** [Made for Pre-K US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=115051053613886&search_type=page&media_type=all) · creativos: [Checkpoints](https://www.facebook.com/ads/library/?id=987992397163015) · [Color-Coded](https://www.facebook.com/ads/library/?id=2080534229285224) · [FREE Lesson Plan Templates ×10](https://www.facebook.com/ads/library/?id=1771357887288241)
+- **Landing:** embudo no verificado desde la nube: la API no trajo la URL. Antes de decidir hay que verificar en la PC si se vende por pago único o dentro de la membresía «Pre-K Prep Club» que aparece en el historial (Filtro C).
+- Score 1/4 (③ lead magnet ×10 en cohorte) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día EN (tarde, 2026-11-21)**
+- ELA Skill Builder - Jen Goasdone (100967562362249) ≥50/65 US: currículum imprimible de escritura y gramática («Your Whole Year of Writing in One Binder»), 3 tandas desde el 30-10. La página lleva nombre de persona: verificar cara en la PC (Filtro A). Re-medir 2026-11-28.
+- My Nerdy Teacher by Alina V (668857513282595) ≥40/~996 US: membresía K-3 con trial de $1 por 7 días y ganchos de conducta y Thanksgiving. Lleva nombre propio y es membresía (Filtros A y C): no es tarjeta.
+- Build The Past (1349044041634981) 0/30 US: «12 Print-and-Build History Kits for $27», una sola oferta y todo del 19-11. Re-medir 2026-11-26.
+- Pilot Avabelle (842356615617987) 22/37 US: planes de lección editables para instructores de vuelo, empujón de Black Friday con bundles y $99/año; ¿persona? Nicho fuera de docentes escolares.
+- Atelier Ruba (1403611569496838) IT, 5 ads del 18-11: «osservazioni» para la scuola dell'infanzia. Es el clon italiano del ángulo de Made for Pre-K. Re-medir 2026-11-25.
+- Valentina Ríos (1427649773768661) MX, 2 ads del 16-11: «Lecturas que imprimes tú misma», traducción de Sproutpals al español.
+
 ### 🎯 Guía visual ilustrada del Apocalipsis («The Visual Guide to Revelation») — Revelation Unsealed 3D US·GB · `religion/biblia-visual/visual-ilustrada` · 2026-11-21 · sesión EN
 - **Qué es:** una guía ilustrada del libro del Apocalipsis (168 páginas según la señal del 11-11) que explica sus visiones con mapas y dibujos. Vende una sola oferta, «🗺️ The Visual Guide to Revelation». El precio no se ve en los títulos.
 - **Por qué es ganador:** cohorte 7+/activos **19/30 en US** (vistos todos) y 19/29 en GB, con los mismos ads. El ad más viejo tiene **46 d** (06-10). Tiene 9 fechas de creación y la tanda más grande es del 13-11 (×10). Subió 10 ads más el 19-11 y 2 hoy. Venía de 8/23 el 11-11 y de 9/33 el 14-11, así que escala. Es una página de producto sin persona, con 30 duplicados del mismo título.
