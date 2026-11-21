@@ -733,6 +733,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-21 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/macrame-bisuteria | en curso | en curso | en curso |
 | 2026-11-21 18:40 | EN | B perforar (tarde) | planners-imprimibles-2027/docente | en curso | en curso | en curso |
 | 2026-11-21 18:36 | BR | B perforar (tarde) | qualidade/kits-documentos-editaveis | en curso | en curso | en curso |
 | 2026-11-21 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/costura-moldes | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 5 + 9 sondas de destino con ALL; ~35 páginas contadas (3 subagentes de lectura + re-conteo propio de Mundo de La Costura en CO, GR, IT) | 1 tarjeta (Mundo de La Costura), 7 señales | profundo, con 6 hijos superficial; 1 operador a seguir; 1 fila de trampas |
