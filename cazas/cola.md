@@ -724,6 +724,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-21 06:45 | ES | B perforar (mañana) | manualidades/patrones-pdf/costura-moldes | en curso | en curso | en curso |
 | 2026-11-21 06:40 | EN | C agenda (mañana) | — (operadores EN con re-medición vencida o de esta semana) | en curso | en curso | en curso |
 | 2026-11-21 06:36 | BR | A huella (mañana) | — (huella, BR) | 18 huellas BR (distintas de las del 09, 11, 14 y 18-11) + 3 controles de destino con ALL (hispano ×2, PT); ~40 páginas contadas con `page_ids` + BR (3 subagentes de lectura + re-conteo propio de 3) | 1 tarjeta (Ana Julia), 6 señales | 3 nodos nuevos BR (2 superficial, 1 virgen); 3 operadores a seguir; 1 fila de trampas |
 | 2026-11-20 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/bordado | 6 subnichos × 5 kw CO/ES (30) + ALL en 4 + 4 sondas de destino (IT, PT, RO, GR); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 2, con 8 sondas de copy sobre Elena Río) | 1 tarjeta (Elena Río), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
