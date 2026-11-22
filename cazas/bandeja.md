@@ -26,6 +26,8 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-22 (tarde): domingo de lint, nada que pase la vara; no se barrió nada (re-chequeo del lint de la mañana: nada cambió en la cola EN, 2 fechas alineadas).
+
 EN 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. 8 re-mediciones vencidas pasan al miércoles 25-11; hay 40 tarjetas EN pendientes, y 8 de ellas son de páginas que ya se apagaron o cayeron (This & That, Knitting Art Studio, Sewing Lovers, HookieNest, Honey Home, Pattern Quilt Studio, RootedinFaith, Fingerstyle). Detalle en `RAW/cazas-auto/2026-11-22-en-lint-cola.md`.
 
 ### 🎯 Sistema de lectura imprimible K-2 («Readers You Print Yourself», 7.000 páginas, 9 niveles) — Sproutpals US·GB · `planners-imprimibles-2027/docente` · 2026-11-21 (tarde) · sesión EN
