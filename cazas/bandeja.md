@@ -597,6 +597,8 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-22 (tarde): domingo de lint, sin caza ni tarjetas; nada cambió en la cola BR desde la mañana.
+
 BR 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. Hay 36 tarjetas BR pendientes de revisión (la tabla «Revisiones» sigue vacía) y 9 re-mediciones BR vencidas pasaron al C del martes 24-11 (lista en `RAW/cazas-auto/2026-11-22-br-lint-cola.md`).
 
 ### 🎯 «Pasta Sanitária para <rubro>»: carpeta de documentos editables para la inspección sanitaria, clonada por tipo de negocio — Bruno Costa BR · `qualidade/kits-documentos-editaveis` · 2026-11-21 (tarde) · sesión BR
