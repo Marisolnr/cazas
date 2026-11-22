@@ -763,6 +763,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-22 06:36 | BR | lint de la cola (domingo) | — (nodos y operadores BR) | — (sin búsquedas) | en curso | — |
 | 2026-11-21 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/macrame-bisuteria | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 4 + re-conteo propio de 3 páginas + ~30 sondas `search_terms` sobre página (3 subagentes de lectura) | 0 tarjetas, 6 señales | profundo, con 6 hijos superficial; 1 operador a seguir; 1 fila de trampas |
 | 2026-11-21 18:40 | EN | B perforar (tarde) | planners-imprimibles-2027/docente | 6 subnichos × 5 kw US/GB (60 consultas + 2 variantes GB) + ALL en 4 ceros + 6 sondas de destino (CA/AU/IE/NZ/ZA ×2, MX ×2, IT ×2 con ALL); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Sproutpals, Made for Pre-K), 6 señales | profundo, con 6 hijos superficial; 4 filas de operadores a seguir; 1 fila de trampas |
 | 2026-11-21 18:36 | BR | B perforar (tarde) | qualidade/kits-documentos-editaveis | 6 subnichos × 5 kw BR (30) + ALL en 2 ceros + 6 sondas de destino con ALL (MX, hispano ×2, PT, IT, Clear Guides en 7 países); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Bruno Costa «Pasta Sanitária»), 6 señales | profundo, con 6 hijos superficial; 4 operadores a seguir; 1 fila de trampas |
