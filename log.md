@@ -115,3 +115,4 @@
 ## [2026-11-21] caza-auto | EN B planners-imprimibles-2027/docente (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | ES B manualidades/patrones-pdf/macrame-bisuteria → 0 candidatos a bandeja
+## [2026-11-22] caza-auto | BR lint de la cola (domingo) → 0 candidatos a bandeja
