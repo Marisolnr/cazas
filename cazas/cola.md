@@ -763,6 +763,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-22 06:42 | ES | lint de la cola (domingo) | — (nodos ES + operadores hispanos) | — (sin búsquedas) | en curso | — |
 | 2026-11-22 06:38 | EN | lint de la cola (domingo) | — (122 nodos EN + 62 operadores EN) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡; 6 re-mediciones vencidas ya hechas el 18/21-11 y anotadas; 8 vencidas sin hacer pasan al 25-11; 8 tarjetas EN de páginas apagadas o caídas; próximo B: `negocios/guias-management-pdf` | sin cambios de estado |
 | 2026-11-22 06:36 | BR | lint de la cola (domingo) | — (108 nodos BR + 63 operadores BR) | — (sin búsquedas) | 0 nodos > 30 d, 0 🟡; 9 re-mediciones vencidas (18-21/11): 8 re-fechadas al C del martes 24-11 (Estante, DDS, Campo Vibracional, Clube do Devocional, Edufisicavisual, Tia Juliana, Sinapse Visual, Riscos para Bordar) + Cozinhanoprato alineado a mensual (20-12); 1 fecha corta normalizada (RH Performa 28-11); próximo B: `educacao/atividades-prontas-professores/datas-e-escola-dominical` | sin cambios de estado |
 | 2026-11-21 18:45 | ES | B perforar (tarde) | manualidades/patrones-pdf/macrame-bisuteria | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 4 + re-conteo propio de 3 páginas + ~30 sondas `search_terms` sobre página (3 subagentes de lectura) | 0 tarjetas, 6 señales | profundo, con 6 hijos superficial; 1 operador a seguir; 1 fila de trampas |
