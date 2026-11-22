@@ -1132,6 +1132,10 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. Hay 33 tarjetas ES pendientes de revisión; 6 re-mediciones de operadores pasan al 26-11, 7 operadores con país principal fuera de CO/ES (y 0 en CO/ES) bajan a mensual (19-12), y 17 re-mediciones vencidas de nodos + la ola navideña Digital Shop van al C del lunes 23-11. Detalle en `RAW/cazas-auto/2026-11-22-es-lint-cola.md`.
+
+ES 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. Hay 33 tarjetas ES pendientes de revisión; 6 re-mediciones de operadores pasan al 26-11, 7 operadores con país principal fuera de CO/ES (y 0 en CO/ES) bajan a mensual (19-12), y 17 re-mediciones vencidas de nodos + la ola navideña Digital Shop van al C del lunes 23-11. Detalle en `RAW/cazas-auto/2026-11-22-es-lint-cola.md`.
+
 ES 2026-11-21 (tarde): nada que pase la vara; se barrió macramé, pulseras de hilo, mostacilla/miyuki, bisutería/alambrismo, resina y emprender bisutería (30 kw × CO/ES).
 
 **Señales del día ES (2026-11-21, tarde · B perforar `macrame-bisuteria`)**

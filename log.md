@@ -117,3 +117,4 @@
 ## [2026-11-21] caza-auto | ES B manualidades/patrones-pdf/macrame-bisuteria → 0 candidatos a bandeja
 ## [2026-11-22] caza-auto | BR lint de la cola (domingo) → 0 candidatos a bandeja
 ## [2026-11-22] caza-auto | EN lint de la cola (domingo) → 0 candidatos a bandeja
+## [2026-11-22] caza-auto | ES lint de la cola (domingo) → 0 candidatos a bandeja
