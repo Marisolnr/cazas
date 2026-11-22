@@ -26,6 +26,8 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. 8 re-mediciones vencidas pasan al miércoles 25-11; hay 40 tarjetas EN pendientes, y 8 de ellas son de páginas que ya se apagaron o cayeron (This & That, Knitting Art Studio, Sewing Lovers, HookieNest, Honey Home, Pattern Quilt Studio, RootedinFaith, Fingerstyle). Detalle en `RAW/cazas-auto/2026-11-22-en-lint-cola.md`.
+
 ### 🎯 Sistema de lectura imprimible K-2 («Readers You Print Yourself», 7.000 páginas, 9 niveles) — Sproutpals US·GB · `planners-imprimibles-2027/docente` · 2026-11-21 (tarde) · sesión EN
 - **Qué es:** un sistema imprimible para enseñar a leer en K-2: libritos decodificables que se imprimen en casa o en el aula, 9 niveles en una carpeta, 203 pósters de fonética y la «letra de la semana» planificada. Le vende a docentes y a madres homeschool (y a abuelas como regalo). El precio no se ve.
 - **Por qué es ganador:** la cohorte 7+/activos es **≥13/131 en US** en re-conteo propio y **≥25** según el subagente. La cohorte está oculta porque la página sube una tanda diaria del 17 al 21-11. Tiene 9+ fechas de creación desde el 03-09 (79 d, visto por subagente) y es una sola oferta. Es marca de producto sin persona. Ya la habíamos visto por huella el 12-11 y el 16-11, y corre en todo el anglo (CA/AU/IE/NZ/ZA).
