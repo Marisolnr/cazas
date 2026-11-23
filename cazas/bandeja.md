@@ -26,6 +26,33 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «The Artist Management Toolkit» (125+ plantillas para managers de artistas musicales) — SmartistU US·GB · `negocios/guias-management-pdf` → `musica/plantillas-manager-artistas` · 2026-11-23 (tarde) · sesión EN
+- **Qué es:** un kit de más de 125 plantillas para gestionar la carrera de un artista o banda («Get 125 Templates For Managing Artists», «Used by 8,000 artists & managers worldwide», «Artist Manager Tools - 2026 Update»), hoy en oferta («On Sale»). El precio y el formato (PDF, Excel o Notion) no se ven en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **50/50 en US** en re-conteo propio (es un piso: hay 51 estimados) y **34/34 en GB**. El ad más viejo lleva **255 días** en US (desde el 14-03) y ~400 en GB. Tiene 19 fechas de entrega con cohortes escalonadas a 13 · 17 · 70-80 · 125 · 150-175 · 255 días, y el último ad nuevo es del 10-11. El mismo título se repite 13+ veces · página de marca, sin persona · un solo operador.
+- **Qué hacer:** modelarlo en español como «kit del manager musical: 125 plantillas» (contratos de booking, rider, presupuesto de gira, calendario de lanzamiento, press kit, planilla de regalías) para managers y artistas independientes · destino sugerido **México** · ángulo: «manejá la carrera de tu artista como un sello, sin pagar un sello». Con ALL, `manager artistas plantillas` en MX/CO/AR/CL/PE da 1 ad que no es del rubro: hueco. El operador ya llega en inglés a MX/CO/AR (33 ads), lo que muestra demanda.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=487614514671201&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=487614514671201&search_type=page&media_type=all) · creativo más viejo: [ad del 14-03](https://www.facebook.com/ads/library/?id=2102538253920015)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC el precio, el formato de entrega y si hay suscripción detrás.
+- Score 4/4 (condicionado al embudo) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Packs de gestión de obra («Construction Project Management Bundle», «Construction Bid Estimate Handbook with Template») — Planuppro US·GB · `negocios/guias-management-pdf` → `construccion/plantillas-gestion-obra` · 2026-11-23 (tarde) · sesión EN
+- **Qué es:** packs digitales para gestionar obras de construcción: un bundle de gestión de proyectos y un manual de presupuestos con plantilla. Suma un SKU nuevo en cada tanda («Master Construction Project Management», 22-11) y vende con «Grab 80% OFF Before It's Gone!». El precio no se ve en los ads.
+- **Por qué es ganador:** cohorte 7+/activos **28/33 en US** en re-conteo propio y **28/28 en GB**. El ad más viejo lleva **100 días** (desde el 15-08) y hay 5 tandas (15-08, 16-10, 04-11, 10-11, 22-11), o sea que el operador está vivo. El mismo título «Grab 80% OFF» se repite 15 veces · página de marca, sin persona · un solo operador (cuenta en EUR).
+- **Qué hacer:** modelarlo en italiano («kit gestione cantiere: cronoprogramma, computo e preventivo con modelli») para geómetras, contratistas y pequeñas empresas de obra · destino sugerido **Italia** · ángulo: «el presupuesto de obra que no se te come el margen». Con ALL, `gestione cantiere` en IT solo trae empresas y servicios de obra, ningún infoproducto en los primeros 25: es un hueco provisorio, medido con una keyword. En el mercado hispano NO hay hueco: Perú ya tiene Herramientas PRO, Tienda Digital e IPEI.
+- **Ads Library:** [US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101376582798836&search_type=page&media_type=all) · [GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=101376582798836&search_type=page&media_type=all) · creativo más viejo: [ad del 15-08](https://www.facebook.com/ads/library/?id=1054769600817686)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC el precio, el formato (PDF/Excel) y que no sea un curso con tutor.
+- Score 3/4 (① 100 d · ③ título ×15 · ④ IT provisorio) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+Señales del día EN (tarde, 2026-11-23):
+- Upstream HR Strategies (175322099833028): 17/17 en US y 16/16 en GB, pasa la vara. Vende un toolkit de $27 para managers recién ascendidos y tiene un ad de ~174 d, pero solo 4 fechas y la página es una consultora de RR. HH. (¿servicios detrás?). Quedó afuera por el tope de 2: verificar en la PC.
+- Leadership 101 with CLA (305390699552223): ≥27/≥50 en US (~168 d), con cartas «Say THIS, Not THAT» para líderes. No se sabe si son físicas o imprimibles: verificar en la PC.
+- Dragon Fire Method (tarjeta del 09-11): ≥25/≥50 en US y ≥23/≥50 en GB. Ahora suma packs de 300 plantillas de gestión (SOPs, HR, compras, finanzas, proyectos, calidad).
+- MAX SHEETS (180395578482259): 13/26 en GB y 6/19 en US. Vende plantillas de Excel/Sheets (HR Essentials, Project Command Center).
+- Quality4U (1227252717141294): 12/31 en US y 10/23 en GB, pero la cohorte es una sola tanda del 12-10. Kits Lean/SOP en inglés y español, así que el destino hispano ya no está libre.
+- Your Consulting Management Guide (tarjeta del 11-11): 0/22 en US y 0/18 en GB. Rota creativos cada 3-7 días (224 inactivos) en red con Business Explained y Dan Hart; ya no tiene cohorte.
+- Business Toolkit (1392885367238672): 6/24 en US, nació el 15-11. Vende 39 herramientas de gestión (Pareto, RACI, OKR) a $27. Re-medir el 2026-11-30.
+
 ### 🎯 Labs de ciencia imprimibles «sin laboratorio» para docentes («150+ Hands-On Biology Activities», «150+ Chemistry Experiments, No Lab Needed») — Lauren Phillips US · `educacion/labs-ciencia-imprimibles` · 2026-11-23 · sesión EN
 - **Qué es:** packs imprimibles de actividades y experimentos de biología y química que se hacen sin laboratorio ni microscopio («One page. One lab. Done.», «Monday's lab, ready before Sunday night»), y también planes para el suplente. Se le vende al docente de secundaria y a homeschool. El precio no se ve.
 - **Por qué es ganador:** cohorte 7+/activos **≥28/86 en US** en re-conteo propio (solo se ven 50; el más viejo visible tiene 15 d y hay 36 más viejos sin ver). Tiene 9 fechas de entrega distintas del 08 al 23-11, o sea que sube tandas casi a diario, y vende un SKU por materia. No está en la cola ni en descartados. Hoy apareció un clon que pauta en MXN (Teresa Gomez, «Your science lesson, sorted 🔬», en inglés).

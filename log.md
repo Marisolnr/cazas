@@ -125,3 +125,5 @@
 ## [2026-11-23] caza-auto | BR B perforar educacao/atividades-prontas-professores/datas-e-escola-dominical → 2 candidatos a bandeja
 ## [2026-11-23] caza-auto | ES C operadores → 2 candidatos a bandeja
 ## [2026-11-23] caza-auto | BR B perforar fe/biblia-mapeada (tarde) → 2 candidatos a bandeja
+
+## [2026-11-23] caza-auto | EN B perforar negocios/guias-management-pdf (tarde) → 2 candidatos a bandeja
