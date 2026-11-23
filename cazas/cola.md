@@ -785,6 +785,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-23 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf/goma-eva-fieltro | en curso | en curso | en curso |
 | 2026-11-23 18:38 | EN | B perforar (tarde) | negocios/guias-management-pdf | en curso | en curso | en curso |
 | 2026-11-23 18:36 | BR | B perforar (tarde) | fe/biblia-mapeada | en curso | en curso | en curso |
 | 2026-11-23 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones vencidas de 19 nodos + operadores con fecha 23-29/11 + ola navideña) | ~55 páginas × CO/ES + país principal (~160 consultas `page_ids` + país, 4 subagentes de lectura) + re-conteo propio de 3 + 4 sondas `search_terms` (PLC/tableros/arduino) + 7 sondas de destino con ALL (MX, IT, PT, RO, GR) | 2 tarjetas (La botánica de Angélica, El Universo Del Crochet), 7 señales | sin cambios de estado; 10 operadores apagados; 3 operadores nuevos a seguir |
