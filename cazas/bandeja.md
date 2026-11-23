@@ -625,6 +625,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Aprenda a memorizar a Bíblia»: método/curso grabado para memorizar la Biblia — Bíblia Memorização BR · `fe/biblia-mapeada` · 2026-11-23 (tarde) · sesión BR
+- **Qué es:** un método para memorizar la Biblia («de um jeito fácil»). Las sondas de copy dan `método` 46/57 y `curso` 43/57, con `PDF`, `ebook`, `aplicativo`, `aulas` y `ao vivo` en 0: pinta mini-curso grabado. El precio no está en el texto; vende por «Saiba mais» → landing.
+- **Por qué es ganador:** cohorte 7+/activos **42/50 en BR** (57 est.; tope de 50 = piso; re-conteo propio). Arrancó el 01-10 (**53 d**, 7 ads siguen vivos), escaló con 35 ads el 11-11 y sumó 8 el 17-11: 3 fechas, operador vivo. Es un solo creativo duplicado ×43. La página tiene nombre de producto, no de persona. Es un solo operador en BR.
+- **Qué hacer:** modelar el método («memorizá un versículo por día en 5 minutos») como mini-curso grabado + PDF de tarjetas. Destino sugerido **México** (validado): con ALL, `memorizar la Biblia` y `memorizar versículos` en MX/CO/AR/PE/CL no traen ningún especialista, solo granjas y advertoriales. Segunda opción **Portugal** (sin especialista en `memorizar a bíblia`). Italia no: ya hay un clon de esta semana («Memorizza la Bibbia – Il Codice Biblico», cuenta en BRL).
+- **Ads Library:** [BR · Bíblia Memorização](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=566901007033163&search_type=page&media_type=all) · [53 d](https://www.facebook.com/ads/library/?id=1620998576228747) · [tanda 11-11](https://www.facebook.com/ads/library/?id=1607556290517748)
+- **Landing:** embudo no verificado desde la nube (la API no da la URL): verificar en la PC el formato, el precio y si hay cara antes de decidir.
+- Score 2/4 (volumen 42 en 3 fechas; longevidad 53 d; producto y precio n/e; embudo n/e) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «Bíblia explicada» en PDF a R$12,90 por WhatsApp, «paga después de recibir» — Conexão Diária BR · `fe/biblia-mapeada` · 2026-11-23 (tarde) · sesión BR
+- **Qué es:** la Biblia explicada libro por libro en PDF, a **R$12,90-15,90** (piso, del título del ad). Se entrega primero por WhatsApp y se paga después de recibir.
+- **Por qué es ganador:** cohorte 7+/activos **21/21 en BR**, completa (re-conteo propio). Es escalonado en **8 fechas**: 09-09 (**75 d**), 11, 13, 18, 22, 23 y 24-09, y 30-10. Sin tandas en noviembre: vivo pero sin acelerar. Las sondas de copy dan `bíblia` 21/21, `PDF` 20 y `explicada` 20. La página es una marca, no una persona. Es un solo operador.
+- **Qué hacer:** arbitraje de embudo + mercado: el mismo PDF con el gancho «recibilo primero, pagá después», o con landing a 3-4× el piso. Destino sugerido **Rumania** (validado), en versión de 66 libros: con ALL, `Biblia explicată` en RO/MD solo trae a Biblia 73 (versión católica de 73 libros, desde el 21-11). **La ventana se cierra rápido:** el hispano está saturado de clones brasileños (Isabel Martínez a US$6,90, Martha Silva), Italia se llenó en 4 días (Biblia 73, Bibbia in Chiaro, Bibbia Chiara, Amanda Silva «La Mappa della Bibbia» a 19,90 €) y Portugal ya tiene a Jornada da Palavra.
+- **Ads Library:** [BR · Conexão Diária](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1188729467664138&search_type=page&media_type=all) · [75 d, R$12,90](https://www.facebook.com/ads/library/?id=2092939224929461) · [R$15,90](https://www.facebook.com/ads/library/?id=1112701941190847)
+- **Landing:** WA, ficha reconstruida: vende la Biblia explicada en PDF · precio dicho R$12,90-15,90 (piso) · pago contra entrega por WhatsApp · no se sabe: páginas, bonos, escalera ni cuántos pagan después de recibir.
+- Score 3/4 (longevidad 75 d en 8 fechas; precio en copy; volumen moderado; embudo n/e) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-23, tarde)**
+- Arsenal Católico (710012945518350): 14/20, 59 d, 7 fechas, ebooks de apologética católica («Não seja um Católico de IBGE»). Pasa la vara y quedó afuera por el tope de 2: candidato de la próxima corrida.
+- 52 Estudos Bíblicos para Homens (1365624093309422): 29/32, 8 fechas, pero el ad más viejo tiene 16 d. Re-medir el 2026-11-30.
+- Fé Adventista (1364603320075996): 26/32 desde el 29-10, «BAIXE AGORA!» (sermones). El producto no está confirmado: verificar en la PC.
+- Bíbliateca Mapeada (145732585284487): ≥14/54, el más viejo de 9 d, y 30 ads nuevos hoy. El producto sigue tapado por «BÔNUS LIBERADO!». Re-medir el 2026-11-30.
+- Roberta Perez (153517974517313) ≥42/50 (194 est.) + Roberto Freitas 7/45: advertorial «Se você tem filhos, leia isto» en USD, el mismo molde que Linkia (PT), Marco Rossi (IT) y Samuel Ortega (hispano). Persona inventada, producto invisible: verificar en la PC.
+- Re-cazar ~03-12: João – Livros Digitais (1086305591238947) 0/27 «O mapa da Bíblia, 66 livros em 66 páginas», Amanda Freitas 1/38 (diario de oración por WA), Pastor's Sermon Library 0/16, Materiaiscatolicos.com.br 0/50 (254 est.).
+
 ### 🎯 «Dinâmicas bíblicas» en PDF a R$10 para escuela dominical / ministerio infantil — Professora Giovanna Maria BR · `educacao/atividades-prontas-professores/datas-e-escola-dominical` · 2026-11-23 · sesión BR
 - **Qué es:** un PDF de dinámicas bíblicas para chicos (escuela dominical, culto infantil), a **R$10** (piso, del título del ad). Se compra comentando «EU QUERO» y llega por DM automático.
 - **Por qué es ganador:** cohorte 7+/activos **11/22 en BR**, sin tope (re-conteo propio). Es **un solo creativo duplicado ×22** con tandas escalonadas: 08-10 (**46 d**), 13-10, 23-10, 06-11 ×3 y 15-11 ×5, más tandas del 18 y 20-11 (5 fechas en cohorte, operador vivo). Las sondas de copy dan `PDF`, `dinâmicas` y `bíblicas` en 22/22, y `meu` 0 (no habla en primera persona). La página es «Professora» + nombre: **mirar la cara en la PC**. Es un solo operador.
