@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Labs de ciencia imprimibles «sin laboratorio» para docentes («150+ Hands-On Biology Activities», «150+ Chemistry Experiments, No Lab Needed») — Lauren Phillips US · `educacion/labs-ciencia-imprimibles` · 2026-11-23 · sesión EN
+- **Qué es:** packs imprimibles de actividades y experimentos de biología y química que se hacen sin laboratorio ni microscopio («One page. One lab. Done.», «Monday's lab, ready before Sunday night»), y también planes para el suplente. Se le vende al docente de secundaria y a homeschool. El precio no se ve.
+- **Por qué es ganador:** cohorte 7+/activos **≥28/86 en US** en re-conteo propio (solo se ven 50; el más viejo visible tiene 15 d y hay 36 más viejos sin ver). Tiene 9 fechas de entrega distintas del 08 al 23-11, o sea que sube tandas casi a diario, y vende un SKU por materia. No está en la cola ni en descartados. Hoy apareció un clon que pauta en MXN (Teresa Gomez, «Your science lesson, sorted 🔬», en inglés).
+- **Qué hacer:** modelarlo en italiano («laboratori di scienze senza laboratorio», una pagina = un esperimento) para docentes de secundaria. Destino sugerido: **Italia**. Con ALL hoy no corre nadie, pero hubo 3 testers en agosto-septiembre (The Resource Lab, LabsKids, Scienza in Classe) que ya no siguen: hay que testear barato. La alternativa es México (no sondeado).
+- **Ads Library:** [Lauren Phillips US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1301771929686425&search_type=page&media_type=all) · creativos: [150+ Biology, 08-11](https://www.facebook.com/ads/library/?id=903290329441946) · [150+ Chemistry, 13-11](https://www.facebook.com/ads/library/?id=1164728199223845) · [Sub Plans, 10-11](https://www.facebook.com/ads/library/?id=1801627524245945)
+- **Landing:** embudo no verificado desde la nube: la API no trajo la URL. En la PC hay que verificar el precio, que se entregue en PDF y que la página no muestre la cara de la dueña (el nombre es de persona y escribe en primera persona).
+- Score 2/4 (② 9 fechas, tanda casi diaria · ③ multi-SKU por materia) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Recetario «Cookie Fries» (eBook de galletas en bastones para Thanksgiving y Navidad) — Softbachlab US (+ clon Sasha Michells) · `recetas/ebook-recetas-temporada` · 2026-11-23 · sesión EN
+- **Qué es:** un eBook de recetas de «cookie fries», galletas cortadas como papas fritas para mojar. El ángulo es llevar a la fiesta o al cookie exchange algo que nadie vio, o venderlo («Nobody sells these yet 👀», «The treat that sells out first»). Se descarga al instante. El precio no se ve.
+- **Por qué es ganador:** cohorte 7+/activos **15/63 en US** en re-conteo propio (el más viejo visible es del 14-11, 9 d). Tiene 6 fechas de entrega del 14 al 21-11 y una segunda fanpage del mismo operador desde el 19-11 (Sasha Michells, que no se suma). Es marca sin persona. **Es estacional:** la ventana se cierra en Navidad.
+- **Qué hacer:** modelarlo tal cual: recetario temático corto en PDF, con el ángulo «lo que nadie vende / lo que se agota primero». Destino sugerido: **Italia y México** (`cookie fries` con ALL en IT, MX, FR, RO y PT = 0 anunciantes del rubro: hueco). Solo sirve si sale antes del 05-12; si no, se re-caza en octubre de 2027.
+- **Ads Library:** [Softbachlab US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1325372400666248&search_type=page&media_type=all) · [Sasha Michells US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1326658733867606&search_type=page&media_type=all) · creativos: [eBook · Get ready for Christmas, 14-11](https://www.facebook.com/ads/library/?id=2173108046638184) · [Nobody sells these yet, 14-11](https://www.facebook.com/ads/library/?id=1135809865603935)
+- **Landing:** embudo no verificado desde la nube: la API no trajo la URL. En la PC hay que verificar el precio y el formato.
+- Score 1/4 (③ dos fanpages del mismo operador) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+Señales del día EN (2026-11-23):
+- Music Solved (1465563836630767), re-medición vencida hoy: ≥11/82 en US, con 6 fechas distintas (ya no es una sola tanda como el 16-11). Sigue en observación.
+- The art of tarot: ≥17/305 en US, con 10+ fechas. El clon Sarah Johnson (1350148178193046) tiene 10/29 y suma guías de Cricut y holísticas. Ya está en la cola.
+- Ultimate Life OS: ≥11/≥50 en US (tarjeta del 21-11). Lanzó tandas nuevas: planner de viajes y kits para terapeutas.
+- Alma Oasis: ≥39/94 en US, sigue fuerte. Ya está anotada como red de certificaciones (no PDF), así que no se trae.
+- VA Claims Mastery (1488454677677110): 0/28, una sola tanda. Vende un vault de 520 plantillas de reclamos para veteranos a $47, con lead magnet. Re-medir el 2026-11-30.
+- Embroidize (649312371599291): 9/9 en GB y 9/9 en US (51 d). Vende una suscripción anual a 18.000 diseños de bordado: no es pago único.
+
 EN 2026-11-22 (tarde): domingo de lint, nada que pase la vara; no se barrió nada (re-chequeo del lint de la mañana: nada cambió en la cola EN, 2 fechas alineadas).
 
 EN 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. 8 re-mediciones vencidas pasan al miércoles 25-11; hay 40 tarjetas EN pendientes, y 8 de ellas son de páginas que ya se apagaron o cayeron (This & That, Knitting Art Studio, Sewing Lovers, HookieNest, Honey Home, Pattern Quilt Studio, RootedinFaith, Fingerstyle). Detalle en `RAW/cazas-auto/2026-11-22-en-lint-cola.md`.
