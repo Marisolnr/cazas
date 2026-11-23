@@ -625,6 +625,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Dinâmicas bíblicas» en PDF a R$10 para escuela dominical / ministerio infantil — Professora Giovanna Maria BR · `educacao/atividades-prontas-professores/datas-e-escola-dominical` · 2026-11-23 · sesión BR
+- **Qué es:** un PDF de dinámicas bíblicas para chicos (escuela dominical, culto infantil), a **R$10** (piso, del título del ad). Se compra comentando «EU QUERO» y llega por DM automático.
+- **Por qué es ganador:** cohorte 7+/activos **11/22 en BR**, sin tope (re-conteo propio). Es **un solo creativo duplicado ×22** con tandas escalonadas: 08-10 (**46 d**), 13-10, 23-10, 06-11 ×3 y 15-11 ×5, más tandas del 18 y 20-11 (5 fechas en cohorte, operador vivo). Las sondas de copy dan `PDF`, `dinâmicas` y `bíblicas` en 22/22, y `meu` 0 (no habla en primera persona). La página es «Professora» + nombre: **mirar la cara en la PC**. Es un solo operador.
+- **Qué hacer:** arbitraje de embudo + mercado: el mismo pack («+100 dinâmicas bíblicas listas para usar») con landing y checkout, a 3-4× (≈ 7-9 €). Destino sugerido **Portugal** (validado): con ALL, `dinâmicas bíblicas` en PT solo trae clones brasileños **en español** (Hijos del Rey, Sofía Ramírez, Universo del Saber, Escuela Dominical Creativa), nadie en portugués europeo. Segunda opción **Italia** como «dinamiche per il catechismo»: Prima la Storia y Edulabs son testers de una semana. El hispano no: está saturado de clones brasileños. Ángulo: «la clase del domingo lista en 5 minutos, sin improvisar».
+- **Ads Library:** [BR · Professora Giovanna Maria](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1055696140970465&search_type=page&media_type=all) · [46 d](https://www.facebook.com/ads/library/?id=2299288417504610) · [41 d](https://www.facebook.com/ads/library/?id=1101905922814937)
+- **Landing:** no hay: cierra por comentario y DM. Ficha reconstruida: vende un PDF de dinámicas bíblicas infantiles · precio dicho R$10 (piso) · no se sabe: cuántas dinámicas trae, bonos, garantía ni escalera.
+- Score 2/4 (duplicación ×22; longevidad 46 d escalonada; volumen justo en la vara; embudo n/e) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Kits de presentación de Navidad para la escuela (guion, jogral, canciones y bonequinhos en PDF) — Alfabeteca ABC BR · `educacao/atividades-prontas-professores/datas-e-escola-dominical` · 2026-11-23 · sesión BR
+- **Qué es:** kits en PDF para que la maestra arme el acto de Navidad: «Kit Apresentação Nasceu Jesus», «Natal Iluminado», «Toca, Sininho!», «Jogral A História do Natal», «Bonequinhos de Natal» y un «Combo 3 Kits». El precio no figura en el texto; cierra por comentario «EU QUERO» → DM.
+- **Por qué es ganador:** cohorte 7+/activos **11/30 en BR**, sin tope (re-conteo propio). Es escalonado en **8 fechas**: 19-10 (**34 d**), 21-10, 27-10, 30-10, 31-10, 02-11, 04-11 y 12-11, y hay tandas nuevas del 18 al 22-11 (operador vivo, acelerando hacia la fecha). Las sondas de copy dan `PDF` en 30/30 y `natal` en 25/30 (8 de los 11 en cohorte). La página es una marca, no una persona. Hay un segundo operador débil con el mismo molde: Rebeca Inés – Fácil Painéis, 2/7.
+- **Qué hacer:** modelar el molde, no la fecha: «el acto escolar listo» (guion + jogral + canciones + personajes para imprimir), con landing a 3-4× el piso. Destino sugerido **México** (validado), como «festival navideño escolar listo»: con ALL, `festival navideño` en MX solo trae eventos, disfraces y tiendas, ningún kit digital. Después se clona por fecha (Día de las Madres, fin de curso, Independencia). Italia (`recita Natale`) ya tiene 2-3 testers (Silvia Moretti a 6,90 €, Maestra Elena, Schede Scatto). Ventana estacional: lanzar en días o dejarlo armado para noviembre de 2027.
+- **Ads Library:** [BR · Alfabeteca ABC](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=101185633028753&search_type=page&media_type=all) · [34 d](https://www.facebook.com/ads/library/?id=1693716718947940) · [27 d](https://www.facebook.com/ads/library/?id=1826634201866675) · [combo nuevo](https://www.facebook.com/ads/library/?id=1114817771551375)
+- **Landing:** no hay: cierra por comentario y DM. Ficha reconstruida: vende kits PDF de presentación navideña escolar · precio n/e · no se sabe: precio, qué trae cada kit, si hay audio de las canciones, ni la escalera.
+- Score 2/4 (escalonamiento en 8 fechas; operador vivo; volumen justo en la vara; precio y embudo n/e) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-23)**
+- Estrelinha do Saber (779245358596900): ≥31/50 (tope), pero los títulos son «DE GRAÇA!» ×38 más «+50 Proyectos Biblicos» **en español** ×12 (46 d) desde una cuenta en BRL. Es un gancho gratis sin oferta visible: verificar en la PC.
+- Kadosh Ministério Infantil (1012844268570892): 12/15, 48 d, 9 fechas. Vende «Calendário do Advento» y «Tótens grandes para decoração», y la sonda `PDF` da 0: pinta tienda física; verificar.
+- Bíbliateca Mapeada (145732585284487): 17/81 «BÔNUS LIBERADO!», Biblia mapeada para adultos, fuera del nodo. Entra a la cola como nodo `fe/biblia-mapeada` (virgen).
+- Pequenos com Propósito (1202885042918793): 8/13 «+100/150 Atividades Bíblicas», 46 d. Re-medir 2026-11-30.
+- Tia Ceci (1140831552437520): ≥18/55, toda la cohorte de una sola fecha (16-11). Decoração Sem Complicação (1157534970781745): 10/11 con corte -03, painéis a R$5,99-10. Re-medir los dos el 2026-11-30.
+- Ola de Natal sin cohorte (18-23/11): Pronto pra Imprimir 0/34, Tarefinhas Divertidas 0/23, Deus é Amor 0/20, Mariana Ferraz 0/14. Wesley Moreira 0/79 es marca personal (suscripción R$297/año).
+
 BR 2026-11-22 (tarde): domingo de lint, sin caza ni tarjetas; nada cambió en la cola BR desde la mañana.
 
 BR 2026-11-22: domingo de lint de la cola, sin caza ni tarjetas. Hay 36 tarjetas BR pendientes de revisión (la tabla «Revisiones» sigue vacía) y 9 re-mediciones BR vencidas pasaron al C del martes 24-11 (lista en `RAW/cazas-auto/2026-11-22-br-lint-cola.md`).
