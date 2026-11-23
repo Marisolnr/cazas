@@ -763,6 +763,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-23 06:40 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
 | 2026-11-23 06:36 | BR | B perforar (mañana) | educacao/atividades-prontas-professores/datas-e-escola-dominical | en curso | en curso | en curso |
 | 2026-11-22 18:41 | ES | lint de la cola (domingo, tarde) | — (re-chequeo del lint de las 06:42 contra `origin/main`) | — (sin búsquedas) | nada cambió en filas ES/CO desde la mañana (solo lints BR/EN; `guitarra`/Escuela Fingerstyle alineada al 26-11 por el lint EN, coherente); 0 vencidos sin re-fechar, 0 nodos > 30 d, 0 🟡; lunes 23-11 = C operadores con las 17 re-mediciones de nodos + Digital Shop, Santos En Punto, Flavia da Silva Araujo, Amigurumi Terapia; próximo B: `manualidades/patrones-pdf/goma-eva-fieltro` | sin cambios de estado |
 | 2026-11-22 18:37 | EN | lint de la cola (domingo, tarde) | — (re-chequeo del lint de las 06:38 contra `origin/main`) | — (sin búsquedas) | nada cambió en filas EN/US/GB desde la mañana (solo lints ES/BR); 0 nodos > 30 d, 0 🟡; 2 filas de nodo con fecha vieja alineadas (`visual-ilustrada` → 12-05, `guitarra`/Escuela Fingerstyle → 11-26); vencen 23-11 Fingerstyleguitarschool, Nonna Sweets · The art of tarot · Presence College, Music Solved, `cosmetica-natural-recetas`; próximo B: `negocios/guias-management-pdf` | sin cambios de estado |
