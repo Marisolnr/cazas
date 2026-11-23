@@ -28,3 +28,4 @@
 - 2026-11-21 18:55 EN (tarde): conflicto de rebase en `cazas/cola.md` (bitácora) y `log.md` con BR/ES, resuelto conservando las dos versiones; 1 consulta `page_ids` + `reading` falló con error de la API (reemplazada por `phonics`).
 - 2026-11-21 18:45 ES (tarde): la API de la Biblioteca falló 4 veces de forma intermitente («Ad Library search failed»); todas salieron al reintentar.
 - 2026-11-22 06:36 BR (mañana): el clon arrancó con HEAD desprendido y `main` local viejo (17-11) tras «forced update» de origin/main; el push «en curso» se rechazó 3 veces y se resolvió con `git checkout -B main <commit propio>` + pull --rebase + push, sin force.
+- 2026-11-23 06:40 EN (mañana): conflicto de rebase en `cazas/cola.md` (bitácora: línea «en curso» de ES insertada encima de la de EN); resuelto conservando las dos.
