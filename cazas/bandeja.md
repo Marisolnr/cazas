@@ -1241,6 +1241,14 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-23 (tarde): nada que pase la vara; se barrió foami genérico, fofuchas, fieltro, navideño en foami, decoración de aula y flores/fiestas en goma eva (30 kw × CO/ES).
+
+**Señales del día ES (2026-11-23, tarde · B perforar `goma-eva-fieltro`)**
+- Elena Río (1389863360871936): sigue en **CO 15/15 · ES 11/11** (50,7 d). Sale con `moldes fieltro`, pero sus 15 ads dicen `moldes` y `tamaño real`, 10 dicen `PDF` y 9 `tela`, y ninguno `fieltro`: es la misma oferta de bordado que ya tiene tarjeta (20-11 tarde).
+- Foami y goma eva en CO/ES = cementerio: la ola de 2025 está apagada (`moldes fomi` ES: 59 ads con ALL, 0 activos). Solo queda Mundo Creativo, 5/9 CO=ES («Pack +2000 Moldes de Goma Eva», 39 d).
+- Ola navideña de fieltro sin cohorte: Feltprofit 0/32 CO·ES («Taller de Libros de Fieltro™»), Lena Braun 0/29 en moldes («Moldes De Navidad», «200+ Aldea Navideña»), Camila Navarro, Casa Fieltro y Mundo Fieltro. Re-medir el 2026-11-30.
+- Formativa Digital Pro (927289300475651): CO 11/11 (95 d), pero sin ads en los últimos 30 días (posible zombi) y con WA «Hablar con un asesor» sin oferta en el copy.
+
 ### 🎯 «Recetas de cosmética natural»: ebooks + app con 6 bonos — La botánica de Angélica CO·ES · `hogar/cosmetica-natural-recetas` · 2026-11-23 · sesión ES
 - **Qué es:** colección 100% digital de recetas para hacer cosmética natural en casa: ebooks + app, «+6 bonos de regalo», «Ebooks + App con 50% OFF». Ganchos: «Dejá de acumular recetas que nunca hacés», «Las recetas de la abuela, en tu celular», «+2.223 mujeres ya comenzaron». Copy en voseo (operador AR), cobra en USD. La API no muestra el precio.
 - **Por qué es ganador:** cohorte 7+/activos **CO 26/50** (51 est.) y **ES 22/50** (55 est.) en un solo page_id. El ad activo más viejo lleva **112 d** (03-08) y hay 16 fechas de creación, la última del 22-11 (operador vivo, sube tandas cada 2-3 días). Es el operador hispano del molde que en GB corre The Beauty Crafts (tarjeta EN 16-11). Los clones de 0-2 d del 16-11 (Valentina Ríos, Cosmética Viva) no aparecen hoy en CO/ES.
