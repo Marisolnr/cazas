@@ -26,6 +26,24 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Sistema de «verse mapping» para estudiar la Biblia (journal $30 / PDF imprimible $12.99) — The James Method US · `planners-imprimibles-2027/fe-oracion` → `escritura-verse-mapping` · 2026-11-24 · sesión EN
+- **Qué es:** un método para estudiar la Biblia versículo por versículo («Finally Know How to Study Your Bible», «Understand the Bible, Not Just Read It»). Lo venden como journal de lino con 70 plantillas a **$30** (tachado $40) y como **PDF imprimible a $12.99** (instrucciones + 15 plantillas + hojas de notas + plan «Promises from God»). Los ads empujan el journal.
+- **Por qué es ganador:** cohorte 7+/activos **25/25 en US** en re-conteo propio, en 3 tandas que siguen todas vivas: 26-08 (8 ads, **89 d**), 04-10 (7 ads, 50 d) y 26-10 (10 ads, 28 d). Es decir, no apagó nada de lo que subió. Marca sin rostro («Created by a Bible study expert», «Trusted by over 100,000 believers»); un solo operador.
+- **Qué hacer:** FÍSICO→PDF: modelar el método como kit imprimible (plantillas de mapeo + guía de 1 página + planes temáticos de 30 días). Ángulo: «dejá de leer la Biblia como una novela: entendé un versículo por día», más la variante madre-hijo adolescente («Teach Them to Study, Not Fill Blanks»). Destino sugerido: **Canadá / Australia** en inglés, sin traducir; con ALL, `verse mapping` en CA/AU/IE/NZ/ZA no tiene a nadie con el método. Segunda opción, **México** («mapeo de versículos»): ahí el estudio bíblico lo corren operadores BR en español, pero ninguno con este formato.
+- **Ads Library:** [The James Method US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=106893857806544&search_type=page&media_type=all) · creativos: [«What If Today Is the Day You Finally Start?» ×5](https://www.facebook.com/ads/library/?id=1040513545543043) · [«Start Verse Mapping with Purpose»](https://www.facebook.com/ads/library/?id=2253049572209186)
+- **Landing:** [PDF $12.99](https://thejamesmethod.com/products/digital-verse-map-journal-pdf) · [journal $30](https://www.thejamesmethod.com/products/new-colors-verse-map-journal-1) (Shopify; también se vende en retail cristiano). Ojo: el volumen valida sobre todo el journal físico, no el PDF.
+- Score 2/4 (① 89 d · ④ CA/AU con ALL) · Decisión: —
+- Evidencia: API; embudo verificado por WebFetch (landing hallada por búsqueda web, la API no trae link); snapshot no verificado desde la nube (longevidad por API).
+
+Señales del día EN (mañana, 2026-11-24):
+- GraceBased (814288615100841): ≥49/≥50 en US (est. 400 activos), ads de hasta 67 d. Devocional para mujeres «365 Invitations to Rest in God» con ángulo de regalo navideño («The Devotional on Her Nightstand»): casi seguro un libro físico. Pasa el volumen, pero el formato y la landing no se pudieron ver desde la nube: verificar en la PC.
+- RootedinFaith (tarjeta del 11-11): ≥17/≥50 en GB (41 d, 14 fechas) y ≥7/≥50 en US, con Black Friday al 62 %. Sigue viva.
+- Theresa Callahan (1335822749617721): 50/≥50 en US, pero 37 de los 50 títulos son «American Red Cross» y 13 son «You are reading the Bible wrong..». Página-persona multinicho con el producto invisible.
+- Ash & Parchment (597871170067189): 8/20 en US con «Scripture-Based Prayers for Difficult Seasons» (guerra espiritual), 4 fechas en 14 d. Re-medir el 2026-12-01.
+- Clase PDF con 8 de cohorte: Bible Dst (Biblia PDF interactiva, 8/21 US, 42 d), Sacred Luminary (guía navideña de 48 p. a $33, 8/11 US) y Printable WITH Lisa («66 libros explicados» a $17.98, 8/33 US · 8/36 GB).
+- Adviento en inglés: lo corren operadores BR (Agencia Grow Traffic «Advent Bible Kit desde $9.97», Catholic Essence). `jesse tree printable` en GB ya se apagó (14 ads del 19-10 al 19-11).
+
+
 ### 🎯 «The Artist Management Toolkit» (125+ plantillas para managers de artistas musicales) — SmartistU US·GB · `negocios/guias-management-pdf` → `musica/plantillas-manager-artistas` · 2026-11-23 (tarde) · sesión EN
 - **Qué es:** un kit de más de 125 plantillas para gestionar la carrera de un artista o banda («Get 125 Templates For Managing Artists», «Used by 8,000 artists & managers worldwide», «Artist Manager Tools - 2026 Update»), hoy en oferta («On Sale»). El precio y el formato (PDF, Excel o Notion) no se ven en los ads.
 - **Por qué es ganador:** cohorte 7+/activos **50/50 en US** en re-conteo propio (es un piso: hay 51 estimados) y **34/34 en GB**. El ad más viejo lleva **255 días** en US (desde el 14-03) y ~400 en GB. Tiene 19 fechas de entrega con cohortes escalonadas a 13 · 17 · 70-80 · 125 · 150-175 · 255 días, y el último ad nuevo es del 10-11. El mismo título se repite 13+ veces · página de marca, sin persona · un solo operador.
