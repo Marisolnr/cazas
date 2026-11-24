@@ -26,6 +26,24 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Bundle de plantillas para tablets e-ink («15 Planners in One Bundle», $39.97) — Methodyco US · `planners-imprimibles-2027/digital-tablet` → `e-ink` · 2026-11-24 (tarde) · sesión EN
+- **Qué es:** archivos de plantillas y planners para reMarkable, Kindle Scribe y otras tablets («Own a reMarkable? Now plan on it.», «Your Kindle Scribe planner, built», «Download. Import. Plan.»). Vende un bundle de 15 planners para trabajo y vida, con más de 65 plantillas, a **$39.97** en un solo pago. Hay variantes por uso: notas de reuniones con acciones, trabajo-casa-presupuesto y «Life Bundle $25.97».
+- **Por qué es ganador:** cohorte 7+/activos **≥17/101 en US**. Es un piso: la API muestra 50 de 101, y la tanda «Notes. Actions. Follow-up.» del 16-17/11 tiene 14 ads, todos vivos. Creó ads en 7 fechas en 17 días (07, 08-09, 16, 17, 19, 20 y 24-11), así que el operador está vivo y escalando. El ad más viejo tiene **17 días**, o sea, longevidad todavía corta. Marca sin rostro, factura en EUR (operador europeo) y no pauta en GB.
+- **Qué hacer:** modelarlo en español como «Kit de planners para tu tablet» (diario, semanal, reuniones→acciones, proyectos, presupuesto), en PDF hipervinculado compatible con reMarkable, Kindle Scribe, iPad y Android. Ángulo: «pagás una vez y tu tablet deja de ser un cuaderno caro». Destino sugerido **México**: con ALL, `plantillas remarkable` en MX/CO/AR/CL/PE trae un solo jugador (Luna Noire, una tanda de septiembre). En inglés no: CA/AU/IE/NZ (RMKLY, SlateFlow, PlanPro) y DE/IT/FR/NL (A2digitalstore, Planner Haus, Bureau Up) están ocupados. Riesgo: en LatAm hay pocas tablets e-ink, por eso conviene abrir el ángulo a cualquier tablet.
+- **Ads Library:** [Methodyco US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1513329658523239&search_type=page&media_type=all) · creativos: [«Notes. Actions. Follow-up.» ×14](https://www.facebook.com/ads/library/?id=1122954704067809) · [«Own a Kindle Scribe? Now plan on it.»](https://www.facebook.com/ads/library/?id=1468172495419029)
+- **Landing:** no verificada desde la nube: la API no trae link y la búsqueda web no encontró la tienda. Verificar en la PC el precio, el formato (¿PDF?) y si hay upsells.
+- Score 2/4 (② 101 activos en 7 fechas · ④ hispano con ALL) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+Señales del día EN (tarde, 2026-11-24):
+- The EaseUp Planners (1194131877121706): 50/50 en la muestra de US (122 estimados), todos de 7+ días, pero creados en solo 2 fechas (10 y 15-11). Antes relanzaba todo cada semana: posible zombi o relanzador. Tampoco se sabe si es un planner digital o un cuaderno reutilizable. Re-medir el 2026-12-01 y verificar el formato en la PC.
+- Ultimate Life OS (tarjeta del 21-11): ≥26/50 en US y ≥27/50 en GB, 78 días, con un ad nuevo el 24-11. Sigue sumando productos (Notion a $9, kits de Canva).
+- Ultimate Notion Planner (425210960671076): 12/15 en US y 11/14 en GB. Bajó desde 27/27 y lleva 28 días, con un ad nuevo el 19-11. Probable hermana de Cosmo Studio (tarjeta del 12-11).
+- Posibles zombis: Templation.io (22/22 en US, 58 días, EUR) y Her Notion Planner (17/17 en US y GB). Ninguno subió ads en 30 días o más.
+- OnePercent (478000702065896): 12/24 en GB, 69 días, con un «Black Friday Bundle» del 24-11. La API no muestra el producto: verificar en la PC.
+- Re-medir PlanPro Template (562195586966402, reMarkable, AUD) el 2026-11-25, cuando 5 de sus ads cumplen 7 días. RMKLY (468755899654132) da ≥8 sobre ~118 en US, con 42 ads de Black Friday.
+- Lanzamientos de Black Week sin cohorte: MäksēLife (~180), Softia, Happymondayplanners, VeyloElite y Simple Planner Co (1/15). Simple Planner Co usa fan art de Stardew Valley, lo que es un riesgo de propiedad intelectual.
+
 ### 🎯 Sistema de «verse mapping» para estudiar la Biblia (journal $30 / PDF imprimible $12.99) — The James Method US · `planners-imprimibles-2027/fe-oracion` → `escritura-verse-mapping` · 2026-11-24 · sesión EN
 - **Qué es:** un método para estudiar la Biblia versículo por versículo («Finally Know How to Study Your Bible», «Understand the Bible, Not Just Read It»). Lo venden como journal de lino con 70 plantillas a **$30** (tachado $40) y como **PDF imprimible a $12.99** (instrucciones + 15 plantillas + hojas de notas + plan «Promises from God»). Los ads empujan el journal.
 - **Por qué es ganador:** cohorte 7+/activos **25/25 en US** en re-conteo propio, en 3 tandas que siguen todas vivas: 26-08 (8 ads, **89 d**), 04-10 (7 ads, 50 d) y 26-10 (10 ads, 28 d). Es decir, no apagó nada de lo que subió. Marca sin rostro («Created by a Bible study expert», «Trusted by over 100,000 believers»); un solo operador.
