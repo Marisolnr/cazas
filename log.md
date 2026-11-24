@@ -129,3 +129,4 @@
 ## [2026-11-23] caza-auto | EN B perforar negocios/guias-management-pdf (tarde) → 2 candidatos a bandeja
 
 ## [2026-11-23] caza-auto | ES B perforar manualidades/patrones-pdf/goma-eva-fieltro (tarde) → 0 candidatos a bandeja
+## [2026-11-24] caza-auto | BR C operadores → 2 candidatos a bandeja

@@ -625,8 +625,9 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Bíbliateca Mapeada | 145732585284487 | BR | 17/81 el 2026-11-23 (Biblia mapeada adultos, «BÔNUS LIBERADO!»); semilla del nodo `fe/biblia-mapeada`; 2026-11-23 tarde: ≥14/54, más viejo 9 d, 30 ads de hoy; re-medir 2026-11-30 |
 | Bíblia Memorização | 566901007033163 | BR | tarjeta BR del 2026-11-23 (tarde): método/curso para memorizar la Biblia, 42/50 (57 est.), 53 d, 3 fechas; re-medir 2026-12-07; clon IT «Memorizza la Bibbia – Il Codice Biblico» (1526142037242653) |
 | Conexão Diária | 1188729467664138 | BR | tarjeta BR del 2026-11-23 (tarde): Bíblia explicada PDF R$12,90-15,90 por WA «paga após receber», 21/21, 75 d, 8 fechas, sin tandas en noviembre; re-medir 2026-12-07 |
-| Arsenal Católico | 710012945518350 | BR | 14/20 el 2026-11-23, 59 d, 7 fechas (ebooks de apologética católica); candidato próxima corrida; re-medir 2026-11-30 |
-| 52 Estudos Bíblicos para Homens | 1365624093309422 | BR | 29/32 el 2026-11-23, más viejo 16 d, 8 fechas; re-medir 2026-11-30 |
+| Arsenal Católico | 710012945518350 | BR | 14/20 el 2026-11-23, 59 d, 7 fechas (ebooks de apologética católica); 2026-11-24: 14/20, 59,7 d, `PDF` 20/20, `frete` 0 → tarjeta BR (destino MX, hueco con ALL); re-medir 2026-12-01 |
+| Fé Adventista | 1364603320075996 | BR | 26/35 el 2026-11-24 (25,9 d, 3 fechas), «BAIXE AGORA!», sondas `sermões` 35/35 y `PDF` 0: sermones listos, formato n/e; candidato del próximo C; re-medir 2026-11-27 |
+| 52 Estudos Bíblicos para Homens | 1365624093309422 | BR | 29/32 el 2026-11-23, más viejo 16 d, 8 fechas; 2026-11-24: 27/29, 17,3 d, 6 fechas, `PDF` 29/29 → tarjeta BR (destino PT); clon propio en español «52 Estudios Bíblicos para Hombres» 1516399538213219 (~30 ads MX·CO·AR·PE·CL·GT desde 18-11); re-medir 2026-12-01 |
 | João – Livros Digitais | 1086305591238947 | BR | 0/27 el 2026-11-23 («O mapa da Bíblia, 66 livros em 66 páginas»); re-medir 2026-12-03 |
 | Pequenos Leitores | 1196621566868514 | BR | 12/35 el 2026-11-09 con hueco de 2 meses; el 2026-11-10 se apagó (4/4, ahora «Leitura Descomplicada», sin ads en 70 d): bajar a mensual |
 | Atividades infantil | 265589206630616 | BR | ≥27/233 el 2026-11-10 (destapada con `search_terms`), ad de 42 d; cierra por mensajes sin oferta visible: verificar en la PC (y que no sea neurokids) |
@@ -819,7 +820,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-24 06:36 | BR | C operadores (mañana) | — (operadores BR) | en curso | en curso | en curso |
+| 2026-11-24 06:36 | BR | C operadores (mañana) | — (operadores BR: re-mediciones vencidas y de la semana 24-30/11) | 55 page_ids × BR (3 subagentes de lectura) + re-conteo propio de 3 + 7 sondas `search_terms` sobre página + 4 controles de destino con ALL (hispano ×2, IT, PT) | 2 tarjetas (Arsenal Católico, 52 Estudos Bíblicos para Homens), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (Fé Adventista); sin page_id para Estante, Mundo do Aço, Campo Vibracional, Guia dos Desorganizados → próximo C (27-11) |
 | 2026-11-24 06:45 | ES | A huella (mañana) | — (huella, CO ES) | en curso | en curso | en curso |
 | 2026-11-23 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf/goma-eva-fieltro | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 11 ceros; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de Elena Río con 10 sondas y de Lena Braun) | 0 tarjetas, 4 señales | profundo; 6 hijos superficial; re-medir fieltro/Lena Braun 2026-11-30 |
 | 2026-11-23 18:38 | EN | B perforar (tarde) | negocios/guias-management-pdf | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 2 ceros + 6 sondas de destino (hispano ×3 con ALL, anglo/EU, IT con ALL); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2); virgen `plantillas-reclamos-veteranos` salteado (re-medición fechada 30-11, mercado VA sin destino) | 2 tarjetas (SmartistU, Planuppro), 7 señales | profundo, con 6 hijos superficial + 2 nodos nuevos superficial; 3 operadores a seguir; 1 fila de trampas |

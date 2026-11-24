@@ -652,6 +652,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Ebooks de apologética católica en PDF («Não seja um Católico de IBGE», «Resposta Católica») — Editora Arsenal Católico BR · `fe/biblia-mapeada` (operadores) · 2026-11-24 · sesión BR
+- **Qué es:** libros digitales para que el católico de a pie sepa defender su fe: «Não seja um Católico de IBGE» y «Resposta Católica – aprenda a responder os ataques protestantes com clareza». Las sondas de copy dan `PDF` 20/20 y `frete` 0, así que es digital, no impreso. El precio no figura en el texto.
+- **Por qué es ganador:** cohorte 7+/activos **14/20 en BR**, completa (re-conteo propio). Es escalonado en **5 fechas**: 25-09 (**59,7 d**), 06-10, 08-10, 27-10 y 06-11, con tandas nuevas el 18 y el 19-11 (operador vivo). Usa 2 creativos: «Católico de IBGE» ×15 (10 en cohorte) y «Resposta Católica» ×5 (4). La página es una «Editora», no una persona. Es un solo operador.
+- **Qué hacer:** modelar el ángulo «el católico que no sabe responder» como pack PDF (apologética básica + respuestas a las 20 objeciones protestantes más comunes), con landing a 3-4× el piso. Destino sugerido **México** (validado): con ALL, `apologética católica` en MX/CO/AR/PE/CL no trae ningún ebook de apologética, solo un curso de teología con cara (Julia alves) y advertoriales («Si eres católico y tienes hijos»). Segunda opción **Italia**: `apologetica cattolica` trae solo una persona (Matteo Castagna) y advertoriales, ningún PDF.
+- **Ads Library:** [BR · Arsenal Católico](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=710012945518350&search_type=page&media_type=all) · [59,7 d](https://www.facebook.com/ads/library/?id=1103483022404347) · [Resposta Católica 48,6 d](https://www.facebook.com/ads/library/?id=2285845418880091)
+- **Landing:** embudo no verificado desde la nube (la API no da la URL): verificar en la PC el precio, cuántos libros trae y la escalera antes de decidir.
+- Score 3/4 (longevidad 59,7 d en 5 fechas; duplicación ×15; hueco MX; volumen moderado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 «52 Estudos Bíblicos Prontos» para hombres en PDF (uno por semana del año) — 52 Estudos Bíblicos para Homens BR · `fe/biblia-mapeada/pregacao-estudos-prontos` (operadores) · 2026-11-24 · sesión BR
+- **Qué es:** 52 estudios bíblicos listos para usar, pensados para hombres (grupo de varones, célula, estudio personal): uno por semana del año. La sonda `PDF` da 29/29. El precio no figura en el texto.
+- **Por qué es ganador:** cohorte 7+/activos **27/29 en BR**, completa (re-conteo propio). Arrancó el 07-11 (**17,3 d**) y escaló en **6 fechas** (07, 09, 10, 12, 13 y 15-11), con 2 ads nuevos el 20-11: tandas de 3-6, operador vivo. Es un solo creativo duplicado ×29. La página tiene nombre de producto, no de persona. **Ya lo clonó él mismo al español** («52 Estudios Bíblicos para Hombres», ~30 ads en MX·CO·AR·PE·CL·GT desde el 18-11): señal de que en BR le rinde.
+- **Qué hacer:** modelar el formato «52 estudios listos, uno por semana» para un público acotado (hombres). Destino sugerido **Portugal** (validado): con ALL, `estudos bíblicos homens` en PT no trae a nadie con estudios para hombres, solo iglesias, un PDF de los 66 libros y embudos de WhatsApp. El hispano no: ya está el clon del propio operador. Después se clona por público (mujeres, parejas, jóvenes).
+- **Ads Library:** [BR · 52 Estudos](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=1365624093309422&search_type=page&media_type=all) · [17,3 d](https://www.facebook.com/ads/library/?id=1129563206363990) · [clon en español](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1516399538213219&search_type=page&media_type=all)
+- **Landing:** embudo no verificado desde la nube (la API no da la URL): verificar en la PC el precio, el formato de cada estudio y si hay bonos.
+- Score 2/4 (duplicación ×29 en 6 fechas; hueco PT; longevidad solo 17 d; volumen moderado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-24)**
+- Fé Adventista (1364603320075996): 26/35, 25,9 d, 3 fechas, título único «BAIXE AGORA!». Sondas: `sermões` 35/35 y `PDF` 0, así que vende sermones listos en un formato no confirmado. Pasa la vara y quedó afuera por el tope de 2: candidato del próximo C.
+- Facilitaê Digital (1171932599334530): ≥38/60 en 7 fechas (USD), un catálogo de moldes PDF a R$3,99-5,90. La cohorte está repartida y ningún SKU llega a 10.
+- Biblioteca do Corte (1273210592538710): ≥42/50, 65 d, 8 fechas, pero el título es solo «⭐ 4.9/5.0» y el producto no se ve: verificar en la PC.
+- Revistinhas Lucrativas (948495681689857): 20/20 a 74,6 d, pero sin ads nuevos en 27 d: va camino a zombi.
+- Mariane da Silva (845386025334212): ≥43/90 y con ads de hoy: revivió, ya no es posible zombi.
+- Bajaron de la vara: Professora Giovanna Maria 5/19 (tarjeta del 23-11) y Tia Juliana 9/24. Clube do Devocional relanzó todo (0/19, «Cantata de Natal Pronta» por WA).
+
 ### 🎯 «Aprenda a memorizar a Bíblia»: método/curso grabado para memorizar la Biblia — Bíblia Memorização BR · `fe/biblia-mapeada` · 2026-11-23 (tarde) · sesión BR
 - **Qué es:** un método para memorizar la Biblia («de um jeito fácil»). Las sondas de copy dan `método` 46/57 y `curso` 43/57, con `PDF`, `ebook`, `aplicativo`, `aulas` y `ao vivo` en 0: pinta mini-curso grabado. El precio no está en el texto; vende por «Saiba mais» → landing.
 - **Por qué es ganador:** cohorte 7+/activos **42/50 en BR** (57 est.; tope de 50 = piso; re-conteo propio). Arrancó el 01-10 (**53 d**, 7 ads siguen vivos), escaló con 35 ads el 11-11 y sumó 8 el 17-11: 3 fechas, operador vivo. Es un solo creativo duplicado ×43. La página tiene nombre de producto, no de persona. Es un solo operador en BR.
