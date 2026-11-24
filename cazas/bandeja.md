@@ -1320,6 +1320,15 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Pack +25 Agendas 2027 listas para imprimir» (para revender) — Agendas Imprimibles CO·ES · `manualidades/patrones-pdf/papercraft-fiesta/papeleria-negocio` · 2026-11-24 (tarde) · sesión ES
+- **Qué es:** pack digital de 25 agendas 2027 listas para imprimir y encuadernar, vendido a quien quiere revenderlas en su papelería («¿No sabes qué vender? Agendas 2027», «Una agenda para cada clienta», «De archivo digital a agenda terminada (paso a paso)»). Tiene un upsell mensual, el «Club Imprimible», y un canal de WhatsApp gratis para captar. Cobra en MXN; la API no muestra el precio.
+- **Por qué es ganador:** cohorte 7+/activos **CO 25/29** y **ES 20/24** en un solo page_id; unos 14 de la cohorte son del pack de agendas, más 6 sin título. Hay 8 tandas (24-08, 23-09, 14-10, 16-10, 17-11, 18-11, 20-11 y 22-11) y el ad más viejo tiene 92 días: el operador sigue subiendo ads y no apaga los viejos. Página fantasma. Cuidado: 11 de los 25 ads cumplen hoy justo 7 días.
+- **Qué hacer:** modelar tal cual: «kit agenda 2027 para imprimir y vender», con 25 diseños, guía de encuadernado y precios sugeridos de reventa, en PDF, y un club mensual como escalón siguiente. Destino sugerido **Grecia o Hungría**, todavía sin medir. Italia, Rumania y Portugal ya tienen el molde de una red europea: en IT, Stampa, Rilega e Vendi («Kit Completo 2027 · 5.000+ file», 16,90 €, unos 30 ads desde octubre); en RO, Caiet Frumos («Kitul Agendei 2027», 15,90 €); en PT, Rowan House Press. Ángulo: «el producto que tus clientas compran en diciembre». La ventana es estacional y cierra en enero.
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=637552659437337&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=637552659437337&search_type=page&media_type=all) · [MX](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=637552659437337&search_type=page&media_type=all) · los más viejos: [70 diseños (23-09)](https://www.facebook.com/ads/library/?id=928392293250746) · [25 diseños en un pack (16-10)](https://www.facebook.com/ads/library/?id=1103647832422237) · [El precio por agenda te va a sorprender (16-10)](https://www.facebook.com/ads/library/?id=1901409727486499)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta saber el precio, si el pack es PDF o plantillas de Canva y cuánto cuesta el Club Imprimible.
+- Score 1/4 (la longevidad de 92 días suma; volumen 25 < 50; duplicación chica, con 2 títulos ×2; el hueco en destino no está confirmado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
 ### 🎯 «Tu guía de cortes siempre a mano»: guía de cortes de cabello paso a paso — Estilismo Con Propósito CO·ES · `belleza/guia-cortes-peluqueria` · 2026-11-24 · sesión ES
 - **Qué es:** guía digital de cortes de cabello para consultar «siempre a mano», un solo producto con creativos rotados (título idéntico en los 50 ads visibles). El clon Viana Laurent la vende como «+150 cortes femeninos paso a paso» y Aprende y Crece (MX, de hoy) como «80 cortes paso a paso, una página por corte». Cobra en USD. La API no muestra el precio ni si es PDF o app.
 - **Por qué es ganador:** cohorte 7+/activos **CO 38/50** (85 est.) y **ES 35/50** (89 est.) en un solo page_id; los dos son piso (tope de 50). Siete tandas: 06, 07, 08, 09, 14, 21 y 24-11, la última hoy (operador vivo, deja vivas las viejas). Ad más viejo visible: 18 d. Página fantasma, sin persona. Dos operadores más ya la copian.
@@ -1337,6 +1346,16 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 - **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, el formato (PDF, videos o app) y qué trae cada clase.
 - Score 1/4 (hueco IT con ALL; longevidad 20 d, volumen 10 y duplicación baja no llegan) · Decisión: —
 - Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
+**Señales del día ES (2026-11-24, tarde · B perforar `papercraft-fiesta`)**
+- Crea&emprende online (613506495180789, no es la Crea y Emprende del 09-11): **CO 18/21 · ES 18/21**, 6 tandas desde el 30-10, todo por WA/Messenger («Chatea con nosotros», «Habla con un asesor», «Incluye plantillas de practica»). Pasa el volumen, pero sin copy no se ve la oferta: parece un curso de papelería con asesor. Verificar en la PC.
+- Manualidades Idearte: CO 14/17 (15/17 el 21-11). Sigue estable, con cursos con certificado por WA.
+- Papeleria Digital (1286871437843547, USD): CO=ES 17/17, pero en 2 fechas (24-10 y 03-11), con un título único «4.9/5» y el producto invisible. Posible zombi.
+- Elizabeth Colombia CO 12/12 en tres ofertas de 4 (una es invitaciones XV editables a $11.900 COP) · Crea Con Vivi Glow CO 10/10 (7 son «+500 plantillas Canva»): ninguna llega a 10 con una sola oferta.
+- Luna de Papel (casitas de papel) CO 9/9 · ES 6/6, todo de un lote del 09-11. Re-medir el 01-12.
+- Lena Braun: ≥50 en CO y ES, todo del 20 al 23-11 («200+ Aldea Navideña», moldes de Navidad y otros nichos). Re-medir el 01-12.
+- Lanzamientos: Topos de Luxo («+85.000 diseños para cake toppers», 24-11) y Papelaria Creativa («+200 moldes Canva + letras 3D», US$9.90). Ambos son operadores BR vendiendo en español.
+- Papercraft 3D: cementerio en CO/ES. En ALL hay 340-364 ads (Pack Maestro +3.500 moldes, dinosaurios 3D, «cuesta $2, se vende a $20»), todos de abril a agosto, y hoy no queda ninguno activo.
 
 **Señales del día ES (2026-11-24, mañana · A huella)**
 - Silvia Menéndez (111642171338135): **ES 39/39 · CO 40/40** (179 d), kit de plantillas para escribir un libro («Escribe tu libro paso a paso», «Descarga tu Kit»). Pasa el volumen, pero la página es un nombre de persona metido en el título: probable marca personal, verificar la cara en el [snapshot de 179 d](https://www.facebook.com/ads/library/?id=3390261887802411).
