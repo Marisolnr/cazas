@@ -429,6 +429,8 @@ los nichos que emergen.
 | idiomas/mapas-ilustrados-it | idiomas | EU | virgen | 2 kw IT (`guida pdf`, `mappe illustrate`) · 2026-11-17 | apareció por huella el 2026-11-17: Francese Illustrato 0/7, Spagnolo Illustrato 1/10, German Grammar Made Visual (DE) sin contar |
 | hogar/planner-limpieza-eu | hogar | EU | virgen | 2 kw (`accès immédiat` FR, `accesso immediato` IT) · 2026-11-17 | apareció por huella el 2026-11-17: Clara Zuhause 4/25 FR (FR/IT); hermano EN `hogar/planner-limpieza` |
 | manualidades/patrones-costura-fr | manualidades | EU | virgen | 1 kw FR (`accès immédiat`) · 2026-11-17 | apareció por huella el 2026-11-17: La Bible des Patrons 5/21 FR (18 d); Il Giardino delle Intenzioni IT 0/6 (60 patrones); re-medir 2026-11-24 |
+| belleza/guia-cortes-peluqueria | belleza | ES | superficial | 2 kw (`guía rápida` CO/ES) + sondas destino `guida tagli parrucchieri` IT (ALL), `tagli capelli` IT, `guía cortes` MX · 2026-11-24 | apareció por huella el 2026-11-24: Estilismo Con Propósito CO 38/50 · ES 35/50 (tarjeta), clones Viana Laurent 2/16 y Aprende y Crece MX; IT casi vacío (Haircut Atlas 4 ads oct.); perforar en modo B (barbería, colorimetría, peinados de novia, estudiantes) |
+| deportes/planes-clases-yoga-pilates | deportes | ES | superficial | 1 kw (`planificador digital` CO/ES) + sondas destino `lezioni pronte yoga` IT, `lezioni yoga` IT, `clases yoga listas` MX, `clases yoga` MX (ALL) · 2026-11-24 | apareció por huella el 2026-11-24: Impulsar Digital 10/23 ES=CO (tarjeta, SKU pilates nuevo); FR Elsa Rivière 7/12 (app); IT/MX solo anatomía para profes; perforar (pilates, zumba/aeróbicos, yoga infantil, stretching adultos mayores) |
 
 ---
 
@@ -437,6 +439,7 @@ los nichos que emergen.
 Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 
 | Keyword / patrón | Por qué falla | Qué usar |
+| `acceso de por vida` / `guía paso a paso` / `calendario 2027` / `agenda 2027` / `curso PDF` (CO/ES, huella) | short-dramas y novelas (>80 %), colegios, «agenda tu cita», impresos, academias y marcas personales; `100 plantillas` / `incluye bonos` / `imprimir en casa` (CO) dan volumen de 0-3 d sin cohorte | `guía rápida`, `planificador digital`, `formatos Excel` (CO), `plantillas Word` (ES), `moldes PDF`, `libro PDF` |
 | `Daniel fast` · `21 day fast` · `Daniel fast recipes` · `war room prayer` · `praying for my husband` · `pray for your children` · `praying for grandchildren` · `memorize scripture` (EN, 2026-11-24) | el matcher toma tokens comunes: novelas, short-dramas, gimnasios, suplementos, anunciantes «Daniel»; las comillas no cambian nada | `prayer cards printable`, `prayer journal pdf`, `verse mapping`, `spiritual warfare prayers`, `fasting prayer guide`, `jesse tree printable` |
 | `fieltro navideño`, `libro fieltro` (ES) | árboles y libros de fieltro físicos (Aldi, Hogariva, Velora) | `moldes fieltro`, `patrones fieltro` |
 | `navidad goma eva` (CO/ES), `fofuchas goma eva` (ES, ALL) | go-kart, kumihimo, bolas físicas en €, Alibaba | `moldes goma eva`, `moldes foami` |
@@ -588,6 +591,10 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 | Operador | page_id | País | Por qué se lo sigue |
 |---|---|---|---|
+| Estilismo Con Propósito | 1341320769058929 | CO · ES | guía de cortes de cabello «siempre a mano», CO 38/50 · ES 35/50 (piso, 85-89 est.), 7 tandas 06-24/11, tarjeta ES 2026-11-24; clones Viana Laurent (1382592458274972) y Aprende y Crece (1523221690866931, MX): re-medir 2026-12-01 |
+| Impulsar Digital | 1282636054941712 | ES · CO | 52 clases de yoga listas para dar, 10/23 justo en la vara (20 d), abrió SKU pilates el 24-11; tarjeta ES 2026-11-24: ¿crece la cohorte o se apaga? re-medir 2026-12-01 |
+| Silvia Menéndez | 111642171338135 | ES · CO | kit de plantillas para escribir un libro, ES 39/39 · CO 40/40 (179 d); probable marca personal (nombre en el título): verificar cara en la PC, quincenal |
+| Atril Estudio | 1282575998279080 | ES · CO | ES ≥36/50 (249 est.) · CO ≥17/50, un solo título «4.9 / 5 Estrellas»: producto invisible por API; verificar en la PC y re-medir 2026-12-01 |
 | The James Method | 106893857806544 | US | verse mapping: journal $30 / PDF $12.99, 25/25 US en 3 tandas (89 · 50 · 28 d), tarjeta EN 2026-11-24; re-medir 2026-12-08 (¿tanda nueva?, GB sin medir) |
 | GraceBased | 814288615100841 | US | devocional para mujeres «365 Invitations to Rest in God», ≥49/≥50 US (est. 400), ¿libro físico?; verificar formato en PC; re-medir 2026-12-08 |
 | SmartistU | 487614514671201 | US · GB | toolkit de 125 plantillas para managers de artistas, 50/50 US (255 d) y 34/34 GB, tarjeta EN 2026-11-23 tarde; vigilar SKU nuevos y entrada en español |
@@ -830,7 +837,7 @@ la completa al terminar.
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
 | 2026-11-24 06:36 | BR | C operadores (mañana) | — (operadores BR: re-mediciones vencidas y de la semana 24-30/11) | 55 page_ids × BR (3 subagentes de lectura) + re-conteo propio de 3 + 7 sondas `search_terms` sobre página + 4 controles de destino con ALL (hispano ×2, IT, PT) | 2 tarjetas (Arsenal Católico, 52 Estudos Bíblicos para Homens), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (Fé Adventista); sin page_id para Estante, Mundo do Aço, Campo Vibracional, Guia dos Desorganizados → próximo C (27-11) |
-| 2026-11-24 06:45 | ES | A huella (mañana) | — (huella, CO ES) | en curso | en curso | en curso |
+| 2026-11-24 06:45 | ES | A huella (mañana) | — (huella, CO ES) | 18 huellas × CO/ES (36 consultas, distintas de las del 10, 13, 17 y 20-11) + 7 sondas de destino con ALL (IT ×4, MX ×3); ~30 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Estilismo Con Propósito, Impulsar Digital), 6 señales | 2 nodos nuevos superficial; 4 filas de operadores; 1 fila de trampas |
 | 2026-11-24 06:40 | EN | B perforar (mañana) | planners-imprimibles-2027/fe-oracion | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 3 ceros + 2 sondas de destino con ALL (CA/AU/IE/NZ/ZA, MX/PT/IT/RO); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2 + WebFetch de 1 landing); virgen `plantillas-reclamos-veteranos` salteado (re-medición 30-11, sin destino) | 1 tarjeta (The James Method), 6 señales | profundo, con 6 hijos superficial; 2 operadores a seguir; 1 fila de trampas |
 | 2026-11-23 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf/goma-eva-fieltro | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 11 ceros; ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de Elena Río con 10 sondas y de Lena Braun) | 0 tarjetas, 4 señales | profundo; 6 hijos superficial; re-medir fieltro/Lena Braun 2026-11-30 |
 | 2026-11-23 18:38 | EN | B perforar (tarde) | negocios/guias-management-pdf | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 2 ceros + 6 sondas de destino (hispano ×3 con ALL, anglo/EU, IT con ALL); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2); virgen `plantillas-reclamos-veteranos` salteado (re-medición fechada 30-11, mercado VA sin destino) | 2 tarjetas (SmartistU, Planuppro), 7 señales | profundo, con 6 hijos superficial + 2 nodos nuevos superficial; 3 operadores a seguir; 1 fila de trampas |

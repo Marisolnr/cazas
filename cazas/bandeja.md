@@ -1285,6 +1285,32 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Tu guía de cortes siempre a mano»: guía de cortes de cabello paso a paso — Estilismo Con Propósito CO·ES · `belleza/guia-cortes-peluqueria` · 2026-11-24 · sesión ES
+- **Qué es:** guía digital de cortes de cabello para consultar «siempre a mano», un solo producto con creativos rotados (título idéntico en los 50 ads visibles). El clon Viana Laurent la vende como «+150 cortes femeninos paso a paso» y Aprende y Crece (MX, de hoy) como «80 cortes paso a paso, una página por corte». Cobra en USD. La API no muestra el precio ni si es PDF o app.
+- **Por qué es ganador:** cohorte 7+/activos **CO 38/50** (85 est.) y **ES 35/50** (89 est.) en un solo page_id; los dos son piso (tope de 50). Siete tandas: 06, 07, 08, 09, 14, 21 y 24-11, la última hoy (operador vivo, deja vivas las viejas). Ad más viejo visible: 18 d. Página fantasma, sin persona. Dos operadores más ya la copian.
+- **Qué hacer:** modelar tal cual: «+100 cortes paso a paso, una página por corte», PDF para el celular y para imprimir, con avatar peluquera que arranca o estudiante de peluquería · destino sugerido **Italia**: con `guida tagli parrucchieri` IT (ALL, 55) solo aparece Haircut Atlas («96 tagli passo dopo passo», 4 ads de fines de octubre) y un ad de Mind Co; el resto son advertoriales «tagli over 60» y salones. MX no: ya tiene un clon de hoy. Ángulo: «el corte que te piden, sin buscar videos con la clienta en la silla».
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1341320769058929&search_type=page&media_type=all) · [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1341320769058929&search_type=page&media_type=all) · los más viejos: [06-11](https://www.facebook.com/ads/library/?id=1129064513197285) · [06-11](https://www.facebook.com/ads/library/?id=1635782974897635) · [07-11](https://www.facebook.com/ads/library/?id=1092687137098883)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, si es PDF o app, cuántos cortes trae y si los creativos muestran a una peluquera (cara) o solo las páginas.
+- Score 2/4 (duplicación: título ×50; hueco IT con ALL; longevidad 18 d y volumen 38 no llegan) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
+### 🎯 «Tus 52 clases, listas para dar»: un año de clases de yoga armadas para instructoras (+ pilates) — Impulsar Digital CO·ES · `deportes/planes-clases-yoga-pilates` · 2026-11-24 · sesión ES
+- **Qué es:** pack digital de 52 clases de yoga planificadas, «una por semana», para instructoras que improvisan; el 24-11 sumó el SKU «104 clases de pilates, listas para dar». Ganchos: «Basta de improvisar tus clases», «Dejá de armar la clase en el auto 🚗», «Te falta un sistema, no posturas», «Mirá una clase por dentro 📖». Copy en voseo (operador AR), USD. La API no muestra el precio.
+- **Por qué es ganador:** cohorte 7+/activos **ES 10/23** y **CO 10/23** en un solo page_id, justo en la vara. Cinco tandas (04, 10, 18, 20 y 24-11), ad más viejo 20 d; nunca apagó la tanda del 04-11 y ahora abre un segundo SKU sobre el mismo molde. Página fantasma. Es chico: entra por la vara, no por el volumen.
+- **Qué hacer:** modelar «52 lezioni di yoga pronte da insegnare» (PDF: secuencia, tiempos, variantes y música por clase) y, si el pilates prende, el combo · destino sugerido **Italia**: con `lezioni pronte yoga` IT (ALL) solo hay cursos de anatomía para profes (KINEA) y un atlas de posturas de 1 d (Atelier Nova): nadie vende las clases armadas. Alternativa **MX** (`clases yoga listas` ALL: solo anatomía para profes y estudios físicos). Ángulo: «tu año de clases resuelto un domingo».
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1282636054941712&search_type=page&media_type=all) · [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1282636054941712&search_type=page&media_type=all) · los más viejos: [Tu año de clases, ya armado (04-11)](https://www.facebook.com/ads/library/?id=2274569203276818) · [52 clases, una por semana (04-11)](https://www.facebook.com/ads/library/?id=1368457328535495) · [Tus 52 clases (10-11)](https://www.facebook.com/ads/library/?id=1151985503986970)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, el formato (PDF, videos o app) y qué trae cada clase.
+- Score 1/4 (hueco IT con ALL; longevidad 20 d, volumen 10 y duplicación baja no llegan) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
+**Señales del día ES (2026-11-24, mañana · A huella)**
+- Silvia Menéndez (111642171338135): **ES 39/39 · CO 40/40** (179 d), kit de plantillas para escribir un libro («Escribe tu libro paso a paso», «Descarga tu Kit»). Pasa el volumen, pero la página es un nombre de persona metido en el título: probable marca personal, verificar la cara en el [snapshot de 179 d](https://www.facebook.com/ads/library/?id=3390261887802411).
+- Atril Estudio (1282575998279080): **ES ≥36/50** (249 est.) · CO ≥17/50, 19 d, un solo título «⭐⭐⭐⭐⭐ 4.9 / 5 Estrellas»: el producto no se ve por API. Verificar en la PC.
+- Caroline Machado (512478251941670): 15/21 CO=ES (17 d), título único «+1872 Opiniones positivas», salió por `planificador digital`: producto invisible.
+- Finanzas Total (380017768538870): CO 12/12 · ES 11/11, pero son dos SKU de 6 (ISO 14001 en Excel y dashboard de mantenimiento): ninguna oferta llega a 10. Re-medir 2026-12-01.
+- Clones nuevos de la guía de cortes: Viana Laurent 2/16 CO=ES y Aprende y Crece (MX, de hoy).
+- Huellas basura: `acceso de por vida`, `guía paso a paso` (short-dramas), `calendario 2027`, `agenda 2027` (colegios, citas, impresos).
+
 ES 2026-11-23 (tarde): nada que pase la vara; se barrió foami genérico, fofuchas, fieltro, navideño en foami, decoración de aula y flores/fiestas en goma eva (30 kw × CO/ES).
 
 **Señales del día ES (2026-11-23, tarde · B perforar `goma-eva-fieltro`)**
