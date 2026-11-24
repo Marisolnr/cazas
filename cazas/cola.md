@@ -836,6 +836,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-24 18:38 | EN | B perforar (tarde) | planners-imprimibles-2027/digital-tablet | en curso | en curso | en curso |
 | 2026-11-24 18:36 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/educacao-infantil | en curso | en curso | en curso |
 | 2026-11-24 06:36 | BR | C operadores (mañana) | — (operadores BR: re-mediciones vencidas y de la semana 24-30/11) | 55 page_ids × BR (3 subagentes de lectura) + re-conteo propio de 3 + 7 sondas `search_terms` sobre página + 4 controles de destino con ALL (hispano ×2, IT, PT) | 2 tarjetas (Arsenal Católico, 52 Estudos Bíblicos para Homens), 6 señales | sin cambios de estado; 1 operador nuevo a seguir (Fé Adventista); sin page_id para Estante, Mundo do Aço, Campo Vibracional, Guia dos Desorganizados → próximo C (27-11) |
 | 2026-11-24 06:45 | ES | A huella (mañana) | — (huella, CO ES) | 18 huellas × CO/ES (36 consultas, distintas de las del 10, 13, 17 y 20-11) + 7 sondas de destino con ALL (IT ×4, MX ×3); ~30 páginas contadas con `page_ids` + país (3 subagentes de lectura + re-conteo propio de 2) | 2 tarjetas (Estilismo Con Propósito, Impulsar Digital), 6 señales | 2 nodos nuevos superficial; 4 filas de operadores; 1 fila de trampas |
