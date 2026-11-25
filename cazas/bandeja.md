@@ -716,6 +716,32 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Método de sueño «Seu bebê dormindo bem em 10 dias (sem rotinas rígidas)» — Sosseguinho BR · `maternidade/guias-bebe/sono-rotina-bebe` · 2026-11-25 (tarde) · sesión BR
+- **Qué es:** método digital para que el bebé duerma bien en 10 días, sin rutinas rígidas. Esta semana corre al lado un combo «Black Sosseguinho: 13 Cursos!». El precio no figura en los títulos.
+- **Por qué es ganador:** cohorte 7+/activos **38/44 en BR**, completa (re-conteo propio). Escalonado en **19 fechas**, del 07-02 al 24-11. El ad más viejo tiene **291 d**, y hubo tandas nuevas el 12, el 14 y el 24-11 (operador vivo). Un solo operador, página de marca sin cara. No corre fuera de BR: 0 ads en PT, MX, IT, FR, RO, ES, AR, CO y US, con ALL.
+- **Qué hacer:** modelar tal cual: un método corto de sueño por edades, con el ángulo «sin llorar y sin rutina rígida» y un combo de upsell. Destino sugerido **Portugal** (validado), casi sin traducir. Con ALL, `sono do bebé` y `bebé dormir a noite toda` en PT solo traen mini-dramas doblados: nadie vende un método. Italia, Francia, Rumania y Grecia no, porque ya están Metodo Dolce Sonno (24,90 €), Mami Doarme y «Le Manuel du sommeil de bébé» de Terapeuta Ale Gabayet, un operador que corre en varios idiomas.
+- **Ads Library:** [BR · Sosseguinho](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=122649551106387&search_type=page&media_type=all) · [291 d](https://www.facebook.com/ads/library/?id=1451150436607482) · [Black 13 cursos](https://www.facebook.com/ads/library/?id=1644044223928414)
+- **Landing:** embudo no verificado desde la nube (la API no da la URL). Verificar en la PC el precio, el formato (¿PDF, videoaulas o app?) y si los «13 cursos» son grabados.
+- Score 3/4 (volumen 38, longevidad 291 d y hueco PT; embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+### 🎯 Recetario «Kit da Mamãe: 500 Receitas (6 a 24m)» — Kit da Mamãe BR · `maternidade/guias-bebe/introducao-alimentar` · 2026-11-25 (tarde) · sesión BR
+- **Qué es:** recetario digital de 500 recetas para bebés de 6 a 24 meses, ordenado por edad. Los títulos venden con «⭐ 4,98/5». El precio no figura.
+- **Por qué es ganador:** cohorte 7+/activos **36/39 en BR**, completa (re-conteo propio). Escalonado en **4 fechas**: 16-10, 01-11, 09-11 y 22-11. El ad más viejo tiene **40 d**, y hubo una tanda nueva el 22-11. Un solo operador, página de marca sin cara. Hoy abrió una página hermana con el mismo producto (0/7, no se suma). El molde «500 recetas» ya cruzó al hispano: Lucía Hernández lo vende en MX a US$6, con cuenta en BRL.
+- **Qué hacer:** modelar un recetario por edad (6-8, 9-12 y 12-24 meses) con lista de compras y menú semanal. Destino sugerido **Grecia** (validado): con ALL, `συνταγές για μωρά` da 13 resultados y nada vivo; el último fue protakoutalakia.com, apagado desde el 06-09. Italia, México, Rumania, Francia y Portugal no: ya hay recetarios de 105 a 450 recetas, varios de operadores brasileños (Lafreidoralista, Recettes Bebe Chef, Meniul Bebelușului), y Manual da Criança Feliz ya corre en PT.
+- **Ads Library:** [BR · Kit da Mamãe](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=895646973641976&search_type=page&media_type=all) · [40 d](https://www.facebook.com/ads/library/?id=1800080581185983) · [cohorte 01-11](https://www.facebook.com/ads/library/?id=4741866292807270)
+- **Landing:** embudo no verificado desde la nube (la API no da la URL). Verificar en la PC el precio y el formato (¿PDF o app?).
+- Score 2/4 (volumen 36 y hueco GR; longevidad 40 d; embudo sin ver) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-25, tarde)**
+- Método Ninho Seguro (720454961156565): 23/28, 98 d, 19 fechas, «Kit Estimula Bebê™» + «Biblioteca de Primeiros Cuidados do RN». Pasa la vara, pero «Kit» puede ser físico: verificar en la PC; re-medir 2026-12-02.
+- Segredo de Mãe (104281642605477): sigue en 33/35, 42 d y 5 fechas, sin ningún ad nuevo desde el 18-11. El producto sigue sin verse: los 4 ads que matchean `guia`/`planner` son la línea «80% OFF».
+- Educação Infantil Ativa (251422708065072): 36/45, 24 d, «128 brincadeiras por idade», en USD y con copy que suena a PT-PT. Florescer Montessori (946222895240283): 22/23, 58 d, producto no visible. Los dos, a verificar en la PC.
+- Manual do Recém-Nascido (1753378231566500): 10/30, 90 d, 11 fechas (sueño + lactancia, quiz). Justo en la vara; quedó atrás de Sosseguinho, que vende lo mismo con 4 veces más volumen.
+- Manual da Criança Feliz (413332225208136): 11/13, 198 d, recetario BLW con embudo «Comenta EU QUERO», ya corre en PT.
+- Milagre do Soninho (1348816181658785): 0/30 en 3 días (USD), escalando rápido: re-medir 2026-12-02.
+
 ### 🎯 Guía ilustrada «+70 manobras para aliviar a dor com massagem» — Massagem TopCorpus BR · `bem-estar/massagem-manobras-ilustradas` · 2026-11-25 · sesión BR
 - **Qué es:** guía digital ilustrada con más de 70 maniobras de masaje para aliviar dolores. Todos los ads llevan el mismo título y el precio no figura. La página corre al lado un «100% Online e Gratuito» (12 ads que nombran un «curso»), que parece un mini-curso gratis para captar contactos.
 - **Por qué es ganador:** cohorte 7+/activos **25/≥50 en BR**. Es un piso: hay 87 activos con «manobras» y la API muestra 50. Escalonado en **7 fechas** (29-10 → 15-11). El ad más viejo tiene **26 d**, y hubo tandas nuevas el 22, 23 y 24-11 (operador vivo). Un solo operador, página de marca sin cara. Ya lo clonó él mismo al español con «Masaje TopCorpus» (14 activos en MX desde el 04-11).
