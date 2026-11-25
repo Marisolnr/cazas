@@ -890,6 +890,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 18:45 | ES | B perforar (tarde) | oficios-digitales/guias-cricut/sublimacion-plantillas | en curso | en curso | en curso |
 | 2026-11-25 18:40 | EN | B perforar (tarde) | religion/papeleria-cristiana-reventa | en curso | en curso | en curso |
 | 2026-11-25 18:37 | BR | B perforar (tarde) | maternidade/guias-bebe | en curso | en curso | en curso |
 | 2026-11-25 06:41 | ES | B perforar (mañana) | manualidades/patrones-pdf/navideno-pesebre | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 10 ceros + 6 sondas de destino con ACTIVE y ALL (IT ×2, PT, RO, MX ×2); ~45 páginas contadas (4 subagentes de lectura + re-conteo propio de Digital Shop y Flavia en ES) | 2 tarjetas (Digital Shop, Flavia da Silva Araujo), 6 señales | profundo, con 6 hijos superficial; 1 fila de operadores; 1 fila de trampas |
