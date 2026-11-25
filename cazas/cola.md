@@ -868,6 +868,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 06:41 | ES | B perforar (mañana) | manualidades/patrones-pdf/navideno-pesebre | en curso | en curso | en curso |
 | 2026-11-25 06:38 | EN | C operadores (mañana) | — (operadores EN: re-mediciones vencidas y de la semana 25-29/11) | en curso | en curso | en curso |
 | 2026-11-25 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-24 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf/papercraft-fiesta | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 6 ceros + 3 sondas de destino con ALL (IT, PT, RO); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Agendas Imprimibles), 8 señales | profundo, con 6 hijos superficial; 2 operadores a seguir |
