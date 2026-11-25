@@ -140,3 +140,5 @@
 
 ## [2026-11-25] caza-auto | BR huella — → 2 candidatos a bandeja
 ## [2026-11-25] caza-auto | EN C operadores (re-mediciones 25-29/11) → 2 candidatos a bandeja
+
+## [2026-11-25] caza-auto | ES B perforar manualidades/patrones-pdf/navideno-pesebre → 2 candidatos a bandeja
