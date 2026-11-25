@@ -868,6 +868,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-24 18:42 | ES | B perforar (tarde) | manualidades/patrones-pdf/papercraft-fiesta | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 6 ceros + 3 sondas de destino con ALL (IT, PT, RO); ~25 páginas contadas (3 subagentes de lectura + re-conteo propio de 2) | 1 tarjeta (Agendas Imprimibles), 8 señales | profundo, con 6 hijos superficial; 2 operadores a seguir |
 | 2026-11-24 18:38 | EN | B perforar (tarde) | planners-imprimibles-2027/digital-tablet | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 3 ceros + 3 sondas de destino con ALL (CA/AU/IE/NZ, MX/CO/AR/CL/PE, DE/IT/FR/NL); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 2 + 2 búsquedas web); virgen `plantillas-reclamos-veteranos` salteado (re-medición 30-11, sin destino) | 1 tarjeta (Methodyco), 7 señales | profundo, con 6 hijos superficial; 4 operadores a seguir; 1 fila de trampas |
 | 2026-11-24 18:36 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/educacao-infantil | 6 subnichos × 5 kw BR (30) + `parecer descritivo` + 7 controles de destino con ALL (MX, IT ×3, PT ×2, RO); ~30 páginas contadas (3 subagentes de lectura + re-conteo propio de 3) | 1 tarjeta (Prof. Juliana Costa), 6 señales | profundo, con 6 hijos superficial; 5 operadores a seguir; 1 fila de trampas |
