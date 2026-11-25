@@ -890,6 +890,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-25 18:40 | EN | B perforar (tarde) | religion/papeleria-cristiana-reventa | en curso | en curso | en curso |
 | 2026-11-25 18:37 | BR | B perforar (tarde) | maternidade/guias-bebe | en curso | en curso | en curso |
 | 2026-11-25 06:41 | ES | B perforar (mañana) | manualidades/patrones-pdf/navideno-pesebre | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 10 ceros + 6 sondas de destino con ACTIVE y ALL (IT ×2, PT, RO, MX ×2); ~45 páginas contadas (4 subagentes de lectura + re-conteo propio de Digital Shop y Flavia en ES) | 2 tarjetas (Digital Shop, Flavia da Silva Araujo), 6 señales | profundo, con 6 hijos superficial; 1 fila de operadores; 1 fila de trampas |
 | 2026-11-25 06:38 | EN | C operadores (mañana) | — (operadores EN: re-mediciones vencidas y de la semana 25-29/11) | 49 page_ids × país (~120 consultas `page_ids` + país, 3 subagentes de lectura) + re-conteo propio de 2 + 6 sondas de destino con ALL (hispano ×2, IT, PT/IT/PH/PL, anglo, IT/MX/PT/RO) + 2 búsquedas web | 2 tarjetas (Mariana Williams Creations, Music Solved), 8 señales | sin cambios de estado; 2 nodos nuevos superficial; 3 filas de operadores; 1 fila de trampas; apagados: Honey Home + fachadas, HookieNest, Light Table Kitchen, Smart Library |
