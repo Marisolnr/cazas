@@ -137,3 +137,5 @@
 ## [2026-11-24] caza-auto | BR B educacao/atividades-prontas-professores/educacao-infantil (tarde) → 1 candidatos a bandeja
 ## [2026-11-24] caza-auto | EN B planners-imprimibles-2027/digital-tablet (tarde) → 1 candidatos a bandeja
 ## [2026-11-24] caza-auto | ES B manualidades/patrones-pdf/papercraft-fiesta (tarde) → 1 candidatos a bandeja
+
+## [2026-11-25] caza-auto | BR huella — → 2 candidatos a bandeja
