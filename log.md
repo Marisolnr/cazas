@@ -144,3 +144,4 @@
 ## [2026-11-25] caza-auto | ES B perforar manualidades/patrones-pdf/navideno-pesebre → 2 candidatos a bandeja
 
 ## [2026-11-25] caza-auto | BR B perforar maternidade/guias-bebe (tarde) → 2 candidatos a bandeja
+## [2026-11-25] caza-auto | EN B perforar religion/papeleria-cristiana-reventa (tarde) → 2 candidatos a bandeja
