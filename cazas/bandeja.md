@@ -768,6 +768,23 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Maquetes y combos de Humanas «para imprimir» (Historia, Geografía, Ciencias + aulas de LP prontas) — EdHumanas BR · `educacao/atividades-prontas-professores/portugues-fund2` · 2026-11-26 · sesión BR
+- **Qué es:** tienda propia (edhumanas.com.br) de materiales listos para profesores de Fundamental II: maquetes y triorama para imprimir y armar en clase (Feudo, Engenho de Açúcar, Camadas da Terra, Ciclo da Água), combos por tema del currículo (Grécia Antiga, Segunda Guerra, regiones de Brasil, sistemas del cuerpo, Consciência Negra) y «Aulas de Língua Portuguesa 100% prontas!». Los ads son de catálogo y el precio no figura.
+- **Por qué es ganador:** cohorte 7+/activos **27/27 en BR**, completa (re-conteo propio). Escalonado en **19 fechas**, del 13-02 al 18-11. El ad más viejo tiene **286 d**, y hubo tandas el 16 y el 18-11 (operador vivo); con ALL hay ads desde 2024. Página de marca sin cara. Es multi-SKU, pero todo del mismo nicho (material de aula FII); la línea de LP tiene 4 ads de 184 d.
+- **Qué hacer:** modelar el formato «maqueta del tema de la semana, lista para imprimir y armar» + combo por tema de Historia y Geografía. Destino sugerido **México** (validado): con ALL, `maquetas imprimibles` en MX, CO, AR, PE y CL da 5 resultados en total y ninguno vende eso. Portugal en segundo plano: `maquete imprimir` da 10 con ALL y nada vivo, pero hoy abrió Acervo Educa con «aula de História em modo cinema» (tester de 0 d).
+- **Ads Library:** [BR · EdHumanas](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=121666711034496&search_type=page&media_type=all) · [286 d](https://www.facebook.com/ads/library/?id=2349685185498568) · [Maquete Feudalismo](https://www.facebook.com/ads/library/?id=2031836430861272) · [Aulas de LP, 184 d](https://www.facebook.com/ads/library/?id=3027677864095680)
+- **Landing:** edhumanas.com.br, no se pudo leer desde la nube. Verificar en la PC el precio, que las maquetes sean PDF (la sonda `imprimir` sobre la página matchea «Maquete Feudalismo») y cuál es el SKU que más vende.
+- Score 2/4 (longevidad 286 d y hueco MX; volumen 27, sin duplicación por ser catálogo) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-26)**
+- Ju.Alfabetização (1028480757004933): 46/46, 275 d, «Avaliações Bimestrais e Simulados SAEB» (35) + «Kit 267 modelos editáveis» (10), pero ningún ad nuevo desde el 08-03: posible zombi, no pasa a tarjeta.
+- Ajuda com as letras (103196524711258) 0/40 y Didatxis (705037449355545) 0/17: LP de 9º año gamificado (descritores SAEB, SPAECE). Crean ads a la misma hora (¿mismo operador?). Su tanda del 19-11 cumple 7 d hoy a la tarde (~22 y ~13): re-medir 2026-11-28.
+- Prof. Mariana Oliveira (1080842931788422): ≥50/~123, persona «Prof.» (tarjeta 09-11); estrenó «100 casos de gramática do 6º ao 9º ano» (3 ads, < 1 d).
+- Acervo Português (1231737126697165): 6/11, 47 d, «+2.000 Provas e Atividades Prontas – Português, Literatura e Redação», fantasma: re-medir 2026-12-03.
+- Camila Medeiros - Psicopedagoga (110338607317917) 9/32 «Kit Interpretar para Evoluir 2.0» (página-persona) y Lúdica Mente (1000096223190267) 8/30 (gêneros textuais): a 1-2 de la vara.
+- Ola de interpretación y producción textual del 25-26/11 (Dicas da Anna «300 casos», Paloma Fernandez «100 Missões», Diário LP Pronto «320 aulas» R$14,90, Kit Atividades BNCC): todo < 7 d, re-medir 2026-12-03. La red «Tudo isso por 10» (Prof. Debora 6/10, Fernanda 3/7, Pamela 3/6) es un operador en 3 páginas: no pasa por page_id.
+
 ### 🎯 Método de sueño «Seu bebê dormindo bem em 10 dias (sem rotinas rígidas)» — Sosseguinho BR · `maternidade/guias-bebe/sono-rotina-bebe` · 2026-11-25 (tarde) · sesión BR
 - **Qué es:** método digital para que el bebé duerma bien en 10 días, sin rutinas rígidas. Esta semana corre al lado un combo «Black Sosseguinho: 13 Cursos!». El precio no figura en los títulos.
 - **Por qué es ganador:** cohorte 7+/activos **38/44 en BR**, completa (re-conteo propio). Escalonado en **19 fechas**, del 07-02 al 24-11. El ad más viejo tiene **291 d**, y hubo tandas nuevas el 12, el 14 y el 24-11 (operador vivo). Un solo operador, página de marca sin cara. No corre fuera de BR: 0 ads en PT, MX, IT, FR, RO, ES, AR, CO y US, con ALL.
