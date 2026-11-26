@@ -1469,6 +1469,15 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-26 (tarde · B perforar `oficios-digitales/guias-cricut/cricut-silhouette`): nada que pase la vara; se barrió guías de Cricut Design Space, Silhouette Studio, tablas de materiales/temperaturas, stickers imprimir-y-cortar, proyectos y plantillas, y otras máquinas (30 kw × CO/ES + ALL en 4 ceros).
+
+**Señales del día ES (2026-11-26, tarde · B perforar `cricut-silhouette`)**
+- Crea&emprende online (613506495180789): CO 18/24 · ES 18/23, 7 fechas, 26,7 d. Cierra por WhatsApp, pero los títulos solo dicen «Chatea con nosotros» ×14 y «Quiero más información» ×6: el copy no deja ver la oferta (probable curso de Cricut/vinil «con plantillas de práctica»). Ver el snapshot 1565555452256968 en la PC.
+- Espacio Creativo (510930015432339): CO=ES 11/12, 148 d, WhatsApp con «Separa tu cupo»: curso con cupos, probablemente en vivo.
+- Silhouette Experts (111113768359244): CO 47/≥50 · ES 19/25 de una sola tanda (11-11), clase gratis en BRL hacia un curso. Re-medir el 2026-12-03.
+- Biblioteca Creativa (1244762302063129): bajó de 10/25 a **6/16**; abrió una página clon (1448302685034114, 0/4, 23-11) y empuja un 2º SKU, «+80 Fichas de Configuración para Silhouette». Neutral Nature sigue ES 47/≥50: ya tienen tarjeta.
+- Hueco: nadie vende en CO/ES la «tabla de temperaturas y cortes» para vinil/Cricut en PDF (`vinil textil temperatura` ES y `vinilo textil guía` CO: 0 con ALL).
+
 ### 🎯 «Borda en papel desde hoy»: plantillas para imprimir, perforar y bordar sobre papel — Cofre de cursos ES·CO · `manualidades/patrones-pdf/bordado` · 2026-11-26 · sesión ES
 - **Qué es:** plantillas digitales para imprimir, perforar y bordar a mano sobre papel (tarjetas y cuadros bordados): «Borda en papel desde hoy», «Imprime, perfora y borda». Cobra en USD; la API no muestra el precio. SKUs nuevos esta semana: «Tarjetas de Navidad bordadas por ti» (21 y 24-11) y «¿Dónde la compraste? La hice yo» (24-11).
 - **Por qué es ganador:** cohorte 7+/activos **ES 15/21** (re-conteo propio) y **CO 10/16**, en un solo page_id. El ad más viejo lleva 24 d; la cohorte tiene 2 tandas (30-10 y 12-11) y no apagó ninguna. El título «Borda en papel desde hoy» se repite 14 veces en la cohorte de ES. El 20-11 no pasaba el filtro de operador vivo (2 fechas); hoy tiene 4 fechas y ads de hace 2 d. Página fantasma.

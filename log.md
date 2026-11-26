@@ -151,3 +151,4 @@
 ## [2026-11-26] caza-auto | EN huella — (US GB) → 2 candidatos a bandeja
 ## [2026-11-26] caza-auto | BR B perforar educacao/atividades-prontas-professores/portugues-fund2 → 1 candidatos a bandeja
 ## [2026-11-26] caza-auto | ES C operadores → 2 candidatos a bandeja
+## [2026-11-26] caza-auto | ES B perforar oficios-digitales/guias-cricut/cricut-silhouette (tarde) → 0 candidatos a bandeja
