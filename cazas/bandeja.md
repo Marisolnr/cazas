@@ -26,6 +26,32 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Atlas visual de psicopatología en fichas («PsychAtlas™: 210 Visual Study Sheets») — Zentra Digital GB · US · `educacion-profesional/atlas-psicopatologia` · 2026-11-26 · sesión EN
+- **Qué es:** 210 fichas visuales de psicopatología en PDF, para imprimir o estudiar en el celular. Son 21 capítulos y 40 comparaciones lado a lado entre trastornos que se confunden («OCD or OCPD? Know the clue», «Bipolar II or BPD?», «Schizophrenia vs Schizoaffective»). El público es estudiantes de psicología. Precio no visible por API.
+- **Por qué es ganador:** cohorte 7+/activos **25/49 en GB** (re-conteo propio, los 49 visibles) y **≥17/≥50 en US**. Tiene 8 tandas escalonadas, ads de 14, 13, 11 y 7 días en cohorte y una tanda nueva hoy. La página no muestra cara y ya tiene un clon propio (Bienestar Consciente, 8/18 US). Desde hace menos de 7 días lo copian en todos los idiomas: Psyacademy y Labdigital (EN), Mental Pro Cr (ES), Visiva (IT), Atlas Visuel de Psychopathologie y Camille Laurent (FR), Atlas Studenta (PL), De Stoornissenwijzer (NL) y Bookbay (UA).
+- **Qué hacer:** modelarlo tal cual: una ficha por trastorno, con criterios, la «pista» que lo distingue del parecido y un caso breve, en PDF. Ángulo: «un trastorno = una página» y «la pista que los separa». Es una ventana que se cierra en días. Destino sugerido **Rumania**, y si no **Grecia** o **Hungría**, traducido: con `DSM-5` y ALL en RO/HU/GR/CZ/TR no aparece ningún vendedor local. Hispano, IT, FR y PL ya están tomados.
+- **Ads Library:** [Zentra Digital GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1105623172639006&search_type=page&media_type=all) · [Zentra Digital US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1105623172639006&search_type=page&media_type=all) · creativos: [«210 Visual Psychopathology Study Sheets» (14 d)](https://www.facebook.com/ads/library/?id=1473387354729092) · [ídem](https://www.facebook.com/ads/library/?id=4006213696198709)
+- **Landing:** no visible por API; verificar en la PC.
+- Score 1/4 (③ «210 Visual…» ×~40; ① solo 14 d ② 25, no 50 ④ hispano/IT/FR/PL ya ocupados) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+### 🎯 Año entero de actividades de preescolar «hecho» + SEL («All 12 Months Done for You», «SEL Done For You!», packs del mes) — Planning Playtime US · `educacion/preescolar-curriculo-anual` · 2026-11-26 · sesión EN
+- **Qué es:** packs en PDF de actividades y planes para preescolar. Tiene un bundle anual («All 12 Months Done for You», «80% Off 1000+ Pages»), un pack de habilidades socioemocionales («SEL Done For You!») y packs temáticos con descuento (diciembre al 80 %, galletas de jengibre al 63 %). Precio no visible por API.
+- **Por qué es ganador:** cohorte 7+/activos **40/40 en US** (re-conteo propio: todo lo que tiene activo lleva 7+ días). Tiene 7 tandas desde el 29-09 y un ad de 57 días («SEL Done For You!») sigue vivo. El 20-11 estaba en 5/38, así que la cohorte creció. La última tanda es del 19-11 y la página es una marca sin cara. En GB no pauta.
+- **Qué hacer:** no modelar el pack suelto, que está lleno en todos lados. Modelar el ángulo: «el año entero de preescolar ya planificado, mes por mes» más el módulo SEL como bono o como producto de entrada. Destino sugerido **Portugal** o **Rumania**, traducido, sin sondear todavía. En IT (`attività scuola infanzia`: Rachel Bennett, «+500 Attività… 5 €») y en MX (`planeaciones preescolar`: 6+ vendedores) el pack ya existe, pero ninguno vende el año completo ni SEL.
+- **Ads Library:** [Planning Playtime US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=118807798323655&search_type=page&media_type=all) · creativos: [«Save 63% on Gingerbread Fun» ×14](https://www.facebook.com/ads/library/?id=1125366720316486) · [«SEL Done For You!» (57 d)](https://www.facebook.com/ads/library/?id=1807244550714023)
+- **Landing:** no visible por API; verificar en la PC.
+- Score 2/4 (① 57 d ③ Gingerbread ×14; ② 40, no 50 ④ sin hueco confirmado con ALL) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+Señales del día EN (mañana, 2026-11-26):
+- Sarah Whitfield, «Gift Basket Formula» a $27 (re-medición del nodo): ≥13/≥50 en US (35 d) y 10/≥50 en GB, con 50+ ads relanzados el 25-11. Pasa la vara en número, pero no va como tarjeta: nombre de persona, copia en primera persona y testimonios; ver la cara en el snapshot desde la PC.
+- Quilt With Emma, «100 Quilt Patterns for Just $14.99»: ≥30/≥50 en GB y ≥20/≥50 en US, 16 d. Es el segundo operador del molde de quilting (Pattern Quilt Studio, tarjeta del 16-11).
+- Smart Kitchen Lab: 16/28 en US y 16/33 en GB, 76 d, pero solo muestra títulos «⭐5/5» y el producto no se ve por API. Re-medir el 2026-12-03 con el snapshot.
+- The Clay Blueprints, plantillas de cerámica japonesa: ≥12/≥50 en GB, 28 d. Una tanda de unos 37 ads del 20-11 entra en cohorte mañana. Nodo nuevo; re-medir el 2026-12-03.
+- Simple Planner Co, planners GoodNotes: 11/15 en US y GB, pero usa la marca «Stardew Valley» (riesgo de IP). No se trae.
+- Los catálogos de manuales ilustrados (Linework Books 136, Fenix Library 197, Atlas Media Group 98, Charles Whitmore 243, Fluency Mapped 110) relanzaron todo entre el 24 y el 26-11: cohorte oculta.
+
 ### 🎯 Manual de políticas para iglesias («12 Policy Areas in One Manual», pago único) — Church Policy US · GB · `religion/papeleria-cristiana-reventa` → `iglesia-ministerio` · 2026-11-25 (tarde) · sesión EN
 - **Qué es:** un kit de plantillas editables para que una iglesia escriba sus políticas: 12 áreas (voluntarios, conflictos, licencias del pastor, traspaso de tareas, etc.), «One Price. No Renewals.». Landing probable (búsqueda web): «The Church Policy Toolkit» en Gumroad, **$39**, 12 plantillas editables. Formato no dicho.
 - **Por qué es ganador:** cohorte 7+/activos **25/51 en US** en re-conteo propio (50 de 51 visibles) y **26/43 en GB**. Ocho tandas escalonadas: hay ads de 45, 38, 15, 12 y 8 días en cohorte, y subió una tanda nueva hace 2,6 días. Página sin cara, con títulos-historia («It All Lived in Her Head», «Six Weeks Without Her», «Let Your Pastor Actually Rest»). Opera en EUR y ya llega a CA, AU, IE y NZ con la misma pauta. Es el único operador del ángulo.
