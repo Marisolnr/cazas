@@ -917,6 +917,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-26 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones vencidas y de la semana 26-30/11) | en curso | en curso | en curso |
 | 2026-11-26 06:38 | EN | A huella (mañana) | — (huella, US GB) | en curso | en curso | en curso |
 | 2026-11-26 06:40 | BR | B perforar (mañana) | educacao/atividades-prontas-professores/portugues-fund2 | en curso | en curso | en curso |
 | 2026-11-25 18:45 | ES | B perforar (tarde) | oficios-digitales/guias-cricut/sublimacion-plantillas | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 1 cero + 2 sondas de destino con ALL (MX/IT/PT/RO/GR, HU/CZ/GR/PL/TR); ~18 páginas contadas (3 subagentes de lectura + re-conteo propio de Pixelpack y Halftone Lab) | 1 tarjeta (Halftone Lab), 5 señales | profundo, con 6 hijos superficial; 1 fila de operadores; 1 fila de trampas |
