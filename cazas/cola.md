@@ -939,6 +939,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-26 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut/cricut-silhouette | en curso | en curso | en curso |
 | 2026-11-26 18:38 | EN | B perforar (tarde) | hogar/kit-sucesion-familia | en curso | en curso | en curso |
 | 2026-11-26 18:36 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/matematica | en curso | en curso | en curso |
 | 2026-11-26 06:45 | ES | C operadores (mañana) | — (operadores ES: re-mediciones vencidas y de la semana 26-30/11 + adelanto de las del 01-12) | 33 page_ids × país (~85 consultas `page_ids` + país, ALL en los ceros; 3 subagentes de lectura) + re-conteo propio de LaOfi ES y Cofre de cursos ES + 14 sondas de destino con ACTIVE y ALL (FR, IT, PT, RO, MX) + Mapasyresumenes en 6 países | 2 tarjetas (Cofre de cursos, Mapasyresumenes), 7 señales | sin cambios de estado; apagadas: Planos de Barro (0 con ALL), Escuela Fingerstyle, Imprime y Crea (CO/ES); 1 fila de trampas |
