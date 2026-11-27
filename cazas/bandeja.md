@@ -1574,6 +1574,16 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-27 (tarde · B perforar `oficios-digitales/guias-cricut/archivos-svg-corte`): nada que pase la vara; se barrió cajas y empaques para cortar, fiestas y toppers, arte en capas / papel 3D, diseños para vinil y estampado, megapacks SVG y accesorios cortados (aretes, llaveros, moños) (30 kw × CO/ES + ALL en 6 ceros).
+
+**Señales del día ES (2026-11-27, tarde · B perforar `archivos-svg-corte`)**
+- Maku (104858508591025): ES 22/≥50 (re-conteo propio, 65 estimados) · CO 14/≥50, 6 tandas entre el 16-09 y el 25-11, 72 d. Pasa en números, pero el 100 % de los títulos dice «DESCARGA TU GUÍA AQUÍ 👉» sin tema ni precio, y en ALL corría «Regístrate ahora» (webinar) en dic-2025. Entró por `decoración fiesta plantillas`. Ver el snapshot 1515709480319839 en la PC: si es una guía de decoración vendida (y no un webinar), es tarjeta.
+- PlantillasPremium (706886615847222): creció de 10/34 (25-11) a **20/46 CO · 20/42 ES**, 7 fechas. Sigue siendo megapack «+500.000 diseños para imprimir» + «+750 moldes navideños»: riesgo de derechos. Abrió un clon de corte láser (1434763969725651, «+700.000 archivos», 0/13, de ayer). Re-medir el 2026-12-02, como estaba.
+- Pixelpack (116045223625247): CO 40/≥50 · ES 38/48, 118 d, 13 fechas; reactivó el 24-11. Megapack de reventa con diseños de anime: riesgo de derechos (ya fue señal).
+- Ola de megapacks láser «+300.000 / +700.000 archivos» a US$6,90 (Mega pack, Vector Láser Studio, Supreme Lab, Plantillas Premium láser): todos de 0-3 días, sin cohorte. Carrera de precio, observar.
+- Hueco: nadie vende en CO/ES arte en capas (shadow box, mandalas o lámparas de papel) como archivo; `mandalas en capas` CO es cementerio con ALL y `cake topper archivo` también (CO y ES).
+- Neutral Nature ES 50/≥50 y Diseñando Eventos CO 14/17 siguen firmes: ya tienen tarjeta o señal. Maestra de las Cajas, la única pura del nodo, sigue chica: 3/9 (55 d).
+
 ### 🎯 «Kit Farmacología Ilustrada» + guía visual de GLP-1 para la consulta — Estudia Sencillo ES·CO · `educacion-profesional/fichas-visuales-estudio/salud` → `farmacologia-ilustrada` (nuevo) · 2026-11-27 · sesión ES
 - **Qué es:** kit digital de farmacología dibujada, «sin memorizar» («Domina Farmacología Sin Memorizar 🧠», «Kit Farmacología Ilustrada: sin rodeos»), más una guía visual clínica sobre GLP-1 para médicos y nutricionistas («Responde cada duda de GLP-1 con fuentes», «Qué te toca hacer y cuándo derivar»). Cobra en USD; la API no muestra el precio.
 - **Por qué es ganador:** cohorte 7+/activos **ES 40/50** (re-conteo propio, 126 estimados: piso) y **CO 34/50** (153 estimados), en un solo page_id. 7 tandas entre el 06 y el 26-11, sin apagar ninguna; el ad más viejo visible lleva 21 d y hay otro entregando desde el 03-11. Operador vivo: creó ads hoy. Página fantasma. El mismo operador ya abrió FR («Pharmacologie Simplifiée», un título dice literal «Estudia Sencillo | …»), y el molde está copiado en IT, RO, PL, HU, CZ y GR.
