@@ -986,6 +986,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-27 18:40 | EN | B perforar (tarde) | salud-profesional/atlas-esteticos | en curso | en curso | en curso |
 | 2026-11-27 18:36 | BR | B perforar (tarde) | educacao/atividades-prontas-professores/planos-de-aula | en curso | en curso | en curso |
 | 2026-11-27 06:45 | ES | A huella (mañana) | — (huella, CO ES) | 18 huellas × CO/ES (36 consultas, distintas de las del 10, 13, 17, 20 y 24-11; sin ceros) + 16 sondas de destino con ALL (MX ×2, IT ×2, FR ×2, RO ×2, PL, HU, GR, CZ, PT, TR ×3); ~35 páginas contadas (3 subagentes de lectura + re-conteo propio de Estudia Sencillo ES y Cuaderno de Medicina CO) | 2 tarjetas (Estudia Sencillo, Cuaderno de Medicina - APP), 6 señales | 2 nodos nuevos superficial (salud/farmacologia-ilustrada, salud/resumenes-carrera-medicina); 3 filas de operadores; 1 fila de trampas |
 | 2026-11-27 06:40 | EN | B perforar (mañana) | productividad/planillas-vida | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 4 ceros + 6 sondas de destino con ALL (anglo secundario, IT, hispano, RO/MD, PL, HU); ~35 páginas contadas (3 subagentes de lectura + re-conteo propio de 3 + 3 búsquedas web + WebFetch de 3 páginas); virgen `plantillas-reclamos-veteranos` salteado (re-medición 30-11, sin destino) | 1 tarjeta (The Forever Planner + Your Wedding Mate), 6 señales | profundo, con 6 hijos superficial; 4 filas de operadores; 1 fila de trampas |
