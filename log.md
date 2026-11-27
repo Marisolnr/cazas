@@ -156,3 +156,5 @@
 ## [2026-11-26] caza-auto | EN B perforar hogar/kit-sucesion-familia (tarde) → 1 candidatos a bandeja
 
 ## [2026-11-27] caza-auto | BR C operadores → 2 candidatos a bandeja
+
+## [2026-11-27] caza-auto | EN B productividad/planillas-vida → 1 candidatos a bandeja
