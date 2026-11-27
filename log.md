@@ -160,3 +160,5 @@
 ## [2026-11-27] caza-auto | EN B productividad/planillas-vida → 1 candidatos a bandeja
 
 ## [2026-11-27] caza-auto | ES A huella (CO ES) → 2 candidatos a bandeja
+
+## [2026-11-27] caza-auto | BR B educacao/atividades-prontas-professores/planos-de-aula (tarde) → 1 candidatos a bandeja

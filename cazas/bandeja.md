@@ -802,6 +802,24 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Guia Anual – Sequências para o Ano Todo» (secuencias didácticas para todo el año, acceso vitalicio y pago único) — Alana Educa BR · `educacao/atividades-prontas-professores/planos-de-aula` → `sequencias-didaticas` · 2026-11-27 (tarde) · sesión BR
+- **Qué es:** guía anual de secuencias didácticas listas para profesoras de infantil y primeros años. Se vende con «acceso vitalicio, actualizaciones gratis, pago único». La misma marca vende la «Coleção Inglês na Rotina» (cards ilustrados) y «Recursos Lúdicos» para padres y profes. El precio no se ve por API; antes corrió un «50% OFF».
+- **Por qué es ganador:** cohorte 7+/activos **32/32 en BR**, completa (re-conteo propio). Está escalonado en 5 tandas: 30-10 (~14 ads, 28 d), 02-11 (~12), 10-11, 12-11 y 13-11. No apagó nada: todo lo que lanzó sigue vivo. Tiene 9 ads con el mismo título «acesso vitalício e pagamento único». Es una página de marca, sin cara, con dominio propio. El último ad es del 13-11, así que no hubo tanda en 14 días.
+- **Qué hacer:** modelar «el año entero de secuencias listo para usar» como PDF por grado. El molde ya lo clona una red de testers de 0-30 días en Italia, Rumania y Francia (por ejemplo, «Planificarea anuală, gata făcută» y «L'Année Prête Maternelle»), y en México se venden planeaciones por WhatsApp. El propio Alana lo probó en Portugal y está apagado (0 activos). Destino sugerido: **Grecia o Hungría** (validados, sin sondear en esta corrida: confirmar el hueco con ALL en la PC). Ángulo: «tu año entero planificado, pagás una vez y lo tenés para siempre».
+- **Ads Library:** [BR · Alana Educa](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=531839286685764&search_type=page&media_type=all) · [«acesso vitalício e pagamento único»](https://www.facebook.com/ads/library/?id=4588981154708818) · [«Guia Anual» 30-10](https://www.facebook.com/ads/library/?id=1863608648012711) · [«Guia Anual»](https://www.facebook.com/ads/library/?id=1828742291696030)
+- **Landing:** alanaeduca.com.br. El embudo no se verificó desde la nube (WebFetch quedó bloqueado). En la PC hay que verificar el precio, el checkout, el formato y que no tenga contenido de inclusión o TEA.
+- Score 0/4 (longevidad 28 d; volumen 32; 9 ads con el mismo título; el hueco de destino no está confirmado) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-27, tarde · planos-de-aula)**
+- Materiais Pedagógicos (759619130561032): 20/21, 410 d, ~18 fechas, sigue lanzando; cierra por WhatsApp y la oferta no se ve por API: verificar en la PC.
+- Segredos da Carla (778768491992375): 12/37, multi-SKU (berçário pronta ×6, «Mãe, estimule seu bebê» ×9, un «app»), nombre de persona; ninguna oferta llega a 10. Re-medir 2026-12-04.
+- Prof. Jaci Recursos Pedagógicos 9/10 (49 d, persona) y Ana Luiza Barbosa 9/9 («180 Aulas de Ensino Religioso», una sola fecha): a 1 de la vara. Re-medir 2026-12-04.
+- Educação Física além da bola (110729704860273): 0/20, toda la tanda de los últimos 2 días; re-medir 2026-12-04.
+- Posibles zombis (sin ads en 30 d): Theia Didáticos 11/11 (planner Ciências 2027, 129 d), MateriaCiencia 10/10 (80 d). Naturalmente Química 15/15 es marca personal.
+- Ya con tarjeta: EdHumanas 24/24 y Mariane da Silva 36/≥50 confirman los números de hoy; Na Sala da Prô 41/45 (multi-SKU de coordinación).
+- Ola de planners 2027 sin cohorte (Profe Camila 0/28, Aprenda Brincando 5/18, Camila Rocha 0/9, Salva Aula): mirar la semana que viene.
+
 ### 🎯 «Kit Estimula Bebê™» (actividades de estimulación para el primer año, digital) — Método Ninho Seguro BR · operadores BR · 2026-11-27 · sesión BR
 - **Qué es:** kit digital de actividades de estimulación para el bebé, más un SKU chico, «Biblioteca de Primeiros Cuidados do RN». Sondas por página: `PDF` 26/27 y `frete` 0, así que no es físico. El precio no se ve por API.
 - **Por qué es ganador:** cohorte 7+/activos **23/27 en BR**, completa (re-conteo propio). El Kit tiene 21 ads en cohorte, todos con el mismo título. Está escalonado en **20 fechas**, del 19-08 al 23-11, con tandas casi semanales: el ad más viejo tiene **99 d** y hubo 7 ads nuevos en 30 d (operador vivo). Página de marca, sin cara. El 25-11 era señal por la duda de si el kit era físico; ya está resuelta.
