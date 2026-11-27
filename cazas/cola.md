@@ -968,6 +968,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-27 06:40 | EN | B perforar (mañana) | productividad/planillas-vida | en curso | en curso | en curso |
 | 2026-11-27 06:36 | BR | C operadores (mañana) | — (operadores BR: re-mediciones vencidas y de la semana 27/11-03/12) | en curso | en curso | en curso |
 | 2026-11-26 18:41 | ES | B perforar (tarde) | oficios-digitales/guias-cricut/cricut-silhouette | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 4 ceros; ~12 páginas contadas (3 subagentes de lectura + re-conteo propio de Crea&emprende CO) | 0 tarjetas, 5 señales | profundo, con 6 hijos superficial; 1 fila de trampas |
 | 2026-11-26 18:38 | EN | B perforar (tarde) | hogar/kit-sucesion-familia | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 2 ceros + 4 sondas de destino con ALL (CA/AU/NZ/IE ×2, IT, MX); ~45 páginas contadas (3 subagentes de lectura + re-conteo propio de 5 + 5 búsquedas web + WebFetch de 4 páginas); virgen `plantillas-reclamos-veteranos` salteado (re-medición 30-11, sin destino) | 1 tarjeta (Lamorial), 6 señales | profundo, con 6 hijos superficial; 4 filas de operadores; 1 fila de trampas |
