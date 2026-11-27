@@ -1556,6 +1556,32 @@ BR 2026-11-10 (mañana): nada que pase la vara; se barrieron los 7 operadores BR
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Kit Farmacología Ilustrada» + guía visual de GLP-1 para la consulta — Estudia Sencillo ES·CO · `educacion-profesional/fichas-visuales-estudio/salud` → `farmacologia-ilustrada` (nuevo) · 2026-11-27 · sesión ES
+- **Qué es:** kit digital de farmacología dibujada, «sin memorizar» («Domina Farmacología Sin Memorizar 🧠», «Kit Farmacología Ilustrada: sin rodeos»), más una guía visual clínica sobre GLP-1 para médicos y nutricionistas («Responde cada duda de GLP-1 con fuentes», «Qué te toca hacer y cuándo derivar»). Cobra en USD; la API no muestra el precio.
+- **Por qué es ganador:** cohorte 7+/activos **ES 40/50** (re-conteo propio, 126 estimados: piso) y **CO 34/50** (153 estimados), en un solo page_id. 7 tandas entre el 06 y el 26-11, sin apagar ninguna; el ad más viejo visible lleva 21 d y hay otro entregando desde el 03-11. Operador vivo: creó ads hoy. Página fantasma. El mismo operador ya abrió FR («Pharmacologie Simplifiée», un título dice literal «Estudia Sencillo | …»), y el molde está copiado en IT, RO, PL, HU, CZ y GR.
+- **Qué hacer:** modelar tal cual: farmacología en dibujos + una guía corta de un tema caliente de consulta (GLP-1) como segundo SKU · destino sugerido **Turquía** (validado): con `farmakoloji` TR en ALL solo sale ruido (dramas, preparadoras del TUS) y nadie de la red. Ir rápido: la red tradujo el molde a 8 idiomas en semanas. IT, FR, RO, MX no: ya están tomados por la red y sus clones.
+- **Ads Library:** [ES](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=113453315134646&search_type=page&media_type=all) · [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=113453315134646&search_type=page&media_type=all) · los más viejos: [GLP-1 (06-11)](https://www.facebook.com/ads/library/?id=1104027489107843) · [ídem (06-11)](https://www.facebook.com/ads/library/?id=1463229653544602) · [Farmacología (20-11)](https://www.facebook.com/ads/library/?id=1009922384836829)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio, cuántas fichas trae y si la guía GLP-1 es un SKU aparte.
+- Score 2/4 (duplicación: «Domina Farmacología Sin Memorizar» ×5 y el ángulo GLP-1 repetido; hueco TR con ALL; longevidad 21 d no llega; volumen 40 es piso) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
+### 🎯 «Toda la carrera, ya resumida»: resúmenes de las 26 materias de Medicina, en app y en PDF para imprimir — Cuaderno de Medicina - APP CO · `educacion-profesional/fichas-visuales-estudio/salud` → `resumenes-carrera-medicina` (nuevo) · 2026-11-27 · sesión ES
+- **Qué es:** «+2.600 resúmenes» de las 26 materias de la carrera, «del 1.er semestre al internado», en una app y también en PDF para imprimir y anillar («Imprime y anilla tu cuaderno», «¿Cuarenta PDFs sueltos?»). Cobra en USD; la API no muestra el precio.
+- **Por qué es ganador:** cohorte 7+/activos **CO 35/50** (re-conteo propio, 175 estimados: piso) en un solo page_id. 8 tandas entre el 04 y el 26-11, ninguna apagada; el ad más viejo lleva 22 d. Título «Toda la carrera, ya resumida» ×9 y cinco ángulos más repetidos ×3. Página fantasma. El molde ya corre traducido en RO, PT, IT, HU, SK, CZ y PL («Caietul Studentului la Medicină», «Caderno de Medicina», «Orvosi Jegyzetfüzet»…): una red que lo multiplica.
+- **Qué hacer:** modelar tal cual, en PDF anillable (sin app): «toda la carrera de Medicina resumida, materia por materia» · destino sugerido **Turquía** (validado): `tıp özetleri` TR da 9 resultados con ALL y ninguno vende resúmenes; `tıp fakültesi ders notları` TR solo trae novelas. El resto de Europa ya lo tiene la red. Alternativa: el mismo molde para otra carrera de salud en un destino libre (validar con ALL).
+- **Ads Library:** [CO](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1372929795909878&search_type=page&media_type=all) · los más viejos: [Toda la carrera, ya resumida (04-11)](https://www.facebook.com/ads/library/?id=1804866317085977) · [Recorre la app por dentro (04-11)](https://www.facebook.com/ads/library/?id=2076896776337054) · [carrusel «Páginas reales del cuaderno»](https://www.facebook.com/ads/library/?id=1152513053890061)
+- **Landing:** embudo no verificado desde la nube: verificar en la PC antes de decidir. Falta el precio y si es pago único o suscripción a la app.
+- Score 2/4 (duplicación: título ×9; hueco TR con ALL; longevidad 22 d y volumen 35 es piso) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API). La API solo devolvió títulos, sin el texto del creativo.
+
+**Señales del día ES (2026-11-27, mañana · A huella)**
+- Clara - Loncheras Saludables (1112878781915559): recetas para loncheras infantiles, CO ≥30/50 · ES ≥24/50, pero solo 2 tandas visibles (11 y 17-11): no pasa el filtro de zombis por API. Re-medir el 2026-12-01.
+- Diseñando Eventos (104933269211198): sigue firme, CO 14/17, 8 tandas, 72 d (imprimibles navideños, de egresados y calendarios de adviento). Ya fue señal el 25-11.
+- Darrit Store (657408760792590): cursos grabados de capricultura y piscicultura a $10.000 COP, CO 12/12, pero todo de una tanda del 22-07 y nada nuevo: posible zombi.
+- Instituto La Palabra (799374959915226): 26/26 en CO y ES, 275 d, ningún ad en 30 días y producto invisible (títulos «⭐ 4.8/5»): ver el snapshot 1651481915871346 en la PC.
+- Entrepedia (110261508293707): biblioteca con derechos de reventa a $97, CO 21/≥50: no es bajo ticket.
+- Claridad y Acción CO 50/50 · ES 50/50 (52 d) y la red Aprendia (Guías Paso a Paso Aprendia CO 10/12) siguen firmes: ya tienen tarjeta.
+
 ES 2026-11-26 (tarde · B perforar `oficios-digitales/guias-cricut/cricut-silhouette`): nada que pase la vara; se barrió guías de Cricut Design Space, Silhouette Studio, tablas de materiales/temperaturas, stickers imprimir-y-cortar, proyectos y plantillas, y otras máquinas (30 kw × CO/ES + ALL en 4 ceros).
 
 **Señales del día ES (2026-11-26, tarde · B perforar `cricut-silhouette`)**
