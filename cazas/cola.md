@@ -1017,6 +1017,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-28 06:38 | EN | C agenda (mañana) | — (operadores EN: re-mediciones vencidas y de la semana 28/11-04/12) | en curso | en curso | en curso |
 | 2026-11-28 06:36 | BR | A huella (mañana) | — (huella, BR) | en curso | en curso | en curso |
 | 2026-11-27 18:42 | ES | B perforar (tarde) | oficios-digitales/guias-cricut/archivos-svg-corte | 6 subnichos × 5 kw CO/ES (30, 60 consultas) + ALL en 6 ceros; ~35 páginas contadas (3 subagentes de lectura + re-conteo propio de Maku ES + 3 sondas sobre página) | 0 tarjetas, 6 señales | profundo, con 6 hijos superficial; 1 operador a seguir (Maku); 1 fila de trampas |
 | 2026-11-27 18:40 | EN | B perforar (tarde) | salud-profesional/atlas-esteticos | 6 subnichos × 5 kw US/GB (60 consultas) + ALL en 5 ceros + 2 sondas de destino con ALL (IT, MX); ~20 páginas contadas (3 subagentes de lectura + re-conteo propio de 3 + 4 búsquedas web + Trustpilot); `canastas-regalo-plantillas` salteado (EN lo re-midió el 26-11), `cosmetica-natural-recetas` salteado (ES lo tocó el 23 y el 26-11), virgen `plantillas-reclamos-veteranos` salteado (re-medición 30-11) | 1 tarjeta (Esthetician Mentorship), 7 señales | profundo, con 6 hijos superficial; 4 filas de operadores; 1 fila de trampas |
