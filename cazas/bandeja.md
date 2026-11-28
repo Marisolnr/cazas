@@ -820,6 +820,23 @@ EN 2026-11-09 (mañana): nada que pase la vara; se barrió workbook pdf, study g
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Ensine seu filho a participar do culto» (kit de actividades para que el niño acompañe el culto) — Pedagogia Com Cristo BR · `educacao/atividades-prontas-professores/datas-e-escola-dominical/devocional-culto-infantil` · 2026-11-28 · sesión BR
+- **Qué es:** kit de actividades para que los hijos participen del culto, sin distraerse. La misma página vende «Ensine disciplina usando a Bíblia» y acaba de lanzar «Organize sua vida». Sondas por página: `atividades` 12, `pdf` 0. El formato (imprimible o físico) y el precio no se ven por API.
+- **Por qué es ganador:** cohorte 7+/activos **14/18 en BR**, completa (re-conteo propio). La oferta del culto tiene **12 en cohorte con el mismo título**, en tandas del 07-11 (21 d) y del 14-11 (14 d), y no apagó nada. Hay 4 ads nuevos del 27-28/11 (operador vivo). Página de marca, sin cara. Cohorte joven: el ad más viejo tiene 21 d.
+- **Qué hacer:** modelar «tu hijo atento en la iglesia» como PDF de actividades por edad. Destino sugerido **México** (validado), con ángulo también para misa católica: con ALL, `niños culto` y `hijo culto` en MX son puro ruido, y entre lo útil hay dos operadores brasileños con material bíblico infantil general en español (Pequeños Discípulos, Missionária Flávia, ads de hoy). Ninguno usa el ángulo «culto», pero la ventana se está abriendo: entrar rápido. Portugal no se pudo medir (el control no filtró).
+- **Ads Library:** [BR · Pedagogia Com Cristo](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=207814182412958&search_type=page&media_type=all) · [21 d](https://www.facebook.com/ads/library/?id=1730560885311823) · [21 d](https://www.facebook.com/ads/library/?id=4553251564915161) · [14 d](https://www.facebook.com/ads/library/?id=4721190754806546)
+- **Landing:** embudo no verificado desde la nube (la API no da la URL). En la PC hay que verificar el formato (PDF o kit físico), el precio y la escalera.
+- Score 1/4 (12 ads con el mismo título; longevidad 21 d; volumen 14; hueco MX sin confirmar) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube (longevidad por API).
+
+**Señales del día BR (2026-11-28, mañana · huella)**
+- Mapas Visuais & ilustrados (1316538911539485): crece a ≥33/≥50 (151 est.; era ≥22 y 117 el 12-11), 73 ads con «pdf», títulos de solo estrellas: sigue sin verse qué vende. Verificar en la PC.
+- Packs & Moldes Pro (1227856100409706): 28/28 con «Manual do Eletricista Residencial» (93 d, USD), pero ningún ad nuevo en ~77 d: posible zombi.
+- Viamétodo (304927962710808): 20/≥50, dominado por la «Mesa Sistêmica 3D» (constelação online y presencial: objeto o servicio); los protocolos en PDF suman ~6.
+- Rota de Estudo (1387960597728034): 12/29 en dos productos; «+45 Defeitos de Pintura Automotiva» tiene 9 en cohorte (18 d). Re-medir 2026-12-05.
+- BookClassic (483238694882861): 9/16, ebooks de ocultismo («Os 72 Daemons»), 80 d y 7 fechas en cohorte: a 1 de la vara. Re-medir 2026-12-05.
+- Tudo sobre unhas ≥28/≥50 y BrinqueEdu 12/16: siguen como catálogo de 3 ads por producto; ninguna oferta llega a 10.
+
 ### 🎯 «Guia Anual – Sequências para o Ano Todo» (secuencias didácticas para todo el año, acceso vitalicio y pago único) — Alana Educa BR · `educacao/atividades-prontas-professores/planos-de-aula` → `sequencias-didaticas` · 2026-11-27 (tarde) · sesión BR
 - **Qué es:** guía anual de secuencias didácticas listas para profesoras de infantil y primeros años. Se vende con «acceso vitalicio, actualizaciones gratis, pago único». La misma marca vende la «Coleção Inglês na Rotina» (cards ilustrados) y «Recursos Lúdicos» para padres y profes. El precio no se ve por API; antes corrió un «50% OFF».
 - **Por qué es ganador:** cohorte 7+/activos **32/32 en BR**, completa (re-conteo propio). Está escalonado en 5 tandas: 30-10 (~14 ads, 28 d), 02-11 (~12), 10-11, 12-11 y 13-11. No apagó nada: todo lo que lanzó sigue vivo. Tiene 9 ads con el mismo título «acesso vitalício e pagamento único». Es una página de marca, sin cara, con dominio propio. El último ad es del 13-11, así que no hubo tanda en 14 días.

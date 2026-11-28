@@ -166,3 +166,5 @@
 ## [2026-11-27] caza-auto | ES B oficios-digitales/guias-cricut/archivos-svg-corte (tarde) → 0 candidatos a bandeja
 
 ## [2026-11-27] caza-auto | EN B salud-profesional/atlas-esteticos (tarde) → 1 candidatos a bandeja
+
+## [2026-11-28] caza-auto | BR A huella — → 1 candidatos a bandeja
