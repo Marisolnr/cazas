@@ -170,3 +170,4 @@
 ## [2026-11-28] caza-auto | BR A huella — → 1 candidatos a bandeja
 
 ## [2026-11-28] caza-auto | ES B oficios-digitales/guias-cricut/laser-cnc-archivos → 2 candidatos a bandeja
+## [2026-11-28] caza-auto | EN C agenda operadores-EN → 1 candidatos a bandeja

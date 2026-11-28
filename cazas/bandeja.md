@@ -26,6 +26,25 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Plantillas 1:1 de cerámica japonesa a mano («40+ Japanese Pottery Templates») — The Clay Blueprints GB · US · `manualidades/plantillas-ceramica` · 2026-11-28 · sesión EN
+- **Qué es:** un pack digital de más de 40 plantillas de papel a escala 1:1 para hacer cerámica japonesa a mano (con placas, sin torno), en GBP. Gancho dominante: «Stop Guessing. Start Building.». Esta semana sumó dos SKUs: «Ceramic Animals Without Designing From Scratch» y «Japanese Pottery Without Designing From Scratch». La API no muestra el precio.
+- **Por qué es ganador:** **≥20/50 en cohorte en GB** (77 estimados, re-conteo propio; piso, porque los ads más viejos no entran en los 50 visibles) y los mismos ads en US (80 estimados). El 26-11 eran ≥12. Tiene 8 o más fechas de creación seguidas (20 al 28-11, operador vivo) y «Stop Guessing. Start Building.» ×33 de 50. Sin persona. **El molde ya se clonó con el hook traducido** en PT, MX, FR, RO, HU e IT y en el anglo secundario (ClayAtlas, Pottery Atlas): la ventana se está cerrando.
+- **Qué hacer:** modelarlo tal cual como PDF imprimible de plantillas 1:1 (tazas, cuencos, platos, tapas que calzan), con el ángulo «basta de adivinar medidas: imprimí, recortá, armá». Destino sugerido **Grecia**: con ALL, `πρότυπα κεραμικής` en GR/CY no trae a nadie (una sola keyword, provisorio). Segunda opción **Polonia**: `szablony ceramika` solo trae un curso local y una página con el producto invisible. Entrar ya o no entrar.
+- **Ads Library:** [The Clay Blueprints GB](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1343302345522178&search_type=page&media_type=all) · [The Clay Blueprints US](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1343302345522178&search_type=page&media_type=all) · creativos: [2404238670411111](https://www.facebook.com/ads/library/?id=2404238670411111), [1455514350051964](https://www.facebook.com/ads/library/?id=1455514350051964)
+- **Landing:** embudo no verificado desde la nube (la API no trajo URL): verificar precio y formato en la PC antes de decidir.
+- Score 2/4 (③ «Stop Guessing. Start Building.» ×33 · ④ provisorio con GR en 0; ① ~30 d ② ≥20 visibles) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube.
+
+Señales del día EN (mañana, 2026-11-28; C agenda sobre ~75 operadores):
+- RMKLY (468755899654132): pasó la vara con 16/≥50 en US (108 estimados) con plantillas reMarkable («11,000+ Downloads» ×8 desde el 03-11, «Get your time back» ×8 desde el 28-09, 61 d), más 34 ads de Black Friday. Es el mismo producto que Methodyco (tarjeta del 24-11), que hoy relanzó todo y quedó en 0/50: refuerza ese nicho, no es tarjeta nueva.
+- Visual Skin Library (1405096586011507): 14/≥50 en US con «The Ultimate Skin Care Guide Library», pero toda la cohorte nació justo el 21-11. Re-medir el 2026-12-01.
+- Excelbychris (316333711567922): ≥35/≥50 en US con un solo título, «300 Excel Templates 95% OFF». En GB está apagado desde abril. La página lleva nombre de persona: verificar la cara en la PC.
+- Molde dry mix (Claudia Williams, tarjeta del 18-11): Graceshopfinds explotó a 389 activos con el título de Claudia, todos del 27-11. Mary Simmons y Darlene Fisk (Amish) no crean ads hace más de 30 días: posibles zombis.
+- Bienestar Consciente (453014791222606): 13/18 en US con el mismo PsychAtlas de Zentra Digital (tarjeta del 26-11). Es una segunda página del mismo SKU.
+- Apagados: Build The Past, Kinfold ×2, las tres páginas de capillas marianas y The Savvy Mama. The art of tarot rotó toda su cohorte (GB 0/31, US 0/50 de 222).
+- Stitch Well: 435 activos creados en un solo día (26-11), con cohorte en 0. Re-medir el 2026-12-03.
+- Smart Kitchen Lab: 11/21 en US y 11/28 en GB, pero el producto sigue invisible por API. ICE Box Shop: 19/19 en US con solo 3 fechas y formato sin ver (¿físico?).
+
 ### 🎯 Libro de estética facial para esteticistas principiantes («Become a More Confident Estie for just $89», ebook + impreso) — Esthetician Mentorship US · `salud-profesional/atlas-esteticos` → `papeleria-negocio-belleza` · 2026-11-27 (tarde) · sesión EN
 - **Qué es:** un libro de estética facial para esteticistas recién recibidas, a $89 (con variantes de $69,99), que se vende como ebook y como libro impreso. Ganchos: «Advance as an Estie», «Stop Guessing. Start Booking Clients.», «Trusted by 7000+ Estheticians». Las reseñas de Trustpilot lo llaman «Facial Esthetic Book» y «digital e book».
 - **Por qué es ganador:** **40/≥50 en US** (re-conteo propio, 64 estimados) con una sola oferta y el precio en el título. Tiene 8 tandas escalonadas entre el 22-10 y el 26-11, la última ayer. El ad más viejo tiene 36 días, pero el operador vende desde al menos mayo de 2025 (reseñas). Página de marca sin cara. En GB no pauta.
